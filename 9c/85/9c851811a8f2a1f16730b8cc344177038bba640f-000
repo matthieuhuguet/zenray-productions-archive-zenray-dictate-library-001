@@ -7,8 +7,8 @@
       "inserted": false,
       "modeID": "verbatim",
       "provider": "Gemini web dictation",
-      "rawText": "Bonjour, ceci est une v\u00e9rification de la dict\u00e9e Zenrai.",
-      "text": "Bonjour, ceci est une v\u00e9rification de la dict\u00e9e Zenrai."
+      "rawText": "Bonjour, ceci est une vérification de la dictée Zenrai.",
+      "text": "Bonjour, ceci est une vérification de la dictée Zenrai."
     },
     {
       "application": "Imported file",
@@ -17,8 +17,28 @@
       "inserted": false,
       "modeID": "clean",
       "provider": "Gemini web dictation",
-      "rawText": "Bonjour, ceci est une v\u00e9rification de la dict\u00e9e Zenrai.",
-      "text": "Bonjour, ceci est une v\u00e9rification de la dict\u00e9e Zenrai."
+      "rawText": "Bonjour, ceci est une vérification de la dictée Zenrai.",
+      "text": "Bonjour, ceci est une vérification de la dictée Zenrai."
+    },
+    {
+      "application": "ZenRayDictate composer",
+      "date": 812748467.486894,
+      "id": "BD4B0AB0-EAE3-4C6E-B2A1-EB96F6FC1C5E",
+      "inserted": true,
+      "modeID": "verbatim",
+      "provider": "Local Whisper",
+      "rawText": "Ok mais j'ai l'impression que ça marche pas",
+      "text": "Ok mais j'ai l'impression que ça marche pas"
+    },
+    {
+      "application": "Imported file",
+      "date": 812748471.058314,
+      "id": "9E7B98E6-40EC-4204-8F4D-51313A00C52D",
+      "inserted": false,
+      "modeID": "verbatim",
+      "provider": "Local Whisper",
+      "rawText": "So, let's go.",
+      "text": "So, let's go."
     }
   ],
   "modes": [
@@ -81,7 +101,7 @@
   ],
   "preferences": {
     "activeMode": "verbatim",
-    "allowLocalFallback": true,
+    "allowLocalFallback": false,
     "clipboardRestoreDelay": 0.6,
     "doublePressInterval": 0.35,
     "engine": "gemini",
