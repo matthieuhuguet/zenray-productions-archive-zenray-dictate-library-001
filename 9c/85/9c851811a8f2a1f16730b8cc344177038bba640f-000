@@ -199,6 +199,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Via ce contexte, je ne comprends pas forcément pourquoi ni comment l'immigration japonaise choisit au hasard de donner un ou trois ou cinq ans. Quels sont les critères d'évaluation ? Est-ce qu'il y a des grilles de manière très spécifique ? Est-ce que ça dépend du revenu ? Est-ce que ça dépend du statut social ? De quoi est-ce que ça dépend pour obtenir un visa au Japon ?",
       "text" : "Via ce contexte, je ne comprends pas forcément pourquoi ni comment l'immigration japonaise choisit au hasard de donner un ou trois ou cinq ans. Quels sont les critères d'évaluation ? Est-ce qu'il y a des grilles de manière très spécifique ? Est-ce que ça dépend du revenu ? Est-ce que ça dépend du statut social ? De quoi est-ce que ça dépend pour obtenir un visa au Japon ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812795984.773819,
+      "id" : "4441EEBE-720A-47CA-B0A2-554285767D99",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Du coup là, ça fonctionne.",
+      "text" : "Du coup là, ça fonctionne."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812795999.569964,
+      "id" : "64570E0E-0FEE-4ED5-8592-F0E868182484",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Par contre, il y a toujours un léger warm-up au début. Tu peux pas chauffer la voix directement et sinon ça marche pas. Et en soi, tu peux stacker énormément de texte, etc. C'est dingue.",
+      "text" : "Par contre, il y a toujours un léger warm-up au début. Tu peux pas chauffer la voix directement et sinon ça marche pas. Et en soi, tu peux stacker énormément de texte, etc. C'est dingue."
     }
   ],
   "modes" : [
