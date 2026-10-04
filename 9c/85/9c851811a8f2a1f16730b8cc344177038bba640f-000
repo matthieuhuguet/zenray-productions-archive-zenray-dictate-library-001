@@ -99,6 +99,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Bonjour, ceci est une vérification de la dictée Zenrai.",
       "text" : "Bonjour, ceci est une vérification de la dictée Zenrai."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812793957.335088,
+      "id" : "FB21724B-69F1-4777-A3FA-84BE67EA92A1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que ça fonctionne ?",
+      "text" : "Est-ce que ça fonctionne ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812793961.17016,
+      "id" : "AE94D511-179F-49CC-B079-683756C279A4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "OK, est-ce que ça fonctionne ?",
+      "text" : "OK, est-ce que ça fonctionne ?"
     }
   ],
   "modes" : [
