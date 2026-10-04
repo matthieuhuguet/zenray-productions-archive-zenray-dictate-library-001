@@ -1,127 +1,167 @@
 {
-  "history": [
+  "history" : [
     {
-      "application": "Imported file",
-      "date": 812741986.514196,
-      "id": "64B4F436-FC99-4AF3-9B4C-2041174E5C29",
-      "inserted": false,
-      "modeID": "verbatim",
-      "provider": "Gemini web dictation",
-      "rawText": "Bonjour, ceci est une vérification de la dictée Zenrai.",
-      "text": "Bonjour, ceci est une vérification de la dictée Zenrai."
+      "application" : "Imported file",
+      "date" : 812741986.514196,
+      "id" : "64B4F436-FC99-4AF3-9B4C-2041174E5C29",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini web dictation",
+      "rawText" : "Bonjour, ceci est une vérification de la dictée Zenrai.",
+      "text" : "Bonjour, ceci est une vérification de la dictée Zenrai."
     },
     {
-      "application": "Imported file",
-      "date": 812742120.60741,
-      "id": "421454F9-6433-41E9-8602-B149AFA4AD2C",
-      "inserted": false,
-      "modeID": "clean",
-      "provider": "Gemini web dictation",
-      "rawText": "Bonjour, ceci est une vérification de la dictée Zenrai.",
-      "text": "Bonjour, ceci est une vérification de la dictée Zenrai."
+      "application" : "Imported file",
+      "date" : 812742120.60741,
+      "id" : "421454F9-6433-41E9-8602-B149AFA4AD2C",
+      "inserted" : false,
+      "modeID" : "clean",
+      "provider" : "Gemini web dictation",
+      "rawText" : "Bonjour, ceci est une vérification de la dictée Zenrai.",
+      "text" : "Bonjour, ceci est une vérification de la dictée Zenrai."
     },
     {
-      "application": "ZenRayDictate composer",
-      "date": 812748467.486894,
-      "id": "BD4B0AB0-EAE3-4C6E-B2A1-EB96F6FC1C5E",
-      "inserted": true,
-      "modeID": "verbatim",
-      "provider": "Local Whisper",
-      "rawText": "Ok mais j'ai l'impression que ça marche pas",
-      "text": "Ok mais j'ai l'impression que ça marche pas"
+      "application" : "ZenRayDictate composer",
+      "date" : 812748467.486894,
+      "id" : "BD4B0AB0-EAE3-4C6E-B2A1-EB96F6FC1C5E",
+      "inserted" : true,
+      "modeID" : "verbatim",
+      "provider" : "Local Whisper",
+      "rawText" : "Ok mais j'ai l'impression que ça marche pas",
+      "text" : "Ok mais j'ai l'impression que ça marche pas"
     },
     {
-      "application": "Imported file",
-      "date": 812748471.058314,
-      "id": "9E7B98E6-40EC-4204-8F4D-51313A00C52D",
-      "inserted": false,
-      "modeID": "verbatim",
-      "provider": "Local Whisper",
-      "rawText": "So, let's go.",
-      "text": "So, let's go."
+      "application" : "Imported file",
+      "date" : 812748471.058314,
+      "id" : "9E7B98E6-40EC-4204-8F4D-51313A00C52D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Local Whisper",
+      "rawText" : "So, let's go.",
+      "text" : "So, let's go."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812791564.263474,
+      "id" : "B6C47352-B689-47C0-AC82-B91DCCB80F45",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Bonjour, ceci est une vérification de la dictée Zenrai.",
+      "text" : "Bonjour, ceci est une vérification de la dictée Zenrai."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812791691.734078,
+      "id" : "AE5F735B-9040-417E-8F41-BE655A811FFA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Elle a laissé son sac à marcher et pourtant je le vois pas.",
+      "text" : "Elle a laissé son sac à marcher et pourtant je le vois pas."
     }
   ],
-  "modes": [
+  "modes" : [
     {
-      "applications": [],
-      "id": "verbatim",
-      "name": "Verbatim",
-      "prompt": "",
-      "tone": "",
-      "useScreenContext": false
+      "applications" : [
+
+      ],
+      "id" : "verbatim",
+      "name" : "Verbatim",
+      "prompt" : "",
+      "tone" : "",
+      "useScreenContext" : false
     },
     {
-      "applications": [],
-      "id": "clean",
-      "name": "Clean dictation",
-      "prompt": "Remove hesitations and resolve spoken self-corrections. Preserve meaning and vocabulary. Add natural punctuation. Return only the corrected text.",
-      "tone": "",
-      "useScreenContext": false
+      "applications" : [
+
+      ],
+      "id" : "clean",
+      "name" : "Clean dictation",
+      "prompt" : "Remove hesitations and resolve spoken self-corrections. Preserve meaning and vocabulary. Add natural punctuation. Return only the corrected text.",
+      "tone" : "",
+      "useScreenContext" : false
     },
     {
-      "applications": [],
-      "id": "message",
-      "name": "Message",
-      "prompt": "Format the dictation as a natural short message. Preserve the speaker's style and all facts. Return only the message.",
-      "tone": "",
-      "useScreenContext": false
+      "applications" : [
+
+      ],
+      "id" : "message",
+      "name" : "Message",
+      "prompt" : "Format the dictation as a natural short message. Preserve the speaker's style and all facts. Return only the message.",
+      "tone" : "",
+      "useScreenContext" : false
     },
     {
-      "applications": [],
-      "id": "email",
-      "name": "Email",
-      "prompt": "Format the dictation as an email with paragraphs. Do not invent recipients, facts or a signature. Return only the email.",
-      "tone": "",
-      "useScreenContext": false
+      "applications" : [
+
+      ],
+      "id" : "email",
+      "name" : "Email",
+      "prompt" : "Format the dictation as an email with paragraphs. Do not invent recipients, facts or a signature. Return only the email.",
+      "tone" : "",
+      "useScreenContext" : false
     },
     {
-      "applications": [],
-      "id": "notes",
-      "name": "Notes",
-      "prompt": "Organize the dictation as concise notes, preserving every concrete detail. Return only the notes.",
-      "tone": "",
-      "useScreenContext": false
+      "applications" : [
+
+      ],
+      "id" : "notes",
+      "name" : "Notes",
+      "prompt" : "Organize the dictation as concise notes, preserving every concrete detail. Return only the notes.",
+      "tone" : "",
+      "useScreenContext" : false
     },
     {
-      "applications": [],
-      "id": "code",
-      "name": "Code",
-      "prompt": "Transcribe technical dictation precisely. Resolve camelCase, snake_case, acronyms and spoken punctuation. Preserve filenames and code. Return only the requested text.",
-      "tone": "",
-      "useScreenContext": false
+      "applications" : [
+
+      ],
+      "id" : "code",
+      "name" : "Code",
+      "prompt" : "Transcribe technical dictation precisely. Resolve camelCase, snake_case, acronyms and spoken punctuation. Preserve filenames and code. Return only the requested text.",
+      "tone" : "",
+      "useScreenContext" : false
     },
     {
-      "applications": [],
-      "id": "agent",
-      "name": "Agent prompt",
-      "prompt": "Structure this spoken task for a coding agent: objective, relevant files, constraints, acceptance checks. Do not invent details. Return only the task.",
-      "tone": "",
-      "useScreenContext": false
+      "applications" : [
+
+      ],
+      "id" : "agent",
+      "name" : "Agent prompt",
+      "prompt" : "Structure this spoken task for a coding agent: objective, relevant files, constraints, acceptance checks. Do not invent details. Return only the task.",
+      "tone" : "",
+      "useScreenContext" : false
     }
   ],
-  "preferences": {
-    "activeMode": "verbatim",
-    "allowLocalFallback": false,
-    "clipboardRestoreDelay": 0.6,
-    "doublePressInterval": 0.35,
-    "engine": "gemini",
-    "fnPushToTalk": true,
-    "keepAudio": false,
-    "keepHistory": true,
-    "language": "auto",
-    "learnVocabulary": false,
-    "localOnly": false,
-    "model": "Flash",
-    "parakeetExecutable": "/Users/zenray/.venvs/asr-ja/bin/parakeet-mlx",
-    "parakeetModel": "/Users/zenray/.cache/huggingface/hub/models--mlx-community--parakeet-tdt_ctc-0.6b-ja/snapshots/e3810190ff521dcd208bc444a71bf877f3864566",
-    "shortcutKeyCode": 2,
-    "shortcutModifiers": 4096,
-    "whisperExecutable": "/Users/zenray/.venvs/asr-ja/bin/mlx_whisper",
-    "whisperMode": false,
-    "whisperModel": "/Users/zenray/.cache/huggingface/hub/models--mlx-community--whisper-large-v3-turbo/snapshots/a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb"
+  "preferences" : {
+    "activeMode" : "verbatim",
+    "allowLocalFallback" : false,
+    "clipboardRestoreDelay" : 0.6,
+    "doublePressInterval" : 0.35,
+    "engine" : "gemini",
+    "fnPushToTalk" : true,
+    "keepAudio" : false,
+    "keepHistory" : true,
+    "language" : "auto",
+    "learnVocabulary" : false,
+    "localOnly" : false,
+    "model" : "Flash",
+    "parakeetExecutable" : "\/Users\/zenray\/.venvs\/asr-ja\/bin\/parakeet-mlx",
+    "parakeetModel" : "\/Users\/zenray\/.cache\/huggingface\/hub\/models--mlx-community--parakeet-tdt_ctc-0.6b-ja\/snapshots\/e3810190ff521dcd208bc444a71bf877f3864566",
+    "shortcutKeyCode" : 2,
+    "shortcutModifiers" : 4096,
+    "whisperExecutable" : "\/Users\/zenray\/.venvs\/asr-ja\/bin\/mlx_whisper",
+    "whisperMode" : false,
+    "whisperModel" : "\/Users\/zenray\/.cache\/huggingface\/hub\/models--mlx-community--whisper-large-v3-turbo\/snapshots\/a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb"
   },
-  "replacements": [],
-  "schemaVersion": 1,
-  "snippets": [],
-  "vocabulary": []
+  "replacements" : [
+
+  ],
+  "schemaVersion" : 1,
+  "snippets" : [
+
+  ],
+  "vocabulary" : [
+
+  ]
 }
