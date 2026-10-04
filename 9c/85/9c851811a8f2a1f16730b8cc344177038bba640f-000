@@ -229,6 +229,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "les quatre vues 3D en règle générale quand on veut reproduire un concept",
       "text" : "les quatre vues 3D en règle générale quand on veut reproduire un concept"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812804272.306548,
+      "id" : "7AD5C26D-7914-4888-A43A-228126243917",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Alors sur les quatre vues, crée une légère encoche qui permet à l'eau de s'écouler depuis le carré le plus haut vers le carré principal. Mais crée l'encoche de manière non symétrique.",
+      "text" : "Alors sur les quatre vues, crée une légère encoche qui permet à l'eau de s'écouler depuis le carré le plus haut vers le carré principal. Mais crée l'encoche de manière non symétrique."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812804312.022541,
+      "id" : "5EDE4814-31A0-4145-94F8-99E25FDF7F10",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'aimerais faire la même chose par rapport à la En fait, ensuite, j'aimerais juste que tu me donnes le modèle de gris sans la texture du coup. Les modèles de gris sur les quatre vues pareil.",
+      "text" : "J'aimerais faire la même chose par rapport à la En fait, ensuite, j'aimerais juste que tu me donnes le modèle de gris sans la texture du coup. Les modèles de gris sur les quatre vues pareil."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812804325.466586,
+      "id" : "B8123963-FDEE-40BD-BC29-50FA5434BDC1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Exactement avec la même vue qu'on peut voir dans Houdini ou dans Maya. C'est juste sans le",
+      "text" : "Exactement avec la même vue qu'on peut voir dans Houdini ou dans Maya. C'est juste sans le"
     }
   ],
   "modes" : [
