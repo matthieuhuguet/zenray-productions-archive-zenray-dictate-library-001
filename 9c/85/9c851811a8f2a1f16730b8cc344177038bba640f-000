@@ -89,6 +89,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "OK. Très bien.",
       "text" : "OK. Très bien."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812792595.053244,
+      "id" : "6EC06020-BCEF-4E7B-9307-C796CCE71BF4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Bonjour, ceci est une vérification de la dictée Zenrai.",
+      "text" : "Bonjour, ceci est une vérification de la dictée Zenrai."
     }
   ],
   "modes" : [
