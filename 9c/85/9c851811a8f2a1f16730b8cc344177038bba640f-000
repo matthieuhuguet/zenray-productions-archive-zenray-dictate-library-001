@@ -119,6 +119,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "OK, est-ce que ça fonctionne ?",
       "text" : "OK, est-ce que ça fonctionne ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812794018.359203,
+      "id" : "E6404AD2-E415-4FF1-BBF0-9228F86D57FB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que ça fonctionne et si je fais ça, est-ce que ça stop ? Ouais, c'est exactement le même problème. Par contre, ouais non. Bizarre parce que",
+      "text" : "Est-ce que ça fonctionne et si je fais ça, est-ce que ça stop ? Ouais, c'est exactement le même problème. Par contre, ouais non. Bizarre parce que"
     }
   ],
   "modes" : [
