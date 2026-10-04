@@ -59,6 +59,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Elle a laissé son sac à marcher et pourtant je le vois pas.",
       "text" : "Elle a laissé son sac à marcher et pourtant je le vois pas."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812791895.357654,
+      "id" : "53CF8A33-AFD7-4E5B-9E5F-439EF339BA37",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Bonjour, ceci est une vérification de la dictée Zenrai.",
+      "text" : "Bonjour, ceci est une vérification de la dictée Zenrai."
     }
   ],
   "modes" : [
