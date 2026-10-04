@@ -339,6 +339,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Pour toujours.",
       "text" : "Pour toujours."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812808317.228256,
+      "id" : "C554A0FA-9546-4C8C-AE04-50AF95422D33",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "On va voir ce que ça fonctionne là.",
+      "text" : "On va voir ce que ça fonctionne là."
     }
   ],
   "modes" : [
