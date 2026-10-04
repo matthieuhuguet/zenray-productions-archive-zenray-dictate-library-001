@@ -299,6 +299,46 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ça fait 1h30 que tu travailles sur un truc qui aurait dû prendre une minute. Je comprends absolument pas pourquoi ça",
       "text" : "Ça fait 1h30 que tu travailles sur un truc qui aurait dû prendre une minute. Je comprends absolument pas pourquoi ça"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812807557.629378,
+      "id" : "158A9A65-EA9C-4800-9D80-94D5B0C4AC51",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ok, est-ce que ça fonctionne ?",
+      "text" : "Ok, est-ce que ça fonctionne ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812807569.097598,
+      "id" : "04AB578A-6B41-4D53-9B3E-D633CFFCB065",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est dingue, ça marche vraiment bien. C'était quoi le bug que j'avais ? Ah oui, c'est que ça",
+      "text" : "C'est dingue, ça marche vraiment bien. C'était quoi le bug que j'avais ? Ah oui, c'est que ça"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812807579.081544,
+      "id" : "182F6FED-5C9E-43D8-AFC7-07509CC3640C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ça, c'est marché. Et là, ça marche pour",
+      "text" : "Ça, c'est marché. Et là, ça marche pour"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812807586.234506,
+      "id" : "7BE56CAA-735B-4BB6-A5AD-C6A765F9E581",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pour toujours.",
+      "text" : "Pour toujours."
     }
   ],
   "modes" : [
