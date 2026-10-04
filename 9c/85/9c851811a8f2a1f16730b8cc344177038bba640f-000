@@ -149,6 +149,46 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ça fonctionne parfaitement. C'est trop bien, c'est trop cool, j'aime trop. Après, je me pose la question si vraiment à droite c'est vraiment le meilleur truc, mais je pense que c'est pas mal.",
       "text" : "Ça fonctionne parfaitement. C'est trop bien, c'est trop cool, j'aime trop. Après, je me pose la question si vraiment à droite c'est vraiment le meilleur truc, mais je pense que c'est pas mal."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812794956.836854,
+      "id" : "B67BDEA0-14F4-4925-872B-03F08157A78E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "香香香香香。",
+      "text" : "香香香香香。"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812795091.988534,
+      "id" : "F51E28A5-8E99-4CBF-8D95-9513A2F22014",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Bonjour, ceci est une vérification de la dictée Zenrai.",
+      "text" : "Bonjour, ceci est une vérification de la dictée Zenrai."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812795376.469675,
+      "id" : "6920427D-74B9-4F7A-B1A0-D255F0304356",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Bon du coup là ça fonctionne mais je comprends pas pourquoi il me redemande de à chaque fois que je fais un nouveau prompt. Je comprends pas pourquoi il veut que je fasse le truc. En tout cas c'est beaucoup plus rapide que n'importe quoi, c'est incroyable ce truc.",
+      "text" : "Bon du coup là ça fonctionne mais je comprends pas pourquoi il me redemande de à chaque fois que je fais un nouveau prompt. Je comprends pas pourquoi il veut que je fasse le truc. En tout cas c'est beaucoup plus rapide que n'importe quoi, c'est incroyable ce truc."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812795539.204651,
+      "id" : "F1B093D0-61F5-4137-83E6-F44D05C5A7FE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'ai entendu quelqu'un dire que le mariage au Japon ne suffisait pas pour obtenir un visa permanent et qu'on obtenait un visa que d'un an et que de toute manière, il fallait renouveler le visa. Mais est-ce que c'est vrai ou est-ce que c'est pas forcément le cas ? Je trouve ça bizarre de devoir renouveler son propre visa alors qu'on est marié au Japon. Je trouve ça très très chelou.",
+      "text" : "J'ai entendu quelqu'un dire que le mariage au Japon ne suffisait pas pour obtenir un visa permanent et qu'on obtenait un visa que d'un an et que de toute manière, il fallait renouveler le visa. Mais est-ce que c'est vrai ou est-ce que c'est pas forcément le cas ? Je trouve ça bizarre de devoir renouveler son propre visa alors qu'on est marié au Japon. Je trouve ça très très chelou."
     }
   ],
   "modes" : [
