@@ -219,6 +219,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Par contre, il y a toujours un léger warm-up au début. Tu peux pas chauffer la voix directement et sinon ça marche pas. Et en soi, tu peux stacker énormément de texte, etc. C'est dingue.",
       "text" : "Par contre, il y a toujours un léger warm-up au début. Tu peux pas chauffer la voix directement et sinon ça marche pas. Et en soi, tu peux stacker énormément de texte, etc. C'est dingue."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812803554.342347,
+      "id" : "E79D93D6-F22C-43C0-9753-D37B719CE409",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "les quatre vues 3D en règle générale quand on veut reproduire un concept",
+      "text" : "les quatre vues 3D en règle générale quand on veut reproduire un concept"
     }
   ],
   "modes" : [
