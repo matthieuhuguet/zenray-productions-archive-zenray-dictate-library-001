@@ -129,6 +129,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Est-ce que ça fonctionne et si je fais ça, est-ce que ça stop ? Ouais, c'est exactement le même problème. Par contre, ouais non. Bizarre parce que",
       "text" : "Est-ce que ça fonctionne et si je fais ça, est-ce que ça stop ? Ouais, c'est exactement le même problème. Par contre, ouais non. Bizarre parce que"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812794841.85247,
+      "id" : "F4277E1E-8EA7-45A5-A970-6E655F5365F2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'ai l'impression que ça fonctionne, mais ça fait un petit warm-up.",
+      "text" : "J'ai l'impression que ça fonctionne, mais ça fait un petit warm-up."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812794866.028842,
+      "id" : "C438864A-DC04-4427-8B46-3FCCA268E83E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ça fonctionne parfaitement. C'est trop bien, c'est trop cool, j'aime trop. Après, je me pose la question si vraiment à droite c'est vraiment le meilleur truc, mais je pense que c'est pas mal.",
+      "text" : "Ça fonctionne parfaitement. C'est trop bien, c'est trop cool, j'aime trop. Après, je me pose la question si vraiment à droite c'est vraiment le meilleur truc, mais je pense que c'est pas mal."
     }
   ],
   "modes" : [
