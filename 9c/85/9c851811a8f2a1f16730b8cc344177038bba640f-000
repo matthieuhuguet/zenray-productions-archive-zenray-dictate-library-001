@@ -69,6 +69,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Bonjour, ceci est une vérification de la dictée Zenrai.",
       "text" : "Bonjour, ceci est une vérification de la dictée Zenrai."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812792314.453251,
+      "id" : "37B4CC63-FAD4-433A-90B6-4ADF06540061",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc là, c'est censé fonctionner. J'ai actuellement devant moi un bol de poulet avec des tomates, des oignons et des pâtes.",
+      "text" : "Donc là, c'est censé fonctionner. J'ai actuellement devant moi un bol de poulet avec des tomates, des oignons et des pâtes."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812792332.591827,
+      "id" : "8D399DD2-F1F4-4832-96C3-E93BD1394659",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "OK. Très bien.",
+      "text" : "OK. Très bien."
     }
   ],
   "modes" : [
