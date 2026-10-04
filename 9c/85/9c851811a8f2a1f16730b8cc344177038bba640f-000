@@ -259,6 +259,46 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Exactement avec la même vue qu'on peut voir dans Houdini ou dans Maya. C'est juste sans le",
       "text" : "Exactement avec la même vue qu'on peut voir dans Houdini ou dans Maya. C'est juste sans le"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812806988.864433,
+      "id" : "68DC35A9-4C2F-4315-82A9-628E9DB78B95",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais pourquoi est-ce que ça demande multi-sheet à chaque fois que je veux faire une texture ? C'est bizarre et c'est",
+      "text" : "Mais pourquoi est-ce que ça demande multi-sheet à chaque fois que je veux faire une texture ? C'est bizarre et c'est"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812807014.301818,
+      "id" : "CF2F92A2-8197-4D24-A8DC-0A2779D35EEE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'ai un problème sur Gemini, c'est que à chaque fois que je lance un prompt en soi, il me redemande l'accès au micro. J'aimerais corriger rapidement ce problème.",
+      "text" : "J'ai un problème sur Gemini, c'est que à chaque fois que je lance un prompt en soi, il me redemande l'accès au micro. J'aimerais corriger rapidement ce problème."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812807035.573293,
+      "id" : "64B164DE-226C-499A-96D9-5C5FD666C19C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Peut plus jamais avoir à le refaire.",
+      "text" : "Peut plus jamais avoir à le refaire."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812807103.566225,
+      "id" : "86F88D18-29AC-4940-ABF2-AF1F62A22443",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ça fait 1h30 que tu travailles sur un truc qui aurait dû prendre une minute. Je comprends absolument pas pourquoi ça",
+      "text" : "Ça fait 1h30 que tu travailles sur un truc qui aurait dû prendre une minute. Je comprends absolument pas pourquoi ça"
     }
   ],
   "modes" : [
