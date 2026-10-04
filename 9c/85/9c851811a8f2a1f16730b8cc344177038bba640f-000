@@ -349,6 +349,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "On va voir ce que ça fonctionne là.",
       "text" : "On va voir ce que ça fonctionne là."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812825126.094116,
+      "id" : "4467A7B0-90DF-47E8-965F-C3CA104B006C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je trouve ça quand même incroyable tous les boomers français qui font que répéter que la démographie va s'effondrer, alors que c'est un pur instrument politique du gouvernement et que, en fait, la natalité, elle va pas du tout s'effondrer sur Terre. C'est juste certaines catégories de population qui vont perdre en natalité. Alors, c'est peut-être une mauvaise chose, mais c'est juste faux de dire qu'il va y avoir de moins en moins d'humains sur Terre.",
+      "text" : "Je trouve ça quand même incroyable tous les boomers français qui font que répéter que la démographie va s'effondrer, alors que c'est un pur instrument politique du gouvernement et que, en fait, la natalité, elle va pas du tout s'effondrer sur Terre. C'est juste certaines catégories de population qui vont perdre en natalité. Alors, c'est peut-être une mauvaise chose, mais c'est juste faux de dire qu'il va y avoir de moins en moins d'humains sur Terre."
     }
   ],
   "modes" : [
