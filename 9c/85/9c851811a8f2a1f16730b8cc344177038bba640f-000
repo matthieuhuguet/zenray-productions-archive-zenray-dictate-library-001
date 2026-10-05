@@ -479,6 +479,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Est-ce que c'est bon du coup ?",
       "text" : "Est-ce que c'est bon du coup ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812886650.678343,
+      "id" : "88D0C5B8-5C3F-4BF6-96A5-35FBC07B8524",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "On va passer au graphe Copernicus. Je vais te donner la height à reproduire et tu vas définir la trim sheet directement sur la height que je vais te donner. Et ainsi, tu le plug sur le base color, comme ça je peux voir dès maintenant la height. Et ensuite, depuis la height, tu généreras directement la base color.",
+      "text" : "On va passer au graphe Copernicus. Je vais te donner la height à reproduire et tu vas définir la trim sheet directement sur la height que je vais te donner. Et ainsi, tu le plug sur le base color, comme ça je peux voir dès maintenant la height. Et ensuite, depuis la height, tu généreras directement la base color."
     }
   ],
   "modes" : [
