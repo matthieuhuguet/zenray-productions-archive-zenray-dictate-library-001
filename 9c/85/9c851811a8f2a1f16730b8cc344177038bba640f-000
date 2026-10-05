@@ -669,6 +669,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Du coup, l'intérêt d'avoir trois pétales, c'est justement de pouvoir faire des variations. Donc en fait, ce que j'aimerais faire, c'est avoir un pétale complètement différent.",
       "text" : "Du coup, l'intérêt d'avoir trois pétales, c'est justement de pouvoir faire des variations. Donc en fait, ce que j'aimerais faire, c'est avoir un pétale complètement différent."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812935972.59709,
+      "id" : "F78F7465-8AD1-4180-B5B4-E7AFDA5A56A5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et enfin, tu peux faire une vraie variation de rose avec un blanc rose, un rose plus milieu et un rose encore plus développé. En fait, si tu mets la fleur rouge, tu as déjà trois variations de rose qui sont assez intéressantes.",
+      "text" : "Et enfin, tu peux faire une vraie variation de rose avec un blanc rose, un rose plus milieu et un rose encore plus développé. En fait, si tu mets la fleur rouge, tu as déjà trois variations de rose qui sont assez intéressantes."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812936007.027612,
+      "id" : "62F7D1E0-34DF-432C-86D8-7C162EF25322",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, ce qu'il faudrait, c'est trois pétales qui ont un rose différent. Donc c'est-à-dire un blanc rose, un rose et un rose qui va vraiment le foncé ou le fuchsia.",
+      "text" : "En fait, ce qu'il faudrait, c'est trois pétales qui ont un rose différent. Donc c'est-à-dire un blanc rose, un rose et un rose qui va vraiment le foncé ou le fuchsia."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812936194.989604,
+      "id" : "8A50F494-6F18-4A5F-93B1-0B6F50186F1E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ça ne fonctionne pas du tout parce que ce que tu oublies, c'est qu'il y a un dégradé par rapport à l'extérieur, dans le sens où l'extérieur de la fleur, elle est toujours blanche et l'intérieur, il est chargé en couleur. Et ça fait que même tes couleurs, tu ne les maîtrises pas du tout, alors que je t'ai pourtant donné une image que tu aurais dû utiliser en termes de référence. Alors après, je peux te la redonner et la save, mais ce qu'il faut, c'est que tu comprennes qu'il y a vraiment un dégradé qui fait que le contour du pétale est quasi toujours blanc.",
+      "text" : "Ça ne fonctionne pas du tout parce que ce que tu oublies, c'est qu'il y a un dégradé par rapport à l'extérieur, dans le sens où l'extérieur de la fleur, elle est toujours blanche et l'intérieur, il est chargé en couleur. Et ça fait que même tes couleurs, tu ne les maîtrises pas du tout, alors que je t'ai pourtant donné une image que tu aurais dû utiliser en termes de référence. Alors après, je peux te la redonner et la save, mais ce qu'il faut, c'est que tu comprennes qu'il y a vraiment un dégradé qui fait que le contour du pétale est quasi toujours blanc."
     }
   ],
   "modes" : [
