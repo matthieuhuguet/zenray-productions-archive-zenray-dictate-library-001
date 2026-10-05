@@ -449,6 +449,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ce sera dans la même scène au dîner.",
       "text" : "Ce sera dans la même scène au dîner."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812882328.780868,
+      "id" : "8B62102F-4EBB-41BA-92BA-B547BC7220FA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est bon là.",
+      "text" : "C'est bon là."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812882334.264962,
+      "id" : "9C60B308-B69B-4D12-8ABC-CC6850A297C0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ça va être bon.",
+      "text" : "Ça va être bon."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812882345.157059,
+      "id" : "EE8D8A0D-5377-41F4-B92B-2652BE508DF3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que c'est bon du coup ?",
+      "text" : "Est-ce que c'est bon du coup ?"
     }
   ],
   "modes" : [
