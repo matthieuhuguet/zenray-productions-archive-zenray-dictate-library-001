@@ -499,6 +499,106 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Nouvelle règle, en fait, c'est si tu fais plus de 64 itérations pour faire à peu près la même chose sans faire de modifications drastiques, donc ce qui contredit un peu avec la règle des deux passes de 64, c'est-à-dire la règle des deux passes de 64 sur le graphique Copernicus, c'est d'ajouter des détails très rapidement et de faire des variations. Mais là, en fait, tu es dans un truc qui est quasiment interdit en terme de workflow, c'est-à-dire que tu fais de très très légères modifications tout en prenant énormément de compute, ce qui fait que c'est pas idéal du tout pour avancer et tu me fais perdre du temps. Donc en fait, il vaudrait mieux faire plusieurs variations d'un truc et y arriver à un résultat et itérer rapidement plutôt que de faire des toutes petites variations et on voit quasiment pas la différence et en plus, ça c'est un problème qui aurait pu être résolu par la texture. Donc en fait, si tu trouves pas la variation par toi-même en itérant pour arriver au résultat, je pense qu'il faut que tu arrêtes de toi-même le workflow et que tu proposes une nouvelle solution en arrêtant la boucle ou en continuant la boucle mais en modifiant toi-même les choses parce que là, tu me fais perdre du temps. Donc ce que tu vas faire, c'est que tu vas continuer cette nouvelle indication dans le skill et tu vas changer de workflow pour faire l'arbre alors qu'il y a déjà tout ce qu'il faut. Tu as à la fois les quatre vues que tu peux transformer en masque, tu peux isoler chaque partie via des components différents. Tu peux commencer à faire des height par rapport aux textures. J'aimerais aussi qu'on puisse mettre trois matériaux qu'on va blend alors potentiellement via un masque, en fait. On va utiliser un masque et le masque jouera sur l'intensité du matériau pour avoir un blend entre les deux sans passer par un material layer sur Unreal Engine parce que je veux le faire directement sur Houdini et avoir le résultat Copernicus directement sur mon graph. Je pense que c'est possible, dis-moi d'ailleurs si c'est pas possible. Et comme ça là, on finit l'arbre. Et en fait, il y a un autre truc que je t'ai pas dit, c'est que je voulais certes que tu mettes du point vex pour aller chercher le creux de l'arbre, mais il faut bien que tu aies en tête que chaque itération, en fait, se jouera",
       "text" : "Nouvelle règle, en fait, c'est si tu fais plus de 64 itérations pour faire à peu près la même chose sans faire de modifications drastiques, donc ce qui contredit un peu avec la règle des deux passes de 64, c'est-à-dire la règle des deux passes de 64 sur le graphique Copernicus, c'est d'ajouter des détails très rapidement et de faire des variations. Mais là, en fait, tu es dans un truc qui est quasiment interdit en terme de workflow, c'est-à-dire que tu fais de très très légères modifications tout en prenant énormément de compute, ce qui fait que c'est pas idéal du tout pour avancer et tu me fais perdre du temps. Donc en fait, il vaudrait mieux faire plusieurs variations d'un truc et y arriver à un résultat et itérer rapidement plutôt que de faire des toutes petites variations et on voit quasiment pas la différence et en plus, ça c'est un problème qui aurait pu être résolu par la texture. Donc en fait, si tu trouves pas la variation par toi-même en itérant pour arriver au résultat, je pense qu'il faut que tu arrêtes de toi-même le workflow et que tu proposes une nouvelle solution en arrêtant la boucle ou en continuant la boucle mais en modifiant toi-même les choses parce que là, tu me fais perdre du temps. Donc ce que tu vas faire, c'est que tu vas continuer cette nouvelle indication dans le skill et tu vas changer de workflow pour faire l'arbre alors qu'il y a déjà tout ce qu'il faut. Tu as à la fois les quatre vues que tu peux transformer en masque, tu peux isoler chaque partie via des components différents. Tu peux commencer à faire des height par rapport aux textures. J'aimerais aussi qu'on puisse mettre trois matériaux qu'on va blend alors potentiellement via un masque, en fait. On va utiliser un masque et le masque jouera sur l'intensité du matériau pour avoir un blend entre les deux sans passer par un material layer sur Unreal Engine parce que je veux le faire directement sur Houdini et avoir le résultat Copernicus directement sur mon graph. Je pense que c'est possible, dis-moi d'ailleurs si c'est pas possible. Et comme ça là, on finit l'arbre. Et en fait, il y a un autre truc que je t'ai pas dit, c'est que je voulais certes que tu mettes du point vex pour aller chercher le creux de l'arbre, mais il faut bien que tu aies en tête que chaque itération, en fait, se jouera"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812931357.724746,
+      "id" : "0FF9B98C-DCDD-4433-8C6A-11A3376475DA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Matériaux de fleurs, notamment lorsqu'on utilise une trim sheet. Je me demande quelles sont les choses qui sont à mapper. C'est un matériau de fleurs ou de végétation dans Unreal Engine ou dans Marmoset. Déjà, comment tu actives la transparence et quelles sont les maps les plus importantes à avoir pour éclairer de manière PBR ce matériau ?",
+      "text" : "Matériaux de fleurs, notamment lorsqu'on utilise une trim sheet. Je me demande quelles sont les choses qui sont à mapper. C'est un matériau de fleurs ou de végétation dans Unreal Engine ou dans Marmoset. Déjà, comment tu actives la transparence et quelles sont les maps les plus importantes à avoir pour éclairer de manière PBR ce matériau ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812932137.989851,
+      "id" : "A1AFCCC6-E34B-4332-A32F-521CD3D4434D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Non, c'est bon, s'il te plaît.",
+      "text" : "Non, c'est bon, s'il te plaît."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812932144.501656,
+      "id" : "65619CEA-720E-4E0D-B127-5D86E2CFBE93",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Nous gardons mes mots au maximum, s'il te plaît.",
+      "text" : "Nous gardons mes mots au maximum, s'il te plaît."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812932711.752148,
+      "id" : "750B7E82-CB8F-42B1-B706-FA9EBF340F3B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il y a en fait deux erreurs majeures et d'ailleurs elles sont visibles sur la height map aussi. Et en fait, c'est très simple à comprendre, c'est que le pli interne, si tu prends la bande zéro, le pli interne ne devrait pas exister, ce qui fait que les pétales ressortent de manière assez moche finalement et que on n'a pas la map d'opacity qui permet de vraiment afficher dans Karma XPU ou CPU la transparence qui découperait parfaitement les pétales. Donc on a ces deux problèmes et on a un espèce de pli à l'intérieur qui devrait pas être affiché. Enfin plutôt, il devrait être affiché plus proche mais pas être comme il l'est actuellement. Et ensuite, on a un deuxième problème que je vais essayer de retrouver. Alors c'est peut-être un problème d'UV. Je crois que c'est la dernière map. Oui, je crois que c'est la dernière map. En fait, encore pareil, elle est pas parfaitement affichée. Mais c'est peut-être un problème d'UV encore une fois. Mais normalement tu peux voir via le screen que je t'ai envoyé directement le problème. En fait, si tu veux, il aurait pas dû y avoir un espèce de pli sur les pétales en fait. En fait, il faut supprimer le pli interne sur la bande zéro et ensuite sur la dernière bande qui représente un peu les bourgeons de lys, donc les bourgeons non ouverts de lys. Là, il y a un autre problème, c'est que je vais essayer de déterminer toutes les maps. Donc je vois le problème. Ouais, c'est que en fait le dernier bourjondelys, il est pas du tout pareil que la référence de la height. Pour le coup, la référence de la height était vraiment pas mal. Et enfin, il y a un autre problème, c'est que en fait entre le pétale et la transition de la fleur, en fait, il aurait dû y avoir une transition beaucoup plus douce en termes de en fait, si tu veux, les deux parties qui sont roses en termes de height, elles auraient dû se coller pour être totalement transitionnées. Et donc il aurait dû y avoir par exemple que trois pétales pareil, tu vois. Et je pense que sur la bande zéro, les pétales de derrière, tu peux les faire disparaître. Mais par contre, il faut que le motif du pétale de la bande zéro du coup il soit beaucoup plus harmonisé. De toute manière, on va modifier",
+      "text" : "Il y a en fait deux erreurs majeures et d'ailleurs elles sont visibles sur la height map aussi. Et en fait, c'est très simple à comprendre, c'est que le pli interne, si tu prends la bande zéro, le pli interne ne devrait pas exister, ce qui fait que les pétales ressortent de manière assez moche finalement et que on n'a pas la map d'opacity qui permet de vraiment afficher dans Karma XPU ou CPU la transparence qui découperait parfaitement les pétales. Donc on a ces deux problèmes et on a un espèce de pli à l'intérieur qui devrait pas être affiché. Enfin plutôt, il devrait être affiché plus proche mais pas être comme il l'est actuellement. Et ensuite, on a un deuxième problème que je vais essayer de retrouver. Alors c'est peut-être un problème d'UV. Je crois que c'est la dernière map. Oui, je crois que c'est la dernière map. En fait, encore pareil, elle est pas parfaitement affichée. Mais c'est peut-être un problème d'UV encore une fois. Mais normalement tu peux voir via le screen que je t'ai envoyé directement le problème. En fait, si tu veux, il aurait pas dû y avoir un espèce de pli sur les pétales en fait. En fait, il faut supprimer le pli interne sur la bande zéro et ensuite sur la dernière bande qui représente un peu les bourgeons de lys, donc les bourgeons non ouverts de lys. Là, il y a un autre problème, c'est que je vais essayer de déterminer toutes les maps. Donc je vois le problème. Ouais, c'est que en fait le dernier bourjondelys, il est pas du tout pareil que la référence de la height. Pour le coup, la référence de la height était vraiment pas mal. Et enfin, il y a un autre problème, c'est que en fait entre le pétale et la transition de la fleur, en fait, il aurait dû y avoir une transition beaucoup plus douce en termes de en fait, si tu veux, les deux parties qui sont roses en termes de height, elles auraient dû se coller pour être totalement transitionnées. Et donc il aurait dû y avoir par exemple que trois pétales pareil, tu vois. Et je pense que sur la bande zéro, les pétales de derrière, tu peux les faire disparaître. Mais par contre, il faut que le motif du pétale de la bande zéro du coup il soit beaucoup plus harmonisé. De toute manière, on va modifier"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812933212.61932,
+      "id" : "4B2F1C04-3636-4021-B9FF-647C7F5CC583",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Quel est l'intérêt de faire une triptyque dans ce genre étant donné que c'est trois fois le même motif ?",
+      "text" : "Quel est l'intérêt de faire une triptyque dans ce genre étant donné que c'est trois fois le même motif ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812933300.480055,
+      "id" : "8FCBFEFF-E238-42E7-A472-59BEFBDA1D7A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, ce que je veux, c'est que tu alignes les pétales avec le truc du bas, mais de manière alignée. Tu vois bien qu'il y a trois pétales et qu'ensuite il y a trois trucs qui sont alignés. Alors, je sais que ça aura pas de grande importance parce que c'est pas relié en termes d'UV de la même manière, mais au moins il y aura une transition et c'est très très bien que tu mets un blend de type smooth entre les deux, mais sauf que c'est pas suffisant là.",
+      "text" : "En fait, ce que je veux, c'est que tu alignes les pétales avec le truc du bas, mais de manière alignée. Tu vois bien qu'il y a trois pétales et qu'ensuite il y a trois trucs qui sont alignés. Alors, je sais que ça aura pas de grande importance parce que c'est pas relié en termes d'UV de la même manière, mais au moins il y aura une transition et c'est très très bien que tu mets un blend de type smooth entre les deux, mais sauf que c'est pas suffisant là."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812933339.052438,
+      "id" : "03AC38FC-0BC8-4CBB-B29B-2149C3666B14",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu vois bien que c'est pas le cas.",
+      "text" : "Tu vois bien que c'est pas le cas."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812933504.711818,
+      "id" : "4B5BAE1A-715E-42E0-BA78-07B00700FF5F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Putain mais, pourquoi c'est chiant genre ?",
+      "text" : "Putain mais, pourquoi c'est chiant genre ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812933538.880054,
+      "id" : "2398CF6D-207D-47D4-A3C6-A3151B791775",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "On est bien d'accord que tu as enregistré chaque itération depuis le début via le skill Zenrai Houdini en local, parce que sinon ça va être critique. Je t'avais dit de chaque itération Copernicus via Claude ou via Codex ou via Gemini de enregistrer une image pour avoir la progression, mais est-ce que tu l'as bien fait ?",
+      "text" : "On est bien d'accord que tu as enregistré chaque itération depuis le début via le skill Zenrai Houdini en local, parce que sinon ça va être critique. Je t'avais dit de chaque itération Copernicus via Claude ou via Codex ou via Gemini de enregistrer une image pour avoir la progression, mais est-ce que tu l'as bien fait ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812933577.852,
+      "id" : "85CC3C06-B04E-480D-B19D-3225B95DBD43",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et si oui, donne-moi le pass et sinon consigne-le et essaie de récupérer depuis le JSON de notre propre conversation via l'ID de la conversation. Tu récupères toutes les images qui ont été faites par Claude et tu peux aussi aller dans le cache de la conversation et normalement tu peux les copier dans le bon dossier. Normalement tu y as accès et ils sont pas perdus parce que c'est toujours dans le cache quelque part.",
+      "text" : "Et si oui, donne-moi le pass et sinon consigne-le et essaie de récupérer depuis le JSON de notre propre conversation via l'ID de la conversation. Tu récupères toutes les images qui ont été faites par Claude et tu peux aussi aller dans le cache de la conversation et normalement tu peux les copier dans le bon dossier. Normalement tu y as accès et ils sont pas perdus parce que c'est toujours dans le cache quelque part."
     }
   ],
   "modes" : [
