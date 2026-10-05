@@ -649,6 +649,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Je veux réunir toutes mes variations et itérations de stage. Tu as fait plusieurs bandes, mais tu les as séparées lorsque tu les as enregistrées. Du coup, c'est un peu chiant parce que moi ce que j'aurais aimé, c'est avoir mon format 1 pour 1 avec toutes les bandes et la métadonnées alignées de toutes les bandes pour voir l'évolution du graphe. Donc, crée un nouveau dossier qui s'appelle version, enfin dans le dossier version, crée à partir des métadonnées des fichiers, des textures, des bandes uniquement sur la height map pour voir l'évolution de la height map jusqu'au stade actuel. Et voilà, merci. Parce que en fait, c'est exactement ce que je te demande depuis tout à l'heure, mais bon.",
       "text" : "Je veux réunir toutes mes variations et itérations de stage. Tu as fait plusieurs bandes, mais tu les as séparées lorsque tu les as enregistrées. Du coup, c'est un peu chiant parce que moi ce que j'aurais aimé, c'est avoir mon format 1 pour 1 avec toutes les bandes et la métadonnées alignées de toutes les bandes pour voir l'évolution du graphe. Donc, crée un nouveau dossier qui s'appelle version, enfin dans le dossier version, crée à partir des métadonnées des fichiers, des textures, des bandes uniquement sur la height map pour voir l'évolution de la height map jusqu'au stade actuel. Et voilà, merci. Parce que en fait, c'est exactement ce que je te demande depuis tout à l'heure, mais bon."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812935056.158728,
+      "id" : "87722542-5F97-4819-B5CA-AC507955ABC2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ce que tu vas faire maintenant, c'est que tu vas ranger Grass. Je te l'ai déjà dit, normalement tu as juste à relire Zenrei ou Dini, mais tu dois me copier mes cinq final maps pour que je puisse les voir. Par contre, j'aurais bien aimé avoir une map opacité pour crop plus agréablement. Depuis la 8, créer la map opacity qui me permet de vraiment découper parfaitement l'opacité des pétales. Actuellement, c'est pas encore exactement le cas.",
+      "text" : "Ce que tu vas faire maintenant, c'est que tu vas ranger Grass. Je te l'ai déjà dit, normalement tu as juste à relire Zenrei ou Dini, mais tu dois me copier mes cinq final maps pour que je puisse les voir. Par contre, j'aurais bien aimé avoir une map opacité pour crop plus agréablement. Depuis la 8, créer la map opacity qui me permet de vraiment découper parfaitement l'opacité des pétales. Actuellement, c'est pas encore exactement le cas."
     }
   ],
   "modes" : [
