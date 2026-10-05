@@ -379,6 +379,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Est-ce que ça fonctionne dans le",
       "text" : "Est-ce que ça fonctionne dans le"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812852015.987339,
+      "id" : "9DD00215-FAF5-4197-A08D-A825B7C3A63C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Après, je trouve vraiment que les Émirats arabes unis, c'est vraiment le capitalisme dans tout ce qu'il a de pire, c'est-à-dire un capitalisme qui se repose énormément sur le service impeccable avec une dénaturalisation complète de l'humain, complètement l'opposé du Japon.",
+      "text" : "Après, je trouve vraiment que les Émirats arabes unis, c'est vraiment le capitalisme dans tout ce qu'il a de pire, c'est-à-dire un capitalisme qui se repose énormément sur le service impeccable avec une dénaturalisation complète de l'humain, complètement l'opposé du Japon."
     }
   ],
   "modes" : [
