@@ -619,6 +619,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Maintenant, j'aimerais que tu me refasses les UV par rapport à la height qui a été redessinée. Et d'ailleurs, il y a un problème dans la trim sheet. Par contre, tu as pas réappliqué les bons UV par rapport à la trim sheet qui normalement devrait avoir maintenant la base color réactualisée, etc.",
       "text" : "Maintenant, j'aimerais que tu me refasses les UV par rapport à la height qui a été redessinée. Et d'ailleurs, il y a un problème dans la trim sheet. Par contre, tu as pas réappliqué les bons UV par rapport à la trim sheet qui normalement devrait avoir maintenant la base color réactualisée, etc."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812934508.954501,
+      "id" : "8AFB4867-C37A-48DB-88A4-75A078EDCFE1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce qu'il y a pas moyen que dans objet, sans passer par stage, je puisse avoir un look dev directement de mes textures avec la transparence etc. Sinon dis-moi si c'est pas possible.",
+      "text" : "Est-ce qu'il y a pas moyen que dans objet, sans passer par stage, je puisse avoir un look dev directement de mes textures avec la transparence etc. Sinon dis-moi si c'est pas possible."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812934652.53429,
+      "id" : "FB39A965-7BA3-40D6-8207-4FDC60D9592D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'essaie de consigner.",
+      "text" : "J'essaie de consigner."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812934784.065966,
+      "id" : "A546EE0A-5CE4-43D5-B8AF-47834157984A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je veux réunir toutes mes variations et itérations de stage. Tu as fait plusieurs bandes, mais tu les as séparées lorsque tu les as enregistrées. Du coup, c'est un peu chiant parce que moi ce que j'aurais aimé, c'est avoir mon format 1 pour 1 avec toutes les bandes et la métadonnées alignées de toutes les bandes pour voir l'évolution du graphe. Donc, crée un nouveau dossier qui s'appelle version, enfin dans le dossier version, crée à partir des métadonnées des fichiers, des textures, des bandes uniquement sur la height map pour voir l'évolution de la height map jusqu'au stade actuel. Et voilà, merci. Parce que en fait, c'est exactement ce que je te demande depuis tout à l'heure, mais bon.",
+      "text" : "Je veux réunir toutes mes variations et itérations de stage. Tu as fait plusieurs bandes, mais tu les as séparées lorsque tu les as enregistrées. Du coup, c'est un peu chiant parce que moi ce que j'aurais aimé, c'est avoir mon format 1 pour 1 avec toutes les bandes et la métadonnées alignées de toutes les bandes pour voir l'évolution du graphe. Donc, crée un nouveau dossier qui s'appelle version, enfin dans le dossier version, crée à partir des métadonnées des fichiers, des textures, des bandes uniquement sur la height map pour voir l'évolution de la height map jusqu'au stade actuel. Et voilà, merci. Parce que en fait, c'est exactement ce que je te demande depuis tout à l'heure, mais bon."
     }
   ],
   "modes" : [
