@@ -1759,6 +1759,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Zenrea 7 V2, tu vas identifier la conversation et le JSON de Claude qui normalement est lié au projet TMP végétation puisqu'on a fait un article. Grâce à ce lien, tu vas me lire la conversation et tu vas voir le protocole de création d'article. Le protocole de création d'article normalement doit déjà être renseigné dans les skills et du coup tu vas modifier mon article ultimement et ensuite update tous mes skills pour ne plus jamais faire ce genre d'erreur.",
       "text" : "Zenrea 7 V2, tu vas identifier la conversation et le JSON de Claude qui normalement est lié au projet TMP végétation puisqu'on a fait un article. Grâce à ce lien, tu vas me lire la conversation et tu vas voir le protocole de création d'article. Le protocole de création d'article normalement doit déjà être renseigné dans les skills et du coup tu vas modifier mon article ultimement et ensuite update tous mes skills pour ne plus jamais faire ce genre d'erreur."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813016486.026869,
+      "id" : "6758DB78-9BD3-4467-A75C-99402A5EDCE2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le compte change fréquemment de nom et en plus les annonces sont supprimées immédiatement. Les prix affichés sont attractifs tandis que les annonces sont quasi immédiatement supprimées. C'est donc une arnaque à mon avis.",
+      "text" : "Le compte change fréquemment de nom et en plus les annonces sont supprimées immédiatement. Les prix affichés sont attractifs tandis que les annonces sont quasi immédiatement supprimées. C'est donc une arnaque à mon avis."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813016751.540234,
+      "id" : "ECF81B6B-F6E0-46ED-BC94-1D34E02AC720",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Peux-tu me traduire cet article en français s'il te plaît pour que je comprenne de quoi il s'agit.",
+      "text" : "Peux-tu me traduire cet article en français s'il te plaît pour que je comprenne de quoi il s'agit."
     }
   ],
   "modes" : [
