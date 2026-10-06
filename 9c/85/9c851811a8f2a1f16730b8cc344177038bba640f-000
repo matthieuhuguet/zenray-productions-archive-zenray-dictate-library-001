@@ -1279,6 +1279,56 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Par contre, l'esthétique violet bleu, je trouve que ça agresse un peu les yeux. Je préférerais que tu restes sur un ton soit plutôt ocre, soit un ton blanc directement. Je pense que c'est mieux, ça ferait moins mal aux yeux, ou des couleurs pastel. Et enfin, peut-être plus, en fait, j'aimerais que les fichiers audio, au lieu que ce soit des carrés, ce soit plutôt des capsules. Ce serait plus pratique si c'était des capsules, parce que comme ça on pourrait mettre le nom directement dans la capsule. Sinon dans la vue create ça va bugger. Mais par contre ce qu'on peut faire, c'est afficher plutôt sous forme de capsule, exactement comme c'est sur Spotify. C'est plutôt des lignes, c'est pas très pratique pour des musiques dans un dossier de musique d'avoir des fichiers carrés. C'est mieux d'avoir des fichiers capsule. Donc tu fais une capsule avec bords arrondis à 999 et ce sera parfait. Comme ça en plus ça permet de stacker plus de fichiers audio sur une seule ligne.",
       "text" : "Par contre, l'esthétique violet bleu, je trouve que ça agresse un peu les yeux. Je préférerais que tu restes sur un ton soit plutôt ocre, soit un ton blanc directement. Je pense que c'est mieux, ça ferait moins mal aux yeux, ou des couleurs pastel. Et enfin, peut-être plus, en fait, j'aimerais que les fichiers audio, au lieu que ce soit des carrés, ce soit plutôt des capsules. Ce serait plus pratique si c'était des capsules, parce que comme ça on pourrait mettre le nom directement dans la capsule. Sinon dans la vue create ça va bugger. Mais par contre ce qu'on peut faire, c'est afficher plutôt sous forme de capsule, exactement comme c'est sur Spotify. C'est plutôt des lignes, c'est pas très pratique pour des musiques dans un dossier de musique d'avoir des fichiers carrés. C'est mieux d'avoir des fichiers capsule. Donc tu fais une capsule avec bords arrondis à 999 et ce sera parfait. Comme ça en plus ça permet de stacker plus de fichiers audio sur une seule ligne."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812994093.336193,
+      "id" : "72549D14-513E-4B37-8DA1-AB60642C0689",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'ai une idée. On va faire une transition d'animation qui part de 10° et qui, au bout de 5 secondes, arrive à 55°. Comme ça, c'est très clean et on a plusieurs angles, et ça va être très sympa je pense.",
+      "text" : "J'ai une idée. On va faire une transition d'animation qui part de 10° et qui, au bout de 5 secondes, arrive à 55°. Comme ça, c'est très clean et on a plusieurs angles, et ça va être très sympa je pense."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812995001.577872,
+      "id" : "43B720B0-A2F4-485A-B337-ABDA93F6C589",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu me casses les couilles. Tu viens de rendre le rendu, tu viens de remettre la normal strength alors que je l'avais mis à 0.2 sur la material instance. Je voulais juste trois images avec trois lighting différents. Tu es parti sur un rendu. Tu fais de la merde depuis tout à l'heure et tu ne m'écoutes pas. J'en ai marre.",
+      "text" : "Tu me casses les couilles. Tu viens de rendre le rendu, tu viens de remettre la normal strength alors que je l'avais mis à 0.2 sur la material instance. Je voulais juste trois images avec trois lighting différents. Tu es parti sur un rendu. Tu fais de la merde depuis tout à l'heure et tu ne m'écoutes pas. J'en ai marre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812995213.178895,
+      "id" : "6373FED5-B361-4DFB-B29E-CC4AE81AA313",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "les lumières. Donc là, tu as juste à lancer le movie render queue en 4K pour compute du coup les 5 secondes d'animation.",
+      "text" : "les lumières. Donc là, tu as juste à lancer le movie render queue en 4K pour compute du coup les 5 secondes d'animation."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812995433.312398,
+      "id" : "91162262-629F-40DD-A909-1B3D3E07D3F5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "On va instancier tout un parterre de ces fleurs, mais que par conséquent, vu que j'ai Houdini d'ouvert, tu peux aller prendre du coup la Lily Flower. Et en fait, ce que tu vas faire, c'est que tu vas m'instancier, alors là il va falloir être bon, tu vas m'instancier en fait, tu as un paramètre HDA qui permet de récupérer le seed. Là le seed est 7 sur 7, donc les setup sur le chiffre 7. Et ce que tu vas faire, c'est que tu vas me prendre cinq variations, peu importe, et tu vas aussi changer le tu vas changer, comment ça s'appelle, tu vas changer sur quelques variations, ah oui voilà, tu vas changer le tepal half width. Le tepal half width. Et comme ça, tu crées cinq variations. Tu me donnes la sheet avant de le balancer dans Houdini et ensuite dans Houdini, on va créer un parterre de fleurs où on va vraiment essayer de créer quasiment un bosquet. Et du coup, voilà. Et on va changer aussi la hauteur de la plante. La hauteur de la plante, je crois que c'est dans voilà, la hauteur de la plante, c'est dans stem height en mètre. Et tu peux aussi jouer avec le stem bend pour venir créer des variations intéressantes de fleurs. Le but, c'est de montrer que c'est un HDA.",
+      "text" : "On va instancier tout un parterre de ces fleurs, mais que par conséquent, vu que j'ai Houdini d'ouvert, tu peux aller prendre du coup la Lily Flower. Et en fait, ce que tu vas faire, c'est que tu vas m'instancier, alors là il va falloir être bon, tu vas m'instancier en fait, tu as un paramètre HDA qui permet de récupérer le seed. Là le seed est 7 sur 7, donc les setup sur le chiffre 7. Et ce que tu vas faire, c'est que tu vas me prendre cinq variations, peu importe, et tu vas aussi changer le tu vas changer, comment ça s'appelle, tu vas changer sur quelques variations, ah oui voilà, tu vas changer le tepal half width. Le tepal half width. Et comme ça, tu crées cinq variations. Tu me donnes la sheet avant de le balancer dans Houdini et ensuite dans Houdini, on va créer un parterre de fleurs où on va vraiment essayer de créer quasiment un bosquet. Et du coup, voilà. Et on va changer aussi la hauteur de la plante. La hauteur de la plante, je crois que c'est dans voilà, la hauteur de la plante, c'est dans stem height en mètre. Et tu peux aussi jouer avec le stem bend pour venir créer des variations intéressantes de fleurs. Le but, c'est de montrer que c'est un HDA."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812995524.428811,
+      "id" : "B2494D92-8F8F-4E20-821D-F4FD574AA364",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et de recréer un cercle un peu diffus avec cette variation. Et si possible, j'aimerais reprendre aussi ma base color et créer exactement les cinq variations qu'on va créer, mais avec des lys bleus.",
+      "text" : "Et de recréer un cercle un peu diffus avec cette variation. Et si possible, j'aimerais reprendre aussi ma base color et créer exactement les cinq variations qu'on va créer, mais avec des lys bleus."
     }
   ],
   "modes" : [
