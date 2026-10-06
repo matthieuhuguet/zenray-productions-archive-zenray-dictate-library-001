@@ -1349,6 +1349,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Pendant, tu peux me redonner l'état de la vidéo et le dossier, parce que normalement tu avais créé un fichier .md, mais j'aimerais en une ligne que tu me redonnes la vidéo qu'on avait commencé à faire.",
       "text" : "Pendant, tu peux me redonner l'état de la vidéo et le dossier, parce que normalement tu avais créé un fichier .md, mais j'aimerais en une ligne que tu me redonnes la vidéo qu'on avait commencé à faire."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812996420.156292,
+      "id" : "62E23DD3-6E6D-4A4B-B961-B83143DD480E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Normalement, il n'y a pas besoin de Ah mais putain. Putain, mais Unreal sur Mac, quoi. C'est quand même pas c'est pas la panacée, quoi. Faut reconstruire sur Unreal. Sinon, ça va juste planter à l'infini. Merci. Mais OK. Go les mettre. Ça aurait été bien d'avoir des blanches aussi. Je viens de penser que ça aurait été ça aurait été cool d'avoir des blanches aussi.",
+      "text" : "Normalement, il n'y a pas besoin de Ah mais putain. Putain, mais Unreal sur Mac, quoi. C'est quand même pas c'est pas la panacée, quoi. Faut reconstruire sur Unreal. Sinon, ça va juste planter à l'infini. Merci. Mais OK. Go les mettre. Ça aurait été bien d'avoir des blanches aussi. Je viens de penser que ça aurait été ça aurait été cool d'avoir des blanches aussi."
     }
   ],
   "modes" : [
