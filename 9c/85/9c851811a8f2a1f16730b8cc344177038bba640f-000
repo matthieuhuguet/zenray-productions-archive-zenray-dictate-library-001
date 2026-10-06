@@ -1419,6 +1419,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "L'éclairage n'est pas encore parfait. Il faudrait que ce soit méga subtil, un peu comme une scène japonaise. Il faudrait un truc un petit peu plus fin en termes d'éclairage et de subtilité. Là, c'est un petit peu trop éclairé. Il faudrait faire quelque chose de beaucoup plus fin dans l'éclairage si tu peux. Fais-moi trois propositions d'éclairage sur une trim sheet.",
       "text" : "L'éclairage n'est pas encore parfait. Il faudrait que ce soit méga subtil, un peu comme une scène japonaise. Il faudrait un truc un petit peu plus fin en termes d'éclairage et de subtilité. Là, c'est un petit peu trop éclairé. Il faudrait faire quelque chose de beaucoup plus fin dans l'éclairage si tu peux. Fais-moi trois propositions d'éclairage sur une trim sheet."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812997782.868096,
+      "id" : "BC03223D-73C1-4BBD-9B76-D789B88B2A0D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il me faudrait dénicher en une ligne la vidéo qu'on a fait tout à l'heure. C'était il y a très longtemps quand même. Je ne sais plus où elle est tellement c'était il y a longtemps. Je vais bien la retrouver je pense. Il faut surtout retrouver le dossier pour avoir le contexte. C'est la vidéo V04.",
+      "text" : "Il me faudrait dénicher en une ligne la vidéo qu'on a fait tout à l'heure. C'était il y a très longtemps quand même. Je ne sais plus où elle est tellement c'était il y a longtemps. Je vais bien la retrouver je pense. Il faut surtout retrouver le dossier pour avoir le contexte. C'est la vidéo V04."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812998345.673827,
+      "id" : "A24B13A3-348D-4B7D-AB06-62B86E039EA4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pour la vidéo, ce serait cool que tu remplaces les... Parce que du coup, je sais plus où on en était. Ah oui, on avait mis le titre, mais sauf que le titre, j'ai l'impression que c'est pas mis dans son format. Enfin bref. Du coup, J'ai l'impression que l'index de la vidéo, c'est pas forcément le bon fichier. Mais bon, je ne sais pas. En tout cas, OK.",
+      "text" : "Pour la vidéo, ce serait cool que tu remplaces les... Parce que du coup, je sais plus où on en était. Ah oui, on avait mis le titre, mais sauf que le titre, j'ai l'impression que c'est pas mis dans son format. Enfin bref. Du coup, J'ai l'impression que l'index de la vidéo, c'est pas forcément le bon fichier. Mais bon, je ne sais pas. En tout cas, OK."
     }
   ],
   "modes" : [
