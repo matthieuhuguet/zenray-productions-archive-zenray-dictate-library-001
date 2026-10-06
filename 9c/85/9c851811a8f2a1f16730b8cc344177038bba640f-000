@@ -1259,6 +1259,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Mais le but, c'est de trouver un lookdev, comme Cycles ou Octane, qui permet justement de voir ma fleur sans lancer un rendu, tout en ayant la possibilité de lancer un rendu si il y en a besoin. Mais là, c'est un gros problème. Donc je veux que tu travailles jusqu'à ce que tu trouves un fix pour la scène 3D. Je me fous du rendu, je veux juste que dans la scène 3D ce soit déjà bien.",
       "text" : "Mais le but, c'est de trouver un lookdev, comme Cycles ou Octane, qui permet justement de voir ma fleur sans lancer un rendu, tout en ayant la possibilité de lancer un rendu si il y en a besoin. Mais là, c'est un gros problème. Donc je veux que tu travailles jusqu'à ce que tu trouves un fix pour la scène 3D. Je me fous du rendu, je veux juste que dans la scène 3D ce soit déjà bien."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812992967.385235,
+      "id" : "8C56F48F-6B91-4F48-A90C-39703A0B85E6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Quasi parfait, bravo. Ce que j'aimerais faire, c'est pouvoir les ouvrir. Du coup, c'est quasi parfait, mais ce que j'aimerais, c'est pouvoir Alors, il y aurait deux méthodes pour faire ça. Soit j'en sélectionne plusieurs, je fais clic droit et je fais lancer l'écoute rapide, et du coup ça me fait comme sur VLC ou un logiciel de consultation de sons SFX, et où je vais pouvoir voir mes fichiers audio, donc sous forme de liste de fichiers et de colonnes, ou de tableaux, où ça me permet de pouvoir consulter et cliquer et d'un seul clic, je repasse sur la lecture d'un autre fichier SFX. Parce que comme ça, en fait, ça me permet de consulter plusieurs fichiers MP3 ou .wav directement sous forme de liste de manière extrêmement concise et extrêmement précise. Donc ça, c'est parfait. Et comment ça s'appelle ? Et voilà, enfin c'est qu'est-ce que je voulais savoir d'autre ? Non, normalement c'est bon.",
+      "text" : "Quasi parfait, bravo. Ce que j'aimerais faire, c'est pouvoir les ouvrir. Du coup, c'est quasi parfait, mais ce que j'aimerais, c'est pouvoir Alors, il y aurait deux méthodes pour faire ça. Soit j'en sélectionne plusieurs, je fais clic droit et je fais lancer l'écoute rapide, et du coup ça me fait comme sur VLC ou un logiciel de consultation de sons SFX, et où je vais pouvoir voir mes fichiers audio, donc sous forme de liste de fichiers et de colonnes, ou de tableaux, où ça me permet de pouvoir consulter et cliquer et d'un seul clic, je repasse sur la lecture d'un autre fichier SFX. Parce que comme ça, en fait, ça me permet de consulter plusieurs fichiers MP3 ou .wav directement sous forme de liste de manière extrêmement concise et extrêmement précise. Donc ça, c'est parfait. Et comment ça s'appelle ? Et voilà, enfin c'est qu'est-ce que je voulais savoir d'autre ? Non, normalement c'est bon."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812993084.880827,
+      "id" : "B6DEBE5F-F223-45AA-9F90-ACFDA09FFAB9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Par contre, l'esthétique violet bleu, je trouve que ça agresse un peu les yeux. Je préférerais que tu restes sur un ton soit plutôt ocre, soit un ton blanc directement. Je pense que c'est mieux, ça ferait moins mal aux yeux, ou des couleurs pastel. Et enfin, peut-être plus, en fait, j'aimerais que les fichiers audio, au lieu que ce soit des carrés, ce soit plutôt des capsules. Ce serait plus pratique si c'était des capsules, parce que comme ça on pourrait mettre le nom directement dans la capsule. Sinon dans la vue create ça va bugger. Mais par contre ce qu'on peut faire, c'est afficher plutôt sous forme de capsule, exactement comme c'est sur Spotify. C'est plutôt des lignes, c'est pas très pratique pour des musiques dans un dossier de musique d'avoir des fichiers carrés. C'est mieux d'avoir des fichiers capsule. Donc tu fais une capsule avec bords arrondis à 999 et ce sera parfait. Comme ça en plus ça permet de stacker plus de fichiers audio sur une seule ligne.",
+      "text" : "Par contre, l'esthétique violet bleu, je trouve que ça agresse un peu les yeux. Je préférerais que tu restes sur un ton soit plutôt ocre, soit un ton blanc directement. Je pense que c'est mieux, ça ferait moins mal aux yeux, ou des couleurs pastel. Et enfin, peut-être plus, en fait, j'aimerais que les fichiers audio, au lieu que ce soit des carrés, ce soit plutôt des capsules. Ce serait plus pratique si c'était des capsules, parce que comme ça on pourrait mettre le nom directement dans la capsule. Sinon dans la vue create ça va bugger. Mais par contre ce qu'on peut faire, c'est afficher plutôt sous forme de capsule, exactement comme c'est sur Spotify. C'est plutôt des lignes, c'est pas très pratique pour des musiques dans un dossier de musique d'avoir des fichiers carrés. C'est mieux d'avoir des fichiers capsule. Donc tu fais une capsule avec bords arrondis à 999 et ce sera parfait. Comme ça en plus ça permet de stacker plus de fichiers audio sur une seule ligne."
     }
   ],
   "modes" : [
