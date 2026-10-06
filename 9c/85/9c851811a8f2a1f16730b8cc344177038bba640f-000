@@ -1359,6 +1359,56 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Normalement, il n'y a pas besoin de Ah mais putain. Putain, mais Unreal sur Mac, quoi. C'est quand même pas c'est pas la panacée, quoi. Faut reconstruire sur Unreal. Sinon, ça va juste planter à l'infini. Merci. Mais OK. Go les mettre. Ça aurait été bien d'avoir des blanches aussi. Je viens de penser que ça aurait été ça aurait été cool d'avoir des blanches aussi.",
       "text" : "Normalement, il n'y a pas besoin de Ah mais putain. Putain, mais Unreal sur Mac, quoi. C'est quand même pas c'est pas la panacée, quoi. Faut reconstruire sur Unreal. Sinon, ça va juste planter à l'infini. Merci. Mais OK. Go les mettre. Ça aurait été bien d'avoir des blanches aussi. Je viens de penser que ça aurait été ça aurait été cool d'avoir des blanches aussi."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812996668.005743,
+      "id" : "EC752A1C-18CF-43AE-95F4-770C755650B2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Toujours dans le même projet, je recherche tout à l'heure, j'ai fait une vidéo via Claude. Elle doit être dans le projet Zenrai Végétation Collection 01 Fleur de Lys. Du coup, elle doit être dans ce projet. J'ai commencé à rendre la vidéo mais je ne sais plus où je l'ai mis. J'aimerais que tu me retrouves le fichier et notamment parce que ensuite il va falloir que tu récupères dans le dossier version. Ça c'est une chose mais ensuite il y a une deuxième partie de la mission qui est de récupérer dans le dossier version dans peut-être c'est dans Zenrai Houdini, attends. Version, ouais c'est ça. Donc c'est dans le dossier Houdini et là en fait on a construit toutes les bandes. On a construit toutes les bandes et en fait les bandes elles correspondaient à la trim sheet globale. Mais le truc c'est qu'il faut setup la full trim sheet par rapport à son évolution mais il faut jamais confondre les les trucs qui ont été faits par GenAI. Ah c'est bon, je l'ai trouvé. C'est bon, je l'ai trouvé. Ça avait été commencé à être fait dans un dossier qui s'appelle Eight Evolution sauf que le dossier il est pas complet. Du coup, je t'invite à le regarder en premier et à le compléter par rapport",
+      "text" : "Toujours dans le même projet, je recherche tout à l'heure, j'ai fait une vidéo via Claude. Elle doit être dans le projet Zenrai Végétation Collection 01 Fleur de Lys. Du coup, elle doit être dans ce projet. J'ai commencé à rendre la vidéo mais je ne sais plus où je l'ai mis. J'aimerais que tu me retrouves le fichier et notamment parce que ensuite il va falloir que tu récupères dans le dossier version. Ça c'est une chose mais ensuite il y a une deuxième partie de la mission qui est de récupérer dans le dossier version dans peut-être c'est dans Zenrai Houdini, attends. Version, ouais c'est ça. Donc c'est dans le dossier Houdini et là en fait on a construit toutes les bandes. On a construit toutes les bandes et en fait les bandes elles correspondaient à la trim sheet globale. Mais le truc c'est qu'il faut setup la full trim sheet par rapport à son évolution mais il faut jamais confondre les les trucs qui ont été faits par GenAI. Ah c'est bon, je l'ai trouvé. C'est bon, je l'ai trouvé. Ça avait été commencé à être fait dans un dossier qui s'appelle Eight Evolution sauf que le dossier il est pas complet. Du coup, je t'invite à le regarder en premier et à le compléter par rapport"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812996748.637413,
+      "id" : "4ECE32B7-AAC4-4906-83F5-B11F223E84C5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "On fait une vue trois-quarts du coup de tout ça, s'il te plaît.",
+      "text" : "On fait une vue trois-quarts du coup de tout ça, s'il te plaît."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812996846.503152,
+      "id" : "35FD648A-3576-4405-A327-B0CF63BBF62D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est trop rapide et pas assez zoomé. Et enfin, il n'y a pas d'élévation en termes de degrés, du coup c'est pas très intéressant comme mouvement. J'aimerais vraiment un mouvement intéressant, notamment un easing à faire en mode ça démarre lentement au début, ça va vite, puis ça revient lentement.",
+      "text" : "C'est trop rapide et pas assez zoomé. Et enfin, il n'y a pas d'élévation en termes de degrés, du coup c'est pas très intéressant comme mouvement. J'aimerais vraiment un mouvement intéressant, notamment un easing à faire en mode ça démarre lentement au début, ça va vite, puis ça revient lentement."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812996900.822851,
+      "id" : "2CFD8009-7402-4758-924E-A7E709E08EEC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Au début, la caméra doit vraiment être au ras du sol. Elle s'élève au niveau du ras du sol, puis elle monte, puis elle redescend.",
+      "text" : "Au début, la caméra doit vraiment être au ras du sol. Elle s'élève au niveau du ras du sol, puis elle monte, puis elle redescend."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812997016.270767,
+      "id" : "F7B2072E-3236-4B8A-934B-9C262CF9C5F3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pour le mouvement de caméra, ça devrait être encore plus au ras du sol et à la fin, ça devrait être au même degré et ça devrait monter jusqu'à peut-être 55° pour vraiment avoir une vue top down. Et un autre mouvement exactement pareil, mais qui resterait fixe en termes d'élévation de degré. Par contre, on garderait le fait que le tour complet démarre lentement, accélère au milieu et ralentit à la fin.",
+      "text" : "Pour le mouvement de caméra, ça devrait être encore plus au ras du sol et à la fin, ça devrait être au même degré et ça devrait monter jusqu'à peut-être 55° pour vraiment avoir une vue top down. Et un autre mouvement exactement pareil, mais qui resterait fixe en termes d'élévation de degré. Par contre, on garderait le fait que le tour complet démarre lentement, accélère au milieu et ralentit à la fin."
     }
   ],
   "modes" : [
