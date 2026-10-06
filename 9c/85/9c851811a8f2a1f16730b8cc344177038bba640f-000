@@ -1779,6 +1779,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Peux-tu me traduire cet article en français s'il te plaît pour que je comprenne de quoi il s'agit.",
       "text" : "Peux-tu me traduire cet article en français s'il te plaît pour que je comprenne de quoi il s'agit."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813017472.253451,
+      "id" : "23FB2087-88AD-43E4-828C-7ABD65376C68",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'avais fait un jeu de chien, mais je ne me souviens plus du nom.",
+      "text" : "J'avais fait un jeu de chien, mais je ne me souviens plus du nom."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813017502.224945,
+      "id" : "64E3146E-1F18-49D7-9857-1B39B99C29A3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Comment s'appelle le jeu déjà ?",
+      "text" : "Comment s'appelle le jeu déjà ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813017668.091502,
+      "id" : "5E2FEB22-0CA0-44C9-A904-205CD59E4590",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Du coup, je mets quoi en termes de salaire ? Je pense qu'il faut mettre quelque chose qui va leur plaire.",
+      "text" : "Du coup, je mets quoi en termes de salaire ? Je pense qu'il faut mettre quelque chose qui va leur plaire."
     }
   ],
   "modes" : [
