@@ -1079,6 +1079,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Donc la première ligne, c'est toujours la même fonte et simplement un fade-in qui s'affiche en 1 seconde. À 1 seconde, ça disparaît instantanément. Et tu as l'animation fleur de lys qui apparaît dans la seconde ligne et qui pop immédiatement en fait, il n'y a pas de délai d'animation. Et là, c'est inter black qu'il faut mettre. Ça reste affiché, c'est pendant 1,5 seconde. Du coup, ça reste affiché jusqu'au truc et ensuite ça disparaît à la 5e seconde. Mais du coup, il n'y a plus de transition d'animation du fait que ça parte. Ouais, c'est pas grave. Ou alors, il y a un fade-in à 1,5 seconde. Ouais, on peut essayer. On peut essayer deux variations et je te dis ce que je",
       "text" : "Donc la première ligne, c'est toujours la même fonte et simplement un fade-in qui s'affiche en 1 seconde. À 1 seconde, ça disparaît instantanément. Et tu as l'animation fleur de lys qui apparaît dans la seconde ligne et qui pop immédiatement en fait, il n'y a pas de délai d'animation. Et là, c'est inter black qu'il faut mettre. Ça reste affiché, c'est pendant 1,5 seconde. Du coup, ça reste affiché jusqu'au truc et ensuite ça disparaît à la 5e seconde. Mais du coup, il n'y a plus de transition d'animation du fait que ça parte. Ouais, c'est pas grave. Ou alors, il y a un fade-in à 1,5 seconde. Ouais, on peut essayer. On peut essayer deux variations et je te dis ce que je"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812983710.720236,
+      "id" : "28C894F4-FA8E-4A0C-936E-51FF752553B2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, si on fait une animation, faut pas faire de fade-in et d'animation. Ce qu'on va faire, c'est qu'on va faire un pop immédiat à 1 seconde. Et ce sera tout, mais j'ai l'impression que Ah, je sais ce que je vais faire.",
+      "text" : "En fait, si on fait une animation, faut pas faire de fade-in et d'animation. Ce qu'on va faire, c'est qu'on va faire un pop immédiat à 1 seconde. Et ce sera tout, mais j'ai l'impression que Ah, je sais ce que je vais faire."
     }
   ],
   "modes" : [
