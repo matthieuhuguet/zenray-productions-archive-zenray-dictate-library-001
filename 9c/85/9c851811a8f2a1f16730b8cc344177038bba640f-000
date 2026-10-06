@@ -1229,6 +1229,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ce qui est dommage, c'est qu'on ne peut pas installer Lumen sur Houdini en fait. C'est dommage. Mais peut-être que ce serait possible via un plugin personnalisé.",
       "text" : "Ce qui est dommage, c'est qu'on ne peut pas installer Lumen sur Houdini en fait. C'est dommage. Mais peut-être que ce serait possible via un plugin personnalisé."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812990048.730458,
+      "id" : "2374B504-C039-4993-A449-3D42C1C6C1BF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Moi, j'en ai besoin, donc tu vas faire en sorte que quand je lance Houdini Indie ou Houdini FX, je puisse avoir directement accès de manière GUI, donc graphic user interface, à Octane ou Cycles. Parce que c'est bien rigolo, mais moi je vais pas m'amuser à lancer des lignes de commande à chaque fois. Ensuite, j'en ai besoin dans ma scène preview exactement pour faire du look dev. Donc c'est pourquoi j'ai encore besoin de ça. Et enfin, oui, il faut régler les problèmes de saturation et de couleur pour avoir une saturation et une vibrance plus vivid.",
+      "text" : "Moi, j'en ai besoin, donc tu vas faire en sorte que quand je lance Houdini Indie ou Houdini FX, je puisse avoir directement accès de manière GUI, donc graphic user interface, à Octane ou Cycles. Parce que c'est bien rigolo, mais moi je vais pas m'amuser à lancer des lignes de commande à chaque fois. Ensuite, j'en ai besoin dans ma scène preview exactement pour faire du look dev. Donc c'est pourquoi j'ai encore besoin de ça. Et enfin, oui, il faut régler les problèmes de saturation et de couleur pour avoir une saturation et une vibrance plus vivid."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812990075.903845,
+      "id" : "8383ABB4-6999-4B74-AF2D-E8DBC07D59C9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je perds trop de temps avec ça, donc dépêche-toi.",
+      "text" : "Je perds trop de temps avec ça, donc dépêche-toi."
     }
   ],
   "modes" : [
