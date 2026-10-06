@@ -1169,6 +1169,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "animation de gauche à droite de haut en bas et effet ping-pong lors du fade out et effet de variation cybernétique. Donc je te redonne exactement l'animation",
       "text" : "animation de gauche à droite de haut en bas et effet ping-pong lors du fade out et effet de variation cybernétique. Donc je te redonne exactement l'animation"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812986418.876596,
+      "id" : "378F8AE8-22CA-4E9B-84D6-DAB3158BC833",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Actuellement, j'ai un problème sur Houdini. Karma XPU est pas supporté sur macOS. Donc Karma XPU ne fonctionne pas. Mais du coup, au lieu de tout le temps devoir ouvrir Unreal pour faire mes rendus, j'aimerais simplement ajouter un plugin dans Houdini qui me permette quand même de pouvoir utiliser mon GPU pour faire des rendus plus rapides. En fait, il me faudrait un rendu gratuit à l'image de Cycles dans Blender ou de Lumen dans Unreal. Bref, une global illumination ultra moderne qui est gratuite et intégrale dans Houdini. J'ai entendu parler de Redshift, mais je crois que c'est payant. J'aimerais vraiment quelque chose de gratuit à l'ère de Blender et d'Unreal. Je pense que c'est quand même relativement inutile de payer pour un moteur de rendu et surtout, je veux pas avoir des dépendances via une entreprise. Donc j'aimerais que tu me fasses le state of the art de ce qui existe en termes de rendu. J'aimerais que tu utilises ta propre documentation, ton propre LLM pour aller rechercher dans la data ce qui existe, puis que tu ailles sur le web pour confirmer ce que tu penses. Mais je veux vraiment une recherche très très précise et très très",
+      "text" : "Actuellement, j'ai un problème sur Houdini. Karma XPU est pas supporté sur macOS. Donc Karma XPU ne fonctionne pas. Mais du coup, au lieu de tout le temps devoir ouvrir Unreal pour faire mes rendus, j'aimerais simplement ajouter un plugin dans Houdini qui me permette quand même de pouvoir utiliser mon GPU pour faire des rendus plus rapides. En fait, il me faudrait un rendu gratuit à l'image de Cycles dans Blender ou de Lumen dans Unreal. Bref, une global illumination ultra moderne qui est gratuite et intégrale dans Houdini. J'ai entendu parler de Redshift, mais je crois que c'est payant. J'aimerais vraiment quelque chose de gratuit à l'ère de Blender et d'Unreal. Je pense que c'est quand même relativement inutile de payer pour un moteur de rendu et surtout, je veux pas avoir des dépendances via une entreprise. Donc j'aimerais que tu me fasses le state of the art de ce qui existe en termes de rendu. J'aimerais que tu utilises ta propre documentation, ton propre LLM pour aller rechercher dans la data ce qui existe, puis que tu ailles sur le web pour confirmer ce que tu penses. Mais je veux vraiment une recherche très très précise et très très"
     }
   ],
   "modes" : [
