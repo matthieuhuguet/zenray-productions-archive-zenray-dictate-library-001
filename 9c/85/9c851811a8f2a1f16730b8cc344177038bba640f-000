@@ -1739,6 +1739,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "J'ai une question avant que tu commences, c'est pourquoi tu utilises un double manifest ? Pourquoi tu n'utilises pas un seul manifest, soit DASH soit HLS ?",
       "text" : "J'ai une question avant que tu commences, c'est pourquoi tu utilises un double manifest ? Pourquoi tu n'utilises pas un seul manifest, soit DASH soit HLS ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813011024.358162,
+      "id" : "52538312-BE6E-4849-B46D-7AD13DCDFE86",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc tu vas enregistrer le protocole dans l'article Zen Rehoudini. Et par contre, toutes les mentions, et ça c'est très très mauvais ce que tu as fait, toutes les mentions d'agent ou d'automatisation ou de Claude Code ou de Codex ou de Gemini ou de LLM ou de AI, toutes ces mentions ne doivent jamais, au grand jamais, être omises par un LLM, notamment lors de l'écriture d'un article. Et toutes les valeurs qui sont peu humaines, peu sincères, peu authentiques, etc., ne doivent jamais, au grand jamais, être publiées dans un article. C'est pourquoi tu vas revoir l'article et tu vas supprimer toutes les mentions qui le mentionnent, puis tu vas noter dans Claude.md ainsi que dans Zen Rehoudini ainsi que dans website, donc dans le skill de website, de ne jamais faire ce genre de mention, car l'IA, il vaut mieux ne pas l'afficher directement.",
+      "text" : "Donc tu vas enregistrer le protocole dans l'article Zen Rehoudini. Et par contre, toutes les mentions, et ça c'est très très mauvais ce que tu as fait, toutes les mentions d'agent ou d'automatisation ou de Claude Code ou de Codex ou de Gemini ou de LLM ou de AI, toutes ces mentions ne doivent jamais, au grand jamais, être omises par un LLM, notamment lors de l'écriture d'un article. Et toutes les valeurs qui sont peu humaines, peu sincères, peu authentiques, etc., ne doivent jamais, au grand jamais, être publiées dans un article. C'est pourquoi tu vas revoir l'article et tu vas supprimer toutes les mentions qui le mentionnent, puis tu vas noter dans Claude.md ainsi que dans Zen Rehoudini ainsi que dans website, donc dans le skill de website, de ne jamais faire ce genre de mention, car l'IA, il vaut mieux ne pas l'afficher directement."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813011120.59063,
+      "id" : "CAD5DCCC-6CBC-40BA-A4AB-74A505439106",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Zenrea 7 V2, tu vas identifier la conversation et le JSON de Claude qui normalement est lié au projet TMP végétation puisqu'on a fait un article. Grâce à ce lien, tu vas me lire la conversation et tu vas voir le protocole de création d'article. Le protocole de création d'article normalement doit déjà être renseigné dans les skills et du coup tu vas modifier mon article ultimement et ensuite update tous mes skills pour ne plus jamais faire ce genre d'erreur.",
+      "text" : "Zenrea 7 V2, tu vas identifier la conversation et le JSON de Claude qui normalement est lié au projet TMP végétation puisqu'on a fait un article. Grâce à ce lien, tu vas me lire la conversation et tu vas voir le protocole de création d'article. Le protocole de création d'article normalement doit déjà être renseigné dans les skills et du coup tu vas modifier mon article ultimement et ensuite update tous mes skills pour ne plus jamais faire ce genre d'erreur."
     }
   ],
   "modes" : [
