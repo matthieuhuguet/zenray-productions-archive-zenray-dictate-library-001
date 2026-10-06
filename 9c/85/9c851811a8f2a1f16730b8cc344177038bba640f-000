@@ -1719,6 +1719,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Could exclude ChatGPT and Anti-Gravity Gemini.",
       "text" : "Could exclude ChatGPT and Anti-Gravity Gemini."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813009945.125916,
+      "id" : "7C590906-2ECE-4D82-85C6-23A9524F71F3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il y a deux trucs à faire. Il faut que tu repasses sur tous les SVG qui sont employés et que tu crées des icônes semi-transparentes, parce que là les icônes sont totalement opaques et c'est très moche. Mais c'est pas le plus important. Le plus important, c'est d'upload en entier le film au format streamable. Et ensuite, c'est parfait.",
+      "text" : "Il y a deux trucs à faire. Il faut que tu repasses sur tous les SVG qui sont employés et que tu crées des icônes semi-transparentes, parce que là les icônes sont totalement opaques et c'est très moche. Mais c'est pas le plus important. Le plus important, c'est d'upload en entier le film au format streamable. Et ensuite, c'est parfait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813010037.614,
+      "id" : "56B52644-7DDB-4E8D-8AF1-8307A75BD85F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'ai une question avant que tu commences, c'est pourquoi tu utilises un double manifest ? Pourquoi tu n'utilises pas un seul manifest, soit DASH soit HLS ?",
+      "text" : "J'ai une question avant que tu commences, c'est pourquoi tu utilises un double manifest ? Pourquoi tu n'utilises pas un seul manifest, soit DASH soit HLS ?"
     }
   ],
   "modes" : [
