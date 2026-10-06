@@ -719,6 +719,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Plutôt jusqu'en 2023 parce que depuis 2023, j'ai vraiment un chiffre sur Unreal et WoodWing.",
       "text" : "Plutôt jusqu'en 2023 parce que depuis 2023, j'ai vraiment un chiffre sur Unreal et WoodWing."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812939321.580665,
+      "id" : "FA229865-06E8-4BE3-B30D-61BD8CA20873",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je pense qu'en fait il faut pas forcément leur dire tous les trucs avec Claude Code, tu vois. Il faut juste parler de Houdini et tout. Tu as juste vraiment juste à supprimer ces deux lignes.",
+      "text" : "Je pense qu'en fait il faut pas forcément leur dire tous les trucs avec Claude Code, tu vois. Il faut juste parler de Houdini et tout. Tu as juste vraiment juste à supprimer ces deux lignes."
     }
   ],
   "modes" : [
