@@ -1329,6 +1329,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Et de recréer un cercle un peu diffus avec cette variation. Et si possible, j'aimerais reprendre aussi ma base color et créer exactement les cinq variations qu'on va créer, mais avec des lys bleus.",
       "text" : "Et de recréer un cercle un peu diffus avec cette variation. Et si possible, j'aimerais reprendre aussi ma base color et créer exactement les cinq variations qu'on va créer, mais avec des lys bleus."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812995592.907714,
+      "id" : "704DD30C-4038-4E33-AE0F-3EAF95D765DD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Base color, tu dois regarder dans le trim sheet. C'est n'importe quoi là ce que tu fais. C'est une ancienne base color là que tu as pris.",
+      "text" : "Base color, tu dois regarder dans le trim sheet. C'est n'importe quoi là ce que tu fais. C'est une ancienne base color là que tu as pris."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812995951.302807,
+      "id" : "7F2118F5-41B7-45F6-ADA6-B42B7EA50184",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pendant, tu peux me redonner l'état de la vidéo et le dossier, parce que normalement tu avais créé un fichier .md, mais j'aimerais en une ligne que tu me redonnes la vidéo qu'on avait commencé à faire.",
+      "text" : "Pendant, tu peux me redonner l'état de la vidéo et le dossier, parce que normalement tu avais créé un fichier .md, mais j'aimerais en une ligne que tu me redonnes la vidéo qu'on avait commencé à faire."
     }
   ],
   "modes" : [
