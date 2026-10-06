@@ -699,6 +699,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ça ne fonctionne pas du tout parce que ce que tu oublies, c'est qu'il y a un dégradé par rapport à l'extérieur, dans le sens où l'extérieur de la fleur, elle est toujours blanche et l'intérieur, il est chargé en couleur. Et ça fait que même tes couleurs, tu ne les maîtrises pas du tout, alors que je t'ai pourtant donné une image que tu aurais dû utiliser en termes de référence. Alors après, je peux te la redonner et la save, mais ce qu'il faut, c'est que tu comprennes qu'il y a vraiment un dégradé qui fait que le contour du pétale est quasi toujours blanc.",
       "text" : "Ça ne fonctionne pas du tout parce que ce que tu oublies, c'est qu'il y a un dégradé par rapport à l'extérieur, dans le sens où l'extérieur de la fleur, elle est toujours blanche et l'intérieur, il est chargé en couleur. Et ça fait que même tes couleurs, tu ne les maîtrises pas du tout, alors que je t'ai pourtant donné une image que tu aurais dû utiliser en termes de référence. Alors après, je peux te la redonner et la save, mais ce qu'il faut, c'est que tu comprennes qu'il y a vraiment un dégradé qui fait que le contour du pétale est quasi toujours blanc."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812938526.013906,
+      "id" : "1F565623-7784-4EAA-9125-D8C9E46562FE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "On va développer trois points. On va dire que j'ai développé un outil sur Maya qui ressemblait à l'outil de modélisation procédurale qui ressemble à Houdini et dit que j'ai essayé de build une version similaire à ça. Ensuite, j'ai build une interface qui permettait d'ajouter directement des matériaux, une collection de matériaux qui étaient déjà faites. Et enfin, j'ai créé un troisième plugin qui permettait de packager des UV très simplement grâce à une interface aussi directement dans Maya.",
+      "text" : "On va développer trois points. On va dire que j'ai développé un outil sur Maya qui ressemblait à l'outil de modélisation procédurale qui ressemble à Houdini et dit que j'ai essayé de build une version similaire à ça. Ensuite, j'ai build une interface qui permettait d'ajouter directement des matériaux, une collection de matériaux qui étaient déjà faites. Et enfin, j'ai créé un troisième plugin qui permettait de packager des UV très simplement grâce à une interface aussi directement dans Maya."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812938544.898093,
+      "id" : "9C6D2E6F-8300-42A4-82AA-FCDB27384DFD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Plutôt jusqu'en 2023 parce que depuis 2023, j'ai vraiment un chiffre sur Unreal et WoodWing.",
+      "text" : "Plutôt jusqu'en 2023 parce que depuis 2023, j'ai vraiment un chiffre sur Unreal et WoodWing."
     }
   ],
   "modes" : [
