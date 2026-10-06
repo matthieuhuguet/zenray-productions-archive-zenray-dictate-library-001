@@ -1409,6 +1409,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Pour le mouvement de caméra, ça devrait être encore plus au ras du sol et à la fin, ça devrait être au même degré et ça devrait monter jusqu'à peut-être 55° pour vraiment avoir une vue top down. Et un autre mouvement exactement pareil, mais qui resterait fixe en termes d'élévation de degré. Par contre, on garderait le fait que le tour complet démarre lentement, accélère au milieu et ralentit à la fin.",
       "text" : "Pour le mouvement de caméra, ça devrait être encore plus au ras du sol et à la fin, ça devrait être au même degré et ça devrait monter jusqu'à peut-être 55° pour vraiment avoir une vue top down. Et un autre mouvement exactement pareil, mais qui resterait fixe en termes d'élévation de degré. Par contre, on garderait le fait que le tour complet démarre lentement, accélère au milieu et ralentit à la fin."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812997500.006719,
+      "id" : "FAD6FD52-7711-4AEF-BF32-3B9232463842",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "L'éclairage n'est pas encore parfait. Il faudrait que ce soit méga subtil, un peu comme une scène japonaise. Il faudrait un truc un petit peu plus fin en termes d'éclairage et de subtilité. Là, c'est un petit peu trop éclairé. Il faudrait faire quelque chose de beaucoup plus fin dans l'éclairage si tu peux. Fais-moi trois propositions d'éclairage sur une trim sheet.",
+      "text" : "L'éclairage n'est pas encore parfait. Il faudrait que ce soit méga subtil, un peu comme une scène japonaise. Il faudrait un truc un petit peu plus fin en termes d'éclairage et de subtilité. Là, c'est un petit peu trop éclairé. Il faudrait faire quelque chose de beaucoup plus fin dans l'éclairage si tu peux. Fais-moi trois propositions d'éclairage sur une trim sheet."
     }
   ],
   "modes" : [
