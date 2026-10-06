@@ -1639,6 +1639,46 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Je pense que dans le post, tu peux ajouter les trois versions, s'il te plaît. Les trois versions, donc tu commences par anglais, puis français, puis japonais.",
       "text" : "Je pense que dans le post, tu peux ajouter les trois versions, s'il te plaît. Les trois versions, donc tu commences par anglais, puis français, puis japonais."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813005345.385566,
+      "id" : "265E71ED-3EBE-4C8B-8EA4-EF6BC6C7C76C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Les commentaires sont un peu buggés parce que parfois ils apparaissent pas et parfois ils apparaissent mais sans rien à faire. Donc c'est un chelou.",
+      "text" : "Les commentaires sont un peu buggés parce que parfois ils apparaissent pas et parfois ils apparaissent mais sans rien à faire. Donc c'est un chelou."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813005431.804392,
+      "id" : "0DEB87DE-8648-48AE-86A4-FC173B98D104",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Oui, sauf que comme sur les thumbnails, j'avais trois titres différents au niveau de l'article. C'est qu'il y avait trois titres différents.",
+      "text" : "Oui, sauf que comme sur les thumbnails, j'avais trois titres différents au niveau de l'article. C'est qu'il y avait trois titres différents."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813005456.19307,
+      "id" : "7B7701BB-177C-45DE-B66B-7A964ACBABD5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "les abstractions de ce qui fonctionne",
+      "text" : "les abstractions de ce qui fonctionne"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813005531.116777,
+      "id" : "49A8E51B-06F6-4AAB-BBE2-C979C5778529",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Dans certains posts, tu as commencé à ajouter des trucs qui servent à rien. Tu as écrit trois fois référence, il fallait juste écrire réf. Tu as mis du japonais en plein milieu du truc alors qu'il fallait pas en mettre. C'étaient juste des posts en anglais là. Donc concentre-toi, on a bientôt fini mais là tu commences à faire de la merde. Simplifie le post.",
+      "text" : "Dans certains posts, tu as commencé à ajouter des trucs qui servent à rien. Tu as écrit trois fois référence, il fallait juste écrire réf. Tu as mis du japonais en plein milieu du truc alors qu'il fallait pas en mettre. C'étaient juste des posts en anglais là. Donc concentre-toi, on a bientôt fini mais là tu commences à faire de la merde. Simplifie le post."
     }
   ],
   "modes" : [
