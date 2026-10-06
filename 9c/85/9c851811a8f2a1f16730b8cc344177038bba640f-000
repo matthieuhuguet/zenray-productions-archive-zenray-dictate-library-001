@@ -1089,6 +1089,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "En fait, si on fait une animation, faut pas faire de fade-in et d'animation. Ce qu'on va faire, c'est qu'on va faire un pop immédiat à 1 seconde. Et ce sera tout, mais j'ai l'impression que Ah, je sais ce que je vais faire.",
       "text" : "En fait, si on fait une animation, faut pas faire de fade-in et d'animation. Ce qu'on va faire, c'est qu'on va faire un pop immédiat à 1 seconde. Et ce sera tout, mais j'ai l'impression que Ah, je sais ce que je vais faire."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812983879.193291,
+      "id" : "0B418314-802C-4B0D-93CF-4733B63809BD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et simule toutes les graisses de fontes pour l'installer proprement. Du coup, j'aimerais l'avoir de light à black. Ou sinon, tu peux juste faire de light à bold, ce sera déjà pas mal.",
+      "text" : "Et simule toutes les graisses de fontes pour l'installer proprement. Du coup, j'aimerais l'avoir de light à black. Ou sinon, tu peux juste faire de light à bold, ce sera déjà pas mal."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812983928.37314,
+      "id" : "786ED274-299A-4B03-B5A9-AF22A4CF514F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Dans la partie fonts de Claude.md, tu peux ajouter l'utilisation de Vogue parce que c'est intéressant.",
+      "text" : "Dans la partie fonts de Claude.md, tu peux ajouter l'utilisation de Vogue parce que c'est intéressant."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812984083.189961,
+      "id" : "B585901A-937C-4691-B749-F93058BF2141",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Bizarre que ce soit si lent parce que j'ai quand même une puce M5 Max. On est déjà à 131 frames sur 240, donc on va pas s'arrêter là. Mais je comprends pas trop pourquoi c'est aussi lent. Je suis sûr qu'il y a un paramètre que tu as pas activé dans iGPU ou un truc dans le style parce que mon Mac devrait être beaucoup plus rapide. Et même d'ailleurs là, j'ai l'impression qu'il utilise pas toutes ses capacités parce qu'il est pas très très chaud, ni il fait pas beaucoup de bruit. Donc je pense qu'il y a un paramètre que tu as oublié d'activer. Mais bon, on le fera pour la prochaine fois. Mais il faut juste que tu repères le bug ou le truc que tu as",
+      "text" : "Bizarre que ce soit si lent parce que j'ai quand même une puce M5 Max. On est déjà à 131 frames sur 240, donc on va pas s'arrêter là. Mais je comprends pas trop pourquoi c'est aussi lent. Je suis sûr qu'il y a un paramètre que tu as pas activé dans iGPU ou un truc dans le style parce que mon Mac devrait être beaucoup plus rapide. Et même d'ailleurs là, j'ai l'impression qu'il utilise pas toutes ses capacités parce qu'il est pas très très chaud, ni il fait pas beaucoup de bruit. Donc je pense qu'il y a un paramètre que tu as oublié d'activer. Mais bon, on le fera pour la prochaine fois. Mais il faut juste que tu repères le bug ou le truc que tu as"
     }
   ],
   "modes" : [
