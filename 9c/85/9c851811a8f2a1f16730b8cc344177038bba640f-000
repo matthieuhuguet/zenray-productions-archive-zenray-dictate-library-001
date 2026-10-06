@@ -1179,6 +1179,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Actuellement, j'ai un problème sur Houdini. Karma XPU est pas supporté sur macOS. Donc Karma XPU ne fonctionne pas. Mais du coup, au lieu de tout le temps devoir ouvrir Unreal pour faire mes rendus, j'aimerais simplement ajouter un plugin dans Houdini qui me permette quand même de pouvoir utiliser mon GPU pour faire des rendus plus rapides. En fait, il me faudrait un rendu gratuit à l'image de Cycles dans Blender ou de Lumen dans Unreal. Bref, une global illumination ultra moderne qui est gratuite et intégrale dans Houdini. J'ai entendu parler de Redshift, mais je crois que c'est payant. J'aimerais vraiment quelque chose de gratuit à l'ère de Blender et d'Unreal. Je pense que c'est quand même relativement inutile de payer pour un moteur de rendu et surtout, je veux pas avoir des dépendances via une entreprise. Donc j'aimerais que tu me fasses le state of the art de ce qui existe en termes de rendu. J'aimerais que tu utilises ta propre documentation, ton propre LLM pour aller rechercher dans la data ce qui existe, puis que tu ailles sur le web pour confirmer ce que tu penses. Mais je veux vraiment une recherche très très précise et très très",
       "text" : "Actuellement, j'ai un problème sur Houdini. Karma XPU est pas supporté sur macOS. Donc Karma XPU ne fonctionne pas. Mais du coup, au lieu de tout le temps devoir ouvrir Unreal pour faire mes rendus, j'aimerais simplement ajouter un plugin dans Houdini qui me permette quand même de pouvoir utiliser mon GPU pour faire des rendus plus rapides. En fait, il me faudrait un rendu gratuit à l'image de Cycles dans Blender ou de Lumen dans Unreal. Bref, une global illumination ultra moderne qui est gratuite et intégrale dans Houdini. J'ai entendu parler de Redshift, mais je crois que c'est payant. J'aimerais vraiment quelque chose de gratuit à l'ère de Blender et d'Unreal. Je pense que c'est quand même relativement inutile de payer pour un moteur de rendu et surtout, je veux pas avoir des dépendances via une entreprise. Donc j'aimerais que tu me fasses le state of the art de ce qui existe en termes de rendu. J'aimerais que tu utilises ta propre documentation, ton propre LLM pour aller rechercher dans la data ce qui existe, puis que tu ailles sur le web pour confirmer ce que tu penses. Mais je veux vraiment une recherche très très précise et très très"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812987573.495189,
+      "id" : "C284DA9F-D5AA-42D4-AA54-E2AB977A6764",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais ça n'a aucun intérêt. Du coup, le turnover, putain, tu m'as fait perdre tellement de temps. Déjà, il faudrait que ce soit sur fond gris. Et ensuite là, on dirait que c'est un PNG dont on a simplement décalé des trucs. Donc c'est vraiment de la merde. Je suis hyper déçu en fait. Je suis hyper déçu parce que en fait, je pense que vu qu'on a fait une vue top, en plus la vidéo va beaucoup trop vite pour le turnover. Donc il faudrait au moins la diviser par deux. Mais du coup, on va voir que ça bug un peu au niveau frame. Il faudrait que ça dure au moins 6 secondes. Je suis pas content là, mais bon. Je suis pas content du tout, mais bon. Peut-être que déjà si on le ralentit, ce sera déjà moins pire. Essayons de diviser le temps par deux, donc la vitesse par deux, pour mieux voir le mouvement.",
+      "text" : "Mais ça n'a aucun intérêt. Du coup, le turnover, putain, tu m'as fait perdre tellement de temps. Déjà, il faudrait que ce soit sur fond gris. Et ensuite là, on dirait que c'est un PNG dont on a simplement décalé des trucs. Donc c'est vraiment de la merde. Je suis hyper déçu en fait. Je suis hyper déçu parce que en fait, je pense que vu qu'on a fait une vue top, en plus la vidéo va beaucoup trop vite pour le turnover. Donc il faudrait au moins la diviser par deux. Mais du coup, on va voir que ça bug un peu au niveau frame. Il faudrait que ça dure au moins 6 secondes. Je suis pas content là, mais bon. Je suis pas content du tout, mais bon. Peut-être que déjà si on le ralentit, ce sera déjà moins pire. Essayons de diviser le temps par deux, donc la vitesse par deux, pour mieux voir le mouvement."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812987644.275377,
+      "id" : "F8595F57-1A48-47F3-B514-9EAA72127E4C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il fallait une vue trois-quarts beaucoup plus proche qui faisait le mouvement. Et j'aurais dû te demander de confirmer avec trois images différentes avant de lancer le rendu Karma. Bah là, c'est trop tard du coup. Mais en soi, ce que tu peux faire... Je sais pas ce qu'on peut faire.",
+      "text" : "Il fallait une vue trois-quarts beaucoup plus proche qui faisait le mouvement. Et j'aurais dû te demander de confirmer avec trois images différentes avant de lancer le rendu Karma. Bah là, c'est trop tard du coup. Mais en soi, ce que tu peux faire... Je sais pas ce qu'on peut faire."
     }
   ],
   "modes" : [
