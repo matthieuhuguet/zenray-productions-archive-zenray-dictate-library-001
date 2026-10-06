@@ -729,6 +729,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Je pense qu'en fait il faut pas forcément leur dire tous les trucs avec Claude Code, tu vois. Il faut juste parler de Houdini et tout. Tu as juste vraiment juste à supprimer ces deux lignes.",
       "text" : "Je pense qu'en fait il faut pas forcément leur dire tous les trucs avec Claude Code, tu vois. Il faut juste parler de Houdini et tout. Tu as juste vraiment juste à supprimer ces deux lignes."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812966991.664923,
+      "id" : "C561EEE6-62CD-46F0-A10E-A36D56A830D4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Envoie un mail à user safety d'Anthropic pour dire que mon compte a été banni sans que j'ai aucune précision de pourquoi. J'avais aussi payé une souscription annuelle à 216 €, j'espère que ce montant va être intégralement remboursé. Et enfin, j'aimerais que mon compte soit immédiatement remboursé. C'est quand même honteux comme pratique commerciale, je n'ai eu aucun surtout que je suis sûr et certain que je n'ai rien fait de illégal. Je faisais de la 3D donc je ne vois pas où est-ce que j'aurais pu faire quelque chose de pas légal.",
+      "text" : "Envoie un mail à user safety d'Anthropic pour dire que mon compte a été banni sans que j'ai aucune précision de pourquoi. J'avais aussi payé une souscription annuelle à 216 €, j'espère que ce montant va être intégralement remboursé. Et enfin, j'aimerais que mon compte soit immédiatement remboursé. C'est quand même honteux comme pratique commerciale, je n'ai eu aucun surtout que je suis sûr et certain que je n'ai rien fait de illégal. Je faisais de la 3D donc je ne vois pas où est-ce que j'aurais pu faire quelque chose de pas légal."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812967060.156357,
+      "id" : "8C0EEE74-645B-4D89-A3CC-27C4098A39D3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "la manière dont vous pouvez bannir un compte, surtout vis-à-vis de l'accès dont on a besoin à Claude. Je trouve que c'est très mal la manière dont vous avez procédé.",
+      "text" : "la manière dont vous pouvez bannir un compte, surtout vis-à-vis de l'accès dont on a besoin à Claude. Je trouve que c'est très mal la manière dont vous avez procédé."
     }
   ],
   "modes" : [
