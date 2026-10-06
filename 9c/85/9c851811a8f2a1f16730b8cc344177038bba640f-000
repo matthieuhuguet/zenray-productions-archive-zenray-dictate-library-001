@@ -769,6 +769,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ajoute au mail, je pense que mon compte s'est fait bannir uniquement parce que je me connecte et déconnecte souvent, mais je ne vois pas en quoi ce serait une raison de me bannir. Je me connecte d'ailleurs directement via l'intégration Google. Donc, franchement, s'il y a une erreur, c'est de votre part, pas de la mienne.",
       "text" : "Ajoute au mail, je pense que mon compte s'est fait bannir uniquement parce que je me connecte et déconnecte souvent, mais je ne vois pas en quoi ce serait une raison de me bannir. Je me connecte d'ailleurs directement via l'intégration Google. Donc, franchement, s'il y a une erreur, c'est de votre part, pas de la mienne."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812969174.523306,
+      "id" : "DD0C2D89-F187-48E5-90A5-AFFAF925B07E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "L'adresse du support qui me permet de parler à des humains parce que là je me suis tapé tous les chatbots depuis 3 heures et j'arrive pas à trouver un support qui me permette vraiment d'avoir un vrai support humain pour résoudre mon problème. Je me suis juste fait bannir et je peux absolument rien faire. Ça commence à m'énerver et Claude veut faire une valorisation à 2000 milliards mais ils sont pas capables de foutre un support humain. Ils se foutent de ma gueule.",
+      "text" : "L'adresse du support qui me permet de parler à des humains parce que là je me suis tapé tous les chatbots depuis 3 heures et j'arrive pas à trouver un support qui me permette vraiment d'avoir un vrai support humain pour résoudre mon problème. Je me suis juste fait bannir et je peux absolument rien faire. Ça commence à m'énerver et Claude veut faire une valorisation à 2000 milliards mais ils sont pas capables de foutre un support humain. Ils se foutent de ma gueule."
     }
   ],
   "modes" : [
