@@ -779,6 +779,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "L'adresse du support qui me permet de parler à des humains parce que là je me suis tapé tous les chatbots depuis 3 heures et j'arrive pas à trouver un support qui me permette vraiment d'avoir un vrai support humain pour résoudre mon problème. Je me suis juste fait bannir et je peux absolument rien faire. Ça commence à m'énerver et Claude veut faire une valorisation à 2000 milliards mais ils sont pas capables de foutre un support humain. Ils se foutent de ma gueule.",
       "text" : "L'adresse du support qui me permet de parler à des humains parce que là je me suis tapé tous les chatbots depuis 3 heures et j'arrive pas à trouver un support qui me permette vraiment d'avoir un vrai support humain pour résoudre mon problème. Je me suis juste fait bannir et je peux absolument rien faire. Ça commence à m'énerver et Claude veut faire une valorisation à 2000 milliards mais ils sont pas capables de foutre un support humain. Ils se foutent de ma gueule."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812970108.788034,
+      "id" : "E939AAD7-476C-453B-8DAE-4726BF7D2F6F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'aimerais plutôt que chaque fleur ait un pétale différent. Mais par contre, pour le fuchsia le plus élevé, c'est pas exactement ce que je voulais faire et les points sont pas encore exactement assez gros. J'aimerais que tu fasses des points un petit peu plus gros, peut-être un peu moins nombreux. Pour la couleur rose, au lieu d'avoir une couleur carrément fuchsia, il faudrait juste avoir une couleur rose, une variation à partir de celle du milieu, qui soit plutôt un peu comme la fleur que je t'ai donnée en référence, la fleur centrale. C'est-à-dire qu'elle est un peu comme si ça avait été délavé sur certains endroits. Parce que là, tes pétales, ils sont un peu trop nets. Voilà ce qu'il faut faire. Le troisième, du coup, c'est le pétale délavé. Et les points, il faut que tu mettes des points un petit peu plus gros.",
+      "text" : "J'aimerais plutôt que chaque fleur ait un pétale différent. Mais par contre, pour le fuchsia le plus élevé, c'est pas exactement ce que je voulais faire et les points sont pas encore exactement assez gros. J'aimerais que tu fasses des points un petit peu plus gros, peut-être un peu moins nombreux. Pour la couleur rose, au lieu d'avoir une couleur carrément fuchsia, il faudrait juste avoir une couleur rose, une variation à partir de celle du milieu, qui soit plutôt un peu comme la fleur que je t'ai donnée en référence, la fleur centrale. C'est-à-dire qu'elle est un peu comme si ça avait été délavé sur certains endroits. Parce que là, tes pétales, ils sont un peu trop nets. Voilà ce qu'il faut faire. Le troisième, du coup, c'est le pétale délavé. Et les points, il faut que tu mettes des points un petit peu plus gros."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812970323.588418,
+      "id" : "0BAD220C-3247-44C5-B123-4F6ABA57566F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et enfin, chaque fleur va récupérer l'ID d'un seul pétale. Il y a jamais deux pétales différents.",
+      "text" : "Et enfin, chaque fleur va récupérer l'ID d'un seul pétale. Il y a jamais deux pétales différents."
     }
   ],
   "modes" : [
