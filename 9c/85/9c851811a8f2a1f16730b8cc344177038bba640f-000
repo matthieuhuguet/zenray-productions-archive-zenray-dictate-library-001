@@ -1029,6 +1029,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "J'aimerais créer une animation qui se jouerait en peut-être en 3 secondes et du coup en 1 seconde tu aurais un texte d'apparition qui dirait par exemple Zen-Ray Végétation Collection 01 Fleur de Lys en français, c'est joli. Et en fait, j'aimerais que ça apparaisse un peu à la manière de de NieR:Automata mais comme si le texte était pas buggé mais un peu je sais pas comment expliquer cet effet mais un peu cybernétique mais uniquement dans le mouvement d'apparition. C'est-à-dire que la fonte c'est Claude Entropic Serif Light mais la manière dont apparaît le texte c'est cybernétique. Donc je sais pas trop comment faire pour que ce soit parfait mais je veux que le texte occupe le maximum d'espace. Et je veux aussi qu'il y ait un fichier .md qui résume l'animation du texte. Je sais pas comment faire. Peut-être tu peux me proposer trois propositions et je te dis quelle est l'animation qui me satisfait le mieux. Et en fait, si je décris le mouvement, c'est en 1 seconde ça apparaît avec un mouvement frénétique un peu comme à la fois une mi-paillette et un mouvement glitch qui apparaît en mode Ah oui, un peu comme un mouvement électrique qui brancherait un glitch et qui activerait un circuit. C'est bizarre à décrire mais c'est uniquement sur les lettres d'apparition, tu vois, il y a pas d'effet de VFX dessus. Parce que si tu commences à créer des VG ou des effets de VF, ça va pas fonctionner. Non non, c'est vraiment sur le mouvement d'animation des lettres. C'est en mode les lettres sont révélées comme si c'était un circuit électrique. Et il y a deux lignes. Il y a Zen-Ray Végétation Collection 01 retour à la ligne et sur le retour à la ligne il y a marqué Fleur de Lys. Voilà. Voilà, c'est tout. Et du coup, ça apparaît en 1 seconde. Enfin, tout le texte apparaît en 1 seconde, ça reste affiché 3 secondes et ça disparaît en 1 seconde. Donc il y a un fade-in et un fade-out.",
       "text" : "J'aimerais créer une animation qui se jouerait en peut-être en 3 secondes et du coup en 1 seconde tu aurais un texte d'apparition qui dirait par exemple Zen-Ray Végétation Collection 01 Fleur de Lys en français, c'est joli. Et en fait, j'aimerais que ça apparaisse un peu à la manière de de NieR:Automata mais comme si le texte était pas buggé mais un peu je sais pas comment expliquer cet effet mais un peu cybernétique mais uniquement dans le mouvement d'apparition. C'est-à-dire que la fonte c'est Claude Entropic Serif Light mais la manière dont apparaît le texte c'est cybernétique. Donc je sais pas trop comment faire pour que ce soit parfait mais je veux que le texte occupe le maximum d'espace. Et je veux aussi qu'il y ait un fichier .md qui résume l'animation du texte. Je sais pas comment faire. Peut-être tu peux me proposer trois propositions et je te dis quelle est l'animation qui me satisfait le mieux. Et en fait, si je décris le mouvement, c'est en 1 seconde ça apparaît avec un mouvement frénétique un peu comme à la fois une mi-paillette et un mouvement glitch qui apparaît en mode Ah oui, un peu comme un mouvement électrique qui brancherait un glitch et qui activerait un circuit. C'est bizarre à décrire mais c'est uniquement sur les lettres d'apparition, tu vois, il y a pas d'effet de VFX dessus. Parce que si tu commences à créer des VG ou des effets de VF, ça va pas fonctionner. Non non, c'est vraiment sur le mouvement d'animation des lettres. C'est en mode les lettres sont révélées comme si c'était un circuit électrique. Et il y a deux lignes. Il y a Zen-Ray Végétation Collection 01 retour à la ligne et sur le retour à la ligne il y a marqué Fleur de Lys. Voilà. Voilà, c'est tout. Et du coup, ça apparaît en 1 seconde. Enfin, tout le texte apparaît en 1 seconde, ça reste affiché 3 secondes et ça disparaît en 1 seconde. Donc il y a un fade-in et un fade-out."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812981772.728789,
+      "id" : "B344C81A-0921-4248-8282-6EB3E6CC6212",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "De toute manière, ce que tu as oublié, c'est que ça va toujours de gauche à droite et de haut en bas. Donc déjà, il faut que tu adaptes sur les animations. Et enfin, c'est pas mal, mais c'est pas encore ça.",
+      "text" : "De toute manière, ce que tu as oublié, c'est que ça va toujours de gauche à droite et de haut en bas. Donc déjà, il faut que tu adaptes sur les animations. Et enfin, c'est pas mal, mais c'est pas encore ça."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812981936.461416,
+      "id" : "0DFC4223-EFBD-4CC7-8198-2033EAEF9AE1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je sais exactement comment on peut faire. On peut diviser toute la grille via des tout petits cubes ou pixels et tu me crées trois nouvelles animations où ça s'anime comme si c'était des cubes qui venaient s'agglutiner. C'est à la fois l'effet le plus fin, ça va faire un peu comme du sable qui est en train de se former, et l'effet le plus gros, ça va faire comme si des cubes ils s'aggloméraient, un peu comme dans un jeu comme dans Crimson Desert, il y avait cet esprit un peu de voxel sur les VFX, mais en fait c'est à peu près ça. Tu fais trois variations de cubes plus ou moins gros pour que ça fasse un nouvel effet. Mais tu crées trois nouvelles animations avec l'association des fichiers",
+      "text" : "Je sais exactement comment on peut faire. On peut diviser toute la grille via des tout petits cubes ou pixels et tu me crées trois nouvelles animations où ça s'anime comme si c'était des cubes qui venaient s'agglutiner. C'est à la fois l'effet le plus fin, ça va faire un peu comme du sable qui est en train de se former, et l'effet le plus gros, ça va faire comme si des cubes ils s'aggloméraient, un peu comme dans un jeu comme dans Crimson Desert, il y avait cet esprit un peu de voxel sur les VFX, mais en fait c'est à peu près ça. Tu fais trois variations de cubes plus ou moins gros pour que ça fasse un nouvel effet. Mais tu crées trois nouvelles animations avec l'association des fichiers"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812981952.15806,
+      "id" : "B73F28FE-D169-4943-8474-87EC8343B170",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Toujours dans le même ordre par rapport au mouvement",
+      "text" : "Toujours dans le même ordre par rapport au mouvement"
     }
   ],
   "modes" : [
