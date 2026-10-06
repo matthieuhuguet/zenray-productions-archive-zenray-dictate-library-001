@@ -1439,6 +1439,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Pour la vidéo, ce serait cool que tu remplaces les... Parce que du coup, je sais plus où on en était. Ah oui, on avait mis le titre, mais sauf que le titre, j'ai l'impression que c'est pas mis dans son format. Enfin bref. Du coup, J'ai l'impression que l'index de la vidéo, c'est pas forcément le bon fichier. Mais bon, je ne sais pas. En tout cas, OK.",
       "text" : "Pour la vidéo, ce serait cool que tu remplaces les... Parce que du coup, je sais plus où on en était. Ah oui, on avait mis le titre, mais sauf que le titre, j'ai l'impression que c'est pas mis dans son format. Enfin bref. Du coup, J'ai l'impression que l'index de la vidéo, c'est pas forcément le bon fichier. Mais bon, je ne sais pas. En tout cas, OK."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812998371.830646,
+      "id" : "C5F089B9-1BF5-4573-AAC9-BF34045B0A47",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Maintenant, tu vas relancer le rendu en 2K de mais avec simplement une seule fleur, s'il te plaît.",
+      "text" : "Maintenant, tu vas relancer le rendu en 2K de mais avec simplement une seule fleur, s'il te plaît."
     }
   ],
   "modes" : [
