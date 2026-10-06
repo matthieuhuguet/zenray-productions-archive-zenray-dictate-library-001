@@ -949,6 +949,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "En fait, si tu veux, le workflow c'était de faire en sorte de modifier via ImageGen une image qu'on a générée dans Houdini. Donc en fait, si tu veux, c'est simplement que on va appliquer sur nos nouvelles images génération ce qu'on a généré sur Houdini, en fait pour faire du back and forth et pour aller plus vite dans le fait de générer des textures.",
       "text" : "En fait, si tu veux, le workflow c'était de faire en sorte de modifier via ImageGen une image qu'on a générée dans Houdini. Donc en fait, si tu veux, c'est simplement que on va appliquer sur nos nouvelles images génération ce qu'on a généré sur Houdini, en fait pour faire du back and forth et pour aller plus vite dans le fait de générer des textures."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812976772.222764,
+      "id" : "C91D87B7-FAB6-4027-A203-2829233EDEE4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Parce que tu es plus dégradé vert qui part du centre et qui s'adoucit vers le rose. Donc là, actuellement, c'est pas ça et en plus il reste du du fuchsia \/ magenta \/ rose au centre. Donc c'est pas encore exactement ça.",
+      "text" : "Parce que tu es plus dégradé vert qui part du centre et qui s'adoucit vers le rose. Donc là, actuellement, c'est pas ça et en plus il reste du du fuchsia \/ magenta \/ rose au centre. Donc c'est pas encore exactement ça."
     }
   ],
   "modes" : [
