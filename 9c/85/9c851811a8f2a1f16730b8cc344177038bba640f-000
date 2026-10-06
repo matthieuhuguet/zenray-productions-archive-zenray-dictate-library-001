@@ -1849,6 +1849,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Moi, idéalement, je mettrais 75k, mais en vrai, j'ai quasi aucune expérience, donc les mecs ils vont serrer si je mets un tel salaire.",
       "text" : "Moi, idéalement, je mettrais 75k, mais en vrai, j'ai quasi aucune expérience, donc les mecs ils vont serrer si je mets un tel salaire."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813018356.862189,
+      "id" : "753E8C65-585A-4887-B66D-9E1F7C8AEFF2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Puisque du coup tu vois Zenray Assets, le protocole, je me demande s'il continue de rechercher des offres toutes les 6 heures même s'il a plus Claude en tant que API intégrée. Je me demande comment ça va fonctionner.",
+      "text" : "Puisque du coup tu vois Zenray Assets, le protocole, je me demande s'il continue de rechercher des offres toutes les 6 heures même s'il a plus Claude en tant que API intégrée. Je me demande comment ça va fonctionner."
     }
   ],
   "modes" : [
