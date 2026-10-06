@@ -1129,6 +1129,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Parfait, du coup, on va utiliser cette méthode. Du coup, on va juste refaire une nouvelle variante d'animation et du coup, ça va juste être un pop média à 1 seconde. Pop média à 1 seconde. On peut aussi tenter le pop média à 1,5 seconde, mais il n'y aura pas de fade-in sur les animations et du coup, ce sera directement les deux textes qui apparaissent directement à 1 seconde. Comme ça, ce sera très très simple et très très beau. Et du coup, ben il faut que tu utilises Vogue Vogue Vogue Medium en revanche, donc la fonte, donc la police. En revanche, la première ligne, elle est en case pas caps, sauf que la deuxième, elle est en caps lock. Et tu me fais une variation en full caps lock aussi. Et tu me fais même une troisième variation en caps",
       "text" : "Parfait, du coup, on va utiliser cette méthode. Du coup, on va juste refaire une nouvelle variante d'animation et du coup, ça va juste être un pop média à 1 seconde. Pop média à 1 seconde. On peut aussi tenter le pop média à 1,5 seconde, mais il n'y aura pas de fade-in sur les animations et du coup, ce sera directement les deux textes qui apparaissent directement à 1 seconde. Comme ça, ce sera très très simple et très très beau. Et du coup, ben il faut que tu utilises Vogue Vogue Vogue Medium en revanche, donc la fonte, donc la police. En revanche, la première ligne, elle est en case pas caps, sauf que la deuxième, elle est en caps lock. Et tu me fais une variation en full caps lock aussi. Et tu me fais même une troisième variation en caps"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812984990.867235,
+      "id" : "7B86A925-C0F8-4151-BD82-B72C19BAF95F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Bon, ça marche pas, ça va être beaucoup trop long, mais on a déjà les trucs. Donc maintenant, compile-moi toute ma vidéo avec toutes les instructions que je t'avais données.",
+      "text" : "Bon, ça marche pas, ça va être beaucoup trop long, mais on a déjà les trucs. Donc maintenant, compile-moi toute ma vidéo avec toutes les instructions que je t'avais données."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812985007.939337,
+      "id" : "A17F400D-5017-4949-ABBF-78ABC19A9CEC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "a déjà les 72 frames donc tu as pas besoin de les recalculer et ça va être beaucoup trop long en 1080p donc puisqu'on avait déjà les images de 720p ça suffira pour l'instant.",
+      "text" : "a déjà les 72 frames donc tu as pas besoin de les recalculer et ça va être beaucoup trop long en 1080p donc puisqu'on avait déjà les images de 720p ça suffira pour l'instant."
     }
   ],
   "modes" : [
