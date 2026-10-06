@@ -1119,6 +1119,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Bizarre que ce soit si lent parce que j'ai quand même une puce M5 Max. On est déjà à 131 frames sur 240, donc on va pas s'arrêter là. Mais je comprends pas trop pourquoi c'est aussi lent. Je suis sûr qu'il y a un paramètre que tu as pas activé dans iGPU ou un truc dans le style parce que mon Mac devrait être beaucoup plus rapide. Et même d'ailleurs là, j'ai l'impression qu'il utilise pas toutes ses capacités parce qu'il est pas très très chaud, ni il fait pas beaucoup de bruit. Donc je pense qu'il y a un paramètre que tu as oublié d'activer. Mais bon, on le fera pour la prochaine fois. Mais il faut juste que tu repères le bug ou le truc que tu as",
       "text" : "Bizarre que ce soit si lent parce que j'ai quand même une puce M5 Max. On est déjà à 131 frames sur 240, donc on va pas s'arrêter là. Mais je comprends pas trop pourquoi c'est aussi lent. Je suis sûr qu'il y a un paramètre que tu as pas activé dans iGPU ou un truc dans le style parce que mon Mac devrait être beaucoup plus rapide. Et même d'ailleurs là, j'ai l'impression qu'il utilise pas toutes ses capacités parce qu'il est pas très très chaud, ni il fait pas beaucoup de bruit. Donc je pense qu'il y a un paramètre que tu as oublié d'activer. Mais bon, on le fera pour la prochaine fois. Mais il faut juste que tu repères le bug ou le truc que tu as"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812984361.394595,
+      "id" : "5FC683B0-6919-4A19-9C3A-0A091DBEA125",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Parfait, du coup, on va utiliser cette méthode. Du coup, on va juste refaire une nouvelle variante d'animation et du coup, ça va juste être un pop média à 1 seconde. Pop média à 1 seconde. On peut aussi tenter le pop média à 1,5 seconde, mais il n'y aura pas de fade-in sur les animations et du coup, ce sera directement les deux textes qui apparaissent directement à 1 seconde. Comme ça, ce sera très très simple et très très beau. Et du coup, ben il faut que tu utilises Vogue Vogue Vogue Medium en revanche, donc la fonte, donc la police. En revanche, la première ligne, elle est en case pas caps, sauf que la deuxième, elle est en caps lock. Et tu me fais une variation en full caps lock aussi. Et tu me fais même une troisième variation en caps",
+      "text" : "Parfait, du coup, on va utiliser cette méthode. Du coup, on va juste refaire une nouvelle variante d'animation et du coup, ça va juste être un pop média à 1 seconde. Pop média à 1 seconde. On peut aussi tenter le pop média à 1,5 seconde, mais il n'y aura pas de fade-in sur les animations et du coup, ce sera directement les deux textes qui apparaissent directement à 1 seconde. Comme ça, ce sera très très simple et très très beau. Et du coup, ben il faut que tu utilises Vogue Vogue Vogue Medium en revanche, donc la fonte, donc la police. En revanche, la première ligne, elle est en case pas caps, sauf que la deuxième, elle est en caps lock. Et tu me fais une variation en full caps lock aussi. Et tu me fais même une troisième variation en caps"
     }
   ],
   "modes" : [
