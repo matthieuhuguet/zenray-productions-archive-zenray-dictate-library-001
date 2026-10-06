@@ -1219,6 +1219,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Dis-moi le state of the art en 2026, notamment en termes de base d'utilisateurs, et dis-moi aussi s'il existe d'autres moteurs de rendu et lesquels privilégier dans mon travail parce que je préfère avoir un esprit critique sur ça. Mais j'aimerais que tu me donnes ce que tu penses être les choses intéressantes à",
       "text" : "Dis-moi le state of the art en 2026, notamment en termes de base d'utilisateurs, et dis-moi aussi s'il existe d'autres moteurs de rendu et lesquels privilégier dans mon travail parce que je préfère avoir un esprit critique sur ça. Mais j'aimerais que tu me donnes ce que tu penses être les choses intéressantes à"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812989324.675451,
+      "id" : "DCB32705-250D-4702-8212-2DEF256FF091",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ce qui est dommage, c'est qu'on ne peut pas installer Lumen sur Houdini en fait. C'est dommage. Mais peut-être que ce serait possible via un plugin personnalisé.",
+      "text" : "Ce qui est dommage, c'est qu'on ne peut pas installer Lumen sur Houdini en fait. C'est dommage. Mais peut-être que ce serait possible via un plugin personnalisé."
     }
   ],
   "modes" : [
