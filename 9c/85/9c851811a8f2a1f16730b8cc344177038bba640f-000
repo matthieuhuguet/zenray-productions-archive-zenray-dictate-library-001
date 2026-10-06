@@ -1809,6 +1809,46 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Du coup, je mets quoi en termes de salaire ? Je pense qu'il faut mettre quelque chose qui va leur plaire.",
       "text" : "Du coup, je mets quoi en termes de salaire ? Je pense qu'il faut mettre quelque chose qui va leur plaire."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813017829.459508,
+      "id" : "96B5CFF3-CDB2-4240-B786-B2DBD251B9AF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Du coup, j'ai noté :\n\nNoisy Student Game\n\nSanta Simulator Christmas Factory\n\nPet Grooming Simulator - Unreleased but paid\n\nBakery Cafe Simulator",
+      "text" : "Du coup, j'ai noté :\n\nNoisy Student Game\n\nSanta Simulator Christmas Factory\n\nPet Grooming Simulator - Unreleased but paid\n\nBakery Cafe Simulator"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813018007.653781,
+      "id" : "06DC200D-132A-4ECE-A61E-49E462B9AF1F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donne-moi les réponses, après tu peux me poser les questions et je réponds. Mais là par exemple, c'est une autre offre d'embauche et j'ai mis 65k annuel, ce qui me semble très correct.",
+      "text" : "Donne-moi les réponses, après tu peux me poser les questions et je réponds. Mais là par exemple, c'est une autre offre d'embauche et j'ai mis 65k annuel, ce qui me semble très correct."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813018142.246905,
+      "id" : "73B080A8-B44D-4EC9-934A-1F0E888A0A12",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je mets 65k minimum, mais la question c'est est-ce que je vais plus haut. Parce que c'est pas un rôle de technical artist, c'est un autre rôle.",
+      "text" : "Je mets 65k minimum, mais la question c'est est-ce que je vais plus haut. Parce que c'est pas un rôle de technical artist, c'est un autre rôle."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813018161.017955,
+      "id" : "0B9757AC-A042-4969-991A-4DD707774475",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Moi, idéalement, je mettrais 75k, mais en vrai, j'ai quasi aucune expérience, donc les mecs ils vont serrer si je mets un tel salaire.",
+      "text" : "Moi, idéalement, je mettrais 75k, mais en vrai, j'ai quasi aucune expérience, donc les mecs ils vont serrer si je mets un tel salaire."
     }
   ],
   "modes" : [
