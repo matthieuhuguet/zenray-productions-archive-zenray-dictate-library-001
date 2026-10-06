@@ -1679,6 +1679,46 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Dans certains posts, tu as commencé à ajouter des trucs qui servent à rien. Tu as écrit trois fois référence, il fallait juste écrire réf. Tu as mis du japonais en plein milieu du truc alors qu'il fallait pas en mettre. C'étaient juste des posts en anglais là. Donc concentre-toi, on a bientôt fini mais là tu commences à faire de la merde. Simplifie le post.",
       "text" : "Dans certains posts, tu as commencé à ajouter des trucs qui servent à rien. Tu as écrit trois fois référence, il fallait juste écrire réf. Tu as mis du japonais en plein milieu du truc alors qu'il fallait pas en mettre. C'étaient juste des posts en anglais là. Donc concentre-toi, on a bientôt fini mais là tu commences à faire de la merde. Simplifie le post."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813007549.434512,
+      "id" : "B2FA79CE-8462-4C71-839C-67F83A64A655",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'aimerais clean rename ce film et j'aimerais l'upload de manière à ce qu'il soit streamable directement sur mon site. On avait créé une solution de stream. Est-ce que tu peux essayer de Mais en fait, je ne suis pas sûr que ce soit vraiment très streamable actuellement. On avait toujours un peu des petits accrocs sur certaines vidéos et le meilleur truc, c'était de faire comme YouTube, mais YouTube, je ne sais pas comment est-ce qu'ils font pour que ce soit streamable et agréable.",
+      "text" : "J'aimerais clean rename ce film et j'aimerais l'upload de manière à ce qu'il soit streamable directement sur mon site. On avait créé une solution de stream. Est-ce que tu peux essayer de Mais en fait, je ne suis pas sûr que ce soit vraiment très streamable actuellement. On avait toujours un peu des petits accrocs sur certaines vidéos et le meilleur truc, c'était de faire comme YouTube, mais YouTube, je ne sais pas comment est-ce qu'ils font pour que ce soit streamable et agréable."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813007620.602588,
+      "id" : "EFFC9CAE-B3C2-462C-8BD9-6CFAD87EEFA3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "On va commencer à uploader mon fichier. Après, on peut essayer de le couper. Déjà, tu le renommes clean, tu lui donnes le nom de Hors Normes parce que c'est son titre français, tu mets la date 2019 et tu le ranges dans la galerie movies et series. Le problème étant qu'il faut que ce soit partageable et il faut que ce soit streamable dans les meilleures conditions, c'est-à-dire même quelqu'un qui a une mauvaise connexion, il faudra qu'il puisse regarder le film. Mais normalement, il y a déjà une solution, mais j'aimerais qu'on revoie d'abord le code qui existe parce que soit il y a Dash, soit il y a HLS. Donc il faudrait par exemple découper 3 minutes de vidéo ou 5 minutes de vidéo pour voir si c'est streamable avec une petite connexion. Et voilà.",
+      "text" : "On va commencer à uploader mon fichier. Après, on peut essayer de le couper. Déjà, tu le renommes clean, tu lui donnes le nom de Hors Normes parce que c'est son titre français, tu mets la date 2019 et tu le ranges dans la galerie movies et series. Le problème étant qu'il faut que ce soit partageable et il faut que ce soit streamable dans les meilleures conditions, c'est-à-dire même quelqu'un qui a une mauvaise connexion, il faudra qu'il puisse regarder le film. Mais normalement, il y a déjà une solution, mais j'aimerais qu'on revoie d'abord le code qui existe parce que soit il y a Dash, soit il y a HLS. Donc il faudrait par exemple découper 3 minutes de vidéo ou 5 minutes de vidéo pour voir si c'est streamable avec une petite connexion. Et voilà."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813007636.958527,
+      "id" : "C4130874-62FF-46C3-A5B7-EEB406551D3F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Bref, avoir une solution optimisée pour mon site web pour que je puisse regarder des films et pour que je puisse les partager à ma mère directement sur mon Drive par exemple.",
+      "text" : "Bref, avoir une solution optimisée pour mon site web pour que je puisse regarder des films et pour que je puisse les partager à ma mère directement sur mon Drive par exemple."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813007788.9554,
+      "id" : "196E2272-5BF2-4DA1-9667-273A5E957F47",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Could exclude ChatGPT and Anti-Gravity Gemini.",
+      "text" : "Could exclude ChatGPT and Anti-Gravity Gemini."
     }
   ],
   "modes" : [
