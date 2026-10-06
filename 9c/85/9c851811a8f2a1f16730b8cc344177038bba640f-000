@@ -1059,6 +1059,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Toujours dans le même ordre par rapport au mouvement",
       "text" : "Toujours dans le même ordre par rapport au mouvement"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812982879.640208,
+      "id" : "1880966A-BC41-42E9-94ED-E2B6EB91CBDB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "La première ligne, du coup, c'est toujours pareil, mais en fait, la deuxième ligne, elle apparaît au bout de 1 seconde mais d'un coup. En fait, c'est comme si elle faisait un gros pop. Genre, c'est ce qu'il y a dans Control et dans Alan Wake et c'est super stylé. Et en fait, tu vas pas mettre Tu vas mettre Donc en fait, la première animation, en fait, ça va être simplement un fade-in tranquille. Et ouais, la deuxième, ça va être En fait, c'est au bout de 1 seconde, ça pop d'un coup et ça va être inter Attends, je regarde dans mon sketchbook. Inter À mon avis, ça va être la plus grosse défonce. Donc ça va être voilà, ça va être inter black et tu me pop mon truc. Évidemment, il faut pas qu'il y ait de cropping ou de machin.",
+      "text" : "La première ligne, du coup, c'est toujours pareil, mais en fait, la deuxième ligne, elle apparaît au bout de 1 seconde mais d'un coup. En fait, c'est comme si elle faisait un gros pop. Genre, c'est ce qu'il y a dans Control et dans Alan Wake et c'est super stylé. Et en fait, tu vas pas mettre Tu vas mettre Donc en fait, la première animation, en fait, ça va être simplement un fade-in tranquille. Et ouais, la deuxième, ça va être En fait, c'est au bout de 1 seconde, ça pop d'un coup et ça va être inter Attends, je regarde dans mon sketchbook. Inter À mon avis, ça va être la plus grosse défonce. Donc ça va être voilà, ça va être inter black et tu me pop mon truc. Évidemment, il faut pas qu'il y ait de cropping ou de machin."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812982961.52834,
+      "id" : "18A71842-50C5-454C-8878-D248D27417C0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc la première ligne, c'est toujours la même fonte et simplement un fade-in qui s'affiche en 1 seconde. À 1 seconde, ça disparaît instantanément. Et tu as l'animation fleur de lys qui apparaît dans la seconde ligne et qui pop immédiatement en fait, il n'y a pas de délai d'animation. Et là, c'est inter black qu'il faut mettre. Ça reste affiché, c'est pendant 1,5 seconde. Du coup, ça reste affiché jusqu'au truc et ensuite ça disparaît à la 5e seconde. Mais du coup, il n'y a plus de transition d'animation du fait que ça parte. Ouais, c'est pas grave. Ou alors, il y a un fade-in à 1,5 seconde. Ouais, on peut essayer. On peut essayer deux variations et je te dis ce que je",
+      "text" : "Donc la première ligne, c'est toujours la même fonte et simplement un fade-in qui s'affiche en 1 seconde. À 1 seconde, ça disparaît instantanément. Et tu as l'animation fleur de lys qui apparaît dans la seconde ligne et qui pop immédiatement en fait, il n'y a pas de délai d'animation. Et là, c'est inter black qu'il faut mettre. Ça reste affiché, c'est pendant 1,5 seconde. Du coup, ça reste affiché jusqu'au truc et ensuite ça disparaît à la 5e seconde. Mais du coup, il n'y a plus de transition d'animation du fait que ça parte. Ouais, c'est pas grave. Ou alors, il y a un fade-in à 1,5 seconde. Ouais, on peut essayer. On peut essayer deux variations et je te dis ce que je"
     }
   ],
   "modes" : [
