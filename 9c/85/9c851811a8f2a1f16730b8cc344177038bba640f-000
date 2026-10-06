@@ -1859,6 +1859,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Puisque du coup tu vois Zenray Assets, le protocole, je me demande s'il continue de rechercher des offres toutes les 6 heures même s'il a plus Claude en tant que API intégrée. Je me demande comment ça va fonctionner.",
       "text" : "Puisque du coup tu vois Zenray Assets, le protocole, je me demande s'il continue de rechercher des offres toutes les 6 heures même s'il a plus Claude en tant que API intégrée. Je me demande comment ça va fonctionner."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813018965.272659,
+      "id" : "98863B0D-006F-4C36-8C80-E6874CD9BAA1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Fais une phrase en mode well done pour Unrecorded et pourquoi c'est vraiment impressionnant. Et ensuite, redonne-moi le texte en français. Puisque c'est un studio à Rennes, je pense que je vais mettre d'abord mon texte en français, puis le texte en anglais. Le texte en anglais, là, je l'ai déjà dans le chat.",
+      "text" : "Fais une phrase en mode well done pour Unrecorded et pourquoi c'est vraiment impressionnant. Et ensuite, redonne-moi le texte en français. Puisque c'est un studio à Rennes, je pense que je vais mettre d'abord mon texte en français, puis le texte en anglais. Le texte en anglais, là, je l'ai déjà dans le chat."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813019041.793526,
+      "id" : "B6CF5314-3BAC-4842-B5A4-91676E9A4E70",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Redonne les deux textes français puis anglais avec trois tirés pour faire la séparation et un retour à la ligne et la version de Unrecord ajustée dans les deux. Et tu sauvegardes dans memory le poste s'il te plaît. Tu me crées une nouvelle catégorie qui s'appelle Motivation Letters s'il te plaît et un folder avec un index.md qui permet d'associer au projet Zenrai Assets V2.",
+      "text" : "Redonne les deux textes français puis anglais avec trois tirés pour faire la séparation et un retour à la ligne et la version de Unrecord ajustée dans les deux. Et tu sauvegardes dans memory le poste s'il te plaît. Tu me crées une nouvelle catégorie qui s'appelle Motivation Letters s'il te plaît et un folder avec un index.md qui permet d'associer au projet Zenrai Assets V2."
     }
   ],
   "modes" : [
