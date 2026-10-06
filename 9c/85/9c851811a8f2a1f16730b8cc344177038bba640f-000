@@ -1599,6 +1599,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Dans le post, il me manque juste la version anglaise et la version japonaise, et il me manque les hashtags aussi.",
       "text" : "Dans le post, il me manque juste la version anglaise et la version japonaise, et il me manque les hashtags aussi."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813004345.018001,
+      "id" : "748CC414-3D5D-4E28-A144-C3492600D497",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu peux me redonner le lien de la vidéo où je t'avais dit de mettre les deux plans au format 1:1, mais les deux plans qui ont été rendus sur",
+      "text" : "Est-ce que tu peux me redonner le lien de la vidéo où je t'avais dit de mettre les deux plans au format 1:1, mais les deux plans qui ont été rendus sur"
     }
   ],
   "modes" : [
