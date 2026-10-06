@@ -1199,6 +1199,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Il fallait une vue trois-quarts beaucoup plus proche qui faisait le mouvement. Et j'aurais dû te demander de confirmer avec trois images différentes avant de lancer le rendu Karma. Bah là, c'est trop tard du coup. Mais en soi, ce que tu peux faire... Je sais pas ce qu'on peut faire.",
       "text" : "Il fallait une vue trois-quarts beaucoup plus proche qui faisait le mouvement. Et j'aurais dû te demander de confirmer avec trois images différentes avant de lancer le rendu Karma. Bah là, c'est trop tard du coup. Mais en soi, ce que tu peux faire... Je sais pas ce qu'on peut faire."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812988230.31745,
+      "id" : "7588C381-ADDC-4ED9-B3BD-F7CCD3036F3B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En termes de puissance informatique et en termes de rendu et d'utilisation dans le monde professionnel, je me demande quels sont les moteurs de rendu et de global illumination les plus populaires. Je me demande si c'est V-Ray, Octane, Cycles, Lumen ou Karma XPU.",
+      "text" : "En termes de puissance informatique et en termes de rendu et d'utilisation dans le monde professionnel, je me demande quels sont les moteurs de rendu et de global illumination les plus populaires. Je me demande si c'est V-Ray, Octane, Cycles, Lumen ou Karma XPU."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812988259.293791,
+      "id" : "97E02F39-D5DC-4255-874A-90710D8BDF7A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Dis-moi le state of the art en 2026, notamment en termes de base d'utilisateurs, et dis-moi aussi s'il existe d'autres moteurs de rendu et lesquels privilégier dans mon travail parce que je préfère avoir un esprit critique sur ça. Mais j'aimerais que tu me donnes ce que tu penses être les choses intéressantes à",
+      "text" : "Dis-moi le state of the art en 2026, notamment en termes de base d'utilisateurs, et dis-moi aussi s'il existe d'autres moteurs de rendu et lesquels privilégier dans mon travail parce que je préfère avoir un esprit critique sur ça. Mais j'aimerais que tu me donnes ce que tu penses être les choses intéressantes à"
     }
   ],
   "modes" : [
