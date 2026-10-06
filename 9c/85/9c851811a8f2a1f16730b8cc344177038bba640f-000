@@ -1249,6 +1249,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Je perds trop de temps avec ça, donc dépêche-toi.",
       "text" : "Je perds trop de temps avec ça, donc dépêche-toi."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812990603.354286,
+      "id" : "CBCE7889-2260-4426-BDD3-4BA5DC79EA14",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais le but, c'est de trouver un lookdev, comme Cycles ou Octane, qui permet justement de voir ma fleur sans lancer un rendu, tout en ayant la possibilité de lancer un rendu si il y en a besoin. Mais là, c'est un gros problème. Donc je veux que tu travailles jusqu'à ce que tu trouves un fix pour la scène 3D. Je me fous du rendu, je veux juste que dans la scène 3D ce soit déjà bien.",
+      "text" : "Mais le but, c'est de trouver un lookdev, comme Cycles ou Octane, qui permet justement de voir ma fleur sans lancer un rendu, tout en ayant la possibilité de lancer un rendu si il y en a besoin. Mais là, c'est un gros problème. Donc je veux que tu travailles jusqu'à ce que tu trouves un fix pour la scène 3D. Je me fous du rendu, je veux juste que dans la scène 3D ce soit déjà bien."
     }
   ],
   "modes" : [
