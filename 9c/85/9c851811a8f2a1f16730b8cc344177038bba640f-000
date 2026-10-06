@@ -1879,6 +1879,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Redonne les deux textes français puis anglais avec trois tirés pour faire la séparation et un retour à la ligne et la version de Unrecord ajustée dans les deux. Et tu sauvegardes dans memory le poste s'il te plaît. Tu me crées une nouvelle catégorie qui s'appelle Motivation Letters s'il te plaît et un folder avec un index.md qui permet d'associer au projet Zenrai Assets V2.",
       "text" : "Redonne les deux textes français puis anglais avec trois tirés pour faire la séparation et un retour à la ligne et la version de Unrecord ajustée dans les deux. Et tu sauvegardes dans memory le poste s'il te plaît. Tu me crées une nouvelle catégorie qui s'appelle Motivation Letters s'il te plaît et un folder avec un index.md qui permet d'associer au projet Zenrai Assets V2."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813020103.433571,
+      "id" : "367F2746-0578-477E-A33A-FEA566889D6A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Par contre, le film bug trop quand on passe à d'autres endroits dans le film. Si par exemple je clique au milieu du film sur une vidéo YouTube, ça passerait immédiatement au bon segment et ça chargerait un petit peu. Et là en fait, ça marche pas du tout. Je suis obligé de voir le film de manière linéaire et il y a pas de reprise par rapport à un historique de l'adresse IP ou ce genre de choses. Ça à la limite c'est pas utile, mais avoir un vrai effet streaming en mode tu peux cliquer n'importe où dans le film et ça va vraiment charger les éléments de manière très précise sans que ça me consomme du github.raw.raw_user_content_github. Tu sais, ça c'est la limite de 5000 unités par heure dans le sens où en fait par exemple on pourrait dire que on arrive sur le film, ça consomme qu'une seule unité qui charge un dossier de plusieurs segments de vidéo. Mais pas en mode ça charge plusieurs segments de vidéo, peut-être que je m'exprime mal, mais ce que je veux dire c'est ça consomme pas toute ma limite de raw.user_content_github. Le plus important en fait ce serait de trouver une solution avec le code qu'on a déjà, soit en supprimant, soit en ajoutant du code qui nous permettrait d'avoir vraiment des médias streamables ultra rapides et ultra intelligents. Et du coup je pense que tu peux essayer d'itérer via des workflows et via des multiples agents pour trouver la solution en termes de code et créer la solution de streaming parfaite et surtout ultra fluide.",
+      "text" : "Par contre, le film bug trop quand on passe à d'autres endroits dans le film. Si par exemple je clique au milieu du film sur une vidéo YouTube, ça passerait immédiatement au bon segment et ça chargerait un petit peu. Et là en fait, ça marche pas du tout. Je suis obligé de voir le film de manière linéaire et il y a pas de reprise par rapport à un historique de l'adresse IP ou ce genre de choses. Ça à la limite c'est pas utile, mais avoir un vrai effet streaming en mode tu peux cliquer n'importe où dans le film et ça va vraiment charger les éléments de manière très précise sans que ça me consomme du github.raw.raw_user_content_github. Tu sais, ça c'est la limite de 5000 unités par heure dans le sens où en fait par exemple on pourrait dire que on arrive sur le film, ça consomme qu'une seule unité qui charge un dossier de plusieurs segments de vidéo. Mais pas en mode ça charge plusieurs segments de vidéo, peut-être que je m'exprime mal, mais ce que je veux dire c'est ça consomme pas toute ma limite de raw.user_content_github. Le plus important en fait ce serait de trouver une solution avec le code qu'on a déjà, soit en supprimant, soit en ajoutant du code qui nous permettrait d'avoir vraiment des médias streamables ultra rapides et ultra intelligents. Et du coup je pense que tu peux essayer d'itérer via des workflows et via des multiples agents pour trouver la solution en termes de code et créer la solution de streaming parfaite et surtout ultra fluide."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813020254.485648,
+      "id" : "9AB86A8D-B6F7-4541-A5E3-12A8510232B3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je cherche un animé comme Redo of the Healer ou un animé un peu dark et un peu edgy\/ecchi, pas forcément hentai, comme Redo of the Healer, dans un peu dans le même style.",
+      "text" : "Je cherche un animé comme Redo of the Healer ou un animé un peu dark et un peu edgy\/ecchi, pas forcément hentai, comme Redo of the Healer, dans un peu dans le même style."
     }
   ],
   "modes" : [
