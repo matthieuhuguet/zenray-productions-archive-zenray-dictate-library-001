@@ -1549,6 +1549,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Pour les fichiers qu'on va mettre au début et à la fin, on va tous les deux les mettre au début, mais ce qu'on va faire, c'est qu'on va faire une comparaison. Puisque c'est au format 1:1 et que les deux sont au format 1:1, on va uniquement centrer le centre des deux images pour faire une vidéo de 10 secondes qui possède les deux en même temps. Et ça, tu me fais une vidéo individuelle au-delà de la vidéo qu'on va créer. Le plus important, c'est aussi de créer le titre. Le titre, il doit reprendre exactement le même titre que le Vogoon Medium en jaune. Et donc première ligne, on va dire D'ailleurs, j'espère que ce protocole de Vogoon, de titre Vogoon, il a été sauvegardé quelque part parce qu'il est vraiment très utile de faire des points move pour créer des sous-titres et des animations stylisées. On va créer ça en connexion croisée et ce qu'on va marquer, la première ligne, c'est How do I create 12 shots? Et la deuxième ligne, enfin vient un retour à la ligne, c'est Fleur de lys. Et ensuite, tu m'index map tous mes fichiers par rapport à Zenray A7 V2.",
       "text" : "Pour les fichiers qu'on va mettre au début et à la fin, on va tous les deux les mettre au début, mais ce qu'on va faire, c'est qu'on va faire une comparaison. Puisque c'est au format 1:1 et que les deux sont au format 1:1, on va uniquement centrer le centre des deux images pour faire une vidéo de 10 secondes qui possède les deux en même temps. Et ça, tu me fais une vidéo individuelle au-delà de la vidéo qu'on va créer. Le plus important, c'est aussi de créer le titre. Le titre, il doit reprendre exactement le même titre que le Vogoon Medium en jaune. Et donc première ligne, on va dire D'ailleurs, j'espère que ce protocole de Vogoon, de titre Vogoon, il a été sauvegardé quelque part parce qu'il est vraiment très utile de faire des points move pour créer des sous-titres et des animations stylisées. On va créer ça en connexion croisée et ce qu'on va marquer, la première ligne, c'est How do I create 12 shots? Et la deuxième ligne, enfin vient un retour à la ligne, c'est Fleur de lys. Et ensuite, tu m'index map tous mes fichiers par rapport à Zenray A7 V2."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813001813.727212,
+      "id" : "05549313-C8C5-45A8-8712-61E36FF6CEF2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le protocole de VOGON Medium dans Zen Ray Houdini, le protocole de sous-titres avec connexion croisée, il est très intéressant. Mais c'est pas uniquement connexion croisée, on avait connexion croisée et on avait pop-up aussi qui était pas mal.",
+      "text" : "Le protocole de VOGON Medium dans Zen Ray Houdini, le protocole de sous-titres avec connexion croisée, il est très intéressant. Mais c'est pas uniquement connexion croisée, on avait connexion croisée et on avait pop-up aussi qui était pas mal."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813001900.04241,
+      "id" : "DBF2F10D-565C-4008-973B-8C1F4CE4D6AC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il faut évidemment consigner tout ce que j'ai déjà écrit, c'est-à-dire le fait que ça apparaît de gauche à droite, de haut en bas, en 1 seconde, voire en 1,5 seconde. En fait, il y a un fade in et un fade out qui sont définis par une variable x de temps qu'il faut demander à l'user, et un temps où le texte reste affiché qu'il faut aussi demander à l'user. Et par défaut, c'est 1,5 seconde et ça reste pendant 2 secondes. Comme ça, ça fait 5 secondes, mais on peut aussi condenser en 4 secondes, mais il faut adapter les choses.",
+      "text" : "Il faut évidemment consigner tout ce que j'ai déjà écrit, c'est-à-dire le fait que ça apparaît de gauche à droite, de haut en bas, en 1 seconde, voire en 1,5 seconde. En fait, il y a un fade in et un fade out qui sont définis par une variable x de temps qu'il faut demander à l'user, et un temps où le texte reste affiché qu'il faut aussi demander à l'user. Et par défaut, c'est 1,5 seconde et ça reste pendant 2 secondes. Comme ça, ça fait 5 secondes, mais on peut aussi condenser en 4 secondes, mais il faut adapter les choses."
     }
   ],
   "modes" : [
