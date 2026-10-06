@@ -1569,6 +1569,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Il faut évidemment consigner tout ce que j'ai déjà écrit, c'est-à-dire le fait que ça apparaît de gauche à droite, de haut en bas, en 1 seconde, voire en 1,5 seconde. En fait, il y a un fade in et un fade out qui sont définis par une variable x de temps qu'il faut demander à l'user, et un temps où le texte reste affiché qu'il faut aussi demander à l'user. Et par défaut, c'est 1,5 seconde et ça reste pendant 2 secondes. Comme ça, ça fait 5 secondes, mais on peut aussi condenser en 4 secondes, mais il faut adapter les choses.",
       "text" : "Il faut évidemment consigner tout ce que j'ai déjà écrit, c'est-à-dire le fait que ça apparaît de gauche à droite, de haut en bas, en 1 seconde, voire en 1,5 seconde. En fait, il y a un fade in et un fade out qui sont définis par une variable x de temps qu'il faut demander à l'user, et un temps où le texte reste affiché qu'il faut aussi demander à l'user. Et par défaut, c'est 1,5 seconde et ça reste pendant 2 secondes. Comme ça, ça fait 5 secondes, mais on peut aussi condenser en 4 secondes, mais il faut adapter les choses."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813002296.821365,
+      "id" : "CD48A0A3-AFCD-47B1-B548-EB453919F7BF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc YouTube-dl à utiliser à partir de 2.16. Il faut aussi normaliser l'audio de la vidéo et on va utiliser celle-là pour les pétales du coup on va utiliser pour ça.",
+      "text" : "Donc YouTube-dl à utiliser à partir de 2.16. Il faut aussi normaliser l'audio de la vidéo et on va utiliser celle-là pour les pétales du coup on va utiliser pour ça."
     }
   ],
   "modes" : [
