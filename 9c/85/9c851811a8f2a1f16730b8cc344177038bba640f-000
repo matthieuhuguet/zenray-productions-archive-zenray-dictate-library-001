@@ -1499,6 +1499,56 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Lequel vas-tu utiliser ?",
       "text" : "Lequel vas-tu utiliser ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813001182.247983,
+      "id" : "898462DA-1538-4EA1-8A5A-86E84E48A99A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'aimerais que tu mettes dans le même dossier dans lequel on travaille sur le montage la fleur qu'on avait rendue en 240 frames.",
+      "text" : "J'aimerais que tu mettes dans le même dossier dans lequel on travaille sur le montage la fleur qu'on avait rendue en 240 frames."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813001384.576584,
+      "id" : "160C4E24-175A-43DD-A472-F248D1DDFF23",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est pas du tout ce que j'imaginais, tu peux faire beaucoup mieux. En fait, je voulais juste un seul rectangle translucide et liquide glass dans lequel je pouvais ajouter ou non des commentaires. Mais si je faisais pas un clic droit pour ajouter un commentaire, ça s'affichait juste pas. Et j'aimerais aussi qu'il y ait une petite croix pour enlever mon commentaire si jamais j'ai envie de l'enlever. Et du coup, si je fais clic droit, il me faudrait quand même une petite interface si j'ai miss-click sur la petite croix pour réafficher un ancien commentaire. Et cette option s'afficherait que si j'ai déjà fait un commentaire auparavant. Enfin, tu as toujours pas appliqué les max trois colonnes par ligne pour les SFX, donc corrige-le puis redéploie.",
+      "text" : "C'est pas du tout ce que j'imaginais, tu peux faire beaucoup mieux. En fait, je voulais juste un seul rectangle translucide et liquide glass dans lequel je pouvais ajouter ou non des commentaires. Mais si je faisais pas un clic droit pour ajouter un commentaire, ça s'affichait juste pas. Et j'aimerais aussi qu'il y ait une petite croix pour enlever mon commentaire si jamais j'ai envie de l'enlever. Et du coup, si je fais clic droit, il me faudrait quand même une petite interface si j'ai miss-click sur la petite croix pour réafficher un ancien commentaire. Et cette option s'afficherait que si j'ai déjà fait un commentaire auparavant. Enfin, tu as toujours pas appliqué les max trois colonnes par ligne pour les SFX, donc corrige-le puis redéploie."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813001472.984491,
+      "id" : "4FA10315-B389-4837-8AD7-F00B8F5BA682",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "On va créer une nouvelle vidéo. On va mettre ce fichier à la fin.",
+      "text" : "On va créer une nouvelle vidéo. On va mettre ce fichier à la fin."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813001488.40178,
+      "id" : "C1828865-4F01-4522-968E-4A07EE4002D1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Celui-là, on va le mettre au milieu et celui-là, on va le mettre à la fin.",
+      "text" : "Celui-là, on va le mettre au milieu et celui-là, on va le mettre à la fin."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813001652.76199,
+      "id" : "17FF86B7-8FC9-46CC-B360-CD3A88581BAE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pour les fichiers qu'on va mettre au début et à la fin, on va tous les deux les mettre au début, mais ce qu'on va faire, c'est qu'on va faire une comparaison. Puisque c'est au format 1:1 et que les deux sont au format 1:1, on va uniquement centrer le centre des deux images pour faire une vidéo de 10 secondes qui possède les deux en même temps. Et ça, tu me fais une vidéo individuelle au-delà de la vidéo qu'on va créer. Le plus important, c'est aussi de créer le titre. Le titre, il doit reprendre exactement le même titre que le Vogoon Medium en jaune. Et donc première ligne, on va dire D'ailleurs, j'espère que ce protocole de Vogoon, de titre Vogoon, il a été sauvegardé quelque part parce qu'il est vraiment très utile de faire des points move pour créer des sous-titres et des animations stylisées. On va créer ça en connexion croisée et ce qu'on va marquer, la première ligne, c'est How do I create 12 shots? Et la deuxième ligne, enfin vient un retour à la ligne, c'est Fleur de lys. Et ensuite, tu m'index map tous mes fichiers par rapport à Zenray A7 V2.",
+      "text" : "Pour les fichiers qu'on va mettre au début et à la fin, on va tous les deux les mettre au début, mais ce qu'on va faire, c'est qu'on va faire une comparaison. Puisque c'est au format 1:1 et que les deux sont au format 1:1, on va uniquement centrer le centre des deux images pour faire une vidéo de 10 secondes qui possède les deux en même temps. Et ça, tu me fais une vidéo individuelle au-delà de la vidéo qu'on va créer. Le plus important, c'est aussi de créer le titre. Le titre, il doit reprendre exactement le même titre que le Vogoon Medium en jaune. Et donc première ligne, on va dire D'ailleurs, j'espère que ce protocole de Vogoon, de titre Vogoon, il a été sauvegardé quelque part parce qu'il est vraiment très utile de faire des points move pour créer des sous-titres et des animations stylisées. On va créer ça en connexion croisée et ce qu'on va marquer, la première ligne, c'est How do I create 12 shots? Et la deuxième ligne, enfin vient un retour à la ligne, c'est Fleur de lys. Et ensuite, tu m'index map tous mes fichiers par rapport à Zenray A7 V2."
     }
   ],
   "modes" : [
