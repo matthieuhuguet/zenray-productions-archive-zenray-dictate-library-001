@@ -1449,6 +1449,56 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Maintenant, tu vas relancer le rendu en 2K de mais avec simplement une seule fleur, s'il te plaît.",
       "text" : "Maintenant, tu vas relancer le rendu en 2K de mais avec simplement une seule fleur, s'il te plaît."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812999176.146945,
+      "id" : "D8381EBB-DEBC-4898-8936-91C039D5E402",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Confirme-moi que tu as encore le contexte du montage parce que j'ai la flemme de tout réexpliquer.",
+      "text" : "Confirme-moi que tu as encore le contexte du montage parce que j'ai la flemme de tout réexpliquer."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812999414.199092,
+      "id" : "657BAC3E-6581-44EB-93E8-39CCF83AF0A3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Si je mets un média Markdown, on ne voit plus les titres. Après, ce serait bien d'avoir des pages dans Create et, au lieu de créer des Markdown, de pouvoir ajouter des commentaires directement, et ça se serait créé comme une liste d'e-mails avant les fichiers médias dans l'espace de Create. Donc créer un commentaire, ce serait intéressant. Du coup, créer un commentaire, ça utiliserait la fonte Entropic Serif. Et enfin, j'ai un autre problème, c'est que du coup je ne vois plus le nom de mes médias SFX. Du coup, je pense que déjà il faudrait mettre moins de colonnes pour les médias SFX et ensuite il faudrait faire en sorte que, pas forcément que ça se wrap pour voir le nom des fichiers, mais déjà il y aurait moins de colonnes, je pourrais voir le nom du fichier en entier. Donc au lieu qu'il y en ait par exemple 1 2 3 4 5 6 7 8, là il y en a 8, on pourrait en mettre que trois par ligne.",
+      "text" : "Si je mets un média Markdown, on ne voit plus les titres. Après, ce serait bien d'avoir des pages dans Create et, au lieu de créer des Markdown, de pouvoir ajouter des commentaires directement, et ça se serait créé comme une liste d'e-mails avant les fichiers médias dans l'espace de Create. Donc créer un commentaire, ce serait intéressant. Du coup, créer un commentaire, ça utiliserait la fonte Entropic Serif. Et enfin, j'ai un autre problème, c'est que du coup je ne vois plus le nom de mes médias SFX. Du coup, je pense que déjà il faudrait mettre moins de colonnes pour les médias SFX et ensuite il faudrait faire en sorte que, pas forcément que ça se wrap pour voir le nom des fichiers, mais déjà il y aurait moins de colonnes, je pourrais voir le nom du fichier en entier. Donc au lieu qu'il y en ait par exemple 1 2 3 4 5 6 7 8, là il y en a 8, on pourrait en mettre que trois par ligne."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 812999535.480135,
+      "id" : "3A8F6671-683C-488C-9DB4-408164D38BCC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "On va créer deux vidéos. Il va y avoir une vidéo qui focus vraiment sur le détail des pétales et on va avoir une autre vidéo qui focus sur toute la trim sheet de 8.",
+      "text" : "On va créer deux vidéos. Il va y avoir une vidéo qui focus vraiment sur le détail des pétales et on va avoir une autre vidéo qui focus sur toute la trim sheet de 8."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813000162.895833,
+      "id" : "784B1BEC-AF10-402F-AD04-8E737D4F77E6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est grâce au numéro tu vas mettre les images dans l'ordre et ensuite grâce au nom des fichiers tu vas créer un sous-titre qui va s'apparaître dans un point move avec le nom du fichier et qui va apparaître selon le style qu'on a défini lorsqu'on a créé les sous-titres. Donc, attends ma validation. Sauf que là ça va être ce serait peut-être un peu trop. Attends, 1 1 1 et ça fait 3 secondes. Alors, je laisse 2 secondes et ça fait 4 secondes. 1 seconde d'apparition, 2 secondes de visibilité et ouais, on va faire ça. 1 seconde d'apparition, 2 secondes de visibilité et 1 seconde de suppression, enfin de disparition, avec le style des sous-titres dont on a déjà parlé tout à l'heure. D'ailleurs, j'aimerais que tu enregistres le style de sous-titres qu'on a choisi.",
+      "text" : "C'est grâce au numéro tu vas mettre les images dans l'ordre et ensuite grâce au nom des fichiers tu vas créer un sous-titre qui va s'apparaître dans un point move avec le nom du fichier et qui va apparaître selon le style qu'on a défini lorsqu'on a créé les sous-titres. Donc, attends ma validation. Sauf que là ça va être ce serait peut-être un peu trop. Attends, 1 1 1 et ça fait 3 secondes. Alors, je laisse 2 secondes et ça fait 4 secondes. 1 seconde d'apparition, 2 secondes de visibilité et ouais, on va faire ça. 1 seconde d'apparition, 2 secondes de visibilité et 1 seconde de suppression, enfin de disparition, avec le style des sous-titres dont on a déjà parlé tout à l'heure. D'ailleurs, j'aimerais que tu enregistres le style de sous-titres qu'on a choisi."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813000287.873388,
+      "id" : "30279B36-4D45-440A-8BAE-4A5685169D14",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Lequel vas-tu utiliser ?",
+      "text" : "Lequel vas-tu utiliser ?"
     }
   ],
   "modes" : [
