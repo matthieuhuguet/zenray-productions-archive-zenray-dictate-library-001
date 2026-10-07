@@ -1919,6 +1919,46 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Essaie d'ajouter des sous-titres toutes les 3 secondes sur l'extrait de 5 minutes, comme ça je peux tester et voir si le sous-titrage fonctionne correctement et si c'est la bonne taille et fonte et rendu, etc. Il me faut l'option pour pouvoir choisir entre trois tailles de sous-titres : petite, moyenne et grande. Il faut faire en sorte que les sous-titres ne soient jamais crop et si la police est trop grande, ça ferait un retour à la ligne de manière très moderne, de manière normale. Essaie d'ajouter des sous-titres toutes les 3 secondes sur l'extrait de 5 minutes, comme ça je peux tester et voir si le sous-titrage fonctionne correctement et si c'est la bonne taille et fonte et rendu, etc.",
       "text" : "Essaie d'ajouter des sous-titres toutes les 3 secondes sur l'extrait de 5 minutes, comme ça je peux tester et voir si le sous-titrage fonctionne correctement et si c'est la bonne taille et fonte et rendu, etc. Il me faut l'option pour pouvoir choisir entre trois tailles de sous-titres : petite, moyenne et grande. Il faut faire en sorte que les sous-titres ne soient jamais crop et si la police est trop grande, ça ferait un retour à la ligne de manière très moderne, de manière normale. Essaie d'ajouter des sous-titres toutes les 3 secondes sur l'extrait de 5 minutes, comme ça je peux tester et voir si le sous-titrage fonctionne correctement et si c'est la bonne taille et fonte et rendu, etc."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813052335.417297,
+      "id" : "17C1AC9E-D259-44DE-8034-2FE6619537E3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu peux me parler du scandale de la personne dans le milieu parisien qui a écrit son livre par ChatGPT ? Je crois qu'il y avait un débat sur la Fnac ou Goncourt, les prix Goncourt, etc. Et j'aimerais voir ben ce qu'il en est vraiment en me faisant mon propre avis.",
+      "text" : "Est-ce que tu peux me parler du scandale de la personne dans le milieu parisien qui a écrit son livre par ChatGPT ? Je crois qu'il y avait un débat sur la Fnac ou Goncourt, les prix Goncourt, etc. Et j'aimerais voir ben ce qu'il en est vraiment en me faisant mon propre avis."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813052413.026161,
+      "id" : "7B6E7FEB-D0B3-4ED4-97A4-73DABBAB2A5E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le problème, c'est que actuellement c'est un problème de taille.",
+      "text" : "Le problème, c'est que actuellement c'est un problème de taille."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813052502.99694,
+      "id" : "BF1413C4-2648-4E7B-B83B-6D8083D0135B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le problème, c'est que c'est actuellement un problème de taille parce que tu fais la taille en px, alors que je pense que la taille devrait être en pourcentage en fonction de la résolution de l'utilisateur. L'utilisateur va utiliser soit un écran 1080p, soit un écran mobile, soit un écran 2K, soit un écran 4K. Il faudrait mettre la taille non pas en pixels, mais plutôt en pourcentage. Et même la taille grande actuelle, il faudrait au moins qu'elle soit deux fois plus grande. Il faudrait que la taille grande actuelle soit au minimum la taille de la petite actuelle, parce que c'est beaucoup trop petit. Par exemple, la taille la plus petite, on pourrait la mettre déjà à 40 pixels, comme ça on zoomerait x 2. La moyenne, elle serait à 60 et la grande, elle serait à 80. Tu peux ajouter des détails subtils si tu veux. Tu peux faire des multiples de 16 et de 8 en mode, par exemple, 32 + 8 ça fait 40. Ensuite, la plus grande, tu fais 96 et ensuite tu fais un multiple de 16 pour la moyenne.",
+      "text" : "Le problème, c'est que c'est actuellement un problème de taille parce que tu fais la taille en px, alors que je pense que la taille devrait être en pourcentage en fonction de la résolution de l'utilisateur. L'utilisateur va utiliser soit un écran 1080p, soit un écran mobile, soit un écran 2K, soit un écran 4K. Il faudrait mettre la taille non pas en pixels, mais plutôt en pourcentage. Et même la taille grande actuelle, il faudrait au moins qu'elle soit deux fois plus grande. Il faudrait que la taille grande actuelle soit au minimum la taille de la petite actuelle, parce que c'est beaucoup trop petit. Par exemple, la taille la plus petite, on pourrait la mettre déjà à 40 pixels, comme ça on zoomerait x 2. La moyenne, elle serait à 60 et la grande, elle serait à 80. Tu peux ajouter des détails subtils si tu veux. Tu peux faire des multiples de 16 et de 8 en mode, par exemple, 32 + 8 ça fait 40. Ensuite, la plus grande, tu fais 96 et ensuite tu fais un multiple de 16 pour la moyenne."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813052534.317133,
+      "id" : "3ADE5F84-3528-4CAD-B5D3-7D4C15A3D7B5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais du coup, ça c'est parce que mon écran est en 4K, mais en soi, pour quelqu'un qui a un écran plus petit, il faudrait, ou même pour quelqu'un qui regarde sur mobile, je pense que la solution la plus intelligente ce serait de mettre des tailles de mesures, mais de tout mettre en fonction du pourcentage de l'écran. Ce serait beaucoup plus intelligent.",
+      "text" : "Mais du coup, ça c'est parce que mon écran est en 4K, mais en soi, pour quelqu'un qui a un écran plus petit, il faudrait, ou même pour quelqu'un qui regarde sur mobile, je pense que la solution la plus intelligente ce serait de mettre des tailles de mesures, mais de tout mettre en fonction du pourcentage de l'écran. Ce serait beaucoup plus intelligent."
     }
   ],
   "modes" : [
