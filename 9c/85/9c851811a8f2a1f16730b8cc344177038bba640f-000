@@ -1899,6 +1899,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Je cherche un animé comme Redo of the Healer ou un animé un peu dark et un peu edgy\/ecchi, pas forcément hentai, comme Redo of the Healer, dans un peu dans le même style.",
       "text" : "Je cherche un animé comme Redo of the Healer ou un animé un peu dark et un peu edgy\/ecchi, pas forcément hentai, comme Redo of the Healer, dans un peu dans le même style."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813049742.076096,
+      "id" : "32BC2469-9564-4034-AE8A-24D31EC45A3A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Essaie d'ajouter des sous-titres toutes les 3 secondes sur l'extrait de 5 minutes, comme ça je peux tester et voir si le sous-titrage fonctionne correctement et si c'est la bonne taille et fonte et rendu, etc.",
+      "text" : "Essaie d'ajouter des sous-titres toutes les 3 secondes sur l'extrait de 5 minutes, comme ça je peux tester et voir si le sous-titrage fonctionne correctement et si c'est la bonne taille et fonte et rendu, etc."
     }
   ],
   "modes" : [
