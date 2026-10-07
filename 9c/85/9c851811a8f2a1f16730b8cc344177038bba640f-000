@@ -2119,6 +2119,96 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Imagine quelqu'un qui découvre le monde, l'Angleterre, la France, le Japon, les États-Unis, il fait ses premiers voyages. Est-ce que tu penses qu'il aurait un regard optimiste ou pessimiste sur le monde ? Et est-ce que ça dépend des périodes et des époques dans le temps ? Je pense que ça dépend de où tu en es, niveau carrière, etc.",
       "text" : "Imagine quelqu'un qui découvre le monde, l'Angleterre, la France, le Japon, les États-Unis, il fait ses premiers voyages. Est-ce que tu penses qu'il aurait un regard optimiste ou pessimiste sur le monde ? Et est-ce que ça dépend des périodes et des époques dans le temps ? Je pense que ça dépend de où tu en es, niveau carrière, etc."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813059252.371752,
+      "id" : "0653D995-8520-4FEA-96DB-DC4F8170A38C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, ce que j'aimerais, c'est améliorer les performances de Zenre Dictate. Donc quand j'appuie sur Fn, ça trigger immédiatement la petite capsule de texte en mode Gemini qui enregistre le son avec le waveform, mais en fait, j'aimerais que ça proc en 0.1 seconde. En fait, tu vas faire une boucle d'auto-iterative refinement de l'application jusqu'à ce que tu y arrives à proc immédiatement le truc. Je pense que tu peux améliorer le code et notamment la performance surtout via ce qu'on va appeler un espèce de buffer, un buffer qui qui tiendrait l'application plus ou moins toujours prête, quitte à augmenter un petit peu la RAM ou l'espace mémoire que l'application va utiliser et comme ça ça proc direct. Moi, je veux vraiment un maximum de performance. Je comprends que quand j'appuie sur Fn et qu'il doit enregistrer le son, puisque là ça passe par le cloud ou par l'API de Google Gemini, là ça prenne du temps, mais par contre dès que j'appuie sur Fn pour aller enregistrer un nouvel enregistrement, là je veux vraiment que ce soit une performance du feu de dieu en en 0.1 seconde. En fait, il faut que ce soit ultra fast pour l'utilisateur.",
+      "text" : "En fait, ce que j'aimerais, c'est améliorer les performances de Zenre Dictate. Donc quand j'appuie sur Fn, ça trigger immédiatement la petite capsule de texte en mode Gemini qui enregistre le son avec le waveform, mais en fait, j'aimerais que ça proc en 0.1 seconde. En fait, tu vas faire une boucle d'auto-iterative refinement de l'application jusqu'à ce que tu y arrives à proc immédiatement le truc. Je pense que tu peux améliorer le code et notamment la performance surtout via ce qu'on va appeler un espèce de buffer, un buffer qui qui tiendrait l'application plus ou moins toujours prête, quitte à augmenter un petit peu la RAM ou l'espace mémoire que l'application va utiliser et comme ça ça proc direct. Moi, je veux vraiment un maximum de performance. Je comprends que quand j'appuie sur Fn et qu'il doit enregistrer le son, puisque là ça passe par le cloud ou par l'API de Google Gemini, là ça prenne du temps, mais par contre dès que j'appuie sur Fn pour aller enregistrer un nouvel enregistrement, là je veux vraiment que ce soit une performance du feu de dieu en en 0.1 seconde. En fait, il faut que ce soit ultra fast pour l'utilisateur."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813059338.100116,
+      "id" : "F7A348CE-9DD4-435E-8E4D-5F1229A520B4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je pense que c'est encore un tout petit peu trop pour moi. À la limite, ce qu'on peut faire, c'est puisque je propose 760 et que vous me proposez 950, je pense que je peux faire un dernier effort d'alignement pour aller jusqu'à 850, mais là je dépasse carrément mon budget. En revanche, je pourrais faire un achat rapide et si vous avez besoin d'espèces, il y a aucun problème.",
+      "text" : "Je pense que c'est encore un tout petit peu trop pour moi. À la limite, ce qu'on peut faire, c'est puisque je propose 760 et que vous me proposez 950, je pense que je peux faire un dernier effort d'alignement pour aller jusqu'à 850, mais là je dépasse carrément mon budget. En revanche, je pourrais faire un achat rapide et si vous avez besoin d'espèces, il y a aucun problème."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813059454.595482,
+      "id" : "315FB927-DA44-44A3-95FB-ABA9D6478830",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est OK pour moi. Cependant, j'habite à Marseille, donc c'est vraiment l'opposé de la France, donc j'aurais besoin de vous demander si c'est possible de faire via livraison et via paiement sécurisé. J'ai déjà fait plusieurs offres de ce type de transaction, mais j'aurais besoin de plusieurs éléments avant de valider l'achat. Le premier, ce serait une facture de votre part de l'article. Le second, ce serait des photos que vous avez prises le jour même de la carte, enfin des photos plus récentes en tout cas de la carte. Et si vous avez une batterie de test sur la carte en fonctionnement. Idéalement, je souhaiterais que vous allumiez et que vous fassiez une petite vidéo pour montrer que la carte fonctionne et fonctionne environ 15 minutes sur un jeu, car j'ai entendu dire qu'il y a Allô.",
+      "text" : "C'est OK pour moi. Cependant, j'habite à Marseille, donc c'est vraiment l'opposé de la France, donc j'aurais besoin de vous demander si c'est possible de faire via livraison et via paiement sécurisé. J'ai déjà fait plusieurs offres de ce type de transaction, mais j'aurais besoin de plusieurs éléments avant de valider l'achat. Le premier, ce serait une facture de votre part de l'article. Le second, ce serait des photos que vous avez prises le jour même de la carte, enfin des photos plus récentes en tout cas de la carte. Et si vous avez une batterie de test sur la carte en fonctionnement. Idéalement, je souhaiterais que vous allumiez et que vous fassiez une petite vidéo pour montrer que la carte fonctionne et fonctionne environ 15 minutes sur un jeu, car j'ai entendu dire qu'il y a Allô."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813059489.664439,
+      "id" : "B829DDD1-8EC9-4AFF-96EF-3D2E69D510D0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est pour moi. Cependant, j'aurais aimé avoir une batterie de tests, des photos et la facture ainsi qu'une vidéo si vous pouvez faire ça. Cependant, j'habite à Marseille. Est-ce que ce serait possible pour vous de faire une livraison via paiement sécurisé ?",
+      "text" : "C'est pour moi. Cependant, j'aurais aimé avoir une batterie de tests, des photos et la facture ainsi qu'une vidéo si vous pouvez faire ça. Cependant, j'habite à Marseille. Est-ce que ce serait possible pour vous de faire une livraison via paiement sécurisé ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813059755.997458,
+      "id" : "84C2271D-8A2B-45C1-9EC6-38D8ADDA2179",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je vais me prendre trois jours pour réfléchir car j'hésite énormément avec une autre 5070 Ti que je peux avoir légèrement moins cher. Donc j'hésite entre votre carte et la 5070 Ti et je vous recontacte par rapport à ma décision. Je comprends totalement que vous ne vouliez pas descendre, même si je pense que",
+      "text" : "Je vais me prendre trois jours pour réfléchir car j'hésite énormément avec une autre 5070 Ti que je peux avoir légèrement moins cher. Donc j'hésite entre votre carte et la 5070 Ti et je vous recontacte par rapport à ma décision. Je comprends totalement que vous ne vouliez pas descendre, même si je pense que"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813059820.765835,
+      "id" : "5F649509-7F2B-48E3-B610-4CB392D40060",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais en fait, ça fonctionne beaucoup mieux.",
+      "text" : "Mais en fait, ça fonctionne beaucoup mieux."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813059828.101465,
+      "id" : "B76DD9E1-52E6-4AB8-ACAF-D61C30160842",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais c'est vrai qu'il y a un léger décalage entre le moment où tu commences et",
+      "text" : "Mais c'est vrai qu'il y a un léger décalage entre le moment où tu commences et"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813059838.99732,
+      "id" : "A261A405-79A3-4403-A7FC-9A9089916C1D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le problème, c'est qu'on voit encore le ask Gemini au moment où je lance l'application, ce qui fait qu'on dirait que ça lag.",
+      "text" : "Le problème, c'est qu'on voit encore le ask Gemini au moment où je lance l'application, ce qui fait qu'on dirait que ça lag."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813059971.156981,
+      "id" : "5FCFAB93-7A18-4905-BE86-39DE21963B84",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Oui, sauf que",
+      "text" : "Oui, sauf que"
     }
   ],
   "modes" : [
