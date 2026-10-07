@@ -2089,6 +2089,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Publie et push. Explique-moi maintenant comment fonctionne Zendry Assets. Explique-moi de A à Z mais de manière synthétisée pour pas me fatiguer.",
       "text" : "Publie et push. Explique-moi maintenant comment fonctionne Zendry Assets. Explique-moi de A à Z mais de manière synthétisée pour pas me fatiguer."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813058231.244643,
+      "id" : "53151764-C83D-4F33-8725-A98246F93119",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est quoi l'aliment qui dans l'environnement d'un citoyen d'une ville ou d'une campagne coûte le moins cher et qui est le plus nourrissant ? Est-ce que c'est les œufs ?",
+      "text" : "C'est quoi l'aliment qui dans l'environnement d'un citoyen d'une ville ou d'une campagne coûte le moins cher et qui est le plus nourrissant ? Est-ce que c'est les œufs ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813058261.060454,
+      "id" : "778A0BA7-C3E3-43CA-B65B-C02CD1800179",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Quelqu'un qui se nourrit que d'un seul aliment ou alors d'un aliment comme vraiment pilier de son alimentation.",
+      "text" : "Quelqu'un qui se nourrit que d'un seul aliment ou alors d'un aliment comme vraiment pilier de son alimentation."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813058357.561295,
+      "id" : "1E59F237-668A-4F32-9459-35663A2B3AF8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Imagine quelqu'un qui découvre le monde, l'Angleterre, la France, le Japon, les États-Unis, il fait ses premiers voyages. Est-ce que tu penses qu'il aurait un regard optimiste ou pessimiste sur le monde ? Et est-ce que ça dépend des périodes et des époques dans le temps ? Je pense que ça dépend de où tu en es, niveau carrière, etc.",
+      "text" : "Imagine quelqu'un qui découvre le monde, l'Angleterre, la France, le Japon, les États-Unis, il fait ses premiers voyages. Est-ce que tu penses qu'il aurait un regard optimiste ou pessimiste sur le monde ? Et est-ce que ça dépend des périodes et des époques dans le temps ? Je pense que ça dépend de où tu en es, niveau carrière, etc."
     }
   ],
   "modes" : [
