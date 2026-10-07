@@ -1909,6 +1909,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Essaie d'ajouter des sous-titres toutes les 3 secondes sur l'extrait de 5 minutes, comme ça je peux tester et voir si le sous-titrage fonctionne correctement et si c'est la bonne taille et fonte et rendu, etc.",
       "text" : "Essaie d'ajouter des sous-titres toutes les 3 secondes sur l'extrait de 5 minutes, comme ça je peux tester et voir si le sous-titrage fonctionne correctement et si c'est la bonne taille et fonte et rendu, etc."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813050908.313816,
+      "id" : "611242A7-5EF1-4C59-AF54-6CBEEE3048C3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Essaie d'ajouter des sous-titres toutes les 3 secondes sur l'extrait de 5 minutes, comme ça je peux tester et voir si le sous-titrage fonctionne correctement et si c'est la bonne taille et fonte et rendu, etc. Il me faut l'option pour pouvoir choisir entre trois tailles de sous-titres : petite, moyenne et grande. Il faut faire en sorte que les sous-titres ne soient jamais crop et si la police est trop grande, ça ferait un retour à la ligne de manière très moderne, de manière normale. Essaie d'ajouter des sous-titres toutes les 3 secondes sur l'extrait de 5 minutes, comme ça je peux tester et voir si le sous-titrage fonctionne correctement et si c'est la bonne taille et fonte et rendu, etc.",
+      "text" : "Essaie d'ajouter des sous-titres toutes les 3 secondes sur l'extrait de 5 minutes, comme ça je peux tester et voir si le sous-titrage fonctionne correctement et si c'est la bonne taille et fonte et rendu, etc. Il me faut l'option pour pouvoir choisir entre trois tailles de sous-titres : petite, moyenne et grande. Il faut faire en sorte que les sous-titres ne soient jamais crop et si la police est trop grande, ça ferait un retour à la ligne de manière très moderne, de manière normale. Essaie d'ajouter des sous-titres toutes les 3 secondes sur l'extrait de 5 minutes, comme ça je peux tester et voir si le sous-titrage fonctionne correctement et si c'est la bonne taille et fonte et rendu, etc."
     }
   ],
   "modes" : [
