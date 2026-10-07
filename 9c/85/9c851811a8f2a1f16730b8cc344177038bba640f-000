@@ -2069,6 +2069,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Vous, après c'est drôle parce que vous parlez du concours et du prix des lycéens comme si ça avait une forme d'importance alors que le prix des lycéens est lu par trois personnes dans une classe de terminale L où les gens ont pas forcément eu envie d'y aller quoi.",
       "text" : "Vous, après c'est drôle parce que vous parlez du concours et du prix des lycéens comme si ça avait une forme d'importance alors que le prix des lycéens est lu par trois personnes dans une classe de terminale L où les gens ont pas forcément eu envie d'y aller quoi."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813055141.803519,
+      "id" : "BD9BD756-B727-45AC-B026-50059AB9EEDF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le seul mec qui dit un truc intéressant, vous l'avez coupé. Super. David Gaze, je connaissais pas mais c'est quelqu'un qui a l'air d'être intelligent parce qu'il fait la part des choses et il se complète pas dans le conformisme, ce que fait le petit jeune journaliste à la chemise bleue là qui fait un peu premier de la classe. Faut un peu grandir monsieur et arrêter de se complaire uniquement dans le regard de l'autre.",
+      "text" : "Le seul mec qui dit un truc intéressant, vous l'avez coupé. Super. David Gaze, je connaissais pas mais c'est quelqu'un qui a l'air d'être intelligent parce qu'il fait la part des choses et il se complète pas dans le conformisme, ce que fait le petit jeune journaliste à la chemise bleue là qui fait un peu premier de la classe. Faut un peu grandir monsieur et arrêter de se complaire uniquement dans le regard de l'autre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813055246.882548,
+      "id" : "4E5000A4-40C9-4D33-A005-6E65F680F155",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Publie et push. Explique-moi maintenant comment fonctionne Zendry Assets. Explique-moi de A à Z mais de manière synthétisée pour pas me fatiguer.",
+      "text" : "Publie et push. Explique-moi maintenant comment fonctionne Zendry Assets. Explique-moi de A à Z mais de manière synthétisée pour pas me fatiguer."
     }
   ],
   "modes" : [
