@@ -2209,6 +2209,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Oui, sauf que",
       "text" : "Oui, sauf que"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813066312.570948,
+      "id" : "E980D483-A66B-4106-8EC1-405CAFD787F0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'ai une autre demande par rapport à ZenReaAssets. En fait, j'aimerais que par exemple si je te dise ouvre le dossier Louisiana Bayou par rapport à l'index, tu puisses me dire, par exemple je te dis la phrase, j'aimerais reprendre depuis le concept où on avait mis les matériaux, et que grâce à l'index.md ou grâce à un service que tu crées, tu puisses directement trouver immédiatement le fichier dont je parle. Ce qui veut dire que l'index doit toujours être impeccable.",
+      "text" : "J'ai une autre demande par rapport à ZenReaAssets. En fait, j'aimerais que par exemple si je te dise ouvre le dossier Louisiana Bayou par rapport à l'index, tu puisses me dire, par exemple je te dis la phrase, j'aimerais reprendre depuis le concept où on avait mis les matériaux, et que grâce à l'index.md ou grâce à un service que tu crées, tu puisses directement trouver immédiatement le fichier dont je parle. Ce qui veut dire que l'index doit toujours être impeccable."
     }
   ],
   "modes" : [
