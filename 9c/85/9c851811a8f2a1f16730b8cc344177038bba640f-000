@@ -2219,6 +2219,56 @@
       "provider" : "Gemini live dictation",
       "rawText" : "J'ai une autre demande par rapport à ZenReaAssets. En fait, j'aimerais que par exemple si je te dise ouvre le dossier Louisiana Bayou par rapport à l'index, tu puisses me dire, par exemple je te dis la phrase, j'aimerais reprendre depuis le concept où on avait mis les matériaux, et que grâce à l'index.md ou grâce à un service que tu crées, tu puisses directement trouver immédiatement le fichier dont je parle. Ce qui veut dire que l'index doit toujours être impeccable.",
       "text" : "J'ai une autre demande par rapport à ZenReaAssets. En fait, j'aimerais que par exemple si je te dise ouvre le dossier Louisiana Bayou par rapport à l'index, tu puisses me dire, par exemple je te dis la phrase, j'aimerais reprendre depuis le concept où on avait mis les matériaux, et que grâce à l'index.md ou grâce à un service que tu crées, tu puisses directement trouver immédiatement le fichier dont je parle. Ce qui veut dire que l'index doit toujours être impeccable."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813147028.705482,
+      "id" : "F341EEFF-74F4-4592-AB49-76D064B40E28",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je me posais une question technique.",
+      "text" : "Je me posais une question technique."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813147036.169247,
+      "id" : "063997E3-B8BD-426C-B945-170F09A6ECB4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais ça marche en fait. Tu te poses une question technique et tu te demandes ce que tu dois faire.",
+      "text" : "Mais ça marche en fait. Tu te poses une question technique et tu te demandes ce que tu dois faire."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813147137.12122,
+      "id" : "82FEAC9A-57C1-42C6-AC05-F0D149F9AD26",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Alors, je me posais une question du coup. Je me demandais comment faire en sorte d'avoir différentes tuiles qui ne sont pas liées par une seule texture. Et du coup, je me posais la question si je devais prendre toute la géométrie et la merge. En fait, je sais pas comment faire le texturing. Mais je pense que je vais faire une trim sheet avec quatre tuiles différentes. Encore une fois, je sais pas. En fait, si j'ai un toit avec une seule texture unifiée, ben je sais que je peux faire par exemple du vertex displacement avec Nanite pour avoir du volume, donc par exemple des roofs classiques style toit sud de la France ou Espagne. Mais dans le cadre où là par exemple ce serait plutôt un toit en bois avec des tuiles qui ont pas toutes la même taille et tout, je me pose la question si je devrais pas utiliser une trim sheet.",
+      "text" : "Alors, je me posais une question du coup. Je me demandais comment faire en sorte d'avoir différentes tuiles qui ne sont pas liées par une seule texture. Et du coup, je me posais la question si je devais prendre toute la géométrie et la merge. En fait, je sais pas comment faire le texturing. Mais je pense que je vais faire une trim sheet avec quatre tuiles différentes. Encore une fois, je sais pas. En fait, si j'ai un toit avec une seule texture unifiée, ben je sais que je peux faire par exemple du vertex displacement avec Nanite pour avoir du volume, donc par exemple des roofs classiques style toit sud de la France ou Espagne. Mais dans le cadre où là par exemple ce serait plutôt un toit en bois avec des tuiles qui ont pas toutes la même taille et tout, je me pose la question si je devrais pas utiliser une trim sheet."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813148288.22878,
+      "id" : "EB11713D-12EA-4DFD-B812-DA4B9D24F0F7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pas pour le Porsche, mais pour la house, j'aimerais que tu multiplies par deux le nombre de planches totales, parce que là j'ai l'impression qu'il n'y a pas assez de planches sur la church totale. Et par contre, il faudrait refaire sur la façade le découpage booléen de la fenêtre qui est complètement cassé.",
+      "text" : "Pas pour le Porsche, mais pour la house, j'aimerais que tu multiplies par deux le nombre de planches totales, parce que là j'ai l'impression qu'il n'y a pas assez de planches sur la church totale. Et par contre, il faudrait refaire sur la façade le découpage booléen de la fenêtre qui est complètement cassé."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813149103.198276,
+      "id" : "B7AF36E7-C796-4305-B988-BCAA01743E48",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Comment est-ce que dans Houdini on peut appliquer le material layer ? Je sais le faire dans Unreal Engine, mais j'aimerais comprendre ce que c'est l'équivalent dans Houdini pour pouvoir par exemple faire deux transitions de matériaux. Par exemple sur la maison, au lieu d'utiliser les matériaux Copernicus pour avoir tout bien, j'aimerais directement plutôt blend deux matériaux, par exemple par rapport aux arêtes ou par rapport à un masque customisé. Ce serait super pratique.",
+      "text" : "Comment est-ce que dans Houdini on peut appliquer le material layer ? Je sais le faire dans Unreal Engine, mais j'aimerais comprendre ce que c'est l'équivalent dans Houdini pour pouvoir par exemple faire deux transitions de matériaux. Par exemple sur la maison, au lieu d'utiliser les matériaux Copernicus pour avoir tout bien, j'aimerais directement plutôt blend deux matériaux, par exemple par rapport aux arêtes ou par rapport à un masque customisé. Ce serait super pratique."
     }
   ],
   "modes" : [
