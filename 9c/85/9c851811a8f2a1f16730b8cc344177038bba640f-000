@@ -2269,6 +2269,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Comment est-ce que dans Houdini on peut appliquer le material layer ? Je sais le faire dans Unreal Engine, mais j'aimerais comprendre ce que c'est l'équivalent dans Houdini pour pouvoir par exemple faire deux transitions de matériaux. Par exemple sur la maison, au lieu d'utiliser les matériaux Copernicus pour avoir tout bien, j'aimerais directement plutôt blend deux matériaux, par exemple par rapport aux arêtes ou par rapport à un masque customisé. Ce serait super pratique.",
       "text" : "Comment est-ce que dans Houdini on peut appliquer le material layer ? Je sais le faire dans Unreal Engine, mais j'aimerais comprendre ce que c'est l'équivalent dans Houdini pour pouvoir par exemple faire deux transitions de matériaux. Par exemple sur la maison, au lieu d'utiliser les matériaux Copernicus pour avoir tout bien, j'aimerais directement plutôt blend deux matériaux, par exemple par rapport aux arêtes ou par rapport à un masque customisé. Ce serait super pratique."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813150533.756781,
+      "id" : "37C15228-2A5E-4B87-AAE1-09E399B22B34",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais en fait, c'est le prompt le problème. Tu as encore mis plus une bande de faitage alors que je t'avais dit précisément de pas la mettre, putain.",
+      "text" : "Mais en fait, c'est le prompt le problème. Tu as encore mis plus une bande de faitage alors que je t'avais dit précisément de pas la mettre, putain."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813150781.441396,
+      "id" : "0C8220D6-287C-46E1-BA6B-32FE6772D011",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, ce qu'on voulait, c'est mix des matériaux. Ce n'est pas mix ni des layers ni mix de la géométrie. Ce qu'on veut, c'est mix des matériaux. Est-ce que ça, c'est possible ?",
+      "text" : "En fait, ce qu'on voulait, c'est mix des matériaux. Ce n'est pas mix ni des layers ni mix de la géométrie. Ce qu'on veut, c'est mix des matériaux. Est-ce que ça, c'est possible ?"
     }
   ],
   "modes" : [
