@@ -2399,6 +2399,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Pour les rangées et colonnes de tuiles, que ce soit du porch ou du toit de la church, donne-moi un slider qui permet d'ajouter soit plus de rangées, soit plus de colonnes, de manière procédurale. Mais pour l'instant, garde l'espace un peu random qu'il y a, je trouve qu'il est pas mal.",
       "text" : "Pour les rangées et colonnes de tuiles, que ce soit du porch ou du toit de la church, donne-moi un slider qui permet d'ajouter soit plus de rangées, soit plus de colonnes, de manière procédurale. Mais pour l'instant, garde l'espace un peu random qu'il y a, je trouve qu'il est pas mal."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813231330.394786,
+      "id" : "328CF1FB-F8D9-4064-B66C-B757E5E9E6BA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Grâce au programme de calcul qu'on a fait, d'ailleurs il faudra noter dans Houdini de refaire ce genre de programme à l'avenir parce que c'est super pratique pour pouvoir procéduralement faire des tests sans passer par Houdini parce que c'est beaucoup plus rapide. Il doit avoir un petit programme HTML qui calcule par exemple si on fait un toit ou un truc procédural. Et donc, j'ai déterminé qu'il faudrait avoir des tuiles qui ont la largeur d'une colonne, c'est-à-dire entre 0 2 et",
+      "text" : "Grâce au programme de calcul qu'on a fait, d'ailleurs il faudra noter dans Houdini de refaire ce genre de programme à l'avenir parce que c'est super pratique pour pouvoir procéduralement faire des tests sans passer par Houdini parce que c'est beaucoup plus rapide. Il doit avoir un petit programme HTML qui calcule par exemple si on fait un toit ou un truc procédural. Et donc, j'ai déterminé qu'il faudrait avoir des tuiles qui ont la largeur d'une colonne, c'est-à-dire entre 0 2 et"
     }
   ],
   "modes" : [
