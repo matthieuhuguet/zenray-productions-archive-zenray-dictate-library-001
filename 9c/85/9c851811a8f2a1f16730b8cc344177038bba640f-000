@@ -2769,6 +2769,66 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Je ne comprends pas pourquoi dans le projet Louisiana Bayou, je ne vois pas toutes mes images de concept. J'ai l'impression que l'index mapping du TMP n'a pas été fait proprement. C'est très très étrange.",
       "text" : "Je ne comprends pas pourquoi dans le projet Louisiana Bayou, je ne vois pas toutes mes images de concept. J'ai l'impression que l'index mapping du TMP n'a pas été fait proprement. C'est très très étrange."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813268562.824649,
+      "id" : "FE8C31F9-7D00-4B3E-9FAF-4F738922EE48",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Regarde à l'intérieur de l'église et évidemment tu vas faire un découpage dégueulasse. Est-ce que tu peux faire en sorte de couper les choses proprement ? Parce que là il reste des résidus de planche, etc. Il faut clean up le mesh là.",
+      "text" : "Regarde à l'intérieur de l'église et évidemment tu vas faire un découpage dégueulasse. Est-ce que tu peux faire en sorte de couper les choses proprement ? Parce que là il reste des résidus de planche, etc. Il faut clean up le mesh là."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813268622.563933,
+      "id" : "B8A3210C-D9DA-4FF2-BBEB-DB033CBFAA0C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il y a des trous, il y a des bouts de planches, et le fait qu'il n'y ait pas la glace qui soit affichée entre l'intérieur et l'extérieur de l'église, même s'il y a deux façades à l'intérieur. On ne doit pas voir le truc à l'intérieur et on doit voir depuis l'intérieur du coup les petites vitres puisque c'est bien découpé.",
+      "text" : "Il y a des trous, il y a des bouts de planches, et le fait qu'il n'y ait pas la glace qui soit affichée entre l'intérieur et l'extérieur de l'église, même s'il y a deux façades à l'intérieur. On ne doit pas voir le truc à l'intérieur et on doit voir depuis l'intérieur du coup les petites vitres puisque c'est bien découpé."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813268903.996416,
+      "id" : "4A37FBF0-3618-4A61-8CFF-9A1E97779513",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Deux fix à faire. Du coup, maintenant que on a agrandi la fenêtre, il faut réouvrir. Il faut refaire l'edit du croisillon de la croix pour qu'il s'insère dans son support et qu'il y ait plus de bug d'uv. Donc ça, c'est le premier fix à faire via un boolean. Le second, c'est de faire en sorte que le segment de l'arche qu'on voit juste en dessous, enfin, parte de la fenêtre, soit assemblé avec la croix comme une flèche, c'est comme une flèche inversée, mais ça doit être relié au même segment que la croix. Et enfin, ça doit s'arrêter au niveau exact du point le plus haut de la fenêtre. Et enfin, l'arche et l'angle de la flèche inversée doivent partir à ce moment-là. Mais le segment de la flèche inversée et de la croix doivent être sur le même, enfin, ça doit être le même component, si tu veux.",
+      "text" : "Deux fix à faire. Du coup, maintenant que on a agrandi la fenêtre, il faut réouvrir. Il faut refaire l'edit du croisillon de la croix pour qu'il s'insère dans son support et qu'il y ait plus de bug d'uv. Donc ça, c'est le premier fix à faire via un boolean. Le second, c'est de faire en sorte que le segment de l'arche qu'on voit juste en dessous, enfin, parte de la fenêtre, soit assemblé avec la croix comme une flèche, c'est comme une flèche inversée, mais ça doit être relié au même segment que la croix. Et enfin, ça doit s'arrêter au niveau exact du point le plus haut de la fenêtre. Et enfin, l'arche et l'angle de la flèche inversée doivent partir à ce moment-là. Mais le segment de la flèche inversée et de la croix doivent être sur le même, enfin, ça doit être le même component, si tu veux."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813268972.596707,
+      "id" : "8FFB9BAA-AF41-4FC8-9299-B950FA6F9C54",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Sur le screen que tu m'as envoyé, tu vois bien qu'il reste encore un trou à fixer.",
+      "text" : "Sur le screen que tu m'as envoyé, tu vois bien qu'il reste encore un trou à fixer."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813269063.765013,
+      "id" : "8E193094-6FCC-4695-B0D8-5A09139E4570",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, on n'est pas censé voir le segment du Porsche à l'intérieur de l'église, on est juste censé voir l'ouverture de la porte et les quatre petites fenêtres, c'est la seule chose qu'on est censé voir. Après, c'est peut-être aussi parce que il y a un bug dans l'épaisseur des planches. C'est qu'en fait, il y a un bug dans l'épaisseur des planches qui n'ont pas d'épaisseur en fait. C'est peut-être pour ça qu'en fait ça bug. Donc en fait, ce qu'il faudrait faire, c'est toute la church en fait. Les planches de la church doivent avoir une épaisseur. Mais bon, est-ce que ça Il faudrait pas tout recompute, je ne sais pas. Mais je ne pense pas en vrai. Il faut juste mettre une épaisseur normale quoi. Il y a même pas besoin de mettre de bevel. Il faut juste mettre une épaisseur et ensuite adapter les UV. Mais c'est les mêmes UV en soi, enfin c'est les mêmes UV en miroir.",
+      "text" : "En fait, on n'est pas censé voir le segment du Porsche à l'intérieur de l'église, on est juste censé voir l'ouverture de la porte et les quatre petites fenêtres, c'est la seule chose qu'on est censé voir. Après, c'est peut-être aussi parce que il y a un bug dans l'épaisseur des planches. C'est qu'en fait, il y a un bug dans l'épaisseur des planches qui n'ont pas d'épaisseur en fait. C'est peut-être pour ça qu'en fait ça bug. Donc en fait, ce qu'il faudrait faire, c'est toute la church en fait. Les planches de la church doivent avoir une épaisseur. Mais bon, est-ce que ça Il faudrait pas tout recompute, je ne sais pas. Mais je ne pense pas en vrai. Il faut juste mettre une épaisseur normale quoi. Il y a même pas besoin de mettre de bevel. Il faut juste mettre une épaisseur et ensuite adapter les UV. Mais c'est les mêmes UV en soi, enfin c'est les mêmes UV en miroir."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813269346.811474,
+      "id" : "22E2143A-2D2C-45E7-842E-86B68D617BD4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je comprends pas pourquoi on a mis autant de temps pour un simple modèle comme l'église à fixe tous les meshs, etc. Je comprends pas pourquoi. J'ai l'impression qu'un 3D tech artiste va passer beaucoup moins de temps à corriger ce que j'ai mis à corriger. Mais je pense que c'est pas parce que peut-être la méthodologie de components par components puis merge les components et tout ça par un LLM, ben certes ça fait gagner du temps au début, mais après puisqu'il faut tout fixe, c'est un peu compliqué. Après, c'est vrai que c'est pas du tout la même chose que de que de créer une église sur Blender puisque sur Blender, mais après, mais en fait c'est plus ou moins la même chose parce que je me dis puisque c'est des edits, des edits, des edits jusqu'à ce que le mesh soit parfait, là OK, je peux modifier la hauteur mais ça change pas non plus complètement l'architecture du truc. J'ai l'impression que pour ce genre d'assets, c'était pas forcément worth de partir sur un asset procédural. Après, c'est un bon exercice, mais je pense qu'à l'avenir, je pense qu'à l'avenir maintenant puisque Claude et ChatGPT ainsi qu'Invicti peuvent faire de la 3D, je pense que je ferai directement les meshs sur Blender, voire je ferai directement les meshs sur Houdini, mais pas via pas via la 3D quoi. Enfin, ce que je veux dire, c'est pas via des components HDA et tout parce que je sais pas, j'ai l'impression que la méthode est pas bonne. Mais en fait, il faut analyser il faut analyser tout le prompt et relire tout pour essayer de déterminer qu'est-ce qui a pris autant de temps parce que ce projet, il a commencé il y a super super longtemps. Donc j'ai l'impression que ce que je faisais avec les les components, c'est vraiment pas une bonne chose. Il faut trouver une nouvelle méthode beaucoup plus rapide.",
+      "text" : "Je comprends pas pourquoi on a mis autant de temps pour un simple modèle comme l'église à fixe tous les meshs, etc. Je comprends pas pourquoi. J'ai l'impression qu'un 3D tech artiste va passer beaucoup moins de temps à corriger ce que j'ai mis à corriger. Mais je pense que c'est pas parce que peut-être la méthodologie de components par components puis merge les components et tout ça par un LLM, ben certes ça fait gagner du temps au début, mais après puisqu'il faut tout fixe, c'est un peu compliqué. Après, c'est vrai que c'est pas du tout la même chose que de que de créer une église sur Blender puisque sur Blender, mais après, mais en fait c'est plus ou moins la même chose parce que je me dis puisque c'est des edits, des edits, des edits jusqu'à ce que le mesh soit parfait, là OK, je peux modifier la hauteur mais ça change pas non plus complètement l'architecture du truc. J'ai l'impression que pour ce genre d'assets, c'était pas forcément worth de partir sur un asset procédural. Après, c'est un bon exercice, mais je pense qu'à l'avenir, je pense qu'à l'avenir maintenant puisque Claude et ChatGPT ainsi qu'Invicti peuvent faire de la 3D, je pense que je ferai directement les meshs sur Blender, voire je ferai directement les meshs sur Houdini, mais pas via pas via la 3D quoi. Enfin, ce que je veux dire, c'est pas via des components HDA et tout parce que je sais pas, j'ai l'impression que la méthode est pas bonne. Mais en fait, il faut analyser il faut analyser tout le prompt et relire tout pour essayer de déterminer qu'est-ce qui a pris autant de temps parce que ce projet, il a commencé il y a super super longtemps. Donc j'ai l'impression que ce que je faisais avec les les components, c'est vraiment pas une bonne chose. Il faut trouver une nouvelle méthode beaucoup plus rapide."
     }
   ],
   "modes" : [
