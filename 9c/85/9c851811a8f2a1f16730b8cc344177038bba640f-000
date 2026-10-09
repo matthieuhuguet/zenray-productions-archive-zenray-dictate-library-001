@@ -2299,6 +2299,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Donne-moi un prompt paramétrique qui me permet de changer le design des textures pour avoir une prise de vue plus soit réaliste, soit stylisée, donc deux outputs réalistes et deux outputs stylisés, dans le cadre de la recherche et de l'innovation d'une texture sur une référence déjà existante. Le plus important, c'est que ce soit dans la logique HDA et paramétrique.",
       "text" : "Donne-moi un prompt paramétrique qui me permet de changer le design des textures pour avoir une prise de vue plus soit réaliste, soit stylisée, donc deux outputs réalistes et deux outputs stylisés, dans le cadre de la recherche et de l'innovation d'une texture sur une référence déjà existante. Le plus important, c'est que ce soit dans la logique HDA et paramétrique."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813224515.851907,
+      "id" : "B1A27993-8087-447D-A965-9B4ED1603DA3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Au lieu d'avoir une gouttière inversée, il faut faire en sorte de reprendre le même design et puis de couper via un booléen qui vient couper au niveau du faîtage ou du ridge, c'est-à-dire le sommet le plus haut du toit, pour que ce soit parfait. Mais il faut quand même laisser une forme d'épaisseur et comme ça la texture s'adaptera beaucoup mieux.",
+      "text" : "Au lieu d'avoir une gouttière inversée, il faut faire en sorte de reprendre le même design et puis de couper via un booléen qui vient couper au niveau du faîtage ou du ridge, c'est-à-dire le sommet le plus haut du toit, pour que ce soit parfait. Mais il faut quand même laisser une forme d'épaisseur et comme ça la texture s'adaptera beaucoup mieux."
     }
   ],
   "modes" : [
