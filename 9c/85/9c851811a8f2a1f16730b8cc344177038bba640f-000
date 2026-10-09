@@ -2289,6 +2289,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "En fait, ce qu'on voulait, c'est mix des matériaux. Ce n'est pas mix ni des layers ni mix de la géométrie. Ce qu'on veut, c'est mix des matériaux. Est-ce que ça, c'est possible ?",
       "text" : "En fait, ce qu'on voulait, c'est mix des matériaux. Ce n'est pas mix ni des layers ni mix de la géométrie. Ce qu'on veut, c'est mix des matériaux. Est-ce que ça, c'est possible ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813223732.484743,
+      "id" : "124293E4-1EC0-4DA4-9F7A-147F3C8F7062",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donne-moi un prompt paramétrique qui me permet de changer le design des textures pour avoir une prise de vue plus soit réaliste, soit stylisée, donc deux outputs réalistes et deux outputs stylisés, dans le cadre de la recherche et de l'innovation d'une texture sur une référence déjà existante. Le plus important, c'est que ce soit dans la logique HDA et paramétrique.",
+      "text" : "Donne-moi un prompt paramétrique qui me permet de changer le design des textures pour avoir une prise de vue plus soit réaliste, soit stylisée, donc deux outputs réalistes et deux outputs stylisés, dans le cadre de la recherche et de l'innovation d'une texture sur une référence déjà existante. Le plus important, c'est que ce soit dans la logique HDA et paramétrique."
     }
   ],
   "modes" : [
