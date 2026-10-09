@@ -2459,6 +2459,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "standard européenne",
       "text" : "standard européenne"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813236505.097785,
+      "id" : "7E4DC867-6D7F-404E-B45C-75F28BBAFE61",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Dans la leçon, il y a un truc que j'ai toujours pas compris. J'ai compris qu'on pouvait faire quatre variations pour l'œil avec le miroir et la rotation à 180 degrés. Et j'ai compris comment on passe de 24 à 196. Mais par contre, j'aimerais comprendre en trois paragraphes et sous le même format comment et pourquoi on peut faire en sorte de comprendre via le calepin. En fait, j'ai toujours pas compris le texel density. J'ai compris qu'un pixel par millimètre égale 1000 pixels, mais je comprends pas en fait comment ça s'applique. Imagine, il n'y a pas trim sheet et on copie le matériau. Maintenant, on applique la trim sheet et du coup, il y a déjà 24 variations et on peut dire qu'il y a jusqu'à 96 variations. Mais je comprends pas par exemple comment on détermine qu'une tuile va faire par exemple 420 x 380. Surtout qu'en plus, depuis la leçon, on a changé le nombre de rangées et de colonnes de la maison et en plus, on a changé les vraies dimensions dans l'espace 3D. Comment est-ce que moi-même je peux faire le calcul dans ma tête ou même poser le calcul pour faire toutes les opérations pour comprendre comment effectuer le recouvrement en trim sheet d'un toit avec des variations. Parce que j'imagine qu'à un moment, je peux diviser mon truc par 96, mais je sais pas si je dois calculer en mètres cubes, etc.",
+      "text" : "Dans la leçon, il y a un truc que j'ai toujours pas compris. J'ai compris qu'on pouvait faire quatre variations pour l'œil avec le miroir et la rotation à 180 degrés. Et j'ai compris comment on passe de 24 à 196. Mais par contre, j'aimerais comprendre en trois paragraphes et sous le même format comment et pourquoi on peut faire en sorte de comprendre via le calepin. En fait, j'ai toujours pas compris le texel density. J'ai compris qu'un pixel par millimètre égale 1000 pixels, mais je comprends pas en fait comment ça s'applique. Imagine, il n'y a pas trim sheet et on copie le matériau. Maintenant, on applique la trim sheet et du coup, il y a déjà 24 variations et on peut dire qu'il y a jusqu'à 96 variations. Mais je comprends pas par exemple comment on détermine qu'une tuile va faire par exemple 420 x 380. Surtout qu'en plus, depuis la leçon, on a changé le nombre de rangées et de colonnes de la maison et en plus, on a changé les vraies dimensions dans l'espace 3D. Comment est-ce que moi-même je peux faire le calcul dans ma tête ou même poser le calcul pour faire toutes les opérations pour comprendre comment effectuer le recouvrement en trim sheet d'un toit avec des variations. Parce que j'imagine qu'à un moment, je peux diviser mon truc par 96, mais je sais pas si je dois calculer en mètres cubes, etc."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813236636.222307,
+      "id" : "D6E56453-28AA-4ED8-9F57-D01B54D6B9D1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Reprends la fenêtre de la façade et tu peux l'agrandir grâce à Finished Enviro Concept du moment qu'elle touche pas le faîtage du porche. Tu peux du coup l'agrandir dans son scaling global et ensuite il faut refaire les booléennes. Et par contre au niveau du faîtage et de la rive de la rive des bords pour le porche tu l'as bien fait, mais pour l'église tu l'as pas bien fait du tout parce que c'est pas en dessous du toit. En fait, ça vient se coller en dessous du toit. Et enfin les bords de donc tout ça c'est pour la géométrie à corriger. Les bords des tuiles sont actuellement cropés. J'ai l'impression que tu as pas calculé les backfaces. Et c'est pareil pour le porche lorsque les lorsque les tuiles sont découpées, tu as pas réaffiché la face de profil pour que on voit pas à travers.",
+      "text" : "Reprends la fenêtre de la façade et tu peux l'agrandir grâce à Finished Enviro Concept du moment qu'elle touche pas le faîtage du porche. Tu peux du coup l'agrandir dans son scaling global et ensuite il faut refaire les booléennes. Et par contre au niveau du faîtage et de la rive de la rive des bords pour le porche tu l'as bien fait, mais pour l'église tu l'as pas bien fait du tout parce que c'est pas en dessous du toit. En fait, ça vient se coller en dessous du toit. Et enfin les bords de donc tout ça c'est pour la géométrie à corriger. Les bords des tuiles sont actuellement cropés. J'ai l'impression que tu as pas calculé les backfaces. Et c'est pareil pour le porche lorsque les lorsque les tuiles sont découpées, tu as pas réaffiché la face de profil pour que on voit pas à travers."
     }
   ],
   "modes" : [
