@@ -2379,6 +2379,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "tenir compte de la partie la plus haute au niveau du porche et au niveau de la church au niveau du toit. Essaie de déterminer grâce précisément à l'image, j'ai mis des couleurs différentes donc juste à les compter sans faire aucune erreur, la répartition exacte et l'aléatoire et les distances des tuiles les unes entre les autres pour que mon toit actuel soit plus proche de la référence.",
       "text" : "tenir compte de la partie la plus haute au niveau du porche et au niveau de la church au niveau du toit. Essaie de déterminer grâce précisément à l'image, j'ai mis des couleurs différentes donc juste à les compter sans faire aucune erreur, la répartition exacte et l'aléatoire et les distances des tuiles les unes entre les autres pour que mon toit actuel soit plus proche de la référence."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813229783.922984,
+      "id" : "E4C0B772-9D9F-454B-86E5-2C5B8A726547",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "compte bien de tuiles au total et détermine le nombre de tuiles, de trim sheets et d'espace UV dont on aurait besoin pour couvrir tout le toit.",
+      "text" : "compte bien de tuiles au total et détermine le nombre de tuiles, de trim sheets et d'espace UV dont on aurait besoin pour couvrir tout le toit."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813229984.440399,
+      "id" : "AA2C3CF0-54E5-4332-8137-E5DD36AC06E0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pour les rangées et colonnes de tuiles, que ce soit du porch ou du toit de la church, donne-moi un slider qui permet d'ajouter soit plus de rangées, soit plus de colonnes, de manière procédurale. Mais pour l'instant, garde l'espace un peu random qu'il y a, je trouve qu'il est pas mal.",
+      "text" : "Pour les rangées et colonnes de tuiles, que ce soit du porch ou du toit de la church, donne-moi un slider qui permet d'ajouter soit plus de rangées, soit plus de colonnes, de manière procédurale. Mais pour l'instant, garde l'espace un peu random qu'il y a, je trouve qu'il est pas mal."
     }
   ],
   "modes" : [
