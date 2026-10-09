@@ -2509,6 +2509,86 @@
       "provider" : "Gemini live dictation",
       "rawText" : "ça fonctionne. C'est bizarre.",
       "text" : "ça fonctionne. C'est bizarre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813237325.897263,
+      "id" : "7ACE52E5-B9E5-448C-B675-A572DC3496DB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais ouais, c'est bizarre. Affiche-moi le sauf que ça monte pas le micro.",
+      "text" : "Mais ouais, c'est bizarre. Affiche-moi le sauf que ça monte pas le micro."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813237470.519083,
+      "id" : "DA8ED929-26FA-41AB-9AAF-C063D44B7D67",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "I'm trying to",
+      "text" : "I'm trying to"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813237476.129942,
+      "id" : "250979CC-2EFA-449E-A760-C6489D9DDA22",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Können wir das nehmen?",
+      "text" : "Können wir das nehmen?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813237994.360156,
+      "id" : "A22756B9-B073-40C8-85AB-F9AB769FDF90",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Parfait.",
+      "text" : "Parfait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813238030.049154,
+      "id" : "DCD5C932-E2F7-4B16-88FD-102881DA71CA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Alors du coup, ça c'est pas ouf. MacBook Pro, OK. Ah, c'est marrant. Changer de micro. OK, trop bien. Mais c'est bien hein, lui qu'il a fait là. C'est très très propre.",
+      "text" : "Alors du coup, ça c'est pas ouf. MacBook Pro, OK. Ah, c'est marrant. Changer de micro. OK, trop bien. Mais c'est bien hein, lui qu'il a fait là. C'est très très propre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813238111.525986,
+      "id" : "0ACD6607-3226-4158-BCC0-49154BAC4800",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "OK. Et là du coup, c'est sur MacBook Pro normalement, enfin logiquement. Mais du coup, mes parents en orange. OK.",
+      "text" : "OK. Et là du coup, c'est sur MacBook Pro normalement, enfin logiquement. Mais du coup, mes parents en orange. OK."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813238133.636874,
+      "id" : "E5E8974A-0EF4-44C6-B6DD-DB0816FD4CD3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ce qu'il faut faire, du coup, c'est ajouter la petite section",
+      "text" : "Ce qu'il faut faire, du coup, c'est ajouter la petite section"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813238161.618138,
+      "id" : "D2676A38-6E81-4600-8151-21EE22BB275D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Permettez de voir du coup le design des quatre tuiles selon leur rotation.",
+      "text" : "Permettez de voir du coup le design des quatre tuiles selon leur rotation."
     }
   ],
   "modes" : [
