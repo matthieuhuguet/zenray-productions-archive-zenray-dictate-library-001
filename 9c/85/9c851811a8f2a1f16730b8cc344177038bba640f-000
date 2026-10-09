@@ -2339,6 +2339,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Il faudrait rapprocher les éléments et utiliser le design pour mieux agencer les éléments. C'est pas forcément un problème du fait qu'il y ait beaucoup trop d'informations, même s'il y en a un petit peu trop, c'est plutôt que les informations sont mal amenées en termes de logique. C'est-à-dire que par exemple, il y a en premier retrouver le projet sur le Mac alors que c'est pas le plus important. Le plus important, c'est par exemple avoir directement mes fichiers et où je peux changer sous forme d'icône, de liste, de colonne ou de galerie et savoir qu'est-ce qui prend de l'espace. En fait, le truc c'est que tu dois préciser les choses qui sont les plus proches des unes des autres en fonction de ce dont j'ai besoin. Par exemple, si je regarde mes fichiers, je vais avoir besoin de changer la vue pour pouvoir trouver un fichier plus facilement. Mais j'ai pas besoin forcément de savoir exactement qu'est-ce qui prend de l'espace en premier. Enfin, c'est utile parce que ça permet de voir le camembert qui permet de séparer tous les fichiers et tous les projets, mais est-ce que c'est vraiment utile d'avoir les icônes liste, colonne, galerie, puis qu'est-ce qui prend de l'espace, puis les fichiers ? C'est mal agencé. Donc il faut que tu agences parfaitement les choses de manière à ce que le design soit cohérent en mode UI gestalt, loi de la cohérence, loi des éléments les plus proches, etc.",
       "text" : "Il faudrait rapprocher les éléments et utiliser le design pour mieux agencer les éléments. C'est pas forcément un problème du fait qu'il y ait beaucoup trop d'informations, même s'il y en a un petit peu trop, c'est plutôt que les informations sont mal amenées en termes de logique. C'est-à-dire que par exemple, il y a en premier retrouver le projet sur le Mac alors que c'est pas le plus important. Le plus important, c'est par exemple avoir directement mes fichiers et où je peux changer sous forme d'icône, de liste, de colonne ou de galerie et savoir qu'est-ce qui prend de l'espace. En fait, le truc c'est que tu dois préciser les choses qui sont les plus proches des unes des autres en fonction de ce dont j'ai besoin. Par exemple, si je regarde mes fichiers, je vais avoir besoin de changer la vue pour pouvoir trouver un fichier plus facilement. Mais j'ai pas besoin forcément de savoir exactement qu'est-ce qui prend de l'espace en premier. Enfin, c'est utile parce que ça permet de voir le camembert qui permet de séparer tous les fichiers et tous les projets, mais est-ce que c'est vraiment utile d'avoir les icônes liste, colonne, galerie, puis qu'est-ce qui prend de l'espace, puis les fichiers ? C'est mal agencé. Donc il faut que tu agences parfaitement les choses de manière à ce que le design soit cohérent en mode UI gestalt, loi de la cohérence, loi des éléments les plus proches, etc."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813226912.843769,
+      "id" : "BC3D55A9-AC93-40CF-AF0E-775718605F81",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, sauvegarde cette nouvelle variation, mais j'ai besoin de trois styles différents. Il me faudrait un style ancien type médiéval ou architectural du passé, un style contemporain du présent de maintenant, un style futuriste et un style qui allie futuriste et médiéval ou une civilisation différente.",
+      "text" : "En fait, sauvegarde cette nouvelle variation, mais j'ai besoin de trois styles différents. Il me faudrait un style ancien type médiéval ou architectural du passé, un style contemporain du présent de maintenant, un style futuriste et un style qui allie futuriste et médiéval ou une civilisation différente."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813226959.039886,
+      "id" : "0FF9885E-55D4-4844-8F2E-AF3651CFFD37",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Teste l'autre prompt qu'on avait fait parce que l'autre prompt, il est vraiment là pour garder le design actuel et changer la texture, tandis que ce nouveau prompt, il est plutôt orienté autour de explorer vraiment une nouvelle idée. Donc change les titres et attends ma validation. Et repropose-moi les deux prompts pour que je puisse les relire et comparer.",
+      "text" : "Teste l'autre prompt qu'on avait fait parce que l'autre prompt, il est vraiment là pour garder le design actuel et changer la texture, tandis que ce nouveau prompt, il est plutôt orienté autour de explorer vraiment une nouvelle idée. Donc change les titres et attends ma validation. Et repropose-moi les deux prompts pour que je puisse les relire et comparer."
     }
   ],
   "modes" : [
