@@ -2719,6 +2719,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Enfin, j'ai une dernière question. Tout à l'heure, je me posais la question, est-ce qu'on doit d'abord faire la fenêtre puis faire la trim sheet ou alors faire la trim sheet puis adapter les UV de la fenêtre au trim sheet ? Mais en fait, je crois qu'il n'y a pas vraiment de réponse à cette question parce que c'est un peu les deux. C'est-à-dire que il y a toujours du back and forth sur les deux parce que, par exemple, tout à l'heure, on avait 36 dalles de UV, mais en soi, on aurait pu en avoir plus. Donc je ne sais pas trop comment répondre à cette question en fait.",
       "text" : "Enfin, j'ai une dernière question. Tout à l'heure, je me posais la question, est-ce qu'on doit d'abord faire la fenêtre puis faire la trim sheet ou alors faire la trim sheet puis adapter les UV de la fenêtre au trim sheet ? Mais en fait, je crois qu'il n'y a pas vraiment de réponse à cette question parce que c'est un peu les deux. C'est-à-dire que il y a toujours du back and forth sur les deux parce que, par exemple, tout à l'heure, on avait 36 dalles de UV, mais en soi, on aurait pu en avoir plus. Donc je ne sais pas trop comment répondre à cette question en fait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813247135.898199,
+      "id" : "63F8A7D2-6D52-4752-9132-E2DC1F064BB1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc là, j'ai un bug d'ombrage sur toutes les tuiles et les cinq planches au-dessus du support d'escalier. Il faut que tu les mettes avec la résolution de la fenêtre, le matériau de la fenêtre.",
+      "text" : "Donc là, j'ai un bug d'ombrage sur toutes les tuiles et les cinq planches au-dessus du support d'escalier. Il faut que tu les mettes avec la résolution de la fenêtre, le matériau de la fenêtre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813247236.254349,
+      "id" : "8FEB5206-2075-4D30-A372-756A5AAC938D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "On appelle de manière distincte deux composantes d'une croix, mais de manière distincte, c'est-à-dire il y a un support et il y a l'autre.",
+      "text" : "On appelle de manière distincte deux composantes d'une croix, mais de manière distincte, c'est-à-dire il y a un support et il y a l'autre."
     }
   ],
   "modes" : [
