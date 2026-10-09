@@ -2689,6 +2689,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "En fait, il me faudrait la vue avec la base color, la vue avec la géométrie et les couleurs dispatchées et la vue avec les UV et les bandes de couleurs appliquées sur la texture.",
       "text" : "En fait, il me faudrait la vue avec la base color, la vue avec la géométrie et les couleurs dispatchées et la vue avec les UV et les bandes de couleurs appliquées sur la texture."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813245938.757364,
+      "id" : "7F139BBC-20BC-481A-8EAE-8EA0F40394A2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "OK, mais je pense qu'on peut automatiser le comment ça s'appelle. Ah oui, mais non. Ben non. Ben non, mais c'est même blague, tu vois. Enfin, c'était pareil.",
+      "text" : "OK, mais je pense qu'on peut automatiser le comment ça s'appelle. Ah oui, mais non. Ben non. Ben non, mais c'est même blague, tu vois. Enfin, c'était pareil."
     }
   ],
   "modes" : [
