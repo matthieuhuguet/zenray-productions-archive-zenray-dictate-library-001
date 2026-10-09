@@ -2679,6 +2679,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Pour l'instant sur le Porsche, c'est quasi bon, sauf que tu fais n'importe quoi. Donc le sol du Porsche, c'était toujours le matériau white paint. Tous les bardages, c'est white paint. Il y a juste la rampe d'escalier, là pour le coup, il faut appliquer la texture UV des fenêtres, mais il faut respecter l'orientation des choses. Et pour les petites sphères, il faut faire un découpage UV propre des sphères. J'imagine qu'une sphère de base a le truc bien ou sinon tu les remplaces par des carrés que tu smoothes et comme ça ils ont déjà les bons UV.",
       "text" : "Pour l'instant sur le Porsche, c'est quasi bon, sauf que tu fais n'importe quoi. Donc le sol du Porsche, c'était toujours le matériau white paint. Tous les bardages, c'est white paint. Il y a juste la rampe d'escalier, là pour le coup, il faut appliquer la texture UV des fenêtres, mais il faut respecter l'orientation des choses. Et pour les petites sphères, il faut faire un découpage UV propre des sphères. J'imagine qu'une sphère de base a le truc bien ou sinon tu les remplaces par des carrés que tu smoothes et comme ça ils ont déjà les bons UV."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813244911.249036,
+      "id" : "70A33A99-019A-41A3-8E54-C36C8655B374",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, il me faudrait la vue avec la base color, la vue avec la géométrie et les couleurs dispatchées et la vue avec les UV et les bandes de couleurs appliquées sur la texture.",
+      "text" : "En fait, il me faudrait la vue avec la base color, la vue avec la géométrie et les couleurs dispatchées et la vue avec les UV et les bandes de couleurs appliquées sur la texture."
     }
   ],
   "modes" : [
