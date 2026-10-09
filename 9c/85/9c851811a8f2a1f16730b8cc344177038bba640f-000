@@ -2309,6 +2309,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Au lieu d'avoir une gouttière inversée, il faut faire en sorte de reprendre le même design et puis de couper via un booléen qui vient couper au niveau du faîtage ou du ridge, c'est-à-dire le sommet le plus haut du toit, pour que ce soit parfait. Mais il faut quand même laisser une forme d'épaisseur et comme ça la texture s'adaptera beaucoup mieux.",
       "text" : "Au lieu d'avoir une gouttière inversée, il faut faire en sorte de reprendre le même design et puis de couper via un booléen qui vient couper au niveau du faîtage ou du ridge, c'est-à-dire le sommet le plus haut du toit, pour que ce soit parfait. Mais il faut quand même laisser une forme d'épaisseur et comme ça la texture s'adaptera beaucoup mieux."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813226085.088102,
+      "id" : "8E960571-EE3B-4592-B68A-05FADCB2EB1D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "La géométrie de la rive du toit du porche part du sommet du toit comme si elle englobait. Elle fait une petite courbure qui épouse le toit mais en dessous et ensuite elle vient se relier à un autre bord qui va vers la church. En fait, ça fait comme si ça entourait le bois mais vers en dessous.",
+      "text" : "La géométrie de la rive du toit du porche part du sommet du toit comme si elle englobait. Elle fait une petite courbure qui épouse le toit mais en dessous et ensuite elle vient se relier à un autre bord qui va vers la church. En fait, ça fait comme si ça entourait le bois mais vers en dessous."
     }
   ],
   "modes" : [
