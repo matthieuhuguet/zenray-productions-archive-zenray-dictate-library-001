@@ -2599,6 +2599,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "J'ai un bug quand je lance le plein écran sur YouTube ou sur Chrome. J'ai un bug qui fait que je vois encore la barre d'affichage avec le rouge, le jaune et le vert. Je pense que c'est à cause d'une interface Swift qu'on a créé, mais il faut détecter laquelle et il faut résoudre ce bug.",
       "text" : "J'ai un bug quand je lance le plein écran sur YouTube ou sur Chrome. J'ai un bug qui fait que je vois encore la barre d'affichage avec le rouge, le jaune et le vert. Je pense que c'est à cause d'une interface Swift qu'on a créé, mais il faut détecter laquelle et il faut résoudre ce bug."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813240246.82454,
+      "id" : "8E72DCD4-06E1-4D73-85CF-117C43656B28",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Vérifier le numéro de 4e Fiat Xelento City du nombre d'emplacements dont j'aurais besoin.",
+      "text" : "Vérifier le numéro de 4e Fiat Xelento City du nombre d'emplacements dont j'aurais besoin."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813240543.575272,
+      "id" : "02002368-0274-4430-A4BC-BD465B9D3C22",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Si j'indexe le toit de tout à l'heure par rapport... Non, merde.",
+      "text" : "Si j'indexe le toit de tout à l'heure par rapport... Non, merde."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813240629.226742,
+      "id" : "9903D4E0-3323-4A40-905D-5DC29CDB0FA5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc là, j'ai ma trim sheet avec la colorimétrie et trois emplacements, mais la question est la suivante. C'est, est-ce que je dois faire en sorte... Oui, c'est là puisqu'on a 36 emplacements et qu'on va utiliser le segment pour faire une rotation x 4. Du coup, il faut peut-être préciser dans l'image generation que j'ai besoin de tuiles qui soient symétriques. Je sais pas si c'est vraiment pas forcément de gauche à droite, mais de haut en bas, ça doit être symétrique puisqu'on fait un truc en quatre. Donc redonne-moi le prompt pour générer la height du bâtiment et j'aimerais aussi que tu me donnes l'image de l'église sur laquelle on a fait le scattering du toit tout à l'heure.",
+      "text" : "Donc là, j'ai ma trim sheet avec la colorimétrie et trois emplacements, mais la question est la suivante. C'est, est-ce que je dois faire en sorte... Oui, c'est là puisqu'on a 36 emplacements et qu'on va utiliser le segment pour faire une rotation x 4. Du coup, il faut peut-être préciser dans l'image generation que j'ai besoin de tuiles qui soient symétriques. Je sais pas si c'est vraiment pas forcément de gauche à droite, mais de haut en bas, ça doit être symétrique puisqu'on fait un truc en quatre. Donc redonne-moi le prompt pour générer la height du bâtiment et j'aimerais aussi que tu me donnes l'image de l'église sur laquelle on a fait le scattering du toit tout à l'heure."
     }
   ],
   "modes" : [
