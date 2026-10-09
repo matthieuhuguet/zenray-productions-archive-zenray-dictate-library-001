@@ -2419,6 +2419,46 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Du coup, si c'est la valeur de base, en soi, j'ai juste à intégrer un asset d'un humain qui ferait à peu près 1,76 m ou 2 m et ensuite comme ça on cale toutes les longueurs de la church pour qu'elle soit valide et enfin ça nous donne le nombre exact de pixels dont on a besoin pour faire la séparation des tuiles.",
       "text" : "Du coup, si c'est la valeur de base, en soi, j'ai juste à intégrer un asset d'un humain qui ferait à peu près 1,76 m ou 2 m et ensuite comme ça on cale toutes les longueurs de la church pour qu'elle soit valide et enfin ça nous donne le nombre exact de pixels dont on a besoin pour faire la séparation des tuiles."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813235208.334237,
+      "id" : "3F15AD82-D7E9-42B5-A0A9-4896096A91B1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "OK, est-ce que ça fonctionne ?",
+      "text" : "OK, est-ce que ça fonctionne ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813235298.013138,
+      "id" : "3845A4DE-4369-4479-9495-FB7581A5E0E8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'ai beaucoup de micros et il passe souvent par le micro du casque et je trouve ça désagréable par rapport au fait d'utiliser le micro du MacBook. J'ai déjà essayé d'utiliser un programme qui force tout le temps l'entrée sur MacBook Input, mais en fait, à cause des connexions automatiques du Bluetooth, ça remet à chaque fois le Bluetooth sur le casque. Donc en fait, j'aimerais simplement dans les pilotes du casque désactiver le micro.",
+      "text" : "J'ai beaucoup de micros et il passe souvent par le micro du casque et je trouve ça désagréable par rapport au fait d'utiliser le micro du MacBook. J'ai déjà essayé d'utiliser un programme qui force tout le temps l'entrée sur MacBook Input, mais en fait, à cause des connexions automatiques du Bluetooth, ça remet à chaque fois le Bluetooth sur le casque. Donc en fait, j'aimerais simplement dans les pilotes du casque désactiver le micro."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813235427.398119,
+      "id" : "737EEFDE-69D3-4148-930D-AE1A7BE06E1F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Une porte en général, ça fait combien de mètres en termes de hauteur ?",
+      "text" : "Une porte en général, ça fait combien de mètres en termes de hauteur ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813235439.738519,
+      "id" : "679689BA-B5EC-4EF5-9B38-85182BD5CD3F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "standard européenne",
+      "text" : "standard européenne"
     }
   ],
   "modes" : [
