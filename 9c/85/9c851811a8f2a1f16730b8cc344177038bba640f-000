@@ -2489,6 +2489,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Je suis en train de travailler sur la 3D et on m'a dit que j'ai choisi un pixel pour un millimètre, mais moi j'ai jamais rien choisi. Est-ce que cette unité de mesure est la bonne ?",
       "text" : "Je suis en train de travailler sur la 3D et on m'a dit que j'ai choisi un pixel pour un millimètre, mais moi j'ai jamais rien choisi. Est-ce que cette unité de mesure est la bonne ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813237140.796584,
+      "id" : "4319B0BE-ECB7-40DA-9FAA-FBE2BA6B9F8C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Interval en anglais, ça se dit",
+      "text" : "Interval en anglais, ça se dit"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813237170.525784,
+      "id" : "6057E604-903E-4427-9AE5-BA5187FDA614",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "ça fonctionne. C'est bizarre.",
+      "text" : "ça fonctionne. C'est bizarre."
     }
   ],
   "modes" : [
