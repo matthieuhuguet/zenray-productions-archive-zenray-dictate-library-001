@@ -2629,6 +2629,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Donc là, j'ai ma trim sheet avec la colorimétrie et trois emplacements, mais la question est la suivante. C'est, est-ce que je dois faire en sorte... Oui, c'est là puisqu'on a 36 emplacements et qu'on va utiliser le segment pour faire une rotation x 4. Du coup, il faut peut-être préciser dans l'image generation que j'ai besoin de tuiles qui soient symétriques. Je sais pas si c'est vraiment pas forcément de gauche à droite, mais de haut en bas, ça doit être symétrique puisqu'on fait un truc en quatre. Donc redonne-moi le prompt pour générer la height du bâtiment et j'aimerais aussi que tu me donnes l'image de l'église sur laquelle on a fait le scattering du toit tout à l'heure.",
       "text" : "Donc là, j'ai ma trim sheet avec la colorimétrie et trois emplacements, mais la question est la suivante. C'est, est-ce que je dois faire en sorte... Oui, c'est là puisqu'on a 36 emplacements et qu'on va utiliser le segment pour faire une rotation x 4. Du coup, il faut peut-être préciser dans l'image generation que j'ai besoin de tuiles qui soient symétriques. Je sais pas si c'est vraiment pas forcément de gauche à droite, mais de haut en bas, ça doit être symétrique puisqu'on fait un truc en quatre. Donc redonne-moi le prompt pour générer la height du bâtiment et j'aimerais aussi que tu me donnes l'image de l'église sur laquelle on a fait le scattering du toit tout à l'heure."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813240746.720435,
+      "id" : "98287DEF-5DFB-4AC9-A93B-AB2C9577E42A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Oui, c'est presque cette église, sauf que c'était pas exactement celle-là dans le sens où c'était celle où il n'y a pas le",
+      "text" : "Oui, c'est presque cette église, sauf que c'était pas exactement celle-là dans le sens où c'était celle où il n'y a pas le"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813240814.036599,
+      "id" : "5D44ED21-0FC4-41D7-9357-6545ABA1380C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Meilleur aspirateur à bas coût acheté, meilleur rapport qualité",
+      "text" : "Meilleur aspirateur à bas coût acheté, meilleur rapport qualité"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813241631.403666,
+      "id" : "7BA9DCC3-109A-4E5B-8B22-163D7731CE8E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pour en dessous les tuiles, il y a l'épaisseur de la tuile. Ce que tu vas faire, c'est que tu vas utiliser une bande verticale de la tuile au niveau du découpage des UV. Comme ça, ça respecte la continuité du",
+      "text" : "Pour en dessous les tuiles, il y a l'épaisseur de la tuile. Ce que tu vas faire, c'est que tu vas utiliser une bande verticale de la tuile au niveau du découpage des UV. Comme ça, ça respecte la continuité du"
     }
   ],
   "modes" : [
