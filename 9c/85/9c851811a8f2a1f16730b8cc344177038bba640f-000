@@ -2589,6 +2589,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Permettez de voir du coup le design des quatre tuiles selon leur rotation.",
       "text" : "Permettez de voir du coup le design des quatre tuiles selon leur rotation."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813239413.828767,
+      "id" : "354046AE-0F7A-44BD-BC68-BAD0791FB65B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'ai un bug quand je lance le plein écran sur YouTube ou sur Chrome. J'ai un bug qui fait que je vois encore la barre d'affichage avec le rouge, le jaune et le vert. Je pense que c'est à cause d'une interface Swift qu'on a créé, mais il faut détecter laquelle et il faut résoudre ce bug.",
+      "text" : "J'ai un bug quand je lance le plein écran sur YouTube ou sur Chrome. J'ai un bug qui fait que je vois encore la barre d'affichage avec le rouge, le jaune et le vert. Je pense que c'est à cause d'une interface Swift qu'on a créé, mais il faut détecter laquelle et il faut résoudre ce bug."
     }
   ],
   "modes" : [
