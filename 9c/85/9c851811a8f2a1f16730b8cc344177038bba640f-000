@@ -2369,6 +2369,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Pour chaque tuile, j'aimerais faire en sorte de déterminer une couleur différente mais adjacente. Je te donne le toit et toi tu vas pour chaque tuile mettre une couleur différente pour que le modèle puisse calculer combien il y a de planches exactement. Et en faisant un dégradé de couleur, comme on le ferait pour par exemple quand on met des UV, on append chaque couleur adjacente à une autre tuile d'une couleur différente. Ainsi, visuellement, on n'a pas de problème. Et en plus, ça permet pour un 3D des cartistes de comprendre immédiatement le nombre de rangées et de colonnes sur un toit. Donc, donne-moi le prompt qui permet de générer une image qui permet d'avoir la side view UV parfaite.",
       "text" : "Pour chaque tuile, j'aimerais faire en sorte de déterminer une couleur différente mais adjacente. Je te donne le toit et toi tu vas pour chaque tuile mettre une couleur différente pour que le modèle puisse calculer combien il y a de planches exactement. Et en faisant un dégradé de couleur, comme on le ferait pour par exemple quand on met des UV, on append chaque couleur adjacente à une autre tuile d'une couleur différente. Ainsi, visuellement, on n'a pas de problème. Et en plus, ça permet pour un 3D des cartistes de comprendre immédiatement le nombre de rangées et de colonnes sur un toit. Donc, donne-moi le prompt qui permet de générer une image qui permet d'avoir la side view UV parfaite."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813228932.437572,
+      "id" : "3300D1DF-15C9-49F3-B116-D482718153E9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "tenir compte de la partie la plus haute au niveau du porche et au niveau de la church au niveau du toit. Essaie de déterminer grâce précisément à l'image, j'ai mis des couleurs différentes donc juste à les compter sans faire aucune erreur, la répartition exacte et l'aléatoire et les distances des tuiles les unes entre les autres pour que mon toit actuel soit plus proche de la référence.",
+      "text" : "tenir compte de la partie la plus haute au niveau du porche et au niveau de la church au niveau du toit. Essaie de déterminer grâce précisément à l'image, j'ai mis des couleurs différentes donc juste à les compter sans faire aucune erreur, la répartition exacte et l'aléatoire et les distances des tuiles les unes entre les autres pour que mon toit actuel soit plus proche de la référence."
     }
   ],
   "modes" : [
