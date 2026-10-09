@@ -2409,6 +2409,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Grâce au programme de calcul qu'on a fait, d'ailleurs il faudra noter dans Houdini de refaire ce genre de programme à l'avenir parce que c'est super pratique pour pouvoir procéduralement faire des tests sans passer par Houdini parce que c'est beaucoup plus rapide. Il doit avoir un petit programme HTML qui calcule par exemple si on fait un toit ou un truc procédural. Et donc, j'ai déterminé qu'il faudrait avoir des tuiles qui ont la largeur d'une colonne, c'est-à-dire entre 0 2 et",
       "text" : "Grâce au programme de calcul qu'on a fait, d'ailleurs il faudra noter dans Houdini de refaire ce genre de programme à l'avenir parce que c'est super pratique pour pouvoir procéduralement faire des tests sans passer par Houdini parce que c'est beaucoup plus rapide. Il doit avoir un petit programme HTML qui calcule par exemple si on fait un toit ou un truc procédural. Et donc, j'ai déterminé qu'il faudrait avoir des tuiles qui ont la largeur d'une colonne, c'est-à-dire entre 0 2 et"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813232093.847337,
+      "id" : "C7C568FD-E98F-42BC-8185-B8702E922ADE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Du coup, si c'est la valeur de base, en soi, j'ai juste à intégrer un asset d'un humain qui ferait à peu près 1,76 m ou 2 m et ensuite comme ça on cale toutes les longueurs de la church pour qu'elle soit valide et enfin ça nous donne le nombre exact de pixels dont on a besoin pour faire la séparation des tuiles.",
+      "text" : "Du coup, si c'est la valeur de base, en soi, j'ai juste à intégrer un asset d'un humain qui ferait à peu près 1,76 m ou 2 m et ensuite comme ça on cale toutes les longueurs de la church pour qu'elle soit valide et enfin ça nous donne le nombre exact de pixels dont on a besoin pour faire la séparation des tuiles."
     }
   ],
   "modes" : [
