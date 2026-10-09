@@ -2479,6 +2479,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Reprends la fenêtre de la façade et tu peux l'agrandir grâce à Finished Enviro Concept du moment qu'elle touche pas le faîtage du porche. Tu peux du coup l'agrandir dans son scaling global et ensuite il faut refaire les booléennes. Et par contre au niveau du faîtage et de la rive de la rive des bords pour le porche tu l'as bien fait, mais pour l'église tu l'as pas bien fait du tout parce que c'est pas en dessous du toit. En fait, ça vient se coller en dessous du toit. Et enfin les bords de donc tout ça c'est pour la géométrie à corriger. Les bords des tuiles sont actuellement cropés. J'ai l'impression que tu as pas calculé les backfaces. Et c'est pareil pour le porche lorsque les lorsque les tuiles sont découpées, tu as pas réaffiché la face de profil pour que on voit pas à travers.",
       "text" : "Reprends la fenêtre de la façade et tu peux l'agrandir grâce à Finished Enviro Concept du moment qu'elle touche pas le faîtage du porche. Tu peux du coup l'agrandir dans son scaling global et ensuite il faut refaire les booléennes. Et par contre au niveau du faîtage et de la rive de la rive des bords pour le porche tu l'as bien fait, mais pour l'église tu l'as pas bien fait du tout parce que c'est pas en dessous du toit. En fait, ça vient se coller en dessous du toit. Et enfin les bords de donc tout ça c'est pour la géométrie à corriger. Les bords des tuiles sont actuellement cropés. J'ai l'impression que tu as pas calculé les backfaces. Et c'est pareil pour le porche lorsque les lorsque les tuiles sont découpées, tu as pas réaffiché la face de profil pour que on voit pas à travers."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813236804.95597,
+      "id" : "8F44CCAD-03B0-44E5-A68C-9841FADA0F5A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je suis en train de travailler sur la 3D et on m'a dit que j'ai choisi un pixel pour un millimètre, mais moi j'ai jamais rien choisi. Est-ce que cette unité de mesure est la bonne ?",
+      "text" : "Je suis en train de travailler sur la 3D et on m'a dit que j'ai choisi un pixel pour un millimètre, mais moi j'ai jamais rien choisi. Est-ce que cette unité de mesure est la bonne ?"
     }
   ],
   "modes" : [
