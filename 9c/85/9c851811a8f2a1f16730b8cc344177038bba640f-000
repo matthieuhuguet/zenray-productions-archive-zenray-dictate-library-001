@@ -2759,6 +2759,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Il y a toujours le problème sur le Porsche, mais je crois que c'est parce que tu fais pas en sorte de coller les textures par rapport au bas et aligner à gauche. Dans le sens où je t'ai déjà dit d'aligner les textures à gauche et en bas, mais si tu regardes la sheet où il y a 36 points, tu vois que la partie basse elle a un léger éclairage plus prononcé et c'est ça qu'il faut absolument aligner sur toutes les tuiles. Je pense que ça va résoudre le problème du Porsche.",
       "text" : "Il y a toujours le problème sur le Porsche, mais je crois que c'est parce que tu fais pas en sorte de coller les textures par rapport au bas et aligner à gauche. Dans le sens où je t'ai déjà dit d'aligner les textures à gauche et en bas, mais si tu regardes la sheet où il y a 36 points, tu vois que la partie basse elle a un léger éclairage plus prononcé et c'est ça qu'il faut absolument aligner sur toutes les tuiles. Je pense que ça va résoudre le problème du Porsche."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813248870.26393,
+      "id" : "8F3DEF43-2BD9-4C16-B347-5C870EA3BCFB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je ne comprends pas pourquoi dans le projet Louisiana Bayou, je ne vois pas toutes mes images de concept. J'ai l'impression que l'index mapping du TMP n'a pas été fait proprement. C'est très très étrange.",
+      "text" : "Je ne comprends pas pourquoi dans le projet Louisiana Bayou, je ne vois pas toutes mes images de concept. J'ai l'impression que l'index mapping du TMP n'a pas été fait proprement. C'est très très étrange."
     }
   ],
   "modes" : [
