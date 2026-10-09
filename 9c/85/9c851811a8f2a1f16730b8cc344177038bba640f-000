@@ -2839,6 +2839,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Non, je pense que tu peux même négocier encore un peu moins cher.",
       "text" : "Non, je pense que tu peux même négocier encore un peu moins cher."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813275927.999613,
+      "id" : "DA57EE21-B403-434D-9EEA-283E63772855",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et du coup, tu peux boucler la boucle et être cohérent en lui disant que vu que la bande passante elle est 21 % moins chère, ben tu fais une offre 21 % moins chère. Donc est-ce que on tombe sur 750",
+      "text" : "Et du coup, tu peux boucler la boucle et être cohérent en lui disant que vu que la bande passante elle est 21 % moins chère, ben tu fais une offre 21 % moins chère. Donc est-ce que on tombe sur 750"
     }
   ],
   "modes" : [
