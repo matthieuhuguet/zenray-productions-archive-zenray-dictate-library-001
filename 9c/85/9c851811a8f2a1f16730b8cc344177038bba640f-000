@@ -2849,6 +2849,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Et du coup, tu peux boucler la boucle et être cohérent en lui disant que vu que la bande passante elle est 21 % moins chère, ben tu fais une offre 21 % moins chère. Donc est-ce que on tombe sur 750",
       "text" : "Et du coup, tu peux boucler la boucle et être cohérent en lui disant que vu que la bande passante elle est 21 % moins chère, ben tu fais une offre 21 % moins chère. Donc est-ce que on tombe sur 750"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813276048.12396,
+      "id" : "40F40DF7-C319-4526-836C-787F96189CE5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ok, mais psychologiquement à partir de ça, il vaut mieux mettre 848 ou 850.",
+      "text" : "Ok, mais psychologiquement à partir de ça, il vaut mieux mettre 848 ou 850."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813276088.172272,
+      "id" : "71AF1EE8-CDF7-4FBD-87A4-67301B857075",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais je pense pas que tu puisses dire un déficit de performance de 20 %. Enfin, je trouve que le texte il est pas ouf, enfin surtout il est pas très humain, il va pas comprendre.",
+      "text" : "Mais je pense pas que tu puisses dire un déficit de performance de 20 %. Enfin, je trouve que le texte il est pas ouf, enfin surtout il est pas très humain, il va pas comprendre."
     }
   ],
   "modes" : [
