@@ -2319,6 +2319,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "La géométrie de la rive du toit du porche part du sommet du toit comme si elle englobait. Elle fait une petite courbure qui épouse le toit mais en dessous et ensuite elle vient se relier à un autre bord qui va vers la church. En fait, ça fait comme si ça entourait le bois mais vers en dessous.",
       "text" : "La géométrie de la rive du toit du porche part du sommet du toit comme si elle englobait. Elle fait une petite courbure qui épouse le toit mais en dessous et ensuite elle vient se relier à un autre bord qui va vers la church. En fait, ça fait comme si ça entourait le bois mais vers en dessous."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813226207.30855,
+      "id" : "C1D42405-C6F0-468A-B1BD-E2E5F5E5D73E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le problème du prompt, c'est qu'il n'explore pas vraiment quelque chose de nouveau. En fait, c'est plus ou moins la même chose, mais légèrement modifiée. Moi, ce que j'aurais aimé, c'est peut-être explorer d'autres prises de vue d'architectures complètement différentes. Après, évidemment, si on explore une autre géométrie, ça change complètement le truc, mais peut-être que on aurait pu le passer en prise de vue réaliste ou en prise de vue complètement fantaisiste. C'est plutôt ça qu'il fallait faire.",
+      "text" : "Le problème du prompt, c'est qu'il n'explore pas vraiment quelque chose de nouveau. En fait, c'est plus ou moins la même chose, mais légèrement modifiée. Moi, ce que j'aurais aimé, c'est peut-être explorer d'autres prises de vue d'architectures complètement différentes. Après, évidemment, si on explore une autre géométrie, ça change complètement le truc, mais peut-être que on aurait pu le passer en prise de vue réaliste ou en prise de vue complètement fantaisiste. C'est plutôt ça qu'il fallait faire."
     }
   ],
   "modes" : [
