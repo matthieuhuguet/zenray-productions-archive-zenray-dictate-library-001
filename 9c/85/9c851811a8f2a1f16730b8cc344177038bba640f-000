@@ -2359,6 +2359,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Teste l'autre prompt qu'on avait fait parce que l'autre prompt, il est vraiment là pour garder le design actuel et changer la texture, tandis que ce nouveau prompt, il est plutôt orienté autour de explorer vraiment une nouvelle idée. Donc change les titres et attends ma validation. Et repropose-moi les deux prompts pour que je puisse les relire et comparer.",
       "text" : "Teste l'autre prompt qu'on avait fait parce que l'autre prompt, il est vraiment là pour garder le design actuel et changer la texture, tandis que ce nouveau prompt, il est plutôt orienté autour de explorer vraiment une nouvelle idée. Donc change les titres et attends ma validation. Et repropose-moi les deux prompts pour que je puisse les relire et comparer."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813228185.79194,
+      "id" : "D3A261EF-9C72-4BC8-8B67-B15AD93B944A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pour chaque tuile, j'aimerais faire en sorte de déterminer une couleur différente mais adjacente. Je te donne le toit et toi tu vas pour chaque tuile mettre une couleur différente pour que le modèle puisse calculer combien il y a de planches exactement. Et en faisant un dégradé de couleur, comme on le ferait pour par exemple quand on met des UV, on append chaque couleur adjacente à une autre tuile d'une couleur différente. Ainsi, visuellement, on n'a pas de problème. Et en plus, ça permet pour un 3D des cartistes de comprendre immédiatement le nombre de rangées et de colonnes sur un toit. Donc, donne-moi le prompt qui permet de générer une image qui permet d'avoir la side view UV parfaite.",
+      "text" : "Pour chaque tuile, j'aimerais faire en sorte de déterminer une couleur différente mais adjacente. Je te donne le toit et toi tu vas pour chaque tuile mettre une couleur différente pour que le modèle puisse calculer combien il y a de planches exactement. Et en faisant un dégradé de couleur, comme on le ferait pour par exemple quand on met des UV, on append chaque couleur adjacente à une autre tuile d'une couleur différente. Ainsi, visuellement, on n'a pas de problème. Et en plus, ça permet pour un 3D des cartistes de comprendre immédiatement le nombre de rangées et de colonnes sur un toit. Donc, donne-moi le prompt qui permet de générer une image qui permet d'avoir la side view UV parfaite."
     }
   ],
   "modes" : [
