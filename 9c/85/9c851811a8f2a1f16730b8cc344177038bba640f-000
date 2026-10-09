@@ -2739,6 +2739,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "On appelle de manière distincte deux composantes d'une croix, mais de manière distincte, c'est-à-dire il y a un support et il y a l'autre.",
       "text" : "On appelle de manière distincte deux composantes d'une croix, mais de manière distincte, c'est-à-dire il y a un support et il y a l'autre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813248012.109173,
+      "id" : "5F8E6FB9-F37B-47E4-9DE1-4B3DE54BD3BB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je cherche un petit clavier blanc, genre quasi mécanique, mais qui fait zéro bruit, absolument zéro bruit.",
+      "text" : "Je cherche un petit clavier blanc, genre quasi mécanique, mais qui fait zéro bruit, absolument zéro bruit."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813248125.273423,
+      "id" : "E5FF89EF-A6C5-4698-8B39-FC8894490E83",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il y a toujours le problème sur le Porsche, mais je crois que c'est parce que tu fais pas en sorte de coller les textures par rapport au bas et aligner à gauche. Dans le sens où je t'ai déjà dit d'aligner les textures à gauche et en bas, mais si tu regardes la sheet où il y a 36 points, tu vois que la partie basse elle a un léger éclairage plus prononcé et c'est ça qu'il faut absolument aligner sur toutes les tuiles. Je pense que ça va résoudre le problème du Porsche.",
+      "text" : "Il y a toujours le problème sur le Porsche, mais je crois que c'est parce que tu fais pas en sorte de coller les textures par rapport au bas et aligner à gauche. Dans le sens où je t'ai déjà dit d'aligner les textures à gauche et en bas, mais si tu regardes la sheet où il y a 36 points, tu vois que la partie basse elle a un léger éclairage plus prononcé et c'est ça qu'il faut absolument aligner sur toutes les tuiles. Je pense que ça va résoudre le problème du Porsche."
     }
   ],
   "modes" : [
