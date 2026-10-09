@@ -2699,6 +2699,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "OK, mais je pense qu'on peut automatiser le comment ça s'appelle. Ah oui, mais non. Ben non. Ben non, mais c'est même blague, tu vois. Enfin, c'était pareil.",
       "text" : "OK, mais je pense qu'on peut automatiser le comment ça s'appelle. Ah oui, mais non. Ben non. Ben non, mais c'est même blague, tu vois. Enfin, c'était pareil."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813246264.882677,
+      "id" : "E2E5D347-BD8D-4F70-82C6-98E6CF3FFE0D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Quand tu me prends depuis une trémie généraliste, tu essaies de prendre toujours le maximum d'espace et s'il te plaît, tu m'alignes en bas à gauche mes UV par rapport à la bande. Tu le colles toujours à partir du coin en bas à gauche ou en haut de la bande à gauche. Je pense que le mieux c'est de faire en bas à gauche. Donc tu m'alignes mes trucs. Là, je vois encore dans ton image que c'est pas encore aligné proprement.",
+      "text" : "Quand tu me prends depuis une trémie généraliste, tu essaies de prendre toujours le maximum d'espace et s'il te plaît, tu m'alignes en bas à gauche mes UV par rapport à la bande. Tu le colles toujours à partir du coin en bas à gauche ou en haut de la bande à gauche. Je pense que le mieux c'est de faire en bas à gauche. Donc tu m'alignes mes trucs. Là, je vois encore dans ton image que c'est pas encore aligné proprement."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813246336.010555,
+      "id" : "63DD00A8-8CEC-4120-AB0D-DFAE040C89D5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Enfin, j'ai une dernière question. Tout à l'heure, je me posais la question, est-ce qu'on doit d'abord faire la fenêtre puis faire la trim sheet ou alors faire la trim sheet puis adapter les UV de la fenêtre au trim sheet ? Mais en fait, je crois qu'il n'y a pas vraiment de réponse à cette question parce que c'est un peu les deux. C'est-à-dire que il y a toujours du back and forth sur les deux parce que, par exemple, tout à l'heure, on avait 36 dalles de UV, mais en soi, on aurait pu en avoir plus. Donc je ne sais pas trop comment répondre à cette question en fait.",
+      "text" : "Enfin, j'ai une dernière question. Tout à l'heure, je me posais la question, est-ce qu'on doit d'abord faire la fenêtre puis faire la trim sheet ou alors faire la trim sheet puis adapter les UV de la fenêtre au trim sheet ? Mais en fait, je crois qu'il n'y a pas vraiment de réponse à cette question parce que c'est un peu les deux. C'est-à-dire que il y a toujours du back and forth sur les deux parce que, par exemple, tout à l'heure, on avait 36 dalles de UV, mais en soi, on aurait pu en avoir plus. Donc je ne sais pas trop comment répondre à cette question en fait."
     }
   ],
   "modes" : [
