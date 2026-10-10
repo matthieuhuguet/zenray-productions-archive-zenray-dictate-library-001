@@ -3189,6 +3189,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Donc à retenir pour les poutres sur les poutres qui ont des angles pivotés, ce que tu peux faire c'est simplement crop l'angle pivoté avec par exemple un carré droit ou un cube par exemple et comme ça ça permet de jamais avoir des faces qui sont",
       "text" : "Donc à retenir pour les poutres sur les poutres qui ont des angles pivotés, ce que tu peux faire c'est simplement crop l'angle pivoté avec par exemple un carré droit ou un cube par exemple et comme ça ça permet de jamais avoir des faces qui sont"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813335865.410815,
+      "id" : "CFE2DD91-FA2F-41AF-AD7E-CF85AA428ADB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais je comprends pas pourquoi tu as toujours pas compris au niveau de la poutre. Je te l'ai montré plein de fois. C'est la poutre qui est inclinée verticalement qui va dans l'autre poutre et ben il faut corriger l'intérieur. En fait, la poutre qui est droite, tu la coupes pas, mais la poutre qui est inclinée avec la pente du toit, ben là tu coupes seulement le bord qui dépasse à l'intérieur. On voit le bord, je comprends pas pourquoi tu comprends pas.",
+      "text" : "Mais je comprends pas pourquoi tu as toujours pas compris au niveau de la poutre. Je te l'ai montré plein de fois. C'est la poutre qui est inclinée verticalement qui va dans l'autre poutre et ben il faut corriger l'intérieur. En fait, la poutre qui est droite, tu la coupes pas, mais la poutre qui est inclinée avec la pente du toit, ben là tu coupes seulement le bord qui dépasse à l'intérieur. On voit le bord, je comprends pas pourquoi tu comprends pas."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813336416.911899,
+      "id" : "911A43EE-8BD2-4D64-9BEF-8499E3CD812A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il avait besoin d'une image. Il a besoin d'une image et pas d'une description. Mais il est 16h. J'ai pas son invitation.",
+      "text" : "Il avait besoin d'une image. Il a besoin d'une image et pas d'une description. Mais il est 16h. J'ai pas son invitation."
     }
   ],
   "modes" : [
