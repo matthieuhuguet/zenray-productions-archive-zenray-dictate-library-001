@@ -2899,6 +2899,46 @@
       "provider" : "Gemini live dictation",
       "rawText" : "I",
       "text" : "I"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813319421.171203,
+      "id" : "6B44C490-CE05-48BA-BC2A-21EF4FAB1283",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Hyper simple pour pouvoir",
+      "text" : "Hyper simple pour pouvoir"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813319510.635827,
+      "id" : "E410947F-CEC0-40D3-ADA8-1228910EF337",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ah si, peut-être.",
+      "text" : "Ah si, peut-être."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813319521.84006,
+      "id" : "B5991A68-8F44-49E8-AC02-190891D9B62C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Allô.",
+      "text" : "Allô."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813319564.756263,
+      "id" : "FCA55920-B4FC-47C9-80B3-B0363ED2D597",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "que",
+      "text" : "que"
     }
   ],
   "modes" : [
