@@ -2939,6 +2939,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "que",
       "text" : "que"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813319777.731634,
+      "id" : "2F658A24-288A-452D-9A8E-F93EA2622CD7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ça fait la même.",
+      "text" : "Ça fait la même."
     }
   ],
   "modes" : [
