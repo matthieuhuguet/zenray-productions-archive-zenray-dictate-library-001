@@ -3169,6 +3169,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Actuellement, les projets ne s'ouvrent pas.",
       "text" : "Actuellement, les projets ne s'ouvrent pas."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813334620.766877,
+      "id" : "DFADD2EC-88CF-439C-8A5B-AA2FCD84D61B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Alors, cherche dans mon historique, j'avais un abonnement Claude qui s'est arrêté parce que je me suis fait bannir, mais normalement j'avais écrit le message dans l'historique de nos conversations. Essaie de le retrouver. Du coup, est-ce que ça marche parfaitement maintenant grâce au nouveau réseau ?",
+      "text" : "Alors, cherche dans mon historique, j'avais un abonnement Claude qui s'est arrêté parce que je me suis fait bannir, mais normalement j'avais écrit le message dans l'historique de nos conversations. Essaie de le retrouver. Du coup, est-ce que ça marche parfaitement maintenant grâce au nouveau réseau ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813334931.681282,
+      "id" : "E7C5BBCC-73BE-4A7B-927A-40F49D0278B2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc à retenir pour les poutres sur les poutres qui ont des angles pivotés, ce que tu peux faire c'est simplement crop l'angle pivoté avec par exemple un carré droit ou un cube par exemple et comme ça ça permet de jamais avoir des faces qui sont",
+      "text" : "Donc à retenir pour les poutres sur les poutres qui ont des angles pivotés, ce que tu peux faire c'est simplement crop l'angle pivoté avec par exemple un carré droit ou un cube par exemple et comme ça ça permet de jamais avoir des faces qui sont"
     }
   ],
   "modes" : [
