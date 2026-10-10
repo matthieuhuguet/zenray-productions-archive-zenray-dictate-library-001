@@ -3419,6 +3419,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "C'est pour ça que je préfère mettre des indications pour les chiffres plutôt que des valeurs absolues.",
       "text" : "C'est pour ça que je préfère mettre des indications pour les chiffres plutôt que des valeurs absolues."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813361899.755294,
+      "id" : "8C166CF7-08F6-4001-B611-909691941EC2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, le problème, c'est que tu as fait une vidéo de motion qui illustre le motion et qui illustre Hyperframes, sauf que je voulais que tu reproduises juste exactement OneKey Pro 2.",
+      "text" : "En fait, le problème, c'est que tu as fait une vidéo de motion qui illustre le motion et qui illustre Hyperframes, sauf que je voulais que tu reproduises juste exactement OneKey Pro 2."
     }
   ],
   "modes" : [
