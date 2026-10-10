@@ -3009,6 +3009,106 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Parce que là ça fonctionne vraiment, il y a pas de problème.",
       "text" : "Parce que là ça fonctionne vraiment, il y a pas de problème."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813323913.120737,
+      "id" : "8E252DB1-6075-408A-922A-9B4443CE45CE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Okay.",
+      "text" : "Okay."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813323919.657396,
+      "id" : "DC21361A-355F-4D5E-BA04-180DB73D2750",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ok, et est-ce que ça fonctionne là ? Normalement oui.",
+      "text" : "Ok, et est-ce que ça fonctionne là ? Normalement oui."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813323925.568481,
+      "id" : "FDBB15E1-66CA-4C35-86D9-918B20B79442",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "That's insane.",
+      "text" : "That's insane."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813323936.536832,
+      "id" : "4FF630D2-FDBD-4143-940C-BD41EB20639C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je peux même faire ça et normalement ça fonctionne.",
+      "text" : "Je peux même faire ça et normalement ça fonctionne."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813323943.840793,
+      "id" : "3809D89E-1022-4155-924C-74850C33D82F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Du coup, j'ai rien à faire et ça va fonctionner.",
+      "text" : "Du coup, j'ai rien à faire et ça va fonctionner."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813324000.924584,
+      "id" : "A3DE17C2-08D1-49A6-A659-AB35F62B0A77",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Du coup, maintenant on peut voir lequel est le truc.",
+      "text" : "Du coup, maintenant on peut voir lequel est le truc."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813324011.553217,
+      "id" : "C73B55EC-5311-427C-BA0D-D60860ABC0BE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il est sur iPhone normalement ça fonctionne aussi.",
+      "text" : "Il est sur iPhone normalement ça fonctionne aussi."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813324377.710449,
+      "id" : "10E97A46-EB61-4D72-AE0D-7B3ADCEF5951",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Dans Gallery, on va créer une galerie qui s'appelle Artists. Tu vas prendre tous les artistes que j'avais déjà homologués à la fois sur Create dans le dossier référence ainsi que dans Mathieu 1.md ou dans le contexte de Claude.md, il doit y avoir tous les artistes que je suivais sur ArtStation. Tu vas me rediriger directement vers leur profil portfolio sur ArtStation via cette vue. Normalement, dans la vue soit To Do soit Design, il doit y avoir déjà Erwan Godicheau, donc tu peux vérifier, et ensuite tu me donnes tous les artistes. Il faudra faire une vue dépliante sur tous les projets. Par exemple, tu cliques sur un artiste et tu peux déplier sur tous ses projets qu'il a réalisés sur ArtStation via une interface, un peu comme un pop-up widget dont on pourrait scroller le contenu.",
+      "text" : "Dans Gallery, on va créer une galerie qui s'appelle Artists. Tu vas prendre tous les artistes que j'avais déjà homologués à la fois sur Create dans le dossier référence ainsi que dans Mathieu 1.md ou dans le contexte de Claude.md, il doit y avoir tous les artistes que je suivais sur ArtStation. Tu vas me rediriger directement vers leur profil portfolio sur ArtStation via cette vue. Normalement, dans la vue soit To Do soit Design, il doit y avoir déjà Erwan Godicheau, donc tu peux vérifier, et ensuite tu me donnes tous les artistes. Il faudra faire une vue dépliante sur tous les projets. Par exemple, tu cliques sur un artiste et tu peux déplier sur tous ses projets qu'il a réalisés sur ArtStation via une interface, un peu comme un pop-up widget dont on pourrait scroller le contenu."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813324552.823266,
+      "id" : "E356141A-A243-47B4-80D7-0707E25EE95A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que DeepSeek propose actuellement un abonnement ? J'aimerais brancher un Hermes pour réaliser certaines tâches.",
+      "text" : "Est-ce que DeepSeek propose actuellement un abonnement ? J'aimerais brancher un Hermes pour réaliser certaines tâches."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813324574.161928,
+      "id" : "5D1D7CF6-C9A8-455F-8DA5-18C442B03D90",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ce que je veux, c'est un petit modèle qui coûte pas très cher et qui permet d'accomplir beaucoup de tâches, un peu comme un Gemini 3.8 Flash, mais je l'ai déjà, donc je cherche un autre modèle un peu similaire.",
+      "text" : "Ce que je veux, c'est un petit modèle qui coûte pas très cher et qui permet d'accomplir beaucoup de tâches, un peu comme un Gemini 3.8 Flash, mais je l'ai déjà, donc je cherche un autre modèle un peu similaire."
     }
   ],
   "modes" : [
