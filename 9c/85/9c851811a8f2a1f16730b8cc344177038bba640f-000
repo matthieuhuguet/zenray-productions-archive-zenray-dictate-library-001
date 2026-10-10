@@ -3209,6 +3209,156 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Il avait besoin d'une image. Il a besoin d'une image et pas d'une description. Mais il est 16h. J'ai pas son invitation.",
       "text" : "Il avait besoin d'une image. Il a besoin d'une image et pas d'une description. Mais il est 16h. J'ai pas son invitation."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813336595.660496,
+      "id" : "109096A3-A96A-4E41-853F-D513D69EA88F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Bon ben c'est parfait. En fait, ce qu'il fallait retenir, c'est que quand tu arrives pas à faire un truc, il faut que je te donne une image. Donc ça, tu le saves dans cloud.md et tu saves dans dans le skills Houdini, genre en priorité zéro parce que c'est ce qu'il y a le plus débloqué. Ça a débloqué même très rapidement alors que auparavant je t'avais demandé plein de fois, j'ai une description ultra complète et tout et le fait de te l'avoir montré via deux images d'exemple, c'est vraiment ça qui débloque.",
+      "text" : "Bon ben c'est parfait. En fait, ce qu'il fallait retenir, c'est que quand tu arrives pas à faire un truc, il faut que je te donne une image. Donc ça, tu le saves dans cloud.md et tu saves dans dans le skills Houdini, genre en priorité zéro parce que c'est ce qu'il y a le plus débloqué. Ça a débloqué même très rapidement alors que auparavant je t'avais demandé plein de fois, j'ai une description ultra complète et tout et le fait de te l'avoir montré via deux images d'exemple, c'est vraiment ça qui débloque."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813341028.358315,
+      "id" : "2C918FF7-8B55-4A61-A93B-D2D6B6910CAC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Envoie un mail à ma banque pour dire que Claude a suspendu ma subscription sans me rembourser.",
+      "text" : "Envoie un mail à ma banque pour dire que Claude a suspendu ma subscription sans me rembourser."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813347400.768526,
+      "id" : "83A178B3-FF79-46AC-9B60-0A694D0575AE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Upload dans le dossier suivant dans le Drive.",
+      "text" : "Upload dans le dossier suivant dans le Drive."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813348655.146844,
+      "id" : "D612F911-3882-47A6-8BC4-D44AABD3A146",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "De toute manière, c'est pas la bonne méthode, on peut voir que tu vas pas réussir. Essaie de déterminer d'abord au moins au moins 16 méthodes différentes qui pourraient fonctionner. Ensuite, teste uniquement les quatre premières phases de ces 16 méthodes et ensuite je te dirai comment trancher. Arrête de t'arrêter à chaque passe. Passe le cron à 10 secondes au lieu de 2 minutes et teste teste des méthodes différentes et fais les 32 passes. Le nombre N de passes à faire par rapport aux 64 nœuds, c'est pas une méthode en fait en soi. C'est là où c'est hyper bizarre, c'est que en fait tu fais j'ai l'impression que tu comprends pas ce qu'on fait en fait. L'objectif, c'était de trouver comment trouver la méthode et en fait ce que tu as fait, c'est que tu as refait l'ancien workflow alors que c'était pas ça qu'il fallait faire. Ce qu'il faut faire, c'est déterminer la bonne méthode qui en nombre qui qui fonctionne, peu importe le nombre de passes. C'est juste que la méthode 64 itérations, elle fonctionne bien pour aller chercher beaucoup de détails rapidement. Après, tu peux essayer de chercher par exemple une une méthode qui fait 1024 nœuds en même temps, mais je suis sûr que ça va crasher. Tu pourrais essayer 512. Déterminer le nombre de layers maximum que tu peux faire en une seule passe, ça ce serait plus intelligent. Et ensuite comparer les résultats visuellement et recommencer et ou si ça fonctionne plus, itérer sur l'optimisation du graphe. Ça ce serait une méthode plus intelligente, je pense. Et après, je pense qu'il faut mesurer et utiliser réutiliser le score, mais pas en terme de score, juste plutôt faire des scores de mesure, mais par rapport à des masques. Donc si tu calcules un masque via Python ou via Number ou ce que tu veux, ben tu peux analyser les prochaines itérations exactes via la documentation de Copernicus pour atteindre le résultat. Mais là, tu itères juste à l'aveugle à l'infini, ça va jamais marcher.",
+      "text" : "De toute manière, c'est pas la bonne méthode, on peut voir que tu vas pas réussir. Essaie de déterminer d'abord au moins au moins 16 méthodes différentes qui pourraient fonctionner. Ensuite, teste uniquement les quatre premières phases de ces 16 méthodes et ensuite je te dirai comment trancher. Arrête de t'arrêter à chaque passe. Passe le cron à 10 secondes au lieu de 2 minutes et teste teste des méthodes différentes et fais les 32 passes. Le nombre N de passes à faire par rapport aux 64 nœuds, c'est pas une méthode en fait en soi. C'est là où c'est hyper bizarre, c'est que en fait tu fais j'ai l'impression que tu comprends pas ce qu'on fait en fait. L'objectif, c'était de trouver comment trouver la méthode et en fait ce que tu as fait, c'est que tu as refait l'ancien workflow alors que c'était pas ça qu'il fallait faire. Ce qu'il faut faire, c'est déterminer la bonne méthode qui en nombre qui qui fonctionne, peu importe le nombre de passes. C'est juste que la méthode 64 itérations, elle fonctionne bien pour aller chercher beaucoup de détails rapidement. Après, tu peux essayer de chercher par exemple une une méthode qui fait 1024 nœuds en même temps, mais je suis sûr que ça va crasher. Tu pourrais essayer 512. Déterminer le nombre de layers maximum que tu peux faire en une seule passe, ça ce serait plus intelligent. Et ensuite comparer les résultats visuellement et recommencer et ou si ça fonctionne plus, itérer sur l'optimisation du graphe. Ça ce serait une méthode plus intelligente, je pense. Et après, je pense qu'il faut mesurer et utiliser réutiliser le score, mais pas en terme de score, juste plutôt faire des scores de mesure, mais par rapport à des masques. Donc si tu calcules un masque via Python ou via Number ou ce que tu veux, ben tu peux analyser les prochaines itérations exactes via la documentation de Copernicus pour atteindre le résultat. Mais là, tu itères juste à l'aveugle à l'infini, ça va jamais marcher."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813350393.666625,
+      "id" : "435339A7-307B-4947-976F-051759F33B3A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Redonne-moi l'objectif initial qu'on avait avec les films, s'il te plaît.",
+      "text" : "Redonne-moi l'objectif initial qu'on avait avec les films, s'il te plaît."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813350459.397268,
+      "id" : "A26D6353-61F0-42BD-9770-4496FCAC0615",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Oui, mais redonne-moi l'index mapping.",
+      "text" : "Oui, mais redonne-moi l'index mapping."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813350811.954677,
+      "id" : "0C4A6C81-FAEC-4C53-80F1-D44798CA5AEE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu peux me réunir toutes les consignes que je t'ai dit par rapport au fait d'itérer par rapport au fait de trouver la bonne méthodologie ? Parce que je t'ai donné énormément de feedback et je trouvais ça assez intelligent le fait que quand on bloque sur un problème, au lieu d'itérer sur le résultat, de manière un peu procédurale et HDA, on peut juste itérer jusqu'à trouver la bonne méthode qui ensuite permet de débloquer le résultat au lieu de forcer sur une seule méthode qui marchera pas. Donc j'aimerais que tu en peut-être en soit en deux pages, soit en neuf paragraphes, que tu retranscrives exactement le concept qu'on cherchait, mais de manière simple et pas complexe, de manière très logique, de manière très intuitive.",
+      "text" : "Est-ce que tu peux me réunir toutes les consignes que je t'ai dit par rapport au fait d'itérer par rapport au fait de trouver la bonne méthodologie ? Parce que je t'ai donné énormément de feedback et je trouvais ça assez intelligent le fait que quand on bloque sur un problème, au lieu d'itérer sur le résultat, de manière un peu procédurale et HDA, on peut juste itérer jusqu'à trouver la bonne méthode qui ensuite permet de débloquer le résultat au lieu de forcer sur une seule méthode qui marchera pas. Donc j'aimerais que tu en peut-être en soit en deux pages, soit en neuf paragraphes, que tu retranscrives exactement le concept qu'on cherchait, mais de manière simple et pas complexe, de manière très logique, de manière très intuitive."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813355591.869361,
+      "id" : "B6D4A917-8178-4FA5-BD98-ECF1E23358CD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais t'es complètement con, tu peux pas me donner un point MD si je te demande des PNG.",
+      "text" : "Mais t'es complètement con, tu peux pas me donner un point MD si je te demande des PNG."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813356383.18583,
+      "id" : "FB6499EF-C0A7-4938-B3C7-2053A749AAA4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "La méthode 1 et la méthode 11 ont plutôt bien marché, même si on est encore loin du résultat. Mais c'est ce qui s'est le plus approché du résultat. La méthode 1 et la méthode 11 ont vraiment donné les meilleurs résultats. Mais on est encore loin du résultat final. La méthode 14 aussi était intelligente. En fait, le problème de la méthode 1, c'est qu'elle a pas beaucoup varié entre P1 et P4, tandis que la méthode 14... Ah non, c'est pareil. En fait, la méthode 14, elle est quasi pas mal, mais je sais pas. Ce qui ressort, c'est vraiment la méthode 1, la méthode 11 et la méthode 14. Donc on va réessayer, on va resélectionner ces trois méthodes, sauf que là on va passer à huit passes. Ensuite, tu me refais le document",
+      "text" : "La méthode 1 et la méthode 11 ont plutôt bien marché, même si on est encore loin du résultat. Mais c'est ce qui s'est le plus approché du résultat. La méthode 1 et la méthode 11 ont vraiment donné les meilleurs résultats. Mais on est encore loin du résultat final. La méthode 14 aussi était intelligente. En fait, le problème de la méthode 1, c'est qu'elle a pas beaucoup varié entre P1 et P4, tandis que la méthode 14... Ah non, c'est pareil. En fait, la méthode 14, elle est quasi pas mal, mais je sais pas. Ce qui ressort, c'est vraiment la méthode 1, la méthode 11 et la méthode 14. Donc on va réessayer, on va resélectionner ces trois méthodes, sauf que là on va passer à huit passes. Ensuite, tu me refais le document"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813356431.372364,
+      "id" : "11E2C907-23F9-43A6-8F57-BC293E93F283",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il faut que tu notes le maximum de contexte sur chaque passe pour être quasi sûr d'avoir quelque chose de propre.",
+      "text" : "Il faut que tu notes le maximum de contexte sur chaque passe pour être quasi sûr d'avoir quelque chose de propre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813358203.79941,
+      "id" : "CFC68933-C6D0-4E6E-ADD9-9025C049C344",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le problème à débug, c'est de faire en sorte que la vue design et la vue des galeries puissent ajouter des liens.",
+      "text" : "Le problème à débug, c'est de faire en sorte que la vue design et la vue des galeries puissent ajouter des liens."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813358288.712639,
+      "id" : "052DCD77-3259-4F71-B4B2-1087A55ABE15",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que dans le HTML tu peux me rajouter trois lignes où juste tu compares image de gauche et image de droite ? Donc l'image de gauche c'est la ref eight et l'image de droite c'est le résultat final des passes des trois",
+      "text" : "Est-ce que dans le HTML tu peux me rajouter trois lignes où juste tu compares image de gauche et image de droite ? Donc l'image de gauche c'est la ref eight et l'image de droite c'est le résultat final des passes des trois"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813358590.013015,
+      "id" : "32EE4EA6-82C9-4F7F-903E-EB5A8D61C302",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je veux que tu me crées une nouvelle vidéo en motion design pour illustrer la vidéo suivante. Ce que je te recommande de faire, c'est de prendre la vidéo que je vais te donner en termes de référence et de créer un storyboard sheet afin d'avoir une référence exacte sur l'ADN graphique, le style, les polices, les couleurs et aussi le narratif pour adapter à la cible. Le but, c'est de mettre en avant toutes les compétences de motion design avec pour but de présenter une vidéo avec un exemple pour le recréer.",
+      "text" : "Je veux que tu me crées une nouvelle vidéo en motion design pour illustrer la vidéo suivante. Ce que je te recommande de faire, c'est de prendre la vidéo que je vais te donner en termes de référence et de créer un storyboard sheet afin d'avoir une référence exacte sur l'ADN graphique, le style, les polices, les couleurs et aussi le narratif pour adapter à la cible. Le but, c'est de mettre en avant toutes les compétences de motion design avec pour but de présenter une vidéo avec un exemple pour le recréer."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813358624.294985,
+      "id" : "92AEE4A8-1149-4AE2-BAC9-0F0430896035",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Au fur et à mesure de cette discussion, on va créer ce qu'on appelle un skill. Pour cela, je vais utiliser Hyperframe.",
+      "text" : "Au fur et à mesure de cette discussion, on va créer ce qu'on appelle un skill. Pour cela, je vais utiliser Hyperframe."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813358810.463729,
+      "id" : "681C874B-4E3D-43AD-89CD-607178748FC3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu reproduises le flow, le narratif et en fait que tu utilises quasi tous tes skills pour reproduire la vidéo, peu importe le temps que ça prend.",
+      "text" : "Tu reproduises le flow, le narratif et en fait que tu utilises quasi tous tes skills pour reproduire la vidéo, peu importe le temps que ça prend."
     }
   ],
   "modes" : [
