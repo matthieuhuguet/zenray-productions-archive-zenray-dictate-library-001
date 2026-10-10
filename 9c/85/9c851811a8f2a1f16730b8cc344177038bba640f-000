@@ -2869,6 +2869,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Mais je pense pas que tu puisses dire un déficit de performance de 20 %. Enfin, je trouve que le texte il est pas ouf, enfin surtout il est pas très humain, il va pas comprendre.",
       "text" : "Mais je pense pas que tu puisses dire un déficit de performance de 20 %. Enfin, je trouve que le texte il est pas ouf, enfin surtout il est pas très humain, il va pas comprendre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813314500.703037,
+      "id" : "59E54893-7880-4110-A033-78B315FAFEFC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que dans le fichier index trim sheet, donc dans la leçon, est-ce que tu peux me donner trois exemples avec le calcul et l'ordre des étapes si par exemple tu fais un personnage ou un props hyper détaillé type organique, un props très détaillé mais là plutôt plutôt genre une porte ou une fenêtre, et le dernier c'est un bâtiment type deux bâtiments, donc un bâtiment style asiatique donc organique ou un bâtiment style très edgy futuriste.",
+      "text" : "Est-ce que dans le fichier index trim sheet, donc dans la leçon, est-ce que tu peux me donner trois exemples avec le calcul et l'ordre des étapes si par exemple tu fais un personnage ou un props hyper détaillé type organique, un props très détaillé mais là plutôt plutôt genre une porte ou une fenêtre, et le dernier c'est un bâtiment type deux bâtiments, donc un bâtiment style asiatique donc organique ou un bâtiment style très edgy futuriste."
     }
   ],
   "modes" : [
