@@ -3359,6 +3359,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Tu reproduises le flow, le narratif et en fait que tu utilises quasi tous tes skills pour reproduire la vidéo, peu importe le temps que ça prend.",
       "text" : "Tu reproduises le flow, le narratif et en fait que tu utilises quasi tous tes skills pour reproduire la vidéo, peu importe le temps que ça prend."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813359889.705792,
+      "id" : "1687336C-4430-434E-9C05-F5C18E951B98",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En mathématiques, si on définit n comme la première variable à trouver, alors dans ce cas-là, quelle est la deuxième variable qu'on emploie en règle générale si on a besoin de chercher une autre variable ? Je pense que c'est pas x ni y.",
+      "text" : "En mathématiques, si on définit n comme la première variable à trouver, alors dans ce cas-là, quelle est la deuxième variable qu'on emploie en règle générale si on a besoin de chercher une autre variable ? Je pense que c'est pas x ni y."
     }
   ],
   "modes" : [
