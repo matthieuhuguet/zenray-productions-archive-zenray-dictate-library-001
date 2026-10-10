@@ -3369,6 +3369,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "En mathématiques, si on définit n comme la première variable à trouver, alors dans ce cas-là, quelle est la deuxième variable qu'on emploie en règle générale si on a besoin de chercher une autre variable ? Je pense que c'est pas x ni y.",
       "text" : "En mathématiques, si on définit n comme la première variable à trouver, alors dans ce cas-là, quelle est la deuxième variable qu'on emploie en règle générale si on a besoin de chercher une autre variable ? Je pense que c'est pas x ni y."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813360562.72744,
+      "id" : "22DB1EB8-D471-407C-9D4A-D13FEDCC2B07",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je sais ce qu'on pourrait faire. On pourrait diviser la texture en cellules, c'est-à-dire comme un world partition. On prendrait la texture height actuelle et on diviserait par 8 par exemple la texture. Et en fait, au lieu d'avoir une texture qui obtient un score, on aurait huit cellules qui doivent obtenir un score avant de passer à l'itération suivante et sinon ça recommence.",
+      "text" : "Je sais ce qu'on pourrait faire. On pourrait diviser la texture en cellules, c'est-à-dire comme un world partition. On prendrait la texture height actuelle et on diviserait par 8 par exemple la texture. Et en fait, au lieu d'avoir une texture qui obtient un score, on aurait huit cellules qui doivent obtenir un score avant de passer à l'itération suivante et sinon ça recommence."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813360663.904057,
+      "id" : "31EAB6A4-F489-4429-8D9B-4F3BEBAA4B09",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, le truc c'est qu'on ajoute trois méthodes. On ajoute N qui fait 4096 variations. Ensuite, on ajoute 4096 layers. On utilise la M01. On fait ensuite un crop par zone et on mesure via un score.",
+      "text" : "En fait, le truc c'est qu'on ajoute trois méthodes. On ajoute N qui fait 4096 variations. Ensuite, on ajoute 4096 layers. On utilise la M01. On fait ensuite un crop par zone et on mesure via un score."
     }
   ],
   "modes" : [
