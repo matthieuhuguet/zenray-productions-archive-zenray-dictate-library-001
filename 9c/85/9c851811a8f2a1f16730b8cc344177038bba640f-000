@@ -2949,6 +2949,66 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ça fait la même.",
       "text" : "Ça fait la même."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813322278.233239,
+      "id" : "BE258BD0-E09C-4932-A2FF-4F92DEFF36A0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Bonjour, le microphone fonctionne parfaitement.",
+      "text" : "Bonjour, le microphone fonctionne parfaitement."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813322287.577572,
+      "id" : "8E20FDBA-367E-4955-8DBD-1730F23CD4FF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Bonjour, le microphone fonctionne parfaitement.",
+      "text" : "Bonjour, le microphone fonctionne parfaitement."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813322333.339169,
+      "id" : "331F4E7F-57C5-4B5F-AB01-C1014C8B6441",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais ça marche pas.",
+      "text" : "Mais ça marche pas."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813322338.165315,
+      "id" : "1EEBAE0A-635E-4C0B-BF38-396FF52F3979",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ah si, ça marche. Intéressant.",
+      "text" : "Ah si, ça marche. Intéressant."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813322343.583582,
+      "id" : "19ACD6EB-0A56-44B3-8C06-BF366447F203",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais alors, comment ça se fait que ça fonctionne maintenant ?",
+      "text" : "Mais alors, comment ça se fait que ça fonctionne maintenant ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813322354.47541,
+      "id" : "F8002F87-9346-4135-AC7F-A7AACE972450",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Parce que là ça fonctionne vraiment, il y a pas de problème.",
+      "text" : "Parce que là ça fonctionne vraiment, il y a pas de problème."
     }
   ],
   "modes" : [
