@@ -3399,6 +3399,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Les cellules, c'était pour vérifier le score. Le score, c'était l'ancienne méthodologie qu'on a notée en tant que deprecated. Ce que je voulais ajouter à cette méthodologie, c'était un score de cellules qui divise la cellule pour vérifier le score. Mais ça, c'est uniquement dans la partie vérification. Le reste, c'était déterminer N. Enfin non, il y a même pas besoin de déterminer N puisque c'est N est égal au nombre maximal de familles sans que le score en attente de seconde soit trop haut. Donc on a N. M est égal au nombre de passes pour arriver à la aide finale, mais ça on l'a pas encore déterminé. Et tout le reste est dans le reste de la conversation et c'est ce qu'on vient de faire en générant les HTML et cetera.",
       "text" : "Les cellules, c'était pour vérifier le score. Le score, c'était l'ancienne méthodologie qu'on a notée en tant que deprecated. Ce que je voulais ajouter à cette méthodologie, c'était un score de cellules qui divise la cellule pour vérifier le score. Mais ça, c'est uniquement dans la partie vérification. Le reste, c'était déterminer N. Enfin non, il y a même pas besoin de déterminer N puisque c'est N est égal au nombre maximal de familles sans que le score en attente de seconde soit trop haut. Donc on a N. M est égal au nombre de passes pour arriver à la aide finale, mais ça on l'a pas encore déterminé. Et tout le reste est dans le reste de la conversation et c'est ce qu'on vient de faire en générant les HTML et cetera."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813361714.810285,
+      "id" : "4790216B-9A75-42A0-BA91-DE124C6600E1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il faut vraiment que tu comprennes que les chiffres ne servent à rien parce que, en fait, ce qui va déterminer N et ce qui va déterminer M, c'est pas un chiffre, c'est le nombre qu'il faut qui sera déterminé par la boucle elle-même.",
+      "text" : "Il faut vraiment que tu comprennes que les chiffres ne servent à rien parce que, en fait, ce qui va déterminer N et ce qui va déterminer M, c'est pas un chiffre, c'est le nombre qu'il faut qui sera déterminé par la boucle elle-même."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813361736.294034,
+      "id" : "3381E598-4E7F-4526-96D8-67AD2A8E4F77",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est pour ça que je préfère mettre des indications pour les chiffres plutôt que des valeurs absolues.",
+      "text" : "C'est pour ça que je préfère mettre des indications pour les chiffres plutôt que des valeurs absolues."
     }
   ],
   "modes" : [
