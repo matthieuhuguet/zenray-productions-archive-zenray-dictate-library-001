@@ -2879,6 +2879,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Est-ce que dans le fichier index trim sheet, donc dans la leçon, est-ce que tu peux me donner trois exemples avec le calcul et l'ordre des étapes si par exemple tu fais un personnage ou un props hyper détaillé type organique, un props très détaillé mais là plutôt plutôt genre une porte ou une fenêtre, et le dernier c'est un bâtiment type deux bâtiments, donc un bâtiment style asiatique donc organique ou un bâtiment style très edgy futuriste.",
       "text" : "Est-ce que dans le fichier index trim sheet, donc dans la leçon, est-ce que tu peux me donner trois exemples avec le calcul et l'ordre des étapes si par exemple tu fais un personnage ou un props hyper détaillé type organique, un props très détaillé mais là plutôt plutôt genre une porte ou une fenêtre, et le dernier c'est un bâtiment type deux bâtiments, donc un bâtiment style asiatique donc organique ou un bâtiment style très edgy futuriste."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813319236.143822,
+      "id" : "32AB6759-662F-4773-AB2B-E1B87265F656",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Hallo.",
+      "text" : "Hallo."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813319251.156666,
+      "id" : "A4640535-3186-45BF-A528-713FE51A3CE3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "I",
+      "text" : "I"
     }
   ],
   "modes" : [
