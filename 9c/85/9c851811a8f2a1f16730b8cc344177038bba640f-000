@@ -3389,6 +3389,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "En fait, le truc c'est qu'on ajoute trois méthodes. On ajoute N qui fait 4096 variations. Ensuite, on ajoute 4096 layers. On utilise la M01. On fait ensuite un crop par zone et on mesure via un score.",
       "text" : "En fait, le truc c'est qu'on ajoute trois méthodes. On ajoute N qui fait 4096 variations. Ensuite, on ajoute 4096 layers. On utilise la M01. On fait ensuite un crop par zone et on mesure via un score."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813360956.709701,
+      "id" : "6C3EC968-A902-4090-A658-4BF257E1ADB9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Les cellules, c'était pour vérifier le score. Le score, c'était l'ancienne méthodologie qu'on a notée en tant que deprecated. Ce que je voulais ajouter à cette méthodologie, c'était un score de cellules qui divise la cellule pour vérifier le score. Mais ça, c'est uniquement dans la partie vérification. Le reste, c'était déterminer N. Enfin non, il y a même pas besoin de déterminer N puisque c'est N est égal au nombre maximal de familles sans que le score en attente de seconde soit trop haut. Donc on a N. M est égal au nombre de passes pour arriver à la aide finale, mais ça on l'a pas encore déterminé. Et tout le reste est dans le reste de la conversation et c'est ce qu'on vient de faire en générant les HTML et cetera.",
+      "text" : "Les cellules, c'était pour vérifier le score. Le score, c'était l'ancienne méthodologie qu'on a notée en tant que deprecated. Ce que je voulais ajouter à cette méthodologie, c'était un score de cellules qui divise la cellule pour vérifier le score. Mais ça, c'est uniquement dans la partie vérification. Le reste, c'était déterminer N. Enfin non, il y a même pas besoin de déterminer N puisque c'est N est égal au nombre maximal de familles sans que le score en attente de seconde soit trop haut. Donc on a N. M est égal au nombre de passes pour arriver à la aide finale, mais ça on l'a pas encore déterminé. Et tout le reste est dans le reste de la conversation et c'est ce qu'on vient de faire en générant les HTML et cetera."
     }
   ],
   "modes" : [
