@@ -3579,6 +3579,46 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Mais c'est un test secondaire qui permettra du coup de vérifier que ça fonctionne dans plusieurs configurations.",
       "text" : "Mais c'est un test secondaire qui permettra du coup de vérifier que ça fonctionne dans plusieurs configurations."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813420830.124294,
+      "id" : "0ABC5DB3-44BF-4C69-86EA-3AA2B45E1AF8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mon commande 5 me permet plus de prendre des captures d'écran qui prennent la reconnaissance visuelle. Télécharge-moi sur mon Mac le meilleur outil qui permet de faire ça. Avant j'avais un outil mais là ça marche plus donc essaie de trouver la solution.",
+      "text" : "Mon commande 5 me permet plus de prendre des captures d'écran qui prennent la reconnaissance visuelle. Télécharge-moi sur mon Mac le meilleur outil qui permet de faire ça. Avant j'avais un outil mais là ça marche plus donc essaie de trouver la solution."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813420872.18053,
+      "id" : "0D0C92D5-5106-4FE7-998E-58727180B221",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le problème actuel, c'est que tous les films que tu uploades, tu les uploades sans les sous-titres, donc c'est absolument catastrophique.",
+      "text" : "Le problème actuel, c'est que tous les films que tu uploades, tu les uploades sans les sous-titres, donc c'est absolument catastrophique."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813420939.772738,
+      "id" : "AB2CC3C4-FC59-4599-97E4-D3BEEBFB6D58",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc à la limite, pour ce qu'il faudrait faire, c'est tous les films existants, enfin tous les films restants, parce que pour les films déjà uploadés, on pourra rien faire. Mais pour tous les films restants, ce que tu peux faire, c'est créer un prompt stacking, enfin tu crées juste un fichier .index qui permet, enfin tu crées un manifeste qui permet d'avoir les sous-titres en vérifiant le code qui existe déjà. Tu vérifies qu'il est bien déployé sur Zenly Progress, mais je suis sûr qu'il est déployé puisque ça fonctionne avec le film. Ou alors tu vérifies le manifeste du film qui contient les sous-titres pour savoir comment on utilise les sous-titres et pour que dans tous les prochains uploads plus dans l'indexation du skill assets plus le skill upload, tu puisses faire en sorte qu'il n'y ait plus jamais cette erreur qui soit commise lorsqu'on upload des films en streaming avec la méthode HLS \/",
+      "text" : "Donc à la limite, pour ce qu'il faudrait faire, c'est tous les films existants, enfin tous les films restants, parce que pour les films déjà uploadés, on pourra rien faire. Mais pour tous les films restants, ce que tu peux faire, c'est créer un prompt stacking, enfin tu crées juste un fichier .index qui permet, enfin tu crées un manifeste qui permet d'avoir les sous-titres en vérifiant le code qui existe déjà. Tu vérifies qu'il est bien déployé sur Zenly Progress, mais je suis sûr qu'il est déployé puisque ça fonctionne avec le film. Ou alors tu vérifies le manifeste du film qui contient les sous-titres pour savoir comment on utilise les sous-titres et pour que dans tous les prochains uploads plus dans l'indexation du skill assets plus le skill upload, tu puisses faire en sorte qu'il n'y ait plus jamais cette erreur qui soit commise lorsqu'on upload des films en streaming avec la méthode HLS \/"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813420967.688424,
+      "id" : "725688EF-4DCA-4670-8398-189A94967412",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "D'ailleurs, je viens de capter que le skill upload devrait être append dans le skill assets et ensuite le skill upload devrait être supprimé une fois que c'est fait.",
+      "text" : "D'ailleurs, je viens de capter que le skill upload devrait être append dans le skill assets et ensuite le skill upload devrait être supprimé une fois que c'est fait."
     }
   ],
   "modes" : [
