@@ -3839,6 +3839,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Chaque fichier qui est renommé avant d'être uploadé sur le cloud devrait être renommé en local pour que ce soit la même chose sur le cloud et donc devrait avoir un clean name. Si par exemple le fichier est écrit dans un format qui n'est pas propre, il faut le réécrire jusqu'à un format propre.",
       "text" : "Chaque fichier qui est renommé avant d'être uploadé sur le cloud devrait être renommé en local pour que ce soit la même chose sur le cloud et donc devrait avoir un clean name. Si par exemple le fichier est écrit dans un format qui n'est pas propre, il faut le réécrire jusqu'à un format propre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813449461.432864,
+      "id" : "1F7A8E2E-D65F-4E3C-AC80-55DA9DA99927",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Dans le cadre de ZenRe Assets, j'aimerais savoir comment ZenRe Assets gère toute la gestion des feedbacks. En fait, le but des feedbacks, c'est que je puisse arrêter d'append à chaque fois. En fait, ce que je fais actuellement, c'est qu'à chaque fois que j'ai fini de faire quelque chose, je te dis, note-le et enregistre-le dans le skill. Mais en fait, ce qui serait plus efficace, c'est qu'il y ait une gestion automatique via le skill ZenRe Assets qui va noter directement dans un dossier feedback, mais qui sera ensuite relu par la session dédiée du projet et pour ne plus forcément passer directement par les skills. C'est-à-dire, par exemple, ZenRe Progress est un projet, ZenRe Assets est un projet, mais si je dois faire un feedback sur un projet, un des deux projets spécifiques, comment est-ce que je crée soit un fichier feedback.md, soit quelque chose qui va s'append en append only uniquement dans les projets. Le truc, c'est que",
+      "text" : "Dans le cadre de ZenRe Assets, j'aimerais savoir comment ZenRe Assets gère toute la gestion des feedbacks. En fait, le but des feedbacks, c'est que je puisse arrêter d'append à chaque fois. En fait, ce que je fais actuellement, c'est qu'à chaque fois que j'ai fini de faire quelque chose, je te dis, note-le et enregistre-le dans le skill. Mais en fait, ce qui serait plus efficace, c'est qu'il y ait une gestion automatique via le skill ZenRe Assets qui va noter directement dans un dossier feedback, mais qui sera ensuite relu par la session dédiée du projet et pour ne plus forcément passer directement par les skills. C'est-à-dire, par exemple, ZenRe Progress est un projet, ZenRe Assets est un projet, mais si je dois faire un feedback sur un projet, un des deux projets spécifiques, comment est-ce que je crée soit un fichier feedback.md, soit quelque chose qui va s'append en append only uniquement dans les projets. Le truc, c'est que"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813449520.963963,
+      "id" : "1D63D806-9F7C-42DB-ADCE-365461F23027",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le truc, c'est qu'il faut harmoniser ça pour que à chaque fois que je te donne un feedback, la prochaine fois qu'on sera dans le contexte du projet, tu puisses le lire automatiquement et ne plus faire l'erreur. Mais je ne sais pas comment faire avec Claude pour que tout soit retenu. Si je te dis, on travaille dans le projet Zenrai Assets et je veux faire un feedback sur Zenrai Assets et que la prochaine fois qu'on travaille dans Zenrai Assets, tu notes le feedback, dans ce cas-là, c'est quoi la manière la plus simple de le faire ?",
+      "text" : "Le truc, c'est qu'il faut harmoniser ça pour que à chaque fois que je te donne un feedback, la prochaine fois qu'on sera dans le contexte du projet, tu puisses le lire automatiquement et ne plus faire l'erreur. Mais je ne sais pas comment faire avec Claude pour que tout soit retenu. Si je te dis, on travaille dans le projet Zenrai Assets et je veux faire un feedback sur Zenrai Assets et que la prochaine fois qu'on travaille dans Zenrai Assets, tu notes le feedback, dans ce cas-là, c'est quoi la manière la plus simple de le faire ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813449583.147566,
+      "id" : "C2371683-9CFD-4E2E-A1B1-A914373CF1B6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ce que je veux dans cet exemple précis, c'est te dire que déjà il faut corriger le code, et ensuite il faut corriger de manière à avoir un feedback épinglé à Zen et Progress pour que tu ne fasses plus jamais l'erreur de manière permanente.",
+      "text" : "Ce que je veux dans cet exemple précis, c'est te dire que déjà il faut corriger le code, et ensuite il faut corriger de manière à avoir un feedback épinglé à Zen et Progress pour que tu ne fasses plus jamais l'erreur de manière permanente."
     }
   ],
   "modes" : [
