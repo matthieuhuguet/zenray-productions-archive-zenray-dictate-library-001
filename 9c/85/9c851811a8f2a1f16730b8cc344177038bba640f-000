@@ -3549,6 +3549,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "C'est une grille de 4x4, donc ce que tu peux faire, c'est prendre la dernière colonne qui donne quatre height maps, tu peux la cropper et la multiplier par quatre pour obtenir la height map globale. Et ensuite, à partir de cette height map, tu fais pareil pour la base color. En fait, c'est juste la height map, je pourrais la comparer directement. La height map, logiquement, elle doit donner la base color là, tu vois. Donc en fait, puisque tu peux répliquer la texture en 4x4 qui donne 16 cellules, tu peux faire pareil avec la base color. Du coup, tu peux essayer d'obtenir la base color. Enfin, du coup, tu me fais deux textures si tu me fais la texture base color en 4x4 et la height map en 4x4. C'est juste que là, elle est symétrique. Elle est symétrique si tu regardes bien les patterns, donc il faut juste la miroir gauche-droite au niveau de la base color pour garder la height parfaite. Donc tu dois obtenir vraiment les mêmes couleurs. Enfin, c'est pas une question de couleur, on travaille surtout sur la height map, mais de toute manière, via Copernicus, la height map devra recracher une",
       "text" : "C'est une grille de 4x4, donc ce que tu peux faire, c'est prendre la dernière colonne qui donne quatre height maps, tu peux la cropper et la multiplier par quatre pour obtenir la height map globale. Et ensuite, à partir de cette height map, tu fais pareil pour la base color. En fait, c'est juste la height map, je pourrais la comparer directement. La height map, logiquement, elle doit donner la base color là, tu vois. Donc en fait, puisque tu peux répliquer la texture en 4x4 qui donne 16 cellules, tu peux faire pareil avec la base color. Du coup, tu peux essayer d'obtenir la base color. Enfin, du coup, tu me fais deux textures si tu me fais la texture base color en 4x4 et la height map en 4x4. C'est juste que là, elle est symétrique. Elle est symétrique si tu regardes bien les patterns, donc il faut juste la miroir gauche-droite au niveau de la base color pour garder la height parfaite. Donc tu dois obtenir vraiment les mêmes couleurs. Enfin, c'est pas une question de couleur, on travaille surtout sur la height map, mais de toute manière, via Copernicus, la height map devra recracher une"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813420333.725483,
+      "id" : "4D3853EF-C044-4053-B0E1-F4961C1DECB6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "contient une lumière donc ce n'est pas la base color, donc fais attention. C'est juste une indication sur la base color une fois qu'elle contient toutes les maps et un éclairage dans une scène 3D. Donc toi ce que tu dois faire, c'est surtout te concentrer sur le WEBP qui contient la vraie base color que tu vas essayer de reproduire et surtout la height que tu vas essayer de reproduire. En fait, notre outil, il se concentre quasi uniquement sur la création du texturing via layout dans comme Hernicus pour recréer une height map à partir d'une référence en image. Cependant, cette référence peut de base ne pas être tileable et le but c'est de rendre les choses tileables si elles ne le sont pas aussi, tu vois. C'est pour ça que c'est l'outil de texturing ultime.",
+      "text" : "contient une lumière donc ce n'est pas la base color, donc fais attention. C'est juste une indication sur la base color une fois qu'elle contient toutes les maps et un éclairage dans une scène 3D. Donc toi ce que tu dois faire, c'est surtout te concentrer sur le WEBP qui contient la vraie base color que tu vas essayer de reproduire et surtout la height que tu vas essayer de reproduire. En fait, notre outil, il se concentre quasi uniquement sur la création du texturing via layout dans comme Hernicus pour recréer une height map à partir d'une référence en image. Cependant, cette référence peut de base ne pas être tileable et le but c'est de rendre les choses tileables si elles ne le sont pas aussi, tu vois. C'est pour ça que c'est l'outil de texturing ultime."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813420374.458254,
+      "id" : "B211D46C-FBBC-45E6-97A8-EEDA7815F0DD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je pense que j'ai tout dit. Si tu penses qu'il manque des informations, tu peux aussi me poser des questions, mais normalement il y a déjà pas mal de trucs qui sont disponibles. Donc normalement tu as toutes les informations. Je pense que tu peux créer l'outil Ultima 2026 qui permet de recréer des heatmaps à partir d'une image. Tu pourras aussi refaire un test sur une autre heatmap que j'ai et que je vais te donner.",
+      "text" : "Je pense que j'ai tout dit. Si tu penses qu'il manque des informations, tu peux aussi me poser des questions, mais normalement il y a déjà pas mal de trucs qui sont disponibles. Donc normalement tu as toutes les informations. Je pense que tu peux créer l'outil Ultima 2026 qui permet de recréer des heatmaps à partir d'une image. Tu pourras aussi refaire un test sur une autre heatmap que j'ai et que je vais te donner."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813420385.010481,
+      "id" : "E40A237A-67DC-4D1A-A5F0-77374A467DA8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais c'est un test secondaire qui permettra du coup de vérifier que ça fonctionne dans plusieurs configurations.",
+      "text" : "Mais c'est un test secondaire qui permettra du coup de vérifier que ça fonctionne dans plusieurs configurations."
     }
   ],
   "modes" : [
