@@ -3489,6 +3489,56 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Donc c'est-à-dire qu'en fait c'est le modèle qui crée le lien. Enfin, sur toutes les méthodes que tu as noté dépréciées dans le skill ZenRe Houdini, tu peux aussi essayer d'analyser s'il y avait pas des méthodes qui étaient intéressantes. Moi, j'avais l'impression que la méthode score elle était pas mal intéressante, mais le problème c'est qu'on arrivait pas à une height qui était strictement identique ou qui était proche, par exemple à 80 %. On était à un résultat proche à 50 %, mais on est très très très loin du résultat final. Tu peux aussi tester plusieurs méthodes en parallèle jusqu'à arriver à un résultat satisfaisant.",
       "text" : "Donc c'est-à-dire qu'en fait c'est le modèle qui crée le lien. Enfin, sur toutes les méthodes que tu as noté dépréciées dans le skill ZenRe Houdini, tu peux aussi essayer d'analyser s'il y avait pas des méthodes qui étaient intéressantes. Moi, j'avais l'impression que la méthode score elle était pas mal intéressante, mais le problème c'est qu'on arrivait pas à une height qui était strictement identique ou qui était proche, par exemple à 80 %. On était à un résultat proche à 50 %, mais on est très très très loin du résultat final. Tu peux aussi tester plusieurs méthodes en parallèle jusqu'à arriver à un résultat satisfaisant."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813419920.513625,
+      "id" : "92C439C6-49C3-4744-8E6B-6381721524F1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Dans l'exemple du nouveau résultat qu'on essaiera de faire, on travaille sur le projet louisiana_bayou.ipltchilpc et on crée directement les graphes en Copernicus, et c'est dans les graphes que Copernicus qu'on itère. De manière générale, je préfère ne pas travailler en Hiton ou Hithon, je sais plus. Je préfère travailler directement dans le graphe pour avoir un visuel des layers qui sont ajoutés. En fait, le but, c'est vraiment de trouver et de créer l'outil de texturing ultime en 2026 qui permet de reproduire n'importe quel eight. C'est ça qui est le plus important. Et ce qui compte, c'est vraiment l'output qui va permettre de nous générer toutes les autres maps, parce qu'à partir d'une eight, on pourra générer toutes les autres maps de manière très très simple. C'est vraiment la map la plus importante car elle contient le plus d'informations et le plus de reliefs.",
+      "text" : "Dans l'exemple du nouveau résultat qu'on essaiera de faire, on travaille sur le projet louisiana_bayou.ipltchilpc et on crée directement les graphes en Copernicus, et c'est dans les graphes que Copernicus qu'on itère. De manière générale, je préfère ne pas travailler en Hiton ou Hithon, je sais plus. Je préfère travailler directement dans le graphe pour avoir un visuel des layers qui sont ajoutés. En fait, le but, c'est vraiment de trouver et de créer l'outil de texturing ultime en 2026 qui permet de reproduire n'importe quel eight. C'est ça qui est le plus important. Et ce qui compte, c'est vraiment l'output qui va permettre de nous générer toutes les autres maps, parce qu'à partir d'une eight, on pourra générer toutes les autres maps de manière très très simple. C'est vraiment la map la plus importante car elle contient le plus d'informations et le plus de reliefs."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813419971.645364,
+      "id" : "00C33BF9-26BD-4A57-BDA0-9A4F535B29DA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu peux tester aussi plusieurs méthodes en parallèle. Tous les résultats que tu vas créer dans l'itération de la méthode et dans l'itération de plein d'autres trucs, tu le fais directement en Tous les résultats en fait doivent être notés soit dans un HTML, soit dans un .md. Tout doit être index mappé. La data principale du dataset qu'on va créer et des instructions est notée dans Copernicus 2.md, mais toute la méthodologie et tout le concept final sera noté dans Zenrai ou Dini avec un index mapping qui répertorie vers Copernicus 2.md.",
+      "text" : "Tu peux tester aussi plusieurs méthodes en parallèle. Tous les résultats que tu vas créer dans l'itération de la méthode et dans l'itération de plein d'autres trucs, tu le fais directement en Tous les résultats en fait doivent être notés soit dans un HTML, soit dans un .md. Tout doit être index mappé. La data principale du dataset qu'on va créer et des instructions est notée dans Copernicus 2.md, mais toute la méthodologie et tout le concept final sera noté dans Zenrai ou Dini avec un index mapping qui répertorie vers Copernicus 2.md."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813420011.341079,
+      "id" : "6D348F48-6BAF-4B55-8805-6266D04ACD40",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est-à-dire tu dois inclure toute la documentation, mais pas uniquement des PDF. C'est-à-dire que tu dois parse toute la documentation et la répertorier dans le fichier Copernicus.md.",
+      "text" : "C'est-à-dire tu dois inclure toute la documentation, mais pas uniquement des PDF. C'est-à-dire que tu dois parse toute la documentation et la répertorier dans le fichier Copernicus.md."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813420028.72906,
+      "id" : "F6475A8F-5AF4-4CB8-95EA-427A77CD12BC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "No, no, no, no, no.",
+      "text" : "No, no, no, no, no."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813420040.818875,
+      "id" : "45820374-1A88-42C4-96F0-BC538D1952D9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Si tu trouves quelque chose d'intéressant dans les anciennes méthodes débridées, tu peux noter des tentatives pour obtenir des résultats.",
+      "text" : "Si tu trouves quelque chose d'intéressant dans les anciennes méthodes débridées, tu peux noter des tentatives pour obtenir des résultats."
     }
   ],
   "modes" : [
