@@ -3619,6 +3619,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "D'ailleurs, je viens de capter que le skill upload devrait être append dans le skill assets et ensuite le skill upload devrait être supprimé une fois que c'est fait.",
       "text" : "D'ailleurs, je viens de capter que le skill upload devrait être append dans le skill assets et ensuite le skill upload devrait être supprimé une fois que c'est fait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813421052.644385,
+      "id" : "AB62402A-DAB6-4377-AE3D-4D61E7705573",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu peux lancer la scène Unreal avec tout ce que j'ai actuellement dans ma vue Cycles, c'est-à-dire les personnages Manny, tous les matériaux de l'église et l'église au complet, enfin toute ma scène Cycles actuellement qu'on voit et que je vais te mettre dans le screen, plus la plane ? Je pense que tu peux mettre en FBX, mais par contre il faut bien que tu relies tous les matériaux et les textures et que tu trie tout bien dans Unreal Engine dans des fichiers de textures et cetera et que tu utilises aussi le skill ZRS pour bien tout comprendre.",
+      "text" : "Est-ce que tu peux lancer la scène Unreal avec tout ce que j'ai actuellement dans ma vue Cycles, c'est-à-dire les personnages Manny, tous les matériaux de l'église et l'église au complet, enfin toute ma scène Cycles actuellement qu'on voit et que je vais te mettre dans le screen, plus la plane ? Je pense que tu peux mettre en FBX, mais par contre il faut bien que tu relies tous les matériaux et les textures et que tu trie tout bien dans Unreal Engine dans des fichiers de textures et cetera et que tu utilises aussi le skill ZRS pour bien tout comprendre."
     }
   ],
   "modes" : [
