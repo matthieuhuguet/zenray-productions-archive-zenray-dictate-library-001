@@ -3429,6 +3429,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "En fait, le problème, c'est que tu as fait une vidéo de motion qui illustre le motion et qui illustre Hyperframes, sauf que je voulais que tu reproduises juste exactement OneKey Pro 2.",
       "text" : "En fait, le problème, c'est que tu as fait une vidéo de motion qui illustre le motion et qui illustre Hyperframes, sauf que je voulais que tu reproduises juste exactement OneKey Pro 2."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813412249.269868,
+      "id" : "8541894C-F587-4004-9F8C-556922A4B212",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Quelles sont les différentes vues en règle générale qui permettent de voir l'intégralité d'un modèle 3D avant de le reproduire ?",
+      "text" : "Quelles sont les différentes vues en règle générale qui permettent de voir l'intégralité d'un modèle 3D avant de le reproduire ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813412317.049033,
+      "id" : "0E7A74DA-8021-414F-8BA3-4C6FC93F10C6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc si on voulait être précis sur la reproduction d'un modèle, on utiliserait plus trop quatre vues ou cinq vues.",
+      "text" : "Donc si on voulait être précis sur la reproduction d'un modèle, on utiliserait plus trop quatre vues ou cinq vues."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813412340.30237,
+      "id" : "8566CFEE-098C-4E37-8BB7-E2EAFD268309",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je me demande quel est le bon nombre qui permet de déterminer. Parce qu'à la limite, on pourrait ajouter jusqu'à six vues, mais bon. Est-ce que ce serait pas contre-productif pour un concept art pour le concept artiste qui va ensuite le donner au modeleur 3D ?",
+      "text" : "Je me demande quel est le bon nombre qui permet de déterminer. Parce qu'à la limite, on pourrait ajouter jusqu'à six vues, mais bon. Est-ce que ce serait pas contre-productif pour un concept art pour le concept artiste qui va ensuite le donner au modeleur 3D ?"
     }
   ],
   "modes" : [
