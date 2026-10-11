@@ -3749,6 +3749,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ça m'envoie vers Create et vers les dossiers, mais ça m'envoie pas précisément faire le lien du média. À la limite, ça pourrait m'envoyer directement sur le média en fait.",
       "text" : "Ça m'envoie vers Create et vers les dossiers, mais ça m'envoie pas précisément faire le lien du média. À la limite, ça pourrait m'envoyer directement sur le média en fait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813436123.017362,
+      "id" : "66E7D609-6F28-44CF-80BD-299C27A65005",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est quoi l'équivalent de John Doe dans le monde arabe ?",
+      "text" : "C'est quoi l'équivalent de John Doe dans le monde arabe ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813436130.353613,
+      "id" : "F92758DC-3685-4B4E-99CD-9F24A2267614",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et ensuite dans la culture",
+      "text" : "Et ensuite dans la culture"
     }
   ],
   "modes" : [
