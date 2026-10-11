@@ -3809,6 +3809,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ben non, en fait, ça ne marche pas, l'écriture actuelle, parce que on ne comprend rien en fait. Ça ne rend pas du tout les choses beaucoup plus compréhensibles. En fait, le but de l'histoire, c'était que ce soit engageant, voire divertissant pour apprendre une histoire, enfin pour m'apprendre un workflow. Mais là, le problème que j'ai, c'est que en fait, l'histoire se perd dans des détails qui ne vont pas à l'essentiel et du coup, au lieu d'apprendre rapidement quelque chose, tu te perds dans une histoire qui n'a aucun sens et du coup, je pense que ce n'est pas une bonne méthode que de créer une histoire pour m'apprendre le truc. Donc, essaie de d'abord trouver la méthode qui permettrait de m'apprendre le mieux ça par rapport au contexte et ensuite, on va changer le nom du skill qu'on était censé créer et on va l'appeler ZenRay Learn With Context. Et essaie de, avant de déterminer le texte qui permet d'apprendre les choses, tu détermines quelle est la meilleure méthode d'apprentissage, puis tu appliques la meilleure méthode d'apprentissage. Tu essaies de faire en sorte que ce soit court et tu essaies d'aller à l'essentiel. Et par exemple, tu n'utilises pas des termes que personne n'utilise. Par exemple, là tu me parles de joint ou de pas, alors que en règle générale, même en français, on utilise plutôt les termes anglais lorsqu'on parle de texturing parce que tous les tutos sont en anglais. Donc, tu essaies de comprendre un peu le dialecte à utiliser pour m'apprendre les choses et ce sans surcharger de termes trop complexes.",
       "text" : "Ben non, en fait, ça ne marche pas, l'écriture actuelle, parce que on ne comprend rien en fait. Ça ne rend pas du tout les choses beaucoup plus compréhensibles. En fait, le but de l'histoire, c'était que ce soit engageant, voire divertissant pour apprendre une histoire, enfin pour m'apprendre un workflow. Mais là, le problème que j'ai, c'est que en fait, l'histoire se perd dans des détails qui ne vont pas à l'essentiel et du coup, au lieu d'apprendre rapidement quelque chose, tu te perds dans une histoire qui n'a aucun sens et du coup, je pense que ce n'est pas une bonne méthode que de créer une histoire pour m'apprendre le truc. Donc, essaie de d'abord trouver la méthode qui permettrait de m'apprendre le mieux ça par rapport au contexte et ensuite, on va changer le nom du skill qu'on était censé créer et on va l'appeler ZenRay Learn With Context. Et essaie de, avant de déterminer le texte qui permet d'apprendre les choses, tu détermines quelle est la meilleure méthode d'apprentissage, puis tu appliques la meilleure méthode d'apprentissage. Tu essaies de faire en sorte que ce soit court et tu essaies d'aller à l'essentiel. Et par exemple, tu n'utilises pas des termes que personne n'utilise. Par exemple, là tu me parles de joint ou de pas, alors que en règle générale, même en français, on utilise plutôt les termes anglais lorsqu'on parle de texturing parce que tous les tutos sont en anglais. Donc, tu essaies de comprendre un peu le dialecte à utiliser pour m'apprendre les choses et ce sans surcharger de termes trop complexes."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813448403.056071,
+      "id" : "D4972B40-03BF-42DA-AD71-2CBF0DBDAF2F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu peux me donner un film qui a deux pistes audio, comme ça je peux vérifier que ça fonctionne bien.",
+      "text" : "Est-ce que tu peux me donner un film qui a deux pistes audio, comme ça je peux vérifier que ça fonctionne bien."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813448566.029165,
+      "id" : "BA7AFCF1-31E8-4CF9-BA9A-4EC4AC29F6BC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Beaucoup de fichiers n'ont pas eu leur thumbnail, donc c'est un problème critique à corriger et à fixer notamment pour les futurs films. Et toutes les modifications que je t'ai fait faire jusqu'à maintenant, il faut que tu notes absolument. Déjà dans le code de ZenReProgress, une consigne à faire pour pas que ça se reproduise dans le futur. Il faut aussi que tu notes dans ZenReAssets tout ce que je te dis.",
+      "text" : "Beaucoup de fichiers n'ont pas eu leur thumbnail, donc c'est un problème critique à corriger et à fixer notamment pour les futurs films. Et toutes les modifications que je t'ai fait faire jusqu'à maintenant, il faut que tu notes absolument. Déjà dans le code de ZenReProgress, une consigne à faire pour pas que ça se reproduise dans le futur. Il faut aussi que tu notes dans ZenReAssets tout ce que je te dis."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813448701.020109,
+      "id" : "E49A50D0-9442-4F71-8E0B-4A748A97A237",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Chaque fichier qui est renommé avant d'être uploadé sur le cloud devrait être renommé en local pour que ce soit la même chose sur le cloud et donc devrait avoir un clean name. Si par exemple le fichier est écrit dans un format qui n'est pas propre, il faut le réécrire jusqu'à un format propre.",
+      "text" : "Chaque fichier qui est renommé avant d'être uploadé sur le cloud devrait être renommé en local pour que ce soit la même chose sur le cloud et donc devrait avoir un clean name. Si par exemple le fichier est écrit dans un format qui n'est pas propre, il faut le réécrire jusqu'à un format propre."
     }
   ],
   "modes" : [
