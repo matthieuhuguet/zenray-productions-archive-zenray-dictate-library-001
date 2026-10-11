@@ -3779,6 +3779,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "C'est quasi parfait, mais que ce soit le L2 ou le L3, ça manque encore de piqué et de détails pour que ce soit vraiment parfait. Donc je pense qu'il manque encore quelques étapes intermédiaires.",
       "text" : "C'est quasi parfait, mais que ce soit le L2 ou le L3, ça manque encore de piqué et de détails pour que ce soit vraiment parfait. Donc je pense qu'il manque encore quelques étapes intermédiaires."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813444830.016013,
+      "id" : "3FFDAE18-8FB5-455B-861D-1F38AACE39A2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu peux m'expliquer tout le workflow que tu as fait jusqu'à maintenant, mais vraiment en partant de A à Z et en m'expliquant en max cinq à neuf paragraphes ? Mais j'ai vraiment l'impression que ce que tu as fait, c'est un travail d'orfèvre, c'est vraiment hyper clean.",
+      "text" : "Est-ce que tu peux m'expliquer tout le workflow que tu as fait jusqu'à maintenant, mais vraiment en partant de A à Z et en m'expliquant en max cinq à neuf paragraphes ? Mais j'ai vraiment l'impression que ce que tu as fait, c'est un travail d'orfèvre, c'est vraiment hyper clean."
     }
   ],
   "modes" : [
