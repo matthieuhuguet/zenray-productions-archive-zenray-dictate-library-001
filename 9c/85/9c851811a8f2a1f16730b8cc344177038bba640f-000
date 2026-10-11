@@ -3789,6 +3789,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Est-ce que tu peux m'expliquer tout le workflow que tu as fait jusqu'à maintenant, mais vraiment en partant de A à Z et en m'expliquant en max cinq à neuf paragraphes ? Mais j'ai vraiment l'impression que ce que tu as fait, c'est un travail d'orfèvre, c'est vraiment hyper clean.",
       "text" : "Est-ce que tu peux m'expliquer tout le workflow que tu as fait jusqu'à maintenant, mais vraiment en partant de A à Z et en m'expliquant en max cinq à neuf paragraphes ? Mais j'ai vraiment l'impression que ce que tu as fait, c'est un travail d'orfèvre, c'est vraiment hyper clean."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813445035.751466,
+      "id" : "8191DAA9-FADA-47E6-BB2B-50084DB25ACA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que par rapport au contexte et à l'explication, tu peux me créer une histoire hyper intéressante à lire tout en étant extrêmement informatif sur tout le workflow pour que je comprenne exactement ce que tu as construit ?",
+      "text" : "Est-ce que par rapport au contexte et à l'explication, tu peux me créer une histoire hyper intéressante à lire tout en étant extrêmement informatif sur tout le workflow pour que je comprenne exactement ce que tu as construit ?"
     }
   ],
   "modes" : [
