@@ -3769,6 +3769,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Et ensuite dans la culture",
       "text" : "Et ensuite dans la culture"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813444443.887276,
+      "id" : "0F4EC157-9726-4F9D-9A64-D91EC8B3E391",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est quasi parfait, mais que ce soit le L2 ou le L3, ça manque encore de piqué et de détails pour que ce soit vraiment parfait. Donc je pense qu'il manque encore quelques étapes intermédiaires.",
+      "text" : "C'est quasi parfait, mais que ce soit le L2 ou le L3, ça manque encore de piqué et de détails pour que ce soit vraiment parfait. Donc je pense qu'il manque encore quelques étapes intermédiaires."
     }
   ],
   "modes" : [
