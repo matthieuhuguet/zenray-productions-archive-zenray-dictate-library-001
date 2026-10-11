@@ -3539,6 +3539,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Si tu trouves quelque chose d'intéressant dans les anciennes méthodes débridées, tu peux noter des tentatives pour obtenir des résultats.",
       "text" : "Si tu trouves quelque chose d'intéressant dans les anciennes méthodes débridées, tu peux noter des tentatives pour obtenir des résultats."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813420184.512905,
+      "id" : "7DB5CCB8-7BE7-4509-B3A4-10A75CDB4C0A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est une grille de 4x4, donc ce que tu peux faire, c'est prendre la dernière colonne qui donne quatre height maps, tu peux la cropper et la multiplier par quatre pour obtenir la height map globale. Et ensuite, à partir de cette height map, tu fais pareil pour la base color. En fait, c'est juste la height map, je pourrais la comparer directement. La height map, logiquement, elle doit donner la base color là, tu vois. Donc en fait, puisque tu peux répliquer la texture en 4x4 qui donne 16 cellules, tu peux faire pareil avec la base color. Du coup, tu peux essayer d'obtenir la base color. Enfin, du coup, tu me fais deux textures si tu me fais la texture base color en 4x4 et la height map en 4x4. C'est juste que là, elle est symétrique. Elle est symétrique si tu regardes bien les patterns, donc il faut juste la miroir gauche-droite au niveau de la base color pour garder la height parfaite. Donc tu dois obtenir vraiment les mêmes couleurs. Enfin, c'est pas une question de couleur, on travaille surtout sur la height map, mais de toute manière, via Copernicus, la height map devra recracher une",
+      "text" : "C'est une grille de 4x4, donc ce que tu peux faire, c'est prendre la dernière colonne qui donne quatre height maps, tu peux la cropper et la multiplier par quatre pour obtenir la height map globale. Et ensuite, à partir de cette height map, tu fais pareil pour la base color. En fait, c'est juste la height map, je pourrais la comparer directement. La height map, logiquement, elle doit donner la base color là, tu vois. Donc en fait, puisque tu peux répliquer la texture en 4x4 qui donne 16 cellules, tu peux faire pareil avec la base color. Du coup, tu peux essayer d'obtenir la base color. Enfin, du coup, tu me fais deux textures si tu me fais la texture base color en 4x4 et la height map en 4x4. C'est juste que là, elle est symétrique. Elle est symétrique si tu regardes bien les patterns, donc il faut juste la miroir gauche-droite au niveau de la base color pour garder la height parfaite. Donc tu dois obtenir vraiment les mêmes couleurs. Enfin, c'est pas une question de couleur, on travaille surtout sur la height map, mais de toute manière, via Copernicus, la height map devra recracher une"
     }
   ],
   "modes" : [
