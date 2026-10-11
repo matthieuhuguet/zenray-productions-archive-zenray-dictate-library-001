@@ -3869,6 +3869,46 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ce que je veux dans cet exemple précis, c'est te dire que déjà il faut corriger le code, et ensuite il faut corriger de manière à avoir un feedback épinglé à Zen et Progress pour que tu ne fasses plus jamais l'erreur de manière permanente.",
       "text" : "Ce que je veux dans cet exemple précis, c'est te dire que déjà il faut corriger le code, et ensuite il faut corriger de manière à avoir un feedback épinglé à Zen et Progress pour que tu ne fasses plus jamais l'erreur de manière permanente."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813449768.572256,
+      "id" : "B658D35C-9E4D-4B1D-A1C2-586D7E2B8239",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Continue les calculs, mais il faut pas que tu oublies de noter tout ce que tu fais de manière progressive, petit à petit, soit dans copernicus.md, soit directement dans le skillz and ray routine pour ne pas refaire deux fois la même chose. Et tu peux noter aussi cette exigence dans cloud.md, c'est-à-dire noter petit à petit toutes les avancées que l'on fait sur n'importe quel projet afin d'écarter les méthodes qui ont déjà été faites. En soi, c'est le skill control S, mais fait avec un cron, enfin comme si c'était fait avec un cron, donc c r o n, de manière itérative pour arriver à des résultats d'iterative refinement.",
+      "text" : "Continue les calculs, mais il faut pas que tu oublies de noter tout ce que tu fais de manière progressive, petit à petit, soit dans copernicus.md, soit directement dans le skillz and ray routine pour ne pas refaire deux fois la même chose. Et tu peux noter aussi cette exigence dans cloud.md, c'est-à-dire noter petit à petit toutes les avancées que l'on fait sur n'importe quel projet afin d'écarter les méthodes qui ont déjà été faites. En soi, c'est le skill control S, mais fait avec un cron, enfin comme si c'était fait avec un cron, donc c r o n, de manière itérative pour arriver à des résultats d'iterative refinement."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813449791.312902,
+      "id" : "916C9686-7BE6-4280-B627-33E5F96BF19B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ensuite, le but c'est de garder uniquement les méthodes qui marchent sans refaire les hypothèses des méthodes qui ne marchent pas mais qu'on a déjà faites.",
+      "text" : "Ensuite, le but c'est de garder uniquement les méthodes qui marchent sans refaire les hypothèses des méthodes qui ne marchent pas mais qu'on a déjà faites."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813449955.744131,
+      "id" : "BFE795CB-F291-46A4-86D6-A8342A11E318",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et après sur le résultat, c'est 0,999. En vrai, j'estime que à partir du dépassement de 0,99 on est bon et il faut quand même avoir un ratio de d'efficacité globale pour pas non plus perdre son temps à tout reproduire à 100 % parce que là tu as quand même mis 50 minutes. Il faut pas qu'à l'avenir à chaque fois que je veux reproduire une eight, ça prenne 50 minutes, tu vois. Même si j'ai l'impression que tout ce que tu fais c'est parfait jusqu'à maintenant. Et évidemment, il faut que tu continues",
+      "text" : "Et après sur le résultat, c'est 0,999. En vrai, j'estime que à partir du dépassement de 0,99 on est bon et il faut quand même avoir un ratio de d'efficacité globale pour pas non plus perdre son temps à tout reproduire à 100 % parce que là tu as quand même mis 50 minutes. Il faut pas qu'à l'avenir à chaque fois que je veux reproduire une eight, ça prenne 50 minutes, tu vois. Même si j'ai l'impression que tout ce que tu fais c'est parfait jusqu'à maintenant. Et évidemment, il faut que tu continues"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813450014.004701,
+      "id" : "C6711007-020E-416C-AF3B-8AF2C812640D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Après, j'ai bien compris que tu passes par des étapes d'optimisation et que tu as besoin de ce travail pour avancer, mais il faut quand même avancer quoi.",
+      "text" : "Après, j'ai bien compris que tu passes par des étapes d'optimisation et que tu as besoin de ce travail pour avancer, mais il faut quand même avancer quoi."
     }
   ],
   "modes" : [
