@@ -3699,6 +3699,56 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Si les assets sont changés.",
       "text" : "Si les assets sont changés."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813423338.827893,
+      "id" : "BD891042-A369-42E9-B074-9A77F796300C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que dans Assets, maintenant tu peux me créer une vraie vue cohérente pendant un upload ? Parce que là, par exemple, on est en train de faire un upload mais on ne voit pas correctement les choses. Est-ce que tu pourrais faire en sorte de recréer la vue UI et de redéployer le site proprement sur Zen Replay Progress ? Vue Assets, et tu me crées une vue qui est très très propre avec tous les nouveaux médias qui ont été upload depuis un jour et avec la possibilité de cliquer sur les nouveaux médias via un toggle qui me permettrait d'accéder directement à l'emplacement du média. Il faut que tu me rendes la vue un peu plus jolie et un peu plus simple.",
+      "text" : "Est-ce que dans Assets, maintenant tu peux me créer une vraie vue cohérente pendant un upload ? Parce que là, par exemple, on est en train de faire un upload mais on ne voit pas correctement les choses. Est-ce que tu pourrais faire en sorte de recréer la vue UI et de redéployer le site proprement sur Zen Replay Progress ? Vue Assets, et tu me crées une vue qui est très très propre avec tous les nouveaux médias qui ont été upload depuis un jour et avec la possibilité de cliquer sur les nouveaux médias via un toggle qui me permettrait d'accéder directement à l'emplacement du média. Il faut que tu me rendes la vue un peu plus jolie et un peu plus simple."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813423602.614937,
+      "id" : "D59915CE-4DEF-4743-B76D-C97B99970A6C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ce qu'on va faire, c'est qu'on va faire une légère inclinaison du toit et de la pente, c'est-à-dire qu'il y a deux choses à courber. Tu peux t'inspirer du Porsche, mais le truc c'est qu'il faut corriger directement dans les propres components et ensuite dans toute la réattribution de l'objet 3D. Il faut d'abord que tu scannes l'intégralité de la church pour savoir comment courber les choses. À mon avis, c'est directement possible via un bend et il faut faire en sorte que ça casse pas tous les UV, mais surtout que ça casse pas tout le reste. Je vais te montrer sur une image exactement ce que je souhaite faire en terme de courbure sur les",
+      "text" : "Ce qu'on va faire, c'est qu'on va faire une légère inclinaison du toit et de la pente, c'est-à-dire qu'il y a deux choses à courber. Tu peux t'inspirer du Porsche, mais le truc c'est qu'il faut corriger directement dans les propres components et ensuite dans toute la réattribution de l'objet 3D. Il faut d'abord que tu scannes l'intégralité de la church pour savoir comment courber les choses. À mon avis, c'est directement possible via un bend et il faut faire en sorte que ça casse pas tous les UV, mais surtout que ça casse pas tout le reste. Je vais te montrer sur une image exactement ce que je souhaite faire en terme de courbure sur les"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813423797.64411,
+      "id" : "546AE38A-D1A6-456A-B447-A5B0148CCC35",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc en fait très simplement ce qu'on veut faire c'est trois courbures sur le toit avec tous les éléments adjacents qui soient réalignés. Un peu comme le Porsche, si tu regardes le Porsche c'est déjà courbé en termes d'alignement. Et un paramètre dans le HDA Church qui permet en fait deux paramètres qui permettent symétriquement sur la façade de courber les pentes du toit par rapport à un segment au milieu et pareil sur le reste du toit, enfin pareil sur le side view du toit. Donc en fait il y a environ cinq pentes à corriger dont la face la face front et la face back sont symétriques.",
+      "text" : "Donc en fait très simplement ce qu'on veut faire c'est trois courbures sur le toit avec tous les éléments adjacents qui soient réalignés. Un peu comme le Porsche, si tu regardes le Porsche c'est déjà courbé en termes d'alignement. Et un paramètre dans le HDA Church qui permet en fait deux paramètres qui permettent symétriquement sur la façade de courber les pentes du toit par rapport à un segment au milieu et pareil sur le reste du toit, enfin pareil sur le side view du toit. Donc en fait il y a environ cinq pentes à corriger dont la face la face front et la face back sont symétriques."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813423900.834181,
+      "id" : "15732593-E3D9-458A-8648-E542A3E54E01",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ça reste buggé parce que parfois ça remet aucun upload en cours alors que logiquement il devrait le laisser afficher tant que tous les uploads sont en cours, donc c'est un peu bizarre.",
+      "text" : "Ça reste buggé parce que parfois ça remet aucun upload en cours alors que logiquement il devrait le laisser afficher tant que tous les uploads sont en cours, donc c'est un peu bizarre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813424208.662472,
+      "id" : "6240C2A3-7FEB-4484-8615-2C611D2679FF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ça m'envoie vers Create et vers les dossiers, mais ça m'envoie pas précisément faire le lien du média. À la limite, ça pourrait m'envoyer directement sur le média en fait.",
+      "text" : "Ça m'envoie vers Create et vers les dossiers, mais ça m'envoie pas précisément faire le lien du média. À la limite, ça pourrait m'envoyer directement sur le média en fait."
     }
   ],
   "modes" : [
