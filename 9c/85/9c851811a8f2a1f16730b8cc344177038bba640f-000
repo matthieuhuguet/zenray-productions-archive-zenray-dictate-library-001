@@ -4359,6 +4359,126 @@
       "provider" : "Gemini live dictation",
       "rawText" : "J'ai l'impression, je suis pas mal de récréation.",
       "text" : "J'ai l'impression, je suis pas mal de récréation."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813494568.831978,
+      "id" : "77FE7B12-41AD-4B62-ACB6-378CC5F091C1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "À terme, il faudra trouver une solution pour le drive, notamment pour le streaming de fichiers vidéo, parce que ça fait au moins 5 jours que je poste 256 Go. Tu vois bien que c'est pas une solution. Donc il faudra se tourner peut-être vers des solutions payantes ou des solutions gratuites mais qui sont beaucoup plus rapides que GitHub.",
+      "text" : "À terme, il faudra trouver une solution pour le drive, notamment pour le streaming de fichiers vidéo, parce que ça fait au moins 5 jours que je poste 256 Go. Tu vois bien que c'est pas une solution. Donc il faudra se tourner peut-être vers des solutions payantes ou des solutions gratuites mais qui sont beaucoup plus rapides que GitHub."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813494657.294107,
+      "id" : "E5C1157A-18A3-4460-9AB5-6C58C407AC31",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Après, on peut aussi faire quelque chose à la manière d'Open Router qui lit les modèles LLM des solutions qui permettent de choisir quel est le meilleur routeur pour débloquer une réponse. Là, on pourrait faire en sorte de router vers différents points qui feraient en sorte d'héberger les paquets de la meilleure des manières. Donc, plusieurs solutions via un seul endroit.",
+      "text" : "Après, on peut aussi faire quelque chose à la manière d'Open Router qui lit les modèles LLM des solutions qui permettent de choisir quel est le meilleur routeur pour débloquer une réponse. Là, on pourrait faire en sorte de router vers différents points qui feraient en sorte d'héberger les paquets de la meilleure des manières. Donc, plusieurs solutions via un seul endroit."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813495165.534614,
+      "id" : "A077D004-9CD5-4BB8-A47A-49718DDBAB3D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Sur la vue tube, il manque la vue qui prend de l'espace, mais en haut et de manière rework pour que ça prenne pas beaucoup d'espace.",
+      "text" : "Sur la vue tube, il manque la vue qui prend de l'espace, mais en haut et de manière rework pour que ça prenne pas beaucoup d'espace."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813495183.814609,
+      "id" : "64A061E7-3B18-4424-9E8F-7CFDCB64C99E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu peux justement faire un rework avec trois propositions et je choisirai laquelle me plaît le",
+      "text" : "Tu peux justement faire un rework avec trois propositions et je choisirai laquelle me plaît le"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813495221.138614,
+      "id" : "B064DBA5-2270-411A-8FB2-EC54258C5A3A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il me manque la vue icône, liste, colonne et galerie, mais faites de manière jolie là aussi avec trois propositions de design. Inspire-toi de macOS.",
+      "text" : "Il me manque la vue icône, liste, colonne et galerie, mais faites de manière jolie là aussi avec trois propositions de design. Inspire-toi de macOS."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813495248.586189,
+      "id" : "AF313BA5-B16A-4F35-807F-897A19F9D21F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il manque peut-être une vue en mode comment ça organise le dossier si par exemple je télécharge tout, comment ça s'appelle par exemple tmp-le nom du projet mais écrit en serif comme ça ce serait joli.",
+      "text" : "Il manque peut-être une vue en mode comment ça organise le dossier si par exemple je télécharge tout, comment ça s'appelle par exemple tmp-le nom du projet mais écrit en serif comme ça ce serait joli."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813495305.199032,
+      "id" : "F97FFEB3-CB44-425E-B7C3-574D91792FB4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et j'ai l'impression aussi qu'il manque la division et les filtres par rapport à Cloud, TMP, Memory, Houdini et Unreal. Mais étant donné que tous les fichiers n'utilisent pas forcément Unreal par exemple, je ne sais pas si cette vue et ces filtres sont encore pertinents. Le problème, c'est que par exemple TMP, ça permet d'aller voir tous les fichiers qui sont les fichiers brouillons. Memory, c'est un peu pareil. Houdini, ça permet de voir toutes les archives des projets. Je ne sais pas, là j'arrive pas à trancher. Donc fais-moi trois propositions encore une fois.",
+      "text" : "Et j'ai l'impression aussi qu'il manque la division et les filtres par rapport à Cloud, TMP, Memory, Houdini et Unreal. Mais étant donné que tous les fichiers n'utilisent pas forcément Unreal par exemple, je ne sais pas si cette vue et ces filtres sont encore pertinents. Le problème, c'est que par exemple TMP, ça permet d'aller voir tous les fichiers qui sont les fichiers brouillons. Memory, c'est un peu pareil. Houdini, ça permet de voir toutes les archives des projets. Je ne sais pas, là j'arrive pas à trancher. Donc fais-moi trois propositions encore une fois."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813495554.758635,
+      "id" : "D3E160EA-8C7A-4173-AC34-E6AF89A13714",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le problème, c'est que pendant que le workflow qui tourne, tu peux essayer de voir si il y a un problème quand même globalement d'upload parce que même si tu es à 11 Mo par seconde, tu pourrais calculer combien ça fait pour upload 256 Go, mais tu verrais bien que il y a quand même un problème sur la création de folder. Alors peut-être c'est parce que on fait pas les choses en parallèle, mais la création de repo, moi j'ai l'impression que via GitHub, la création de repo limitée à 2 Go, ça fait qu'il y a un délai d'attente. Parce que tu pourrais benchmarker via des calculs rapidement en combien de temps j'aurais pu upload ces 256 Go et tu vas te rendre compte que via 11 Mo, ça aurait dû être hyper rapide en fait. Si tu calcules chaque seconde fait 11 Mo, tu vois bien que il y a un problème puisque ça fait au moins depuis vendredi et on est lundi.",
+      "text" : "Le problème, c'est que pendant que le workflow qui tourne, tu peux essayer de voir si il y a un problème quand même globalement d'upload parce que même si tu es à 11 Mo par seconde, tu pourrais calculer combien ça fait pour upload 256 Go, mais tu verrais bien que il y a quand même un problème sur la création de folder. Alors peut-être c'est parce que on fait pas les choses en parallèle, mais la création de repo, moi j'ai l'impression que via GitHub, la création de repo limitée à 2 Go, ça fait qu'il y a un délai d'attente. Parce que tu pourrais benchmarker via des calculs rapidement en combien de temps j'aurais pu upload ces 256 Go et tu vas te rendre compte que via 11 Mo, ça aurait dû être hyper rapide en fait. Si tu calcules chaque seconde fait 11 Mo, tu vois bien que il y a un problème puisque ça fait au moins depuis vendredi et on est lundi."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813497385.989904,
+      "id" : "87AFE20D-4C4F-4041-90E8-D287785B0233",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je viens de penser à un truc, est-ce que tu penses qu'à terme ça pourrait marcher aussi sur les articles ou sur les trucs de manière un peu plus statique ? Parce qu'en soi, ça utilise la frame. Vu que ça reproduit des frames, normalement ça devrait pouvoir reproduire n'importe quelle animation de motion design, on est bien d'accord. Donc si je te donne en input une animation d'un web articles, logiquement puisque ça peut se convertir en vidéo, tu devrais être capable de le reproduire parfaitement.",
+      "text" : "Je viens de penser à un truc, est-ce que tu penses qu'à terme ça pourrait marcher aussi sur les articles ou sur les trucs de manière un peu plus statique ? Parce qu'en soi, ça utilise la frame. Vu que ça reproduit des frames, normalement ça devrait pouvoir reproduire n'importe quelle animation de motion design, on est bien d'accord. Donc si je te donne en input une animation d'un web articles, logiquement puisque ça peut se convertir en vidéo, tu devrais être capable de le reproduire parfaitement."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813497541.04333,
+      "id" : "A920D9A5-9354-4255-9FAE-7F0F4328497D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "On prend pas ce que ça veut dire c'est m a f.",
+      "text" : "On prend pas ce que ça veut dire c'est m a f."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813497549.575199,
+      "id" : "23B8A6A1-2F10-4EC6-A1C3-81442CB9F5B3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je ne comprends pas ce que ça veut dire CMAF.",
+      "text" : "Je ne comprends pas ce que ça veut dire CMAF."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813497624.991417,
+      "id" : "5C50ECE9-2F92-4476-9FD3-C892B56D479D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Oui, mais tu réponds toujours pas à la question. Ça veut dire quoi l'acronyme CMAF en une ligne ?",
+      "text" : "Oui, mais tu réponds toujours pas à la question. Ça veut dire quoi l'acronyme CMAF en une ligne ?"
     }
   ],
   "modes" : [
