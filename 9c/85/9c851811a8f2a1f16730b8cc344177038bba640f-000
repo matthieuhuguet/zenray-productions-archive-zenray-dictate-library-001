@@ -4249,6 +4249,116 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Quoi que ce soit que tu crées, il faut toujours faire en sorte que tout le code que tu crées soit éditable, modifiable, paramétrable à la manière d'un HDA avec une interface claire et la volonté de faire modifier les paramètres par moi-même sans back and forth. Cette priorité passe en priorité zéro. C'est la première ligne de code pour MD.",
       "text" : "Quoi que ce soit que tu crées, il faut toujours faire en sorte que tout le code que tu crées soit éditable, modifiable, paramétrable à la manière d'un HDA avec une interface claire et la volonté de faire modifier les paramètres par moi-même sans back and forth. Cette priorité passe en priorité zéro. C'est la première ligne de code pour MD."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813488389.544469,
+      "id" : "81C0C3EE-E8DE-4432-A299-C67AAB7558AC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Attention, parfois certains sous-titres n'appliquent pas le style qu'on a mis, c'est-à-dire le style inter avec les bords opaques arrondis. D'ailleurs, j'aimerais aussi avoir la possibilité de pouvoir disable le bord opaque arrondi, mais il faut si possible sans refaire la charte et les fichiers, faire en sorte d'harmoniser tous les sous-titres. Je sais pas pourquoi les sous-titres que tu as mis sont parfois, comment dire, des fois il manque la version française, très souvent, et tu as mis que la version anglaise. Et des fois, en fait, il manque les bords, le rectangle opaque de derrière, qui serait désactivable ou non. Aussi, il y a un problème sur la taille des sous-titres. Le small est déjà beaucoup trop grand. Il faudrait que le small actuel soit le plus large et qu'il y ait trois proportionnalités pour faire une version large, médium et small, voire directement en pourcentage. En fait, je pense qu'il serait plus intelligent de mettre le pourcentage sur 100 % et de pouvoir définir via une grille de pourcentage directement le type de sous-titres que l'on veut. Donc c'est par exemple tu fais une proposition où tu mets par exemple 100 %, 75 % et 50 %, et l'utilisateur peut cliquer sur un autre menu qui le dirige encore plus loin où là il peut vraiment contrôler tous les 5 % et une interface jolie. Vraiment la définition en pourcentage de la taille du sous-titre.",
+      "text" : "Attention, parfois certains sous-titres n'appliquent pas le style qu'on a mis, c'est-à-dire le style inter avec les bords opaques arrondis. D'ailleurs, j'aimerais aussi avoir la possibilité de pouvoir disable le bord opaque arrondi, mais il faut si possible sans refaire la charte et les fichiers, faire en sorte d'harmoniser tous les sous-titres. Je sais pas pourquoi les sous-titres que tu as mis sont parfois, comment dire, des fois il manque la version française, très souvent, et tu as mis que la version anglaise. Et des fois, en fait, il manque les bords, le rectangle opaque de derrière, qui serait désactivable ou non. Aussi, il y a un problème sur la taille des sous-titres. Le small est déjà beaucoup trop grand. Il faudrait que le small actuel soit le plus large et qu'il y ait trois proportionnalités pour faire une version large, médium et small, voire directement en pourcentage. En fait, je pense qu'il serait plus intelligent de mettre le pourcentage sur 100 % et de pouvoir définir via une grille de pourcentage directement le type de sous-titres que l'on veut. Donc c'est par exemple tu fais une proposition où tu mets par exemple 100 %, 75 % et 50 %, et l'utilisateur peut cliquer sur un autre menu qui le dirige encore plus loin où là il peut vraiment contrôler tous les 5 % et une interface jolie. Vraiment la définition en pourcentage de la taille du sous-titre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813488440.331194,
+      "id" : "ADF52E84-A706-4B2E-93AA-745B12FCA7E0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc tout ça c'est peut-être au niveau du code directement. Pour la logique de pourcentage des sous-titres, je peux essayer de voir comment sont faits les pourcentages sur directement YouTube.",
+      "text" : "Donc tout ça c'est peut-être au niveau du code directement. Pour la logique de pourcentage des sous-titres, je peux essayer de voir comment sont faits les pourcentages sur directement YouTube."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813488621.391459,
+      "id" : "A89C9AC4-CEF0-49A1-AF4C-5885DB39AD0D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Si la meilleure fonte en termes de design en 2026 est Inter, alors quel est son équivalent en Serif ?",
+      "text" : "Si la meilleure fonte en termes de design en 2026 est Inter, alors quel est son équivalent en Serif ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813489489.275048,
+      "id" : "FD94B5A4-CB6F-4408-B7FD-F464598D0642",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'aimerais vérifier deux trucs avec toi. Évidemment, tu as toujours pas fini et tu travailles très bien pour l'instant, mais il faudra vraiment vérifier que tout soit procédural, c'est-à-dire que tout soit modifiable. Ça c'est la première ligne de cloud.md normalement. Et j'aimerais vérifier avec toi que ce sera possible et que si par exemple je te demande de modifier la forme de manière procédurale d'un élément, que ce soit possible aussi. Et voilà, c'est juste cette petite ligne de vérification et sinon tu continues.",
+      "text" : "J'aimerais vérifier deux trucs avec toi. Évidemment, tu as toujours pas fini et tu travailles très bien pour l'instant, mais il faudra vraiment vérifier que tout soit procédural, c'est-à-dire que tout soit modifiable. Ça c'est la première ligne de cloud.md normalement. Et j'aimerais vérifier avec toi que ce sera possible et que si par exemple je te demande de modifier la forme de manière procédurale d'un élément, que ce soit possible aussi. Et voilà, c'est juste cette petite ligne de vérification et sinon tu continues."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813489837.581462,
+      "id" : "6FC6268D-8700-44D2-A8A5-57F827660030",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "La vue actuelle de Zenrea Assets ne me plaît pas du tout. J'aurais aimé pouvoir créer un drive vraiment avec une interface ultra moderne et quelque chose d'addictif pour pouvoir consulter très facilement et rapidement mes fichiers. Mais actuellement, ça ne me plaît pas le résultat que tu as fait. Donc j'aimerais que tu fasses un rework de l'interface et que tu me proposes minimum trois designs qui seraient éditables et paramétrables eux aussi à la manière d'un HDA afin de déterminer comment créer le drive ultime mais qui soit beaucoup plus addictif. Parce que là, j'ai relevé pas mal de problèmes de design. C'est que par exemple, tu mets les films et séries en cours qui sont en train d'upload alors que à la limite, ce serait plus intelligent de le mettre dans create puisque c'est pas forcément des assets les films et les séries. Les projets sont vus sur la gauche mais ils sont en toute petite case. Je pense qu'une UI à la YouTube serait plus intelligente pour des projets. Il y a pas mal de trucs qui servent à rien. Genre il y a des briques de Lego bizarres. Il y a pas mal de textes qui servent à rien alors que le design pourrait faire office de texte. Ce que je veux dire, c'est que les images et la forme des images pourraient faire office d'une fonction et d'une information spécifique plutôt que de mettre énormément de texte. Dans les projets eux-mêmes, le fait de pouvoir changer de icône à liste, à colonne ou galerie, c'est encore beaucoup trop compliqué. Enfin, sur les fichiers en eux-mêmes, il y a beaucoup trop d'informations affichées. Il y a le nom du fichier, son icône, le fait qu'on puisse pas cliquer directement sur son icône quand c'est dans la vue icône. Il y a l'emplacement sur le drive, il y a l'emplacement sur le Mac, il y a la taille, il y a l'icône du Mac, il y a l'icône du cloud. Enfin, c'est n'importe quoi. Genre il y a beaucoup trop de trucs. Il faut vraiment simplifier en mode UI Apple design minimalisme pour que je puisse accéder et rechercher mes fichiers facilement. Moi, je pense que tu devrais t'inspirer des interfaces de Google et de Apple notamment sur l'interface de YouTube qui comprend très facilement une une miniature, un titre. Ça c'est tout pour l'ouverture du fichier. Et ensuite, il y a plus de trucs mais il faut que tu reprennes le HTML actuel de la vue Zenrea Assets pour rebuild à partir de ça. Et ensuite, on fera toutes les modifications nécessaires sur le sur le sur",
+      "text" : "La vue actuelle de Zenrea Assets ne me plaît pas du tout. J'aurais aimé pouvoir créer un drive vraiment avec une interface ultra moderne et quelque chose d'addictif pour pouvoir consulter très facilement et rapidement mes fichiers. Mais actuellement, ça ne me plaît pas le résultat que tu as fait. Donc j'aimerais que tu fasses un rework de l'interface et que tu me proposes minimum trois designs qui seraient éditables et paramétrables eux aussi à la manière d'un HDA afin de déterminer comment créer le drive ultime mais qui soit beaucoup plus addictif. Parce que là, j'ai relevé pas mal de problèmes de design. C'est que par exemple, tu mets les films et séries en cours qui sont en train d'upload alors que à la limite, ce serait plus intelligent de le mettre dans create puisque c'est pas forcément des assets les films et les séries. Les projets sont vus sur la gauche mais ils sont en toute petite case. Je pense qu'une UI à la YouTube serait plus intelligente pour des projets. Il y a pas mal de trucs qui servent à rien. Genre il y a des briques de Lego bizarres. Il y a pas mal de textes qui servent à rien alors que le design pourrait faire office de texte. Ce que je veux dire, c'est que les images et la forme des images pourraient faire office d'une fonction et d'une information spécifique plutôt que de mettre énormément de texte. Dans les projets eux-mêmes, le fait de pouvoir changer de icône à liste, à colonne ou galerie, c'est encore beaucoup trop compliqué. Enfin, sur les fichiers en eux-mêmes, il y a beaucoup trop d'informations affichées. Il y a le nom du fichier, son icône, le fait qu'on puisse pas cliquer directement sur son icône quand c'est dans la vue icône. Il y a l'emplacement sur le drive, il y a l'emplacement sur le Mac, il y a la taille, il y a l'icône du Mac, il y a l'icône du cloud. Enfin, c'est n'importe quoi. Genre il y a beaucoup trop de trucs. Il faut vraiment simplifier en mode UI Apple design minimalisme pour que je puisse accéder et rechercher mes fichiers facilement. Moi, je pense que tu devrais t'inspirer des interfaces de Google et de Apple notamment sur l'interface de YouTube qui comprend très facilement une une miniature, un titre. Ça c'est tout pour l'ouverture du fichier. Et ensuite, il y a plus de trucs mais il faut que tu reprennes le HTML actuel de la vue Zenrea Assets pour rebuild à partir de ça. Et ensuite, on fera toutes les modifications nécessaires sur le sur le sur"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813490354.803282,
+      "id" : "1E666DF2-DDD2-4707-B0B2-EA45E4E5A482",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Avant que je note architecture du passé, médiévale ou historique, architecture contemporaine, etc., il y avait un truc qui disait, je crois, innovation progressive évolutive, un truc dans le style. J'ai besoin des quatre mots-clés.",
+      "text" : "Avant que je note architecture du passé, médiévale ou historique, architecture contemporaine, etc., il y avait un truc qui disait, je crois, innovation progressive évolutive, un truc dans le style. J'ai besoin des quatre mots-clés."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813491659.417899,
+      "id" : "A2248898-85AC-48AA-AE8E-7BD4AEE402B7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je te conseille de te concentrer sur un seul de ces aspects à la fois.",
+      "text" : "Je te conseille de te concentrer sur un seul de ces aspects à la fois."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813491695.433048,
+      "id" : "E64F62C3-103A-4753-A30E-56E7F1447491",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il y a déjà beaucoup de travail de fait. Fais pas ce travail. En repartant sur ces méthodes, ça serait contre-productif. Il y a juste une de ces choses parfaitement, et ensuite tu passes à autre chose.",
+      "text" : "Il y a déjà beaucoup de travail de fait. Fais pas ce travail. En repartant sur ces méthodes, ça serait contre-productif. Il y a juste une de ces choses parfaitement, et ensuite tu passes à autre chose."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813491960.863039,
+      "id" : "AECAF279-9FE3-400C-9936-ACAC348F95B4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Après, le design est pas mal, mais le problème c'est que tu aurais dû partir de l'existant pour que ce soit vraiment possible de comparer avec la vraie vue assets. Ou alors, tu ajoutes maintenant une capture de l'HTML de cette vue assets de la vue actuelle qui existe actuellement et tu essaies de l'adapter à ça. Mais il manque pas mal d'éléments.",
+      "text" : "Après, le design est pas mal, mais le problème c'est que tu aurais dû partir de l'existant pour que ce soit vraiment possible de comparer avec la vraie vue assets. Ou alors, tu ajoutes maintenant une capture de l'HTML de cette vue assets de la vue actuelle qui existe actuellement et tu essaies de l'adapter à ça. Mais il manque pas mal d'éléments."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813492298.519246,
+      "id" : "1A3A5ED5-E6CD-42EB-BBC0-5ED7FDD4A8EB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Au lieu d'utiliser un mesh shader, tu utilises le PNG de l'image en lui-même de manière brute. Là, ça me ferait une résolution et donc il y a pas de modèle code pour faire de la résolution d'image ou de l'upscale. Ça va pas marcher. Ça va toujours faire un truc moche et surtout ce sera pas procédural ni machin. Je pense que tu devrais partir sur la génération de shader ou sur la génération de code directement pour créer un mesh.",
+      "text" : "Au lieu d'utiliser un mesh shader, tu utilises le PNG de l'image en lui-même de manière brute. Là, ça me ferait une résolution et donc il y a pas de modèle code pour faire de la résolution d'image ou de l'upscale. Ça va pas marcher. Ça va toujours faire un truc moche et surtout ce sera pas procédural ni machin. Je pense que tu devrais partir sur la génération de shader ou sur la génération de code directement pour créer un mesh."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813492324.516376,
+      "id" : "CE1D7F6A-1156-4DB7-8A5A-875DE3045766",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'ai l'impression, je suis pas mal de récréation.",
+      "text" : "J'ai l'impression, je suis pas mal de récréation."
     }
   ],
   "modes" : [
