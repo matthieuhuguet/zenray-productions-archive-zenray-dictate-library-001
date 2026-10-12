@@ -4139,6 +4139,86 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Sur notre site Cineray Progress, on va avoir l'onglet Motion Design. Sur l'option Motion Design, avec View Gallery qui ressemble à YouTube, on pourra cliquer directement sur un motion qu'on a créé et le modifier via une prochaine itération. Et tous ces projets seront sauvegardés via Cineray Assets. Le projet identifiant le projet global, c'est Cineray-Motion-Design.",
       "text" : "Sur notre site Cineray Progress, on va avoir l'onglet Motion Design. Sur l'option Motion Design, avec View Gallery qui ressemble à YouTube, on pourra cliquer directement sur un motion qu'on a créé et le modifier via une prochaine itération. Et tous ces projets seront sauvegardés via Cineray Assets. Le projet identifiant le projet global, c'est Cineray-Motion-Design."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813456975.6049,
+      "id" : "480FDE2B-760C-4C0A-84CD-26FE78E84F5F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il faudra aussi, de manière pas forcément MCPNI ou LLM, mais plutôt de manière HTML ou Python ou ce que tu veux, que je puisse rajouter via une itération de code à partir d'une vidéo existante ou d'un storyboard directement le futur motion design. Et c'est ça qui va être compliqué. Après, ça peut être fait par LLM aussi ou par MCP ou par ce que tu veux, mais j'aimerais le moins possible pour l'instant utiliser les itérations de la J'aimerais le moins possible utiliser comme Aria ou ou encore Même si ça peut être pratique pour la voix, c'est quelque chose à considérer, mais pas pour l'instant. Parce qu'il y a déjà beaucoup de choses à faire uniquement et que ne serait-ce que avec MCP, on a déjà créé pas mal d'effets 3D sans passer par de l'IA génération. Et en plus, ça nous permet de ne pas dépendre à part de Claude et d'Entropik qui nous permettent de générer le code.",
+      "text" : "Il faudra aussi, de manière pas forcément MCPNI ou LLM, mais plutôt de manière HTML ou Python ou ce que tu veux, que je puisse rajouter via une itération de code à partir d'une vidéo existante ou d'un storyboard directement le futur motion design. Et c'est ça qui va être compliqué. Après, ça peut être fait par LLM aussi ou par MCP ou par ce que tu veux, mais j'aimerais le moins possible pour l'instant utiliser les itérations de la J'aimerais le moins possible utiliser comme Aria ou ou encore Même si ça peut être pratique pour la voix, c'est quelque chose à considérer, mais pas pour l'instant. Parce qu'il y a déjà beaucoup de choses à faire uniquement et que ne serait-ce que avec MCP, on a déjà créé pas mal d'effets 3D sans passer par de l'IA génération. Et en plus, ça nous permet de ne pas dépendre à part de Claude et d'Entropik qui nous permettent de générer le code."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813457009.362567,
+      "id" : "0CE6D669-A971-4772-BDCF-AAE6328F32D1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'aimerais que tu lances un workflow pour faire toutes les recherches nécessaires et tout le plan et toute la documentation du projet et que tu l'archives sur Zen Assets.",
+      "text" : "J'aimerais que tu lances un workflow pour faire toutes les recherches nécessaires et tout le plan et toute la documentation du projet et que tu l'archives sur Zen Assets."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813457081.454748,
+      "id" : "0C00F6DB-4B0C-4F03-AAB5-F4CCA2D6A86A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je note aussi en tout premier dans Claude.t que chaque projet à l'avenir devra être un projet réutilisable avec une logique HDR.",
+      "text" : "Je note aussi en tout premier dans Claude.t que chaque projet à l'avenir devra être un projet réutilisable avec une logique HDR."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813457177.639421,
+      "id" : "B67E8B6A-5842-4CB5-9376-7AA3DD4852C1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu créeras aussi le HMI qui permettra directement de dialoguer de mon site vers Zenray Zenray Motion Design. Tu utiliseras Apple Frames et tu utiliseras HMI directement pilotable par Claude. Si par exemple je te demande d'éditer une vidéo, il doit y avoir un aspect édition montage sur le truc.",
+      "text" : "Tu créeras aussi le HMI qui permettra directement de dialoguer de mon site vers Zenray Zenray Motion Design. Tu utiliseras Apple Frames et tu utiliseras HMI directement pilotable par Claude. Si par exemple je te demande d'éditer une vidéo, il doit y avoir un aspect édition montage sur le truc."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813457293.24743,
+      "id" : "B4B19FEC-B57E-4CC7-A080-46CA74EC689B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le but est d'avoir beaucoup de motion design réutilisables et de qualité triple A dès le début, mais qui peuvent prendre des vidéos de référence. Ce que je veux, c'est un logiciel qui me prend une vidéo de référence et qui arrive à créer d'elle-même du logiciel en code brut et fini. Ce que je veux dire, c'est que c'est pas un truc IA, le résultat il est pas défini là non. C'est un logiciel qui invente les animations d'un motion design pour le reproduire exactement pour être réutilisable en fonction d'une vidéo de référence qui sera différente à chaque fois.",
+      "text" : "Le but est d'avoir beaucoup de motion design réutilisables et de qualité triple A dès le début, mais qui peuvent prendre des vidéos de référence. Ce que je veux, c'est un logiciel qui me prend une vidéo de référence et qui arrive à créer d'elle-même du logiciel en code brut et fini. Ce que je veux dire, c'est que c'est pas un truc IA, le résultat il est pas défini là non. C'est un logiciel qui invente les animations d'un motion design pour le reproduire exactement pour être réutilisable en fonction d'une vidéo de référence qui sera différente à chaque fois."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813457606.562948,
+      "id" : "F3FB2F19-B4DB-45F4-B4DF-2DE3F9086364",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "sur la production la physique et la",
+      "text" : "sur la production la physique et la"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813457853.000948,
+      "id" : "3D3341BA-2AC3-46C0-BFA4-9862A4A0139C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est déjà énorme de machine de machine, c'est concret étant donné",
+      "text" : "C'est déjà énorme de machine de machine, c'est concret étant donné"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813457964.000884,
+      "id" : "AC8C1FE0-5D90-4BCD-9EB0-071573ED8059",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Écoute, j'attends que tu vas me te recréer, s'il te plaît. Donc, n'hésite pas.",
+      "text" : "Écoute, j'attends que tu vas me te recréer, s'il te plaît. Donc, n'hésite pas."
     }
   ],
   "modes" : [
