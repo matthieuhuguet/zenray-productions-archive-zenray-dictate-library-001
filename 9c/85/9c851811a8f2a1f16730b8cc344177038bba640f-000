@@ -3909,6 +3909,236 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Après, j'ai bien compris que tu passes par des étapes d'optimisation et que tu as besoin de ce travail pour avancer, mais il faut quand même avancer quoi.",
       "text" : "Après, j'ai bien compris que tu passes par des étapes d'optimisation et que tu as besoin de ce travail pour avancer, mais il faut quand même avancer quoi."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813450952.96788,
+      "id" : "12C936AD-C3EF-41D8-AB8A-A514C6DFB594",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je ne comprends plus comment tu fais pour obtenir les sous-titres de Mushishi en français puisque il n'y a plus de fichiers.",
+      "text" : "Je ne comprends plus comment tu fais pour obtenir les sous-titres de Mushishi en français puisque il n'y a plus de fichiers."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813451005.968413,
+      "id" : "ACBD5727-E901-41EF-BC26-63B2705773FA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu peux ré-uploader tes sous-titres depuis un fichier qui est sur le cloud, mais tu peux pas l'extraire directement depuis le cloud, c'est bizarre.",
+      "text" : "Tu peux ré-uploader tes sous-titres depuis un fichier qui est sur le cloud, mais tu peux pas l'extraire directement depuis le cloud, c'est bizarre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813451089.314332,
+      "id" : "F859459B-6F99-492A-BEE1-0B49A19E91A3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'aimerais retenir globalement ce concept de ROLES car en soi les ROLES c'est simplement des feedbacks qui sont lisibles car beaucoup plus",
+      "text" : "J'aimerais retenir globalement ce concept de ROLES car en soi les ROLES c'est simplement des feedbacks qui sont lisibles car beaucoup plus"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813451634.988426,
+      "id" : "6C2B51F7-AD3D-4C2C-A04C-4D2C8F1BECAA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Fais en sorte que tout soit consigné dans Zénery ou Dini pour que je lance un simple \/chargement de skill, qu'ils comprennent automatiquement qu'ils doivent charger la section 14.2 de Copernicus, qu'ils sachent exactement où trouver les choses. Peut-être que c'est déjà fait. Si c'est déjà fait, tu abordes ce prompt. Et par exemple, si je te donne une vidéo, tu identifies la hate et tu recrées le matériau. Et si ça prend plus de 8 minutes, je monitor.",
+      "text" : "Fais en sorte que tout soit consigné dans Zénery ou Dini pour que je lance un simple \/chargement de skill, qu'ils comprennent automatiquement qu'ils doivent charger la section 14.2 de Copernicus, qu'ils sachent exactement où trouver les choses. Peut-être que c'est déjà fait. Si c'est déjà fait, tu abordes ce prompt. Et par exemple, si je te donne une vidéo, tu identifies la hate et tu recrées le matériau. Et si ça prend plus de 8 minutes, je monitor."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813451658.184884,
+      "id" : "7F5BF8F2-D700-40D8-AA6D-5A16FE455315",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais en fait, il faut simplement depuis ZenRay Houdini que je puisse lancer tout le protocole.",
+      "text" : "Mais en fait, il faut simplement depuis ZenRay Houdini que je puisse lancer tout le protocole."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813452773.226969,
+      "id" : "1764B129-B322-4E0A-AC6C-46FC3E6B9DF3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je voulais juste faire en sorte de comprendre si là ce que tu allais appliquer, du coup, ça allait être tout sauvegardé et consigné. Et du coup, je voulais pas forcément faire la base color maintenant, mais ce que je voulais faire, c'est que tout soit enregistré, savoir si ce que tu vas exécuter, c'est via MCP ou si c'est un logiciel. C'est-à-dire, est-ce que tu exécutes des scripts qui par leur fonction permettent d'arriver au résultat final de la eight à 0,99 ou oui ou non. Et est-ce que tout est sauvegardé ? Parce que là, je comprends pas ce que tu calcules.",
+      "text" : "Je voulais juste faire en sorte de comprendre si là ce que tu allais appliquer, du coup, ça allait être tout sauvegardé et consigné. Et du coup, je voulais pas forcément faire la base color maintenant, mais ce que je voulais faire, c'est que tout soit enregistré, savoir si ce que tu vas exécuter, c'est via MCP ou si c'est un logiciel. C'est-à-dire, est-ce que tu exécutes des scripts qui par leur fonction permettent d'arriver au résultat final de la eight à 0,99 ou oui ou non. Et est-ce que tout est sauvegardé ? Parce que là, je comprends pas ce que tu calcules."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813452803.98991,
+      "id" : "727F63A1-19BB-4203-B8F6-4F3E5A7819D6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ma question c'est est-ce que sans MCP ou est-ce que sans LLM ou agentic coding, est-ce que tu peux run la solution qu'on a construite pour créer les et est-ce que le projet ZenRe Assets est bien consigné ?",
+      "text" : "Ma question c'est est-ce que sans MCP ou est-ce que sans LLM ou agentic coding, est-ce que tu peux run la solution qu'on a construite pour créer les et est-ce que le projet ZenRe Assets est bien consigné ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813452891.770392,
+      "id" : "A9D41CF3-1CD5-443B-B5F2-76C5868CFD82",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais du coup, tu as mis le worker et l'upload en pause parce que j'ai lravail que ma connexion elle est beaucoup plus grande et que là je comprends pas si l'upload des 230 fichiers est toujours en cours.",
+      "text" : "Mais du coup, tu as mis le worker et l'upload en pause parce que j'ai lravail que ma connexion elle est beaucoup plus grande et que là je comprends pas si l'upload des 230 fichiers est toujours en cours."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813452908.134679,
+      "id" : "527C9707-FA71-41BE-A249-8D2CA8D17C14",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu peux augmenter la cadence de l'upload ?",
+      "text" : "Est-ce que tu peux augmenter la cadence de l'upload ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813453004.01983,
+      "id" : "F4E8F55D-C7BF-4656-81C0-B3DAF56E32DC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Crée 16 variations de fontes ultra-modernes pour des sous-titres pour un système de streaming ou un système de motion design.",
+      "text" : "Crée 16 variations de fontes ultra-modernes pour des sous-titres pour un système de streaming ou un système de motion design."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813453011.138459,
+      "id" : "CEFFF604-3927-48DB-8343-5837644A8889",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "sous forme de shit bar",
+      "text" : "sous forme de shit bar"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813453213.320613,
+      "id" : "9715DB98-263A-4C07-80CE-480DE327924A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu peux encore améliorer au maximum la vitesse d'upload pour que les films se upload le plus rapidement possible ? Je suis sûr qu'il y a moyen de rendre le code de Zenrai Assets et Zenrai Progress le plus rapide possible.",
+      "text" : "Est-ce que tu peux encore améliorer au maximum la vitesse d'upload pour que les films se upload le plus rapidement possible ? Je suis sûr qu'il y a moyen de rendre le code de Zenrai Assets et Zenrai Progress le plus rapide possible."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813453352.710659,
+      "id" : "3AF5596C-83BD-4E71-90F6-37A71EEB6DBD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu peux juste me redonner le résultat de toutes les aides que tu as créées via ce protocole ?",
+      "text" : "Est-ce que tu peux juste me redonner le résultat de toutes les aides que tu as créées via ce protocole ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813453581.231927,
+      "id" : "1A54837D-542C-4E6F-B3CC-1EFA88475E55",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Du coup, dans le craft final, tu crées deux Hate, une Untiled et une Untiled. Mais en français, je comprends pas forcément la nuance. Ça veut dire Untiled, tu veux dire que c'est celle qui est répétable ou alors c'est l'autre ?",
+      "text" : "Du coup, dans le craft final, tu crées deux Hate, une Untiled et une Untiled. Mais en français, je comprends pas forcément la nuance. Ça veut dire Untiled, tu veux dire que c'est celle qui est répétable ou alors c'est l'autre ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813453670.188093,
+      "id" : "F5394EED-5F1C-4CBD-9662-553B12E9F205",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En général, le graphe a combien de layers ? Donne-moi pour les quatre graphes le nombre de layers qu'ils ont au total.",
+      "text" : "En général, le graphe a combien de layers ? Donne-moi pour les quatre graphes le nombre de layers qu'ils ont au total."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813453897.501812,
+      "id" : "451AA42C-FB55-4C45-94A2-8927465C738F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il faut que tu ranges tous ces graphes de manière propre.",
+      "text" : "Il faut que tu ranges tous ces graphes de manière propre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813453909.349242,
+      "id" : "C26DD2F8-49B7-4A92-BE7B-C6BBE961C513",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je comprends pas pourquoi tu fais la distinction entre couche et nœud. C'est quoi la différence ?",
+      "text" : "Je comprends pas pourquoi tu fais la distinction entre couche et nœud. C'est quoi la différence ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813455375.953828,
+      "id" : "7A097E18-64BE-46CA-8DC2-391C94D1B9AF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Frère juif, vous qui êtes avide d'argent et sans scrupule, j'ai créé un truc qui permet de reproduire n'importe quelle texture dans n'importe quel style pour n'importe quel jeu. Du coup, il faudrait que tu me dises comment faire en sorte d'utiliser ce skillset pour faire des ventes. Réfléchis à toutes les idées qui te passent par la tête.",
+      "text" : "Frère juif, vous qui êtes avide d'argent et sans scrupule, j'ai créé un truc qui permet de reproduire n'importe quelle texture dans n'importe quel style pour n'importe quel jeu. Du coup, il faudrait que tu me dises comment faire en sorte d'utiliser ce skillset pour faire des ventes. Réfléchis à toutes les idées qui te passent par la tête."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813455443.161407,
+      "id" : "43A4B45C-EA2D-4C68-A352-0F58EFD3B8D5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Qu'est-ce que je pourrais faire à partir de ça pour développer des assets rapidement et que ce soit la bonne cible ?",
+      "text" : "Qu'est-ce que je pourrais faire à partir de ça pour développer des assets rapidement et que ce soit la bonne cible ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813455521.267165,
+      "id" : "6EB23A81-AAEE-460D-A33E-6661E64B6A23",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu peux me redonner le prompt qui, à partir d'une image, permet d'obtenir la height en format 1:1 sans shadows et sans détails bloquants, etc.",
+      "text" : "Est-ce que tu peux me redonner le prompt qui, à partir d'une image, permet d'obtenir la height en format 1:1 sans shadows et sans détails bloquants, etc."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813455981.702678,
+      "id" : "DD2EB705-3183-4B10-9220-D870FE6B7EE1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que ça aurait un intérêt si je te donne par exemple un quicksell megascans, donc une map à cinq ou sept maps, pour reproduire exactement la même chose que Zenrai_8, mais sur des maps différentes et pour avoir une forme de 0,99 sur toutes les maps possibles, ou est-ce que tu penses que c'est superflu étant donné qu'à partir du moment où j'ai la 8, je peux reproduire tous les matériaux ?",
+      "text" : "Est-ce que ça aurait un intérêt si je te donne par exemple un quicksell megascans, donc une map à cinq ou sept maps, pour reproduire exactement la même chose que Zenrai_8, mais sur des maps différentes et pour avoir une forme de 0,99 sur toutes les maps possibles, ou est-ce que tu penses que c'est superflu étant donné qu'à partir du moment où j'ai la 8, je peux reproduire tous les matériaux ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813456804.148469,
+      "id" : "41811E5B-C00F-4006-860F-191B5698D365",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Dans le cadre d'un projet motion design, j'aimerais directement que sur Scene Reconstruct tu commences à constituer une galerie d'animations motion ultra stylisées. Pour ce faire, je vais te donner plusieurs vidéos à créer et chaque animation motion aura une version V_00N qui pourra itérer jusqu'à 999. Le but est d'avoir une collection avec une vue YouTube, en termes d'UI ce serait la vue de YouTube, qui permettrait de recenser tous mes skills d'animation motion faits par Clone. Le but est que je les appelle ZenRay_7E_NRAY-MOTION_MOTION-DESIGN. Dans le projet ZenRay Design, tu vas faire en sorte de créer toutes les vidéos sous une forme de collection et ce sera uploadé via ZenRay Assets. Ce sera montré dans la sidebar de gauche, accessible via un onglet Motion Design. Sur ça, je vais te donner des vidéos, chaque vidéo tu l'utiliseras comme projet de référence où tu identifies dans la vidéo toute la bible graphique de la vidéo, c'est-à-dire les fontes, les couleurs, les motions appliquées, est-ce que ça utilise de la 3D ou non, quelles sont les télés d'animation, quelles sont les SFX, est-ce que tu dois créer de la musique par rapport à la vidéo. Ensuite, une fois que tu as ça, tu essaies de reproduire l'animation de, enfin tu essaies de reproduire l'animation des scènes qui sont dans la vidéo. Ça ne veut pas dire que tu reproduis toute la vidéo en entier, ça veut dire que tu découpes chaque animation de motion dans une vidéo segmentée à partir du storyboard global de la vidéo que je te donne en tant que référence. Tu télécharges la vidéo, tu la découpes pour faire ton propre storyboard, tu crées une bible graphique, tu identifies chaque scène différente et enfin tu crées un projet de motion qui sera itérable et modifiable via Hyperframes qui permettra justement de te donner directement les modifications à faire. Et tu crées le projet le plus complet possible.",
+      "text" : "Dans le cadre d'un projet motion design, j'aimerais directement que sur Scene Reconstruct tu commences à constituer une galerie d'animations motion ultra stylisées. Pour ce faire, je vais te donner plusieurs vidéos à créer et chaque animation motion aura une version V_00N qui pourra itérer jusqu'à 999. Le but est d'avoir une collection avec une vue YouTube, en termes d'UI ce serait la vue de YouTube, qui permettrait de recenser tous mes skills d'animation motion faits par Clone. Le but est que je les appelle ZenRay_7E_NRAY-MOTION_MOTION-DESIGN. Dans le projet ZenRay Design, tu vas faire en sorte de créer toutes les vidéos sous une forme de collection et ce sera uploadé via ZenRay Assets. Ce sera montré dans la sidebar de gauche, accessible via un onglet Motion Design. Sur ça, je vais te donner des vidéos, chaque vidéo tu l'utiliseras comme projet de référence où tu identifies dans la vidéo toute la bible graphique de la vidéo, c'est-à-dire les fontes, les couleurs, les motions appliquées, est-ce que ça utilise de la 3D ou non, quelles sont les télés d'animation, quelles sont les SFX, est-ce que tu dois créer de la musique par rapport à la vidéo. Ensuite, une fois que tu as ça, tu essaies de reproduire l'animation de, enfin tu essaies de reproduire l'animation des scènes qui sont dans la vidéo. Ça ne veut pas dire que tu reproduis toute la vidéo en entier, ça veut dire que tu découpes chaque animation de motion dans une vidéo segmentée à partir du storyboard global de la vidéo que je te donne en tant que référence. Tu télécharges la vidéo, tu la découpes pour faire ton propre storyboard, tu crées une bible graphique, tu identifies chaque scène différente et enfin tu crées un projet de motion qui sera itérable et modifiable via Hyperframes qui permettra justement de te donner directement les modifications à faire. Et tu crées le projet le plus complet possible."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813456862.396379,
+      "id" : "620A3A94-6A7A-4DE7-BA0D-5ED52BBC6379",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Sur notre site Cineray Progress, on va avoir l'onglet Motion Design. Sur l'option Motion Design, avec View Gallery qui ressemble à YouTube, on pourra cliquer directement sur un motion qu'on a créé et le modifier via une prochaine itération. Et tous ces projets seront sauvegardés via Cineray Assets. Le projet identifiant le projet global, c'est Cineray-Motion-Design.",
+      "text" : "Sur notre site Cineray Progress, on va avoir l'onglet Motion Design. Sur l'option Motion Design, avec View Gallery qui ressemble à YouTube, on pourra cliquer directement sur un motion qu'on a créé et le modifier via une prochaine itération. Et tous ces projets seront sauvegardés via Cineray Assets. Le projet identifiant le projet global, c'est Cineray-Motion-Design."
     }
   ],
   "modes" : [
