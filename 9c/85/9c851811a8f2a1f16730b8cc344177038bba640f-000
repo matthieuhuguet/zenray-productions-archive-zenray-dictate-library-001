@@ -4479,6 +4479,1716 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Oui, mais tu réponds toujours pas à la question. Ça veut dire quoi l'acronyme CMAF en une ligne ?",
       "text" : "Oui, mais tu réponds toujours pas à la question. Ça veut dire quoi l'acronyme CMAF en une ligne ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813529133.72892,
+      "id" : "5731F385-3D3E-414D-974D-556AA0DAE9A3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, par rapport à ce contexte, il y a plein de questions que je peux pas résoudre parce que je suis pas un expert de GitHub et de ses limites, etc. En fait, tu me dis que là on utilise 190 mais que dans le code il y avait 900 et le MO. Du coup, pourquoi tu as utilisé 190 au lieu de 900 par défaut ? Est-ce qu'on peut mettre 1024 ou 2048, je sais pas, tu vois. Donc il faut que tu répondes à ces questions, enfin il faut que je puisse répondre à ces questions avec le contexte des limites. Ensuite, tu me parles de pousser déjà asynchrone, ça je comprends bien. Tu parles de plafond à 4 Go, oui mais sur quoi et c'est quoi la limite de GitHub ? Tu parle de copie filtrée, là j'ai rien compris. Tu parles d'index de recherche de manifeste, j'ai l'impression que c'est même pas une question. Tu parles de reprise sur incident. Il y a plein de trucs que je peux pas comprendre, tu vois. Donc ça c'est pour l'étape de l'archive. Et ensuite pour CMAF, en soi ton intuition elle est pas mal. Le seul problème, c'est que je sais pas, encore une fois il manque du contexte, je sais pas ce qui est codé dans le code et ce que tu as interprété en termes d'indications. Parce que j'ai vu, enfin on parle de streaming mais tu m'as jamais parlé de plusieurs résolutions et cetera comme sur YouTube. Donc il manque énormément de contexte pour que je puisse répondre aux trois questions qui sont CMAF, archive et la lecture SHA-226, on l'a déjà traitée cette question.",
+      "text" : "En fait, par rapport à ce contexte, il y a plein de questions que je peux pas résoudre parce que je suis pas un expert de GitHub et de ses limites, etc. En fait, tu me dis que là on utilise 190 mais que dans le code il y avait 900 et le MO. Du coup, pourquoi tu as utilisé 190 au lieu de 900 par défaut ? Est-ce qu'on peut mettre 1024 ou 2048, je sais pas, tu vois. Donc il faut que tu répondes à ces questions, enfin il faut que je puisse répondre à ces questions avec le contexte des limites. Ensuite, tu me parles de pousser déjà asynchrone, ça je comprends bien. Tu parles de plafond à 4 Go, oui mais sur quoi et c'est quoi la limite de GitHub ? Tu parle de copie filtrée, là j'ai rien compris. Tu parles d'index de recherche de manifeste, j'ai l'impression que c'est même pas une question. Tu parles de reprise sur incident. Il y a plein de trucs que je peux pas comprendre, tu vois. Donc ça c'est pour l'étape de l'archive. Et ensuite pour CMAF, en soi ton intuition elle est pas mal. Le seul problème, c'est que je sais pas, encore une fois il manque du contexte, je sais pas ce qui est codé dans le code et ce que tu as interprété en termes d'indications. Parce que j'ai vu, enfin on parle de streaming mais tu m'as jamais parlé de plusieurs résolutions et cetera comme sur YouTube. Donc il manque énormément de contexte pour que je puisse répondre aux trois questions qui sont CMAF, archive et la lecture SHA-226, on l'a déjà traitée cette question."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813529725.284215,
+      "id" : "278027C4-5858-4696-8B0F-1784650CC756",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Moi intuitivement, je me dis que ce qu'il faudrait faire, c'est... Ah mais je crois que ce que tu prends pas en compte, c'est 6 push par minute. Mais est-ce que 6 push c'est par nombre de... Est-ce que c'est par nombre de gigas ou c'est juste par nombre de command line ? Parce que sinon ce qu'on peut faire, c'est on fait 20 ou 16 parts x 95.",
+      "text" : "Moi intuitivement, je me dis que ce qu'il faudrait faire, c'est... Ah mais je crois que ce que tu prends pas en compte, c'est 6 push par minute. Mais est-ce que 6 push c'est par nombre de... Est-ce que c'est par nombre de gigas ou c'est juste par nombre de command line ? Parce que sinon ce qu'on peut faire, c'est on fait 20 ou 16 parts x 95."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813530030.425903,
+      "id" : "7AA8F7E3-AE6C-4857-86DD-763B71DFECE0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Théoriquement, si ma connexion est bonne pendant le rush, je devrais mettre la limite maximale en soin.",
+      "text" : "Théoriquement, si ma connexion est bonne pendant le rush, je devrais mettre la limite maximale en soin."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813530074.266205,
+      "id" : "123C7E9F-D2AA-4A92-BFF8-56599B322E05",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc, faire un algorithme qui vérifie les parts qui sont envoyées. Les parts ne doivent jamais dépasser 2048 et il doit y avoir un petit peu de marge, mais ça doit prendre l'espace maximal du push. Comment est-ce que je set de plus le truc ? Mais dis-le en langage naturel, pas en code.",
+      "text" : "Donc, faire un algorithme qui vérifie les parts qui sont envoyées. Les parts ne doivent jamais dépasser 2048 et il doit y avoir un petit peu de marge, mais ça doit prendre l'espace maximal du push. Comment est-ce que je set de plus le truc ? Mais dis-le en langage naturel, pas en code."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813530324.255216,
+      "id" : "AA32DB7C-3998-4F78-A1BE-57726B56B2D3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu me conseilles de le faire au bout d'un échec, de deux échecs ou de trois échecs ?",
+      "text" : "Tu me conseilles de le faire au bout d'un échec, de deux échecs ou de trois échecs ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813531462.783863,
+      "id" : "4F0076EA-B984-45C0-AA7D-DB9EE2361E48",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Depuis une image contenue dans un projet, fais en sorte que je puisse faire un clic droit pour définir en tant que image thumbnail du projet. Mais en règle générale, essaie de regarder quand j'upload des fichiers via Zenrai Assets de chercher les fichiers thumbnail pour les utiliser directement en tant qu'icône de projet. Essaie de voir si c'est déjà pas possible dans tous les projets via un filtre rapide. Et en plus, tu me permets de développer cette feature qui me permet de choisir l'icône que je",
+      "text" : "Depuis une image contenue dans un projet, fais en sorte que je puisse faire un clic droit pour définir en tant que image thumbnail du projet. Mais en règle générale, essaie de regarder quand j'upload des fichiers via Zenrai Assets de chercher les fichiers thumbnail pour les utiliser directement en tant qu'icône de projet. Essaie de voir si c'est déjà pas possible dans tous les projets via un filtre rapide. Et en plus, tu me permets de développer cette feature qui me permet de choisir l'icône que je"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813531708.16873,
+      "id" : "6F16FF64-52A9-4242-82B8-DA2BFAF7B5BF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Alors, il y a deux questions qu'on n'a pas réglées. La première, j'aimerais que ça s'applique à tout le futur pour Zenrai Progress par rapport au fait de toutes les règles par rapport au site, donc Zenrai Assets et Zenrai Progress. Et ensuite, on n'a pas résolu CMAF et je comprends pas pourquoi tu parles aussi du plafond d'octets de 1900 Mbits\/s, parce que CMAF, c'était par rapport au bitrate des vidéos, non ?",
+      "text" : "Alors, il y a deux questions qu'on n'a pas réglées. La première, j'aimerais que ça s'applique à tout le futur pour Zenrai Progress par rapport au fait de toutes les règles par rapport au site, donc Zenrai Assets et Zenrai Progress. Et ensuite, on n'a pas résolu CMAF et je comprends pas pourquoi tu parles aussi du plafond d'octets de 1900 Mbits\/s, parce que CMAF, c'était par rapport au bitrate des vidéos, non ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813532975.01164,
+      "id" : "F7777336-84F4-478E-A616-5FA62FACE256",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'utilise surtout Opus et",
+      "text" : "J'utilise surtout Opus et"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813533285.593082,
+      "id" : "5E42916E-7F36-467B-9502-85D56B5F04D0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu oublies quelque chose d'important, c'est que les lectures en cache sont à 10 centimes. Elles sont à 90 % en discount.",
+      "text" : "Tu oublies quelque chose d'important, c'est que les lectures en cache sont à 10 centimes. Elles sont à 90 % en discount."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813577945.861948,
+      "id" : "D4931147-FD2B-4EB8-B6CA-9CDF1F9143F8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'avais deux comptes entropiques et un CF ban. Est-ce que tu penses que c'est parce que je partageais le compute sur Claude Code ou est-ce que c'est plutôt à cause de raisons de confidentialité ou d'autres questions que j'aurais pu poser et qu'il aurait pu interpréter comme quelque chose de dangereux ? J'aimerais déterminer où est-ce que peut être l'hypothèse du bannissement.",
+      "text" : "J'avais deux comptes entropiques et un CF ban. Est-ce que tu penses que c'est parce que je partageais le compute sur Claude Code ou est-ce que c'est plutôt à cause de raisons de confidentialité ou d'autres questions que j'aurais pu poser et qu'il aurait pu interpréter comme quelque chose de dangereux ? J'aimerais déterminer où est-ce que peut être l'hypothèse du bannissement."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813578064.589009,
+      "id" : "2F889FDA-642F-448E-AB7E-5F89DDCB4A18",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ce que j'ai fait, c'est juste que j'ai partagé les conversations JSON que je repartageais entre deux comptes et dès que j'avais plus de compute, je passais sur un autre compte. Mais est-ce que tu penses que c'est un motif de bannissement ? Parce que du coup, j'aimerais reprendre un abonnement dans le but de pas forcément partager le compute, mais c'est juste que par exemple, j'ai un abonnement à 20 € qui me dure pendant 1 an et j'en ai un autre plus ponctuel où je mets par exemple 100 €. C'est juste que je veux pas utiliser, enfin j'ai des conversations spécifiques dans le chat qui sont pas cloudées. Donc c'est pas forcément pour utiliser une astuce, c'est plus dans le cadre de mon usage qui est",
+      "text" : "Ce que j'ai fait, c'est juste que j'ai partagé les conversations JSON que je repartageais entre deux comptes et dès que j'avais plus de compute, je passais sur un autre compte. Mais est-ce que tu penses que c'est un motif de bannissement ? Parce que du coup, j'aimerais reprendre un abonnement dans le but de pas forcément partager le compute, mais c'est juste que par exemple, j'ai un abonnement à 20 € qui me dure pendant 1 an et j'en ai un autre plus ponctuel où je mets par exemple 100 €. C'est juste que je veux pas utiliser, enfin j'ai des conversations spécifiques dans le chat qui sont pas cloudées. Donc c'est pas forcément pour utiliser une astuce, c'est plus dans le cadre de mon usage qui est"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813583793.419029,
+      "id" : "9298AECE-AAD0-4182-A78E-7125384B1BE6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'aimerais vérifier un truc, c'est que ZenRe Assets doit lier toutes les conversations d'un projet et lier aussi la dernière conversation d'un projet pour aller reprendre les dernières instructions. Après, c'est aussi possible directement via le fichier feedback, mais ce que j'aimerais, c'est par exemple, je travaille sur le Louisiana Bayou, tu vérifies que je peux switch d'une conversation à l'autre avec pas forcément le progress, mais utiliser plutôt le feedback.md pour faire en sorte que la conversation soit liée et ne plus être, enfin, voire être agnostique en fonction du LLM utilisé, c'est-à-dire Claude, ChatGPT ou Gemini, dans le sens où j'aimerais que ZenRe Assets ait vraiment la fonctionnalité de pouvoir reprendre la conversation d'un projet en fonction des dernières choses qui ont été dites. C'est pour ça que je t'avais dit de tout le temps mettre la date partout, mais j'aimerais que tu vérifies que c'est déjà bien dans le skill et bien dans le code de ZenRe Assets. Et si c'est pas le cas, dans ce cas-là, et si tu penses qu'il y a des failles, tu peux aussi améliorer le",
+      "text" : "J'aimerais vérifier un truc, c'est que ZenRe Assets doit lier toutes les conversations d'un projet et lier aussi la dernière conversation d'un projet pour aller reprendre les dernières instructions. Après, c'est aussi possible directement via le fichier feedback, mais ce que j'aimerais, c'est par exemple, je travaille sur le Louisiana Bayou, tu vérifies que je peux switch d'une conversation à l'autre avec pas forcément le progress, mais utiliser plutôt le feedback.md pour faire en sorte que la conversation soit liée et ne plus être, enfin, voire être agnostique en fonction du LLM utilisé, c'est-à-dire Claude, ChatGPT ou Gemini, dans le sens où j'aimerais que ZenRe Assets ait vraiment la fonctionnalité de pouvoir reprendre la conversation d'un projet en fonction des dernières choses qui ont été dites. C'est pour ça que je t'avais dit de tout le temps mettre la date partout, mais j'aimerais que tu vérifies que c'est déjà bien dans le skill et bien dans le code de ZenRe Assets. Et si c'est pas le cas, dans ce cas-là, et si tu penses qu'il y a des failles, tu peux aussi améliorer le"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813595042.120564,
+      "id" : "7A96517E-A10E-4A21-82A4-5E9C1CA6C392",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je ne comprends pas comment ça marche. Est-ce que tu peux m'expliquer en détail tout de A à Z sans rien oublier, mais de manière courte et condensée ?",
+      "text" : "Je ne comprends pas comment ça marche. Est-ce que tu peux m'expliquer en détail tout de A à Z sans rien oublier, mais de manière courte et condensée ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813595056.67216,
+      "id" : "0B2B0F86-5CC9-4A03-9DA1-58685A7DDEFF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je ne comprends pas le premier et le deuxième skill et je ne comprends pas comment tu peux avoir la garantie que la reprise fonctionne de manière agnostique.",
+      "text" : "Je ne comprends pas le premier et le deuxième skill et je ne comprends pas comment tu peux avoir la garantie que la reprise fonctionne de manière agnostique."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813596211.373077,
+      "id" : "F5DCA986-06D5-4ED3-8B36-CAF06A0629D2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce qu'il y a des gens qui ont essayé de faire des vidéos de vulgarisation à la DirtyBiology et The Great Review, mais avec un décor 3D et des personnages 3D ? Parce que techniquement, c'est quelque chose qui coûterait assez cher, mais à l'ère de l'IA et de l'automatisation de Blender ou de Houdini et de Unreal Engine, je pense qu'il est quasi possible d'obtenir des vidéos qui ne seraient pas du coup faites par la génération générative, mais qui seraient faites par un directeur artistique qui aurait aussi une patte YouTube. Je me demande si ce genre d'idées conceptuelles qui réunissent storytelling 3D, code et automatisation, voire motion design, ça existe pas déjà.",
+      "text" : "Est-ce qu'il y a des gens qui ont essayé de faire des vidéos de vulgarisation à la DirtyBiology et The Great Review, mais avec un décor 3D et des personnages 3D ? Parce que techniquement, c'est quelque chose qui coûterait assez cher, mais à l'ère de l'IA et de l'automatisation de Blender ou de Houdini et de Unreal Engine, je pense qu'il est quasi possible d'obtenir des vidéos qui ne seraient pas du coup faites par la génération générative, mais qui seraient faites par un directeur artistique qui aurait aussi une patte YouTube. Je me demande si ce genre d'idées conceptuelles qui réunissent storytelling 3D, code et automatisation, voire motion design, ça existe pas déjà."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813597093.942333,
+      "id" : "CB9EDA05-17B9-41E0-8773-5C4461FC7D60",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Voici une carte graphique que je compte acquérir pour la somme de 880 € sachant que actuellement neuve, elle est vendue autour de 1800 €, donc je pense que c'est une bonne affaire. Sachant que normalement la carte est quasi neuve et vendue par un particulier sur leboncoin. Évidemment, il faut que je demande quelques vérifications, mais je pense que ça peut être une bonne carte graphique. Je développe sur Unreal des jeux vidéo et voilà. Je pense que pour 880 €, c'est une bonne stratégie d'achat, mais j'ai aussi un Mac M5 Max, mais je trouve qu'il est pas forcément hyper rapide sur tout ce qui va être rendu Cycles et autres. En fait, le Mac est super bien pour développer des trucs, mais pour tout le rendu lourd et le compute, je pense que c'est bien d'avoir un Windows en termes d'unité centrale.",
+      "text" : "Voici une carte graphique que je compte acquérir pour la somme de 880 € sachant que actuellement neuve, elle est vendue autour de 1800 €, donc je pense que c'est une bonne affaire. Sachant que normalement la carte est quasi neuve et vendue par un particulier sur leboncoin. Évidemment, il faut que je demande quelques vérifications, mais je pense que ça peut être une bonne carte graphique. Je développe sur Unreal des jeux vidéo et voilà. Je pense que pour 880 €, c'est une bonne stratégie d'achat, mais j'ai aussi un Mac M5 Max, mais je trouve qu'il est pas forcément hyper rapide sur tout ce qui va être rendu Cycles et autres. En fait, le Mac est super bien pour développer des trucs, mais pour tout le rendu lourd et le compute, je pense que c'est bien d'avoir un Windows en termes d'unité centrale."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813603143.649978,
+      "id" : "C271010D-E9DA-4436-B3E3-3E5F6C02C15D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu peux me parler de \"Attention is all you need\" ? C'est un concept évoqué sur Internet par rapport à l'apparition des IA génératives, mais est-ce que tu peux m'en parler plus, s'il te plaît ?",
+      "text" : "Est-ce que tu peux me parler de \"Attention is all you need\" ? C'est un concept évoqué sur Internet par rapport à l'apparition des IA génératives, mais est-ce que tu peux m'en parler plus, s'il te plaît ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813604924.153591,
+      "id" : "DB0C7E91-81B6-4C33-A7CA-D61ADDCC5B8C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le média Thinkerview est plutôt identifié comme étant à gauche ou à droite selon les élites parisiennes et même globalement en France, comment est-il perçu ?",
+      "text" : "Le média Thinkerview est plutôt identifié comme étant à gauche ou à droite selon les élites parisiennes et même globalement en France, comment est-il perçu ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813604980.681695,
+      "id" : "3261EF3B-0FC6-4211-9908-537C59B29E75",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et si tu devais vraiment trancher de manière catégorique, ce serait plus à gauche ou plus à droite ? Tu es obligé de trancher.",
+      "text" : "Et si tu devais vraiment trancher de manière catégorique, ce serait plus à gauche ou plus à droite ? Tu es obligé de trancher."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813605203.688602,
+      "id" : "8D87FC1B-5BA2-4FDC-9475-3BA8D61DF2E8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "souverainistes, mais ils ne sont pas anti-immigration.",
+      "text" : "souverainistes, mais ils ne sont pas anti-immigration."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813605736.339255,
+      "id" : "9F1CE9C2-6C4C-4EA0-9EED-9AAA7221B2E7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le moteur affirme avoir réalisé des benchmarks qui reproduisent la musique à 99 %, mais sur quelle technologie s'appuie-t-il pour avoir des scores aussi impressionnants ? Personnellement, quand j'écoute la musique, je trouve que la reproduction est assez bonne, mais je m'interroge sur la technologie et le stack utilisé.",
+      "text" : "Le moteur affirme avoir réalisé des benchmarks qui reproduisent la musique à 99 %, mais sur quelle technologie s'appuie-t-il pour avoir des scores aussi impressionnants ? Personnellement, quand j'écoute la musique, je trouve que la reproduction est assez bonne, mais je m'interroge sur la technologie et le stack utilisé."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813610360.780878,
+      "id" : "67F5E791-991F-48D4-8CA4-8CB919B8A976",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Fais une note dans mon claude.md, de ne jamais réutiliser les workflows à l'avenir ou alors me faire une double confirmation parce que dernièrement j'ai utilisé Claude Workflow Claude Code sur les workflows et le problème c'est que ça a utilisé toute ma limite de token en même pas 5 minutes pour une session à 20 € et en à peine une vingtaine de minutes pour une session à 90 € par mois. Donc en fait, les workflows pour l'instant sont bannis et il faut faire en sorte de travailler séquentiellement, sinon on ne peut pas arriver à des résultats satisfaisants parce que les workflows prennent beaucoup trop de compute d'un coup et c'est pas tenable sur le long terme.",
+      "text" : "Fais une note dans mon claude.md, de ne jamais réutiliser les workflows à l'avenir ou alors me faire une double confirmation parce que dernièrement j'ai utilisé Claude Workflow Claude Code sur les workflows et le problème c'est que ça a utilisé toute ma limite de token en même pas 5 minutes pour une session à 20 € et en à peine une vingtaine de minutes pour une session à 90 € par mois. Donc en fait, les workflows pour l'instant sont bannis et il faut faire en sorte de travailler séquentiellement, sinon on ne peut pas arriver à des résultats satisfaisants parce que les workflows prennent beaucoup trop de compute d'un coup et c'est pas tenable sur le long terme."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813610441.683936,
+      "id" : "AD2453BE-DE4E-4939-B4C4-E379BEE04732",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Après, lors de la génération de très très gros logiciels, parfois les workflows sont indispensables. Je pense à Zenva 8 ou encore à Zenva Motion Design qui ont dû nécessiter énormément de tokens et c'est vrai que même en séquentiel, il aurait été extrêmement dur d'arriver à ces résultats. Cependant, la génération de workflow est beaucoup trop coûteuse, donc j'aimerais vraiment quasi jamais l'utiliser. Il vaut mieux utiliser plusieurs sessions et réfléchir vraiment atomiquement à exactement ce qu'on veut de manière séquentielle plutôt que de traiter la tâche une fois en parallèle et arrêter de réfléchir parce que c'est pas tenable économiquement pour l'instant. À terme, je pense qu'on pourra viser d'avoir deux Claude Code à 90 € par mois, même si ça représente une très très forte dépense, voire un seul Claude à 200 € par mois, ce serait plus intelligent pour avoir le x 20, mais pour l'instant économiquement, c'est pas tenable du tout.",
+      "text" : "Après, lors de la génération de très très gros logiciels, parfois les workflows sont indispensables. Je pense à Zenva 8 ou encore à Zenva Motion Design qui ont dû nécessiter énormément de tokens et c'est vrai que même en séquentiel, il aurait été extrêmement dur d'arriver à ces résultats. Cependant, la génération de workflow est beaucoup trop coûteuse, donc j'aimerais vraiment quasi jamais l'utiliser. Il vaut mieux utiliser plusieurs sessions et réfléchir vraiment atomiquement à exactement ce qu'on veut de manière séquentielle plutôt que de traiter la tâche une fois en parallèle et arrêter de réfléchir parce que c'est pas tenable économiquement pour l'instant. À terme, je pense qu'on pourra viser d'avoir deux Claude Code à 90 € par mois, même si ça représente une très très forte dépense, voire un seul Claude à 200 € par mois, ce serait plus intelligent pour avoir le x 20, mais pour l'instant économiquement, c'est pas tenable du tout."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813610507.091628,
+      "id" : "213437C9-F0D2-4F56-8C81-19E5B90704FF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'ai utilisé la dictée vocale. En fait, tous les termes un peu bizarres sont Zenray, Z E N R A Y, qui est mon pseudonyme.",
+      "text" : "J'ai utilisé la dictée vocale. En fait, tous les termes un peu bizarres sont Zenray, Z E N R A Y, qui est mon pseudonyme."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813610549.466914,
+      "id" : "7FBA74F1-8F43-49D7-BA3D-BDDF995E874D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ben non, parce que le but c'était de prendre l'extrait d'une vidéo motion et de faire les SFX aussi.",
+      "text" : "Ben non, parce que le but c'était de prendre l'extrait d'une vidéo motion et de faire les SFX aussi."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813610854.679856,
+      "id" : "2B052873-E56F-47FC-ADD3-EAD7CE0E01AA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est pas exactement ce que je t'ai dit. Pourquoi tu as pas fait un texte beaucoup plus calqué, proche de mes corrections, s'il te plaît ?",
+      "text" : "C'est pas exactement ce que je t'ai dit. Pourquoi tu as pas fait un texte beaucoup plus calqué, proche de mes corrections, s'il te plaît ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813613536.946428,
+      "id" : "761C034C-B9CA-4878-A7FD-57A17AA63A54",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "D'un point de vue contextuel, est-ce que tu peux m'expliquer le contexte historique de l'histoire du peuple juif par rapport à ce contexte polémique ?",
+      "text" : "D'un point de vue contextuel, est-ce que tu peux m'expliquer le contexte historique de l'histoire du peuple juif par rapport à ce contexte polémique ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813613734.914715,
+      "id" : "B4370265-2587-4BE5-AD27-9AD68D4F841F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais si le judaïsme se transmet uniquement par la mère, alors comment est-ce possible qu'il y ait toujours des Juifs sur Terre ? Ça semble hyper exclusif.",
+      "text" : "Mais si le judaïsme se transmet uniquement par la mère, alors comment est-ce possible qu'il y ait toujours des Juifs sur Terre ? Ça semble hyper exclusif."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813613743.889634,
+      "id" : "41553955-3026-4F64-A0B2-E146E6811979",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "La population juive mondiale diminue-t-elle ou au contraire augmente-t-elle ?",
+      "text" : "La population juive mondiale diminue-t-elle ou au contraire augmente-t-elle ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813614372.880942,
+      "id" : "D45F43BA-70C9-4623-AC11-DD20E9730B14",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je ne comprends pas pourquoi la musique ne colle pas à 99 % alors que c'est clairement ce qu'on avait fait durant tout le truc. C'est très très bizarre.",
+      "text" : "Je ne comprends pas pourquoi la musique ne colle pas à 99 % alors que c'est clairement ce qu'on avait fait durant tout le truc. C'est très très bizarre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813614488.119645,
+      "id" : "1EA8B058-FD6C-42D2-A70B-2210A16B3618",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ne sois pas catégorique sur une méthode, mais dis plutôt quelque chose du genre s'assurer d'utiliser les dernières méthodes codées.",
+      "text" : "Ne sois pas catégorique sur une méthode, mais dis plutôt quelque chose du genre s'assurer d'utiliser les dernières méthodes codées."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813614818.0362,
+      "id" : "B88BB95C-0212-4F17-9511-75DBB54EB719",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Prenons le cas de figure suivant. Il est tard le soir, j'ai mangé relativement bien dans la journée et je me pose la question si je devrais manger en plus des pâtes et du jambon pour paraître un peu plus musclé. Est-ce que lorsque mon ventre commence à me dire qu'il faudrait ralentir la nourriture, je dois aller un peu contre mon intuition et manger un tout petit peu plus afin d'avoir plus de muscles ou au contraire écouter mon corps ? En fait, des fois, j'ai l'impression que écouter ses intuitions, c'est pas forcément une bonne chose parce que avant je me disais si je fais du sport comme la musculation par rapport à quelque chose de plus léger comme la marche, et ben je serai globalement en meilleure santé. Mais force est de constater que parfois aller contre ses intuitions et aller par exemple soulever des poids, ben ça renforce la longévité et bah c'est relativement une bonne chose. Donc après les affirmations scientifiques, c'est pas toujours vrai mais ma seule question là, c'est par exemple, je fais 77 kg, mon poids est stabilisé depuis au moins un an et demi mais j'arrive pas à prendre vraiment du muscle et en même temps, je me trouve relativement fin mais on dirait qu'il y a une petite couche de graisse sur mon ventre qui fait que mes abdos apparaissent pas. Après, c'est peut-être génétique mais je pense pas. Donc je sais pas trop comment faire pour débloquer la situation.",
+      "text" : "Prenons le cas de figure suivant. Il est tard le soir, j'ai mangé relativement bien dans la journée et je me pose la question si je devrais manger en plus des pâtes et du jambon pour paraître un peu plus musclé. Est-ce que lorsque mon ventre commence à me dire qu'il faudrait ralentir la nourriture, je dois aller un peu contre mon intuition et manger un tout petit peu plus afin d'avoir plus de muscles ou au contraire écouter mon corps ? En fait, des fois, j'ai l'impression que écouter ses intuitions, c'est pas forcément une bonne chose parce que avant je me disais si je fais du sport comme la musculation par rapport à quelque chose de plus léger comme la marche, et ben je serai globalement en meilleure santé. Mais force est de constater que parfois aller contre ses intuitions et aller par exemple soulever des poids, ben ça renforce la longévité et bah c'est relativement une bonne chose. Donc après les affirmations scientifiques, c'est pas toujours vrai mais ma seule question là, c'est par exemple, je fais 77 kg, mon poids est stabilisé depuis au moins un an et demi mais j'arrive pas à prendre vraiment du muscle et en même temps, je me trouve relativement fin mais on dirait qu'il y a une petite couche de graisse sur mon ventre qui fait que mes abdos apparaissent pas. Après, c'est peut-être génétique mais je pense pas. Donc je sais pas trop comment faire pour débloquer la situation."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813614833.458305,
+      "id" : "54199D33-5889-4792-A105-6A8884D4947E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le problème, c'est que quand je fais plus de sport, ça tape trop mon système nerveux et je peux plus du tout réfléchir sur mon travail pour le reste de la semaine. Donc c'est très très",
+      "text" : "Le problème, c'est que quand je fais plus de sport, ça tape trop mon système nerveux et je peux plus du tout réfléchir sur mon travail pour le reste de la semaine. Donc c'est très très"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813615697.872689,
+      "id" : "68C0697C-24E3-4554-BEBF-D7645EEF07CA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Non, j'ai trouvé aujourd'hui une 4080 Super à 850 €, donc je pense que ma dernière offre sera à 950 €, car je vais sans doute la récupérer dans le courant de la semaine. Là où avec mon frère et avec la distance, ça compliquerait les choses et je pense que pour mon besoin, c'est vraiment similaire le fait d'avoir une 4080 Super, ce qui fait que je ne pense pas vous proposer plus de 950 €. Je justifie les 100 € de différence par rapport au fait que votre carte soit quand même une génération supérieure. Cependant, je trouve que ça ne justifie pas raisonnablement d'y mettre 200 € de plus. Voici mon offre, à prendre ou à laisser. Cependant, répondez-moi rapidement parce que je vais chercher demain à Salon-de-Provence la carte de l'autre vendeur.",
+      "text" : "Non, j'ai trouvé aujourd'hui une 4080 Super à 850 €, donc je pense que ma dernière offre sera à 950 €, car je vais sans doute la récupérer dans le courant de la semaine. Là où avec mon frère et avec la distance, ça compliquerait les choses et je pense que pour mon besoin, c'est vraiment similaire le fait d'avoir une 4080 Super, ce qui fait que je ne pense pas vous proposer plus de 950 €. Je justifie les 100 € de différence par rapport au fait que votre carte soit quand même une génération supérieure. Cependant, je trouve que ça ne justifie pas raisonnablement d'y mettre 200 € de plus. Voici mon offre, à prendre ou à laisser. Cependant, répondez-moi rapidement parce que je vais chercher demain à Salon-de-Provence la carte de l'autre vendeur."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813615725.084034,
+      "id" : "FA29B85D-D2E6-4688-8D8F-F689F2773754",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En revanche, si vous êtes OK, je peux essayer de contacter mon frère pour venir récupérer la carte.",
+      "text" : "En revanche, si vous êtes OK, je peux essayer de contacter mon frère pour venir récupérer la carte."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813615789.687292,
+      "id" : "3AC2BC28-BE47-42C8-AD81-FDE693771DA9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je comprendrais parfaitement que mon offre ne soit pas alignée avec le marché qui est quand même très inflationniste, mais je pense qu'il faut rester raisonnable par rapport à ses besoins et pas",
+      "text" : "Je comprendrais parfaitement que mon offre ne soit pas alignée avec le marché qui est quand même très inflationniste, mais je pense qu'il faut rester raisonnable par rapport à ses besoins et pas"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813615952.456988,
+      "id" : "A9EA9CAF-A406-4CAD-9166-939AAA4289D6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Sans facture ni garantie du fait qu'elle soit bootable, je vous demanderai dans ce cas de faire un rabais à 820 € parce que je peux pas me permettre d'acheter un produit dont je ne suis pas sûr de pouvoir arriver chez moi et de pouvoir l'allumer sans avoir un problème d'affichage, d'écran noir ou d'une puce PCB, enfin une puce qui marcherait pas ou un faux contact. Il y a beaucoup de problèmes sur ces cartes graphiques. Je veux bien vous faire confiance, mais dans ce cas-là, je demanderai un rabais si je dois réparer la carte par moi-même. Je vous fais confiance, je peux vous avoir au téléphone et cetera, mais là, il faut quand même comprendre que de mon côté, j'achète un produit qui peut littéralement être une boîte noire dans le sens où si ça marche pas, je suis quand même dans le flou quoi.",
+      "text" : "Sans facture ni garantie du fait qu'elle soit bootable, je vous demanderai dans ce cas de faire un rabais à 820 € parce que je peux pas me permettre d'acheter un produit dont je ne suis pas sûr de pouvoir arriver chez moi et de pouvoir l'allumer sans avoir un problème d'affichage, d'écran noir ou d'une puce PCB, enfin une puce qui marcherait pas ou un faux contact. Il y a beaucoup de problèmes sur ces cartes graphiques. Je veux bien vous faire confiance, mais dans ce cas-là, je demanderai un rabais si je dois réparer la carte par moi-même. Je vous fais confiance, je peux vous avoir au téléphone et cetera, mais là, il faut quand même comprendre que de mon côté, j'achète un produit qui peut littéralement être une boîte noire dans le sens où si ça marche pas, je suis quand même dans le flou quoi."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813616007.689315,
+      "id" : "ABC4F31B-3CD0-4AB9-8670-8FCB2CDF7A2D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le vendeur me propose 880 €, mais ce que je peux faire tout en prenant un risque puisqu'il veut pas me passer la facture et qu'il veut pas l'allumer, c'est de créer un paragraphe argumentatif du fait que je prends un énorme risque et dans ce cas-là, je lui demande de faire un rabais. Ça me semble cohérent et normal. Voici son message de contexte.",
+      "text" : "Le vendeur me propose 880 €, mais ce que je peux faire tout en prenant un risque puisqu'il veut pas me passer la facture et qu'il veut pas l'allumer, c'est de créer un paragraphe argumentatif du fait que je prends un énorme risque et dans ce cas-là, je lui demande de faire un rabais. Ça me semble cohérent et normal. Voici son message de contexte."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813616041.038372,
+      "id" : "9212EE67-88E0-4E33-8C29-0903D3AF3B5D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et comme ça, je lui dis demain dans la journée, c'est possible pour moi, mais je vous fais confiance. Tu amplifies vraiment le fait que tu lui fais confiance et tu crées le meilleur message de personnalisation pour qu'il soit convaincu de me faire le rabais.",
+      "text" : "Et comme ça, je lui dis demain dans la journée, c'est possible pour moi, mais je vous fais confiance. Tu amplifies vraiment le fait que tu lui fais confiance et tu crées le meilleur message de personnalisation pour qu'il soit convaincu de me faire le rabais."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813616118.024314,
+      "id" : "EEE2976D-50F1-4BB7-9EE5-9AD7D6815E54",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu penses que tu peux aller jusqu'à 800 euros ? Si oui, à toi de faire la négociation, mais je pense que 800 euros c'est vraiment une immense",
+      "text" : "Est-ce que tu penses que tu peux aller jusqu'à 800 euros ? Si oui, à toi de faire la négociation, mais je pense que 800 euros c'est vraiment une immense"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813616305.136197,
+      "id" : "C57D4E4B-3F07-426D-AAB7-936C1CC36A41",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Moi, je pense qu'en France, demander 80 € de négociation juste sur le fait qu'ils me donnent pas un bout de papier sur le Bon Coin où les gens sont relativement des rats, je pense qu'il faut peut-être ajouter une légère ligne par rapport à la contre-proposition potentielle parce que sinon je pense pas qu'il accepte en fait.",
+      "text" : "Moi, je pense qu'en France, demander 80 € de négociation juste sur le fait qu'ils me donnent pas un bout de papier sur le Bon Coin où les gens sont relativement des rats, je pense qu'il faut peut-être ajouter une légère ligne par rapport à la contre-proposition potentielle parce que sinon je pense pas qu'il accepte en fait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813616325.689495,
+      "id" : "2432D0B9-81F8-4138-AE06-E6BCCEE83BA1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Sois sois hyper empathique et essaie de te mettre à sa place vraiment. Je sais que tu es un robot hyper capitaliste, mais essaie vraiment de faire cet effort.",
+      "text" : "Sois sois hyper empathique et essaie de te mettre à sa place vraiment. Je sais que tu es un robot hyper capitaliste, mais essaie vraiment de faire cet effort."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813616681.781386,
+      "id" : "91037885-B43F-4EA9-97AC-D0CDF0265253",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais en fait, je suis quasi sûr que ça va pas marcher parce que j'ai déjà fait une offre à 850 €, il m'a dit un dernier petit effort à 880 €. J'ai amorcé la discussion en disant je vous ferai un virement instantané, mais j'ai pas envie de me balader avec 880 €. Là, je lui ai demandé des photos et la facture, il dit qu'il a pas trouvé la facture mais qu'il a contacté le magasin. Et là, je lui refais une proposition à 800 €, c'est quasi sûr qu'il va refuser. J'ai l'impression qu'il y a des gens qui font des négociations mais ça marche alors que moi je fais des négociations mais ça marche jamais donc c'est compliqué.",
+      "text" : "Mais en fait, je suis quasi sûr que ça va pas marcher parce que j'ai déjà fait une offre à 850 €, il m'a dit un dernier petit effort à 880 €. J'ai amorcé la discussion en disant je vous ferai un virement instantané, mais j'ai pas envie de me balader avec 880 €. Là, je lui ai demandé des photos et la facture, il dit qu'il a pas trouvé la facture mais qu'il a contacté le magasin. Et là, je lui refais une proposition à 800 €, c'est quasi sûr qu'il va refuser. J'ai l'impression qu'il y a des gens qui font des négociations mais ça marche alors que moi je fais des négociations mais ça marche jamais donc c'est compliqué."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813616707.352603,
+      "id" : "CE3B5CC5-AD11-44B4-8977-43B445E5DEAE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Peut-être que j'aurais vraiment dû insister sur l'aspect j'achète un produit que je peux pas tester, mais ça aurait fait un peu rentre-dedans. Alors que là, j'essaie de lui dire soyons empathiques parce que je suis début freelance, mais en vrai, ils s'en battent les couilles. J'aurais dû créer de l'émotionnel, je pense.",
+      "text" : "Peut-être que j'aurais vraiment dû insister sur l'aspect j'achète un produit que je peux pas tester, mais ça aurait fait un peu rentre-dedans. Alors que là, j'essaie de lui dire soyons empathiques parce que je suis début freelance, mais en vrai, ils s'en battent les couilles. J'aurais dû créer de l'émotionnel, je pense."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813617429.287687,
+      "id" : "C415ED7F-8707-4D37-94D1-C7AE80C0D595",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, ça me terrifie le niveau de bassesse intellectuelle des gens par rapport au fait qu'ils veulent tout avoir sans faire de compromis. Ils ne comprennent pas que s'ils veulent obtenir quelque chose, ils doivent faire l'impasse sur quelque chose, surtout dans un monde où, enfin, tu vois, entre lui et moi, c'est clairement moi le plus intelligent, c'est moi qui fais les plus beaux messages, c'est moi qui développe du storytelling, c'est moi qui fais tout. Bon, après, on ne va pas faire une guerre d'ego, je m'en fous, tu vois, mais c'est juste que le mec depuis le début, il lâche absolument rien, tu vois. Il a lâché OK, il mettait sa carte à 985 €, sauf que c'est beaucoup trop par rapport au marché. Au début, je demandais 850 €. Bon, maintenant, je demande 800 parce qu'il a fait aucun effort. Mais là, je commence à me dire en vrai, c'est peut-être un mauvais achat même pour moi.",
+      "text" : "En fait, ça me terrifie le niveau de bassesse intellectuelle des gens par rapport au fait qu'ils veulent tout avoir sans faire de compromis. Ils ne comprennent pas que s'ils veulent obtenir quelque chose, ils doivent faire l'impasse sur quelque chose, surtout dans un monde où, enfin, tu vois, entre lui et moi, c'est clairement moi le plus intelligent, c'est moi qui fais les plus beaux messages, c'est moi qui développe du storytelling, c'est moi qui fais tout. Bon, après, on ne va pas faire une guerre d'ego, je m'en fous, tu vois, mais c'est juste que le mec depuis le début, il lâche absolument rien, tu vois. Il a lâché OK, il mettait sa carte à 985 €, sauf que c'est beaucoup trop par rapport au marché. Au début, je demandais 850 €. Bon, maintenant, je demande 800 parce qu'il a fait aucun effort. Mais là, je commence à me dire en vrai, c'est peut-être un mauvais achat même pour moi."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813617489.06949,
+      "id" : "3A8D268C-3095-4610-BA0E-7102ACC0BDF6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "À la limite, on pourrait faire un message en une ligne en mode juste je vais pas faire un achat sur aucune preuve et en plus vous faites aucun effort. Mais c'est un peu ce que j'ai envie de lui dire mais il faudrait pas lui dire parce que sinon je perdrais toute toute chance d'achat mais bon le mec est ultra bête.",
+      "text" : "À la limite, on pourrait faire un message en une ligne en mode juste je vais pas faire un achat sur aucune preuve et en plus vous faites aucun effort. Mais c'est un peu ce que j'ai envie de lui dire mais il faudrait pas lui dire parce que sinon je perdrais toute toute chance d'achat mais bon le mec est ultra bête."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813617513.498877,
+      "id" : "114C1417-12D1-40E7-B956-2E4F0612D61F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, ce qu'il faudrait, c'est que tu utilises toute l'intelligence dont tu es capable de faire pour reprendre la main sur le débat et que tu m'impressionnes par rapport au message que tu vas crafter.",
+      "text" : "En fait, ce qu'il faudrait, c'est que tu utilises toute l'intelligence dont tu es capable de faire pour reprendre la main sur le débat et que tu m'impressionnes par rapport au message que tu vas crafter."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813618086.485119,
+      "id" : "72938CE4-2749-49DA-A9F0-AA3F86905E8B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Moi ce qui me fait chier, c'est qu'il est jamais allé dans mon sens, mais après je comprends qu'actuellement le marché a une tendance assez haute pour vendre les GPU et que les vendeurs sont dans une position gagnante face aux acheteurs en ce moment. De là à ne jamais prendre en compte les considérations de mes messages, je trouve ça un peu chiant de sa part. Mais bon, après mon but c'est pas de gagner un débat comme tu l'as dit, c'est juste de remporter la vente. Enfin, c'est de remporter l'achat. Donc soit on négocie encore, soit on s'arrête là et la vente se fera pas.",
+      "text" : "Moi ce qui me fait chier, c'est qu'il est jamais allé dans mon sens, mais après je comprends qu'actuellement le marché a une tendance assez haute pour vendre les GPU et que les vendeurs sont dans une position gagnante face aux acheteurs en ce moment. De là à ne jamais prendre en compte les considérations de mes messages, je trouve ça un peu chiant de sa part. Mais bon, après mon but c'est pas de gagner un débat comme tu l'as dit, c'est juste de remporter la vente. Enfin, c'est de remporter l'achat. Donc soit on négocie encore, soit on s'arrête là et la vente se fera pas."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813618271.55462,
+      "id" : "077287C4-0827-4E65-B55A-D6E075B434A1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je voulais juste faire en sorte que la musique soit reproduite et mesurée à 99 %. C'est bizarre parce que normalement on avait déjà le code qui permet de faire ça. Je voulais pas le SFX, je voulais uniquement la musique et je comprends pas pourquoi ça n'a pas marché par rapport à la référence.",
+      "text" : "Je voulais juste faire en sorte que la musique soit reproduite et mesurée à 99 %. C'est bizarre parce que normalement on avait déjà le code qui permet de faire ça. Je voulais pas le SFX, je voulais uniquement la musique et je comprends pas pourquoi ça n'a pas marché par rapport à la référence."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813618284.889619,
+      "id" : "667A6927-C306-462B-88AD-703A266E9A2E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et aussi, ça ne doit pas prendre des dizaines de minutes. Normalement, 5 à 9 minutes max, c'est fini.",
+      "text" : "Et aussi, ça ne doit pas prendre des dizaines de minutes. Normalement, 5 à 9 minutes max, c'est fini."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813619735.369667,
+      "id" : "369EC87E-CEA9-4E75-8DCB-5F438AC73414",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "L'annonce est certes depuis mai, mais j'étais trois mois au Japon donc je pouvais pas le vendre et je suis de retour seulement que récemment.",
+      "text" : "L'annonce est certes depuis mai, mais j'étais trois mois au Japon donc je pouvais pas le vendre et je suis de retour seulement que récemment."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813619784.388571,
+      "id" : "D91B2D8B-9BB9-46F0-B8B4-0D438CC539AC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Faites-moi une contre-proposition, mais je trouve que 250 € c'est vraiment pas assez. Je vous ai déjà fait deux fois une contre-proposition.",
+      "text" : "Faites-moi une contre-proposition, mais je trouve que 250 € c'est vraiment pas assez. Je vous ai déjà fait deux fois une contre-proposition."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813619798.401078,
+      "id" : "CAEC6235-3FDA-4F39-9C97-9875928B496E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "et je suis moi aussi étudiant.",
+      "text" : "et je suis moi aussi étudiant."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813620345.10833,
+      "id" : "2B7BCC52-7CEA-41C7-909B-BA76C188FDB2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu es dans la sauce Jordan.",
+      "text" : "Tu es dans la sauce Jordan."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813621797.717236,
+      "id" : "DEEA4655-BFA2-4B4E-BEB4-985CA0FBAED2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il y a un bug parce qu'à partir du moment où le journaliste reparle, il fallait simplement mettre la vidéo normalement. En fait, laisse la vidéo jusqu'à 17:05 et je te dirai combien de secondes il faut ajouter au ralenti, mais j'ai besoin d'une preview.",
+      "text" : "Il y a un bug parce qu'à partir du moment où le journaliste reparle, il fallait simplement mettre la vidéo normalement. En fait, laisse la vidéo jusqu'à 17:05 et je te dirai combien de secondes il faut ajouter au ralenti, mais j'ai besoin d'une preview."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813622717.460439,
+      "id" : "381A23B3-1797-4D1F-A361-2ACBE292E5FA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Maintenant, il faut ajouter une nouvelle vidéo et voir si tous les modules fonctionnent jusqu'à 99 % et ne pas t'arrêter tant que c'est pas",
+      "text" : "Maintenant, il faut ajouter une nouvelle vidéo et voir si tous les modules fonctionnent jusqu'à 99 % et ne pas t'arrêter tant que c'est pas"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813622963.682846,
+      "id" : "6150B2E7-0EA7-483F-8C82-0EE037FAD9FE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce qu'il reste des films que tu pourrais ré-upload pour voir si la politique fonctionne bien ? Et comme ça on installe un moniteur qui regarde toutes les 5 minutes comment se comporte le push par rapport à la nouvelle politique GitHub et surtout par rapport au nouveau gain estimé. Est-ce qu'il reste un film ou un animé ou une vidéo qui serait dans le dossier",
+      "text" : "Est-ce qu'il reste des films que tu pourrais ré-upload pour voir si la politique fonctionne bien ? Et comme ça on installe un moniteur qui regarde toutes les 5 minutes comment se comporte le push par rapport à la nouvelle politique GitHub et surtout par rapport au nouveau gain estimé. Est-ce qu'il reste un film ou un animé ou une vidéo qui serait dans le dossier"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813623078.510119,
+      "id" : "37F06E56-E9D5-4B7E-BBC5-473022B10184",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je comprends absolument pas pourquoi il y a un palier à 760 M€ alors que j'avais dit 1900.",
+      "text" : "Je comprends absolument pas pourquoi il y a un palier à 760 M€ alors que j'avais dit 1900."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813625195.11114,
+      "id" : "72EC4557-52C1-4B4F-BAF9-72456A770080",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "D'accord, mais on est bien d'accord que tout ce jeu de données va dans un logiciel général qui sera ensuite relié via un orchestrateur. Je ne veux pas perdre toutes ces données d'entraînement pour notre logiciel. C'est comme Zenrai 8, à la fin on a construit quelque chose qui est réutilisable. Bah là, c'est pareil. J'ai peur que tu fasses énormément de calculs et que tu arrives à des résolutions où on arriverait à faire en sorte que chaque module soit à 99 mais qu'on perde les résultats.",
+      "text" : "D'accord, mais on est bien d'accord que tout ce jeu de données va dans un logiciel général qui sera ensuite relié via un orchestrateur. Je ne veux pas perdre toutes ces données d'entraînement pour notre logiciel. C'est comme Zenrai 8, à la fin on a construit quelque chose qui est réutilisable. Bah là, c'est pareil. J'ai peur que tu fasses énormément de calculs et que tu arrives à des résolutions où on arriverait à faire en sorte que chaque module soit à 99 mais qu'on perde les résultats."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813626147.728138,
+      "id" : "BBF8D7FA-14F8-4437-AB00-C2004E259131",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Du coup, en une ligne, tu as utilisé quel mégabits pour les fichiers Bleach, les cinq épisodes que tu viens de renvoyer, et même les deux autres, le 25 et le 26, tu as utilisé quel mégabit par seconde ?",
+      "text" : "Du coup, en une ligne, tu as utilisé quel mégabits pour les fichiers Bleach, les cinq épisodes que tu viens de renvoyer, et même les deux autres, le 25 et le 26, tu as utilisé quel mégabit par seconde ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813626188.429102,
+      "id" : "32EAF8D8-B253-4975-8451-81CF6F3ED7CC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pourquoi ? Mais pourquoi ? Je comprends pas, normalement tu aurais dû comprendre.",
+      "text" : "Pourquoi ? Mais pourquoi ? Je comprends pas, normalement tu aurais dû comprendre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813626228.01749,
+      "id" : "A780173E-C01E-44D5-946C-B40D98A6B809",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Du coup, c'est critique, il faut absolument mettre ou alors me poser à la question. Il faut absolument, enfin là c'est dramatique là ce que tu viens de faire. Pourquoi c'était ni dans Zenrai Assets ni dans Zenrai Progress ? J'ai l'impression que je convoque souvent Zenrai Assets en ce moment, mais qu'en fait il n'y a pas forcément besoin de mettre les politiques GitHub dans ce skill, c'est plutôt dans Zenrai Progress en fait.",
+      "text" : "Du coup, c'est critique, il faut absolument mettre ou alors me poser à la question. Il faut absolument, enfin là c'est dramatique là ce que tu viens de faire. Pourquoi c'était ni dans Zenrai Assets ni dans Zenrai Progress ? J'ai l'impression que je convoque souvent Zenrai Assets en ce moment, mais qu'en fait il n'y a pas forcément besoin de mettre les politiques GitHub dans ce skill, c'est plutôt dans Zenrai Progress en fait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813626562.643992,
+      "id" : "902CD0EF-89A6-431C-A9EF-6DBA7D2F601A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais le problème, c'est que j'ai l'impression qu'il y a tellement de règles dans Zenrai Assets qui s'appliquent aussi à Create que la confusion peut être vraiment très perturbante pour Claude.md, pour les instructions de LLM. Essaie de voir toutes les règles qui sont assez confusantes et ensuite on les réécrira soit dans le projet Zenrai Progress, soit dans le projet Zenrai Assets.",
+      "text" : "Mais le problème, c'est que j'ai l'impression qu'il y a tellement de règles dans Zenrai Assets qui s'appliquent aussi à Create que la confusion peut être vraiment très perturbante pour Claude.md, pour les instructions de LLM. Essaie de voir toutes les règles qui sont assez confusantes et ensuite on les réécrira soit dans le projet Zenrai Progress, soit dans le projet Zenrai Assets."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813626783.879036,
+      "id" : "7B263FA6-F3A0-47F4-94C3-941EABA66671",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Installe-moi une app directement qui me permet de voir de manière directement sur mon Mac en mode Quick Look avec Space de pouvoir voir les JSON dans des tableaux.",
+      "text" : "Installe-moi une app directement qui me permet de voir de manière directement sur mon Mac en mode Quick Look avec Space de pouvoir voir les JSON dans des tableaux."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813626800.241848,
+      "id" : "33B189D4-1594-4EF2-81BB-B9E6A621C6EE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il y a forcément un projet GitHub ou une app qui permet de voir ça et installe-la directement. Je veux que la prochaine fois que j'appuie sur espace sur un fichier JSON, ça fonctionne. Et si ça existe pas, ben tu peux le coder.",
+      "text" : "Il y a forcément un projet GitHub ou une app qui permet de voir ça et installe-la directement. Je veux que la prochaine fois que j'appuie sur espace sur un fichier JSON, ça fonctionne. Et si ça existe pas, ben tu peux le coder."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813627255.125996,
+      "id" : "BAC41555-C59B-4518-9578-7066A93C4ECF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Vérifie qu'il y a une politique de sécurité avant de télécharger les fichiers. En fait, le truc, c'est qu'on a des politiques d'upload mais qui ne sont pas forcément liées à Zenria Assets. Mais puisqu'on parle de load et de load, quand je parle d'upload, c'est juste delete mes fichiers. Mais c'est vrai que ce serait pratique de pouvoir dire que tout est un asset, comme dans Unreal Engine. Dans Unreal Engine, tout est un asset. On pourrait dire que tous les fichiers locaux sont des assets. Sauf qu'il y a certains assets qui vont dans la page Assets et il y a certains assets qui restent simplement dans Create.",
+      "text" : "Vérifie qu'il y a une politique de sécurité avant de télécharger les fichiers. En fait, le truc, c'est qu'on a des politiques d'upload mais qui ne sont pas forcément liées à Zenria Assets. Mais puisqu'on parle de load et de load, quand je parle d'upload, c'est juste delete mes fichiers. Mais c'est vrai que ce serait pratique de pouvoir dire que tout est un asset, comme dans Unreal Engine. Dans Unreal Engine, tout est un asset. On pourrait dire que tous les fichiers locaux sont des assets. Sauf qu'il y a certains assets qui vont dans la page Assets et il y a certains assets qui restent simplement dans Create."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813657427.261989,
+      "id" : "58754F42-A39B-45F5-BD7B-F6A8026E1745",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Since I left, I had a pretty good start in terms of production and reaching out to studios for new contract submissions. But then I found myself that I haven't worked so much on Japanese sites, so it was like I'm still struggling between learning Japanese or making efforts in terms of freelancing, in terms of production portfolio, reaching out to studios because it is a lot of work. And also I've been trying some new process in order to not reinvent the wheel every time, but building a systems is also dedication, a lot of dedication of times. And my ultimate question is that everything I do is like virtual because it's 3D or code. So my mom got pretty bad health issue and conditions, so I was more like maybe I could help her with my sisters and brother in order to get her better and take care of her. And I feel like I'm more happy with real things now. I think it's obvious, but maybe two times ago I was only into making video games or making 3D stuff, so I was really focusing on myself, whereas now I'm more like there is a lot of real world things to do.",
+      "text" : "Since I left, I had a pretty good start in terms of production and reaching out to studios for new contract submissions. But then I found myself that I haven't worked so much on Japanese sites, so it was like I'm still struggling between learning Japanese or making efforts in terms of freelancing, in terms of production portfolio, reaching out to studios because it is a lot of work. And also I've been trying some new process in order to not reinvent the wheel every time, but building a systems is also dedication, a lot of dedication of times. And my ultimate question is that everything I do is like virtual because it's 3D or code. So my mom got pretty bad health issue and conditions, so I was more like maybe I could help her with my sisters and brother in order to get her better and take care of her. And I feel like I'm more happy with real things now. I think it's obvious, but maybe two times ago I was only into making video games or making 3D stuff, so I was really focusing on myself, whereas now I'm more like there is a lot of real world things to do."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813657881.719876,
+      "id" : "DC0E5527-3BFE-474E-B1DC-8E2C277C0901",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le problème de la barre d'upload, c'est qu'elle apparaît et elle disparaît en un coup. Il faut que tu trouves une solution dans le code qui détecte s'il y a toujours un upload et que ça reste affiché sur l'upload en cours. Mais là, ça marche",
+      "text" : "Le problème de la barre d'upload, c'est qu'elle apparaît et elle disparaît en un coup. Il faut que tu trouves une solution dans le code qui détecte s'il y a toujours un upload et que ça reste affiché sur l'upload en cours. Mais là, ça marche"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813657995.548148,
+      "id" : "EE3129BD-00BD-42AC-BD82-EAA5B3BE533E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je veux vraiment voir de manière très simple le statut de mes 15 fichiers d'upload sur la barre de UI. Mais en fait, je sais comment on peut faire pour que tu réinventes pas la roue à chaque fois. Il suffirait de consigner toutes les commandes qui permettent d'upload directement sans toucher à Malmit, GitHub, soit directement dans le skill, soit directement dans les règles, soit directement dans le code, mais tu sais que tu vas devoir l'utiliser pour l'UI. Et quand ça proc par exemple 15 fichiers ou N fichiers ou 100 fichiers ou un seul fichier, là ça envoie l'information dans l'UI et l'UI m'affiche correctement les informations proprement. Et là, je veux que tu le fasses pour tous les fichiers restants.",
+      "text" : "Je veux vraiment voir de manière très simple le statut de mes 15 fichiers d'upload sur la barre de UI. Mais en fait, je sais comment on peut faire pour que tu réinventes pas la roue à chaque fois. Il suffirait de consigner toutes les commandes qui permettent d'upload directement sans toucher à Malmit, GitHub, soit directement dans le skill, soit directement dans les règles, soit directement dans le code, mais tu sais que tu vas devoir l'utiliser pour l'UI. Et quand ça proc par exemple 15 fichiers ou N fichiers ou 100 fichiers ou un seul fichier, là ça envoie l'information dans l'UI et l'UI m'affiche correctement les informations proprement. Et là, je veux que tu le fasses pour tous les fichiers restants."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813658069.148472,
+      "id" : "ED906885-A358-4C26-9CB8-DADA4B54475F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Par contre pour le déchargement, que ce soit le déchargement d'un film ou le déchargement d'un projet, je crois que la politique de déchargement et de vérification, elle est buggée parce que je peux très bien te dire, parce que tout à l'heure tu m'as dit le garde de sécurité avant déchargement, le code refuse maintenant de supprimer la source d'un film dont le manifeste n'a pas de CMAF. Je peux très bien te dire d'uploader un film dans un projet d'assets ou je peux très bien te dire d'uploader un film sans manifeste CMAF pour aller plus vite, tu vois. Donc j'ai besoin que tu me confirmes ce que tu fais en ce moment. Et ensuite pour le CMAF, j'aimerais que tu me dises comment tu as découpé les films. Et par exemple si je te donne 15 fichiers à push sur le cloud, tu vois, tu peux préparer les CMAF sur mon disque avant. Est-ce que on est sûr que tu as bien fait cette étape ? Parce que les CMAF de toute manière, ça va être des fichiers en foyer sur le cloud, donc tu peux les préparer en avant.",
+      "text" : "Par contre pour le déchargement, que ce soit le déchargement d'un film ou le déchargement d'un projet, je crois que la politique de déchargement et de vérification, elle est buggée parce que je peux très bien te dire, parce que tout à l'heure tu m'as dit le garde de sécurité avant déchargement, le code refuse maintenant de supprimer la source d'un film dont le manifeste n'a pas de CMAF. Je peux très bien te dire d'uploader un film dans un projet d'assets ou je peux très bien te dire d'uploader un film sans manifeste CMAF pour aller plus vite, tu vois. Donc j'ai besoin que tu me confirmes ce que tu fais en ce moment. Et ensuite pour le CMAF, j'aimerais que tu me dises comment tu as découpé les films. Et par exemple si je te donne 15 fichiers à push sur le cloud, tu vois, tu peux préparer les CMAF sur mon disque avant. Est-ce que on est sûr que tu as bien fait cette étape ? Parce que les CMAF de toute manière, ça va être des fichiers en foyer sur le cloud, donc tu peux les préparer en avant."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813658083.62163,
+      "id" : "798599AA-A0EE-4DC0-9C62-007102467720",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Fais en sorte que tout soit fini là. Je veux que tu penses à tout et que tu finisses tout proprement.",
+      "text" : "Fais en sorte que tout soit fini là. Je veux que tu penses à tout et que tu finisses tout proprement."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813659534.598175,
+      "id" : "08335B37-72EB-4376-99BC-7B905C82821D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il faut absolument pas que on se retape un blocage GitHub. Est-ce que GitHub bloque la création de dépôts parce qu'il y a trop de dépôts ou est-ce que GitHub bloque la création de nombreux repos qui sont lourds, par exemple 4096 Mo ?",
+      "text" : "Il faut absolument pas que on se retape un blocage GitHub. Est-ce que GitHub bloque la création de dépôts parce qu'il y a trop de dépôts ou est-ce que GitHub bloque la création de nombreux repos qui sont lourds, par exemple 4096 Mo ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813659908.249234,
+      "id" : "DB384244-95C6-4232-A6EB-C759DE996E50",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il faut absolument que sur n'importe quelle musique le moteur arrive à reproduire 99,9 % de la musique. C'est le plus important parce que l'oreille elle est très très fine et c'est hyper important. Par contre, ce que j'aimerais que tu fasses, c'est pour chaque fichier qui atteint 99 %, c'est relancer une dernière passe qui va clean up musicalement tout, c'est-à-dire que ça doit vraiment rendre la piste sonore hyper hyper clean, c'est-à-dire pas de problème de grésillement, les pics qui sont lissés, un ton agréable à l'oreille, des basses qui sont vraiment très intéressantes. J'ai l'impression que sur le découpage de la musique puis le mixage final, c'est souvent les basses qui pêchent, donc tu peux essayer de focus sur ça, mais c'est aussi le fait de faire en sorte que",
+      "text" : "Il faut absolument que sur n'importe quelle musique le moteur arrive à reproduire 99,9 % de la musique. C'est le plus important parce que l'oreille elle est très très fine et c'est hyper important. Par contre, ce que j'aimerais que tu fasses, c'est pour chaque fichier qui atteint 99 %, c'est relancer une dernière passe qui va clean up musicalement tout, c'est-à-dire que ça doit vraiment rendre la piste sonore hyper hyper clean, c'est-à-dire pas de problème de grésillement, les pics qui sont lissés, un ton agréable à l'oreille, des basses qui sont vraiment très intéressantes. J'ai l'impression que sur le découpage de la musique puis le mixage final, c'est souvent les basses qui pêchent, donc tu peux essayer de focus sur ça, mais c'est aussi le fait de faire en sorte que"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813660598.695229,
+      "id" : "E6863C30-AB5D-46D6-81D4-E425795D3D28",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu peux mettre en temps réel le pourcentage de l'empaquetage CMAF ? Ce serait pratique d'avoir cet état.",
+      "text" : "Est-ce que tu peux mettre en temps réel le pourcentage de l'empaquetage CMAF ? Ce serait pratique d'avoir cet état."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813660713.479428,
+      "id" : "29098D17-61F2-4C44-BC67-BDD132376108",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Cette politique m'a l'air extra, mais en revanche, par rapport à ma connexion qui pourrait changer et augmenter ou diminuer et un push qui pourrait passer de 15 épisodes à 150 et environ 250 Go voire 2,5 To, il faut que tu vérifies que la politique soit toujours la plus rapide et adaptée aux besoins. C'est pour ça qu'il vaut mieux avoir certaines variables dynamiques plutôt qu'un truc fixe.",
+      "text" : "Cette politique m'a l'air extra, mais en revanche, par rapport à ma connexion qui pourrait changer et augmenter ou diminuer et un push qui pourrait passer de 15 épisodes à 150 et environ 250 Go voire 2,5 To, il faut que tu vérifies que la politique soit toujours la plus rapide et adaptée aux besoins. C'est pour ça qu'il vaut mieux avoir certaines variables dynamiques plutôt qu'un truc fixe."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813661940.122494,
+      "id" : "99008AC6-BA02-49D9-8FB9-CB34EBB785EC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Vérifie toutes les occurrences si elles sont pas au niveau 2900 Mio pour l'instant.",
+      "text" : "Vérifie toutes les occurrences si elles sont pas au niveau 2900 Mio pour l'instant."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813661964.80029,
+      "id" : "CE6689A7-BF3B-4227-8D5E-123B2C93FF50",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, vérifie la nouvelle politique GitHub par rapport à toutes les occurrences du code Zen et Progress, comme ça on fixe tout et on finalise proprement et on fait un code review global.",
+      "text" : "En fait, vérifie la nouvelle politique GitHub par rapport à toutes les occurrences du code Zen et Progress, comme ça on fixe tout et on finalise proprement et on fait un code review global."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813662562.157025,
+      "id" : "4E57FF14-01AC-4088-A023-7C997753B8C2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, je vais te poser une question à chaque fois, une question, et tu vas répondre de manière courte via trois paragraphes max. Et tu me proposeras aussi de développer si trois paragraphes, ça ne suffit pas. Mais en fait, aujourd'hui, on va juste réfléchir à comment améliorer les choses pour moi, pour ma vie, mais de manière très simple en fait.",
+      "text" : "En fait, je vais te poser une question à chaque fois, une question, et tu vas répondre de manière courte via trois paragraphes max. Et tu me proposeras aussi de développer si trois paragraphes, ça ne suffit pas. Mais en fait, aujourd'hui, on va juste réfléchir à comment améliorer les choses pour moi, pour ma vie, mais de manière très simple en fait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813662716.232003,
+      "id" : "2728B429-9554-445E-B8D4-6CC080404279",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je ne comprends pas comment fonctionne le CMAF. En fait, tu commences à push avant que le découpage soit terminé ou tu prends le fichier, tu le découpes, tu l'envoies, puis tu supprime le fichier CMAF plus la source originale. Je ne comprends pas comment ça marche.",
+      "text" : "Je ne comprends pas comment fonctionne le CMAF. En fait, tu commences à push avant que le découpage soit terminé ou tu prends le fichier, tu le découpes, tu l'envoies, puis tu supprime le fichier CMAF plus la source originale. Je ne comprends pas comment ça marche."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813662841.733193,
+      "id" : "06C8445F-5474-41C0-803A-155F71FEED44",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pour l'instant, ma première question c'est uniquement comment apprendre à vendre et se mettre dans un processus de vente actif plutôt que chaque jour être dans la passivité du prochain projet. En fait, actuellement, ce qui me drive, c'est le fait de lancer le prochain projet. Mais le problème, c'est que le prochain projet, ça me fait pas vivre. Donc en fait, il faut se mettre dans un processus de vente actif, voire un peu délayé, en mode je produis un asset 3D, je le mets en vente, je fais sa promotion et je suis payé. Voire j'envoie des mails à des studios, j'obtiens un contrat et je suis payé.",
+      "text" : "Pour l'instant, ma première question c'est uniquement comment apprendre à vendre et se mettre dans un processus de vente actif plutôt que chaque jour être dans la passivité du prochain projet. En fait, actuellement, ce qui me drive, c'est le fait de lancer le prochain projet. Mais le problème, c'est que le prochain projet, ça me fait pas vivre. Donc en fait, il faut se mettre dans un processus de vente actif, voire un peu délayé, en mode je produis un asset 3D, je le mets en vente, je fais sa promotion et je suis payé. Voire j'envoie des mails à des studios, j'obtiens un contrat et je suis payé."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813662925.717582,
+      "id" : "3885B36A-BD90-486A-8FF0-A766887A55C0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que je devrais lire un livre pour avoir tous les concepts en tête et commencer à apprendre ? Le problème de l'IA, c'est que ça me met beaucoup dans l'exécution, mais du coup, je ne prends plus le temps de réfléchir. Alors après, tu vas me dire que c'est une bonne chose d'être dans l'exécution et de ne pas forcément être dépendant d'une pensée d'un autre, mais je trouve quand même que c'est Je comprends le concept, si tu dois apprendre à voler, ben il faut apprendre à voler, comme un petit oiseau. Mais si tu te remets tout le temps sur la pensée d'un autre, c'est pas bien non plus. Mais bon.",
+      "text" : "Est-ce que je devrais lire un livre pour avoir tous les concepts en tête et commencer à apprendre ? Le problème de l'IA, c'est que ça me met beaucoup dans l'exécution, mais du coup, je ne prends plus le temps de réfléchir. Alors après, tu vas me dire que c'est une bonne chose d'être dans l'exécution et de ne pas forcément être dépendant d'une pensée d'un autre, mais je trouve quand même que c'est Je comprends le concept, si tu dois apprendre à voler, ben il faut apprendre à voler, comme un petit oiseau. Mais si tu te remets tout le temps sur la pensée d'un autre, c'est pas bien non plus. Mais bon."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813663186.56674,
+      "id" : "7D73C4FA-ADD1-49DD-B47E-EAD45C2E6789",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que dans le cadre d'un travail maintenant, tu peux déléguer à plusieurs agents directement sur la partie chat au lieu de passer sur la partie work ou codex ? Ce serait incroyable si tu pouvais le faire et si tu peux le faire, fais-le directement dans cette discussion. Utilise un workflow de plusieurs sous-agents pour faire des recherches.",
+      "text" : "Est-ce que dans le cadre d'un travail maintenant, tu peux déléguer à plusieurs agents directement sur la partie chat au lieu de passer sur la partie work ou codex ? Ce serait incroyable si tu pouvais le faire et si tu peux le faire, fais-le directement dans cette discussion. Utilise un workflow de plusieurs sous-agents pour faire des recherches."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813663626.930204,
+      "id" : "0B6263ED-2EE0-4E68-A6A9-2BFE77713976",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, le problème, c'est que techniquement tu réponds à la question, mais en termes d'identité et de dynamique, comment entrer dans une dynamique commerciale et\/ou de vente et\/ou de production, enfin de production, j'ai déjà ma réponse, mais tu n'expliques pas comment concilier production et ventes réelles. Et j'ai l'impression que ça touche à l'aspect, pas forcément philosophique, mais ça touche au fait de vendre et de finir. Et ça, c'est peut-être un aspect que à 25 ans, je n'ai pas forcément en tête, mais qui, dans une démarche de responsabilisation individuelle, il faudrait vraiment que j'acquière ce pattern. Et donc tu peux recommencer à tout analyser pour me faire une",
+      "text" : "En fait, le problème, c'est que techniquement tu réponds à la question, mais en termes d'identité et de dynamique, comment entrer dans une dynamique commerciale et\/ou de vente et\/ou de production, enfin de production, j'ai déjà ma réponse, mais tu n'expliques pas comment concilier production et ventes réelles. Et j'ai l'impression que ça touche à l'aspect, pas forcément philosophique, mais ça touche au fait de vendre et de finir. Et ça, c'est peut-être un aspect que à 25 ans, je n'ai pas forcément en tête, mais qui, dans une démarche de responsabilisation individuelle, il faudrait vraiment que j'acquière ce pattern. Et donc tu peux recommencer à tout analyser pour me faire une"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813663813.752422,
+      "id" : "5A53A974-DE93-4049-81F6-F50223BB5C8D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Après, c'est quand même bizarre parce que ça fait entre 1h30 et 2h que ça push deux films. Donc c'est quand même étrange, je pense qu'il y a eu une erreur. En fait, le problème, c'est que vu que là j'ai toujours pas de progression sur Create, je sais pas où ça bug. Donc c'est un petit peu chiant.",
+      "text" : "Après, c'est quand même bizarre parce que ça fait entre 1h30 et 2h que ça push deux films. Donc c'est quand même étrange, je pense qu'il y a eu une erreur. En fait, le problème, c'est que vu que là j'ai toujours pas de progression sur Create, je sais pas où ça bug. Donc c'est un petit peu chiant."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813664385.433888,
+      "id" : "D84A3B59-191F-47B2-B0C6-E6E1286566EF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Crée-moi deux skills ultra simples qui contiennent chacun une seule ligne et qui s'appellent ZenRay OneLine et ZenRay ThreeParagraph. Et en fait, qu'est-ce que ça dit dans les trucs ? Ça dit simplement réponds à une ligne. Et le deuxième skill dit réponds en trois paragraphes max. Et tu peux même faire un autre skill ZenRay NParagraph et N = la variable qui détermine le nombre de paragraphes max.",
+      "text" : "Crée-moi deux skills ultra simples qui contiennent chacun une seule ligne et qui s'appellent ZenRay OneLine et ZenRay ThreeParagraph. Et en fait, qu'est-ce que ça dit dans les trucs ? Ça dit simplement réponds à une ligne. Et le deuxième skill dit réponds en trois paragraphes max. Et tu peux même faire un autre skill ZenRay NParagraph et N = la variable qui détermine le nombre de paragraphes max."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813664650.675186,
+      "id" : "A82BF752-380C-4CB1-BA3F-664DD6BA03F4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Que ce soit une archive ou un fichier streamé, il faut faire en sorte qu'il y ait toujours les icônes de thumbnail. Ça ne devrait pas être une erreur. Fixe toutes les occurrences de code actuelles dans ZenRayProgress et réapplique pour les 15 anciens fichiers qui n'ont pas reçu leur icône.",
+      "text" : "Que ce soit une archive ou un fichier streamé, il faut faire en sorte qu'il y ait toujours les icônes de thumbnail. Ça ne devrait pas être une erreur. Fixe toutes les occurrences de code actuelles dans ZenRayProgress et réapplique pour les 15 anciens fichiers qui n'ont pas reçu leur icône."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813664872.820849,
+      "id" : "A360FAF6-004A-416D-A5A8-A6CDB693B821",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et en fait, avant d'uploader un fichier en local, à l'avenir, il ira directement dans le bon dossier. Et pour savoir si un fichier va dans quel dossier, soit tu me poses la question, soit l'œuvre est déjà connue et via ton simple dataset, tu peux savoir le trier directement sans me poser la question en vrai.",
+      "text" : "Et en fait, avant d'uploader un fichier en local, à l'avenir, il ira directement dans le bon dossier. Et pour savoir si un fichier va dans quel dossier, soit tu me poses la question, soit l'œuvre est déjà connue et via ton simple dataset, tu peux savoir le trier directement sans me poser la question en vrai."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813664977.445442,
+      "id" : "917A37D2-07A3-4EC3-8DDA-22FBCE3C95B9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donne-moi le texte exact que tu as noté pour chacun des skills.",
+      "text" : "Donne-moi le texte exact que tu as noté pour chacun des skills."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813665640.981352,
+      "id" : "B8E88265-8223-439A-BA05-B6EA59B7DAD2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc tu effectues des tests sur les musiques pour que le logiciel puisse reproduire la musique à l'identique à 99,9 % sur toutes les musiques. C'est très bien. Mais dans ce cas-là, il faut que chaque piste atteigne 99,9 %. Donc itère sur le logiciel jusqu'à ce que ce soit bon et ensuite je compare et je te donne un retour. Donc continue et finis à 100 % tout le module musique sur les 12 vidéos.",
+      "text" : "Donc tu effectues des tests sur les musiques pour que le logiciel puisse reproduire la musique à l'identique à 99,9 % sur toutes les musiques. C'est très bien. Mais dans ce cas-là, il faut que chaque piste atteigne 99,9 %. Donc itère sur le logiciel jusqu'à ce que ce soit bon et ensuite je compare et je te donne un retour. Donc continue et finis à 100 % tout le module musique sur les 12 vidéos."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813665977.735328,
+      "id" : "656994AA-3F0D-47D2-95F3-82BEA6C76D1B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Continue et fini à 100 %.",
+      "text" : "Continue et fini à 100 %."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813666376.278483,
+      "id" : "1C031348-D8A1-4667-A974-FF71F9ADE580",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ah oui, mais en fait du coup je viens de comprendre le problème. En fait ce qu'il faudrait, c'est que le skill Zenrai Progress soit renommé simplement en Zenrai Progress et que ça consigne toutes les politiques de drive et d'upload, et que ça fasse bien la distinction entre le skill Zenrai Progress et le skill Zenrai Asset.",
+      "text" : "Ah oui, mais en fait du coup je viens de comprendre le problème. En fait ce qu'il faudrait, c'est que le skill Zenrai Progress soit renommé simplement en Zenrai Progress et que ça consigne toutes les politiques de drive et d'upload, et que ça fasse bien la distinction entre le skill Zenrai Progress et le skill Zenrai Asset."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813666853.331898,
+      "id" : "3270082E-6056-4788-B09D-17CB3BA70388",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais du coup, Zenrai Assets, il effectue quoi ?",
+      "text" : "Mais du coup, Zenrai Assets, il effectue quoi ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813667304.620852,
+      "id" : "02E34C16-AB06-48C6-A641-31B315D16C45",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "D'ailleurs, comment ça se passe l'index mapping des 256 ou 253 Go que j'avais uploadé ? Est-ce qu'il est supprimé ou updaté au fur et à mesure de l'upload ou pas du tout, c'est un fichier statique qui est écrit une seule fois ?",
+      "text" : "D'ailleurs, comment ça se passe l'index mapping des 256 ou 253 Go que j'avais uploadé ? Est-ce qu'il est supprimé ou updaté au fur et à mesure de l'upload ou pas du tout, c'est un fichier statique qui est écrit une seule fois ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813667449.95782,
+      "id" : "8B021569-760F-4209-9B40-7D6F50FCECE7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ah oui, j'avais une question qui a pas été répondue tout à l'heure. C'était comment ça s'appelle ? Merde, j'ai oublié ma question. Mais c'est pas du tout game flow là. OK.",
+      "text" : "Ah oui, j'avais une question qui a pas été répondue tout à l'heure. C'était comment ça s'appelle ? Merde, j'ai oublié ma question. Mais c'est pas du tout game flow là. OK."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813667635.890984,
+      "id" : "504CB23B-3948-42EA-88DC-91CEB711C1CA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tout à l'heure, tu m'as dit que dans l'ordre du protocole, soit ça faisait quand ça choisissait un fichier, soit ça faisait un CMAF, soit ça faisait directement un projet d'archive et ensuite ça déchargeait. Mais on est bien d'accord que sur certains fichiers, ça va faire soit l'un soit l'autre, il n'y a pas besoin de faire les deux. Parce que en fait, j'ai l'impression que dans ta réponse, tu me dis qu'il y a à la fois l'empaquetage de l'archive pour le retéléchargement, mais qu'il y a aussi le fait d'avoir le fichier streamé. Mais j'ai l'impression que c'est stupide, donc vérifie qu'est-ce que c'est l'état actuel state of the art du code.",
+      "text" : "Tout à l'heure, tu m'as dit que dans l'ordre du protocole, soit ça faisait quand ça choisissait un fichier, soit ça faisait un CMAF, soit ça faisait directement un projet d'archive et ensuite ça déchargeait. Mais on est bien d'accord que sur certains fichiers, ça va faire soit l'un soit l'autre, il n'y a pas besoin de faire les deux. Parce que en fait, j'ai l'impression que dans ta réponse, tu me dis qu'il y a à la fois l'empaquetage de l'archive pour le retéléchargement, mais qu'il y a aussi le fait d'avoir le fichier streamé. Mais j'ai l'impression que c'est stupide, donc vérifie qu'est-ce que c'est l'état actuel state of the art du code."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813667679.729946,
+      "id" : "72E4371E-C1E3-47DC-AA46-6AC35624FCB2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais c'est débile du coup parce qu'on upload deux fois plus de fichiers.",
+      "text" : "Mais c'est débile du coup parce qu'on upload deux fois plus de fichiers."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813667739.88269,
+      "id" : "CF645AE2-614F-4CA2-BE6D-0DEE82DD12E6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "De toute manière, même si on retélécharge un fichier CMAF, on l'obtient de toute manière avec ses sous-titres empaquetés dans un MKV ou un MP4. C'est certes pas le fichier identique, mais ça évite le doublement d'octets.",
+      "text" : "De toute manière, même si on retélécharge un fichier CMAF, on l'obtient de toute manière avec ses sous-titres empaquetés dans un MKV ou un MP4. C'est certes pas le fichier identique, mais ça évite le doublement d'octets."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813668289.821398,
+      "id" : "897F7912-FD95-4C48-853D-90D1FEF90CE6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais en fait, ce que je ne comprends pas, c'est pourquoi ça ne produit pas un CMAF qui contient les sous-titres et lors du re-téléchargement, ça re-télécharge les sous-titres. Je ne comprends pas pourquoi ça ne fonctionne pas comme ça.",
+      "text" : "Mais en fait, ce que je ne comprends pas, c'est pourquoi ça ne produit pas un CMAF qui contient les sous-titres et lors du re-téléchargement, ça re-télécharge les sous-titres. Je ne comprends pas pourquoi ça ne fonctionne pas comme ça."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813668429.086851,
+      "id" : "E37BB34A-301F-4730-AC8E-504C712D7EC9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Dans la même veine du ZenRay One Line, il me faudrait un skill qui dit c'est trop technique, je comprends rien, explique comme si c'était un enfant en bas âge. Ça sert à rien de mettre 8, 10 ou 12 ans, mais il faut que l'agent réexprime les choses de manière moins technique, sans jargon et de manière plus simple en un paragraphe.",
+      "text" : "Dans la même veine du ZenRay One Line, il me faudrait un skill qui dit c'est trop technique, je comprends rien, explique comme si c'était un enfant en bas âge. Ça sert à rien de mettre 8, 10 ou 12 ans, mais il faut que l'agent réexprime les choses de manière moins technique, sans jargon et de manière plus simple en un paragraphe."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813668754.695885,
+      "id" : "A11F9BD3-297D-4209-A3C9-1E25ACD97BBE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le problème actuel de ZenRAG simple, c'est que ça me prend trop pour un con. En fait, il faudrait que ça s'adapte quand même au contexte global avec le même vocabulaire du contexte.",
+      "text" : "Le problème actuel de ZenRAG simple, c'est que ça me prend trop pour un con. En fait, il faudrait que ça s'adapte quand même au contexte global avec le même vocabulaire du contexte."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813669021.767869,
+      "id" : "105526F2-458B-4B52-BCB5-21EE0C10270A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le problème actuel de ce skill, c'est qu'il me prend trop pour un con et il s'adapte pas assez au contexte. Est-ce que tu peux faire en sorte de créer de créer quelque chose qui s'adapte au contexte rapidement ?",
+      "text" : "Le problème actuel de ce skill, c'est qu'il me prend trop pour un con et il s'adapte pas assez au contexte. Est-ce que tu peux faire en sorte de créer de créer quelque chose qui s'adapte au contexte rapidement ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813669321.473375,
+      "id" : "F256238E-8411-4509-BB05-D732D4CC7B1C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ma seule peur, c'est de perdre mon fichier de sous-titres quand je vais le retélécharger. Est-ce que on peut être sûr que le fichier Cmaf, lorsqu'il est découpé, contient en lui-même le fichier de sous-titres ? Mais le fait de perdre la police du sous-titre, ça je m'en fous parce que sur le code de Zenreprogrès, on dit déjà que la police est mise automatiquement en inter ou en serif. Donc en fait, je m'en fous si ça revient sur une police de base, mais c'est juste je veux pas perdre mon sous-titre. Est-ce que on peut être sûr et certain que mon sous-titre est jamais perdu ?",
+      "text" : "Ma seule peur, c'est de perdre mon fichier de sous-titres quand je vais le retélécharger. Est-ce que on peut être sûr que le fichier Cmaf, lorsqu'il est découpé, contient en lui-même le fichier de sous-titres ? Mais le fait de perdre la police du sous-titre, ça je m'en fous parce que sur le code de Zenreprogrès, on dit déjà que la police est mise automatiquement en inter ou en serif. Donc en fait, je m'en fous si ça revient sur une police de base, mais c'est juste je veux pas perdre mon sous-titre. Est-ce que on peut être sûr et certain que mon sous-titre est jamais perdu ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813669530.745926,
+      "id" : "64B4748C-B579-4DC5-B636-B8C6A5EA5B6E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais du coup, ça veut dire que FFmpeg est sur le cloud. Ça va poser des problèmes sur les fichiers extrêmement lourds.",
+      "text" : "Mais du coup, ça veut dire que FFmpeg est sur le cloud. Ça va poser des problèmes sur les fichiers extrêmement lourds."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813669566.77325,
+      "id" : "55A475EF-FCD5-4783-B304-77BEFE58F43E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et oui, mais ça va pas marcher parce que des fois je télécharge directement depuis le film. Le film, il va pas retélécharger d'abord les segments puis je te pose la question pour retélécharger le film. Non, mais ça marche pas du tout.",
+      "text" : "Et oui, mais ça va pas marcher parce que des fois je télécharge directement depuis le film. Le film, il va pas retélécharger d'abord les segments puis je te pose la question pour retélécharger le film. Non, mais ça marche pas du tout."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813669623.951792,
+      "id" : "D9F8B8A8-CD69-4D89-ACA8-3A7FF09D3D8F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je comprends toujours pas pourquoi tu peux pas faire un CMAF avec des sous-titres, ça me dépasse.",
+      "text" : "Je comprends toujours pas pourquoi tu peux pas faire un CMAF avec des sous-titres, ça me dépasse."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813669675.792057,
+      "id" : "7ECF3F4F-F522-4478-97FD-6D8E27CCE88C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais oui, mais les politiques comme YouTube ou Netflix ont forcément trouvé une solution à cette parade.",
+      "text" : "Mais oui, mais les politiques comme YouTube ou Netflix ont forcément trouvé une solution à cette parade."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813669976.215353,
+      "id" : "2A6BAD85-70EE-4A80-BCEB-8B0DA9E8256A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ok, mais du coup est-ce que ça garde la politique HLS et DASH ou est-ce que ça utilise uniquement DASH ? Parce qu'après il faut vérifier sur les compatibilités iOS si tu abandonnes HLS, mais j'ai pas vraiment compris ce que c'est un FMP4.",
+      "text" : "Ok, mais du coup est-ce que ça garde la politique HLS et DASH ou est-ce que ça utilise uniquement DASH ? Parce qu'après il faut vérifier sur les compatibilités iOS si tu abandonnes HLS, mais j'ai pas vraiment compris ce que c'est un FMP4."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813670555.778392,
+      "id" : "D6E1144F-FAC1-47CE-BD7A-7FF40C6AC064",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je ne comprends pas ce que c'est un fmp4. Je trouve qu'il y a de plus en plus de formats et c'est dur de tout suivre. Je ne comprends pas pourquoi on ne pouvait pas retélécharger une archive streamée avec ses sous-titres à l'intérieur. Je ne comprends pas en quoi le fmp4 résout vraiment la solution. Je ne comprends pas pourquoi on parle de CMAF qui contiendrait le HLS et le DASH. Bref, c'est un peu trop technique pour moi. J'aimerais que tu simplifies les choses et que tu m'expliques un peu de manière très très logique et très très simple.",
+      "text" : "Je ne comprends pas ce que c'est un fmp4. Je trouve qu'il y a de plus en plus de formats et c'est dur de tout suivre. Je ne comprends pas pourquoi on ne pouvait pas retélécharger une archive streamée avec ses sous-titres à l'intérieur. Je ne comprends pas en quoi le fmp4 résout vraiment la solution. Je ne comprends pas pourquoi on parle de CMAF qui contiendrait le HLS et le DASH. Bref, c'est un peu trop technique pour moi. J'aimerais que tu simplifies les choses et que tu m'expliques un peu de manière très très logique et très très simple."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813671007.340007,
+      "id" : "11AB1C03-84F8-422E-859B-31BCE2B894C3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est trop dur sur l'archive de savoir qu'est-ce qui a marché. De toute manière, ça a pas marché ton truc parce que le truc est pas streamé. Je lance la vidéo et ça marche pas du tout. Je pense que l'aspect streaming a pas marché, mais sur l'autre fichier ça marche pas non plus. Donc je pense que il y a un énorme problème à résoudre.",
+      "text" : "C'est trop dur sur l'archive de savoir qu'est-ce qui a marché. De toute manière, ça a pas marché ton truc parce que le truc est pas streamé. Je lance la vidéo et ça marche pas du tout. Je pense que l'aspect streaming a pas marché, mais sur l'autre fichier ça marche pas non plus. Donc je pense que il y a un énorme problème à résoudre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813671117.783838,
+      "id" : "2458C0BC-EDA6-490A-A055-E05CE965A22B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le rechargement est beaucoup trop long de manière bizarre, donc je pense qu'il y a un problème.",
+      "text" : "Le rechargement est beaucoup trop long de manière bizarre, donc je pense qu'il y a un problème."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813671156.306026,
+      "id" : "691A26CB-E542-4C04-8FF2-E1FB054448D7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il faut ajouter une pastille pour savoir si la vidéo a été uploadée en tant qu'archive ou en tant que streaming et avoir un toggle qui permet d'avoir plus de description. Quand je clique sur une vidéo, tu me le mets en dessous du titre, donc à gauche d'Edit, Share et Download.",
+      "text" : "Il faut ajouter une pastille pour savoir si la vidéo a été uploadée en tant qu'archive ou en tant que streaming et avoir un toggle qui permet d'avoir plus de description. Quand je clique sur une vidéo, tu me le mets en dessous du titre, donc à gauche d'Edit, Share et Download."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813671732.362944,
+      "id" : "A2E644BE-932C-4804-A3B1-386998C789B7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Quels sont les fichiers qui n'atteignent pas encore les 99 % sur les chantiers ? Peut-être qu'il faut itérer par rapport à Vector. Est-ce que Vector fonctionne sur 99 % des trucs et est-ce que c'est pareil pour",
+      "text" : "Quels sont les fichiers qui n'atteignent pas encore les 99 % sur les chantiers ? Peut-être qu'il faut itérer par rapport à Vector. Est-ce que Vector fonctionne sur 99 % des trucs et est-ce que c'est pareil pour"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813671843.24593,
+      "id" : "13E4C9FD-BB6F-47A6-8FC9-274BBF946353",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ce serait cool par exemple que je puisse avoir, par exemple avec Thor, je pensais à une idée. Ça reproduit exactement l'animation d'un texte par rapport à l'input d'une vidéo, mais ensuite je peux modifier le texte par rapport à ce que je veux. Soit ça itère sur la création d'un SVG différent, soit non, mais ça s'adapte.",
+      "text" : "Ce serait cool par exemple que je puisse avoir, par exemple avec Thor, je pensais à une idée. Ça reproduit exactement l'animation d'un texte par rapport à l'input d'une vidéo, mais ensuite je peux modifier le texte par rapport à ce que je veux. Soit ça itère sur la création d'un SVG différent, soit non, mais ça s'adapte."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813672587.549014,
+      "id" : "B764352E-CFD6-4E34-8ABE-BC464E304145",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est la pire combinaison de widgets que j'ai jamais vu. Fais-moi trois propositions via Zenré Edit et je confirme.",
+      "text" : "C'est la pire combinaison de widgets que j'ai jamais vu. Fais-moi trois propositions via Zenré Edit et je confirme."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813673073.793585,
+      "id" : "B4862AAD-6614-4755-B70F-10BD7FAC39FF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je veux un design qui me permette de voir directement si on est sur une archive ou si on est un fichier streaming ou si on est sur... Mais la passée de couleur, ça répond pas à mes questions. Recommence. Et le clic droit, je veux une autre vue dans l'index qui me montre directement les trois propositions de clic droit différents.",
+      "text" : "Je veux un design qui me permette de voir directement si on est sur une archive ou si on est un fichier streaming ou si on est sur... Mais la passée de couleur, ça répond pas à mes questions. Recommence. Et le clic droit, je veux une autre vue dans l'index qui me montre directement les trois propositions de clic droit différents."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813673087.789306,
+      "id" : "77E45A46-69CD-4CD6-B50C-0B7B60F45347",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je veux pas tester le truc, je veux juste voir les différents designs et choisir le design que je veux.",
+      "text" : "Je veux pas tester le truc, je veux juste voir les différents designs et choisir le design que je veux."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813673484.842207,
+      "id" : "66950664-84A9-495B-B81E-5BAF78330B6E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Une question que je me pose, c'est si Music réussit à faire 99 %, alors dans ce cas-là, est-ce que le même code de Music pourrait pas reproduire SFX parfaitement ? Et dans ce cas-là, j'aurais pas forcément besoin de refaire tout ça parfaitement. J'ai l'impression que SFX c'est un peu un surplus, mais peut-être pas.",
+      "text" : "Une question que je me pose, c'est si Music réussit à faire 99 %, alors dans ce cas-là, est-ce que le même code de Music pourrait pas reproduire SFX parfaitement ? Et dans ce cas-là, j'aurais pas forcément besoin de refaire tout ça parfaitement. J'ai l'impression que SFX c'est un peu un surplus, mais peut-être pas."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813673579.440978,
+      "id" : "90B9D5C5-8654-40C4-BDA5-8596E503A94C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pourquoi tu dis que c'est pas encore mesuré ? Parce que en fait, si, on a fait déjà énormément de mesures, mais c'est juste que ça atteint pas 99,9 %. Et c'est c'est ça qu'il faut atteindre maintenant. Après, on on garde le module image pour pour le final parce que ça va demander énormément de compute pour l'instant. Parce que déjà si on arrive à avoir musique et vecteur, rythme, rythme c'est le plus important parce que c'est lui qui nous permet d'obtenir tous les storyboards parfaitement. Et SFX, ça peut être pratique, mais SFX, comme je me répète, je pense que ça peut être le code peut être partagé entre musique et SFX par rapport à ce qu'on trouve. Même si bon, il y a pas mal de recherches à faire. En tout cas, il faut il faut améliorer les chantiers quoi. Donc le seul truc sur lequel on travaille pas, c'est image et mix final. Après mix final, ça dépend juste de tous les autres.",
+      "text" : "Pourquoi tu dis que c'est pas encore mesuré ? Parce que en fait, si, on a fait déjà énormément de mesures, mais c'est juste que ça atteint pas 99,9 %. Et c'est c'est ça qu'il faut atteindre maintenant. Après, on on garde le module image pour pour le final parce que ça va demander énormément de compute pour l'instant. Parce que déjà si on arrive à avoir musique et vecteur, rythme, rythme c'est le plus important parce que c'est lui qui nous permet d'obtenir tous les storyboards parfaitement. Et SFX, ça peut être pratique, mais SFX, comme je me répète, je pense que ça peut être le code peut être partagé entre musique et SFX par rapport à ce qu'on trouve. Même si bon, il y a pas mal de recherches à faire. En tout cas, il faut il faut améliorer les chantiers quoi. Donc le seul truc sur lequel on travaille pas, c'est image et mix final. Après mix final, ça dépend juste de tous les autres."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813673808.777668,
+      "id" : "3CFECF20-39A4-4A25-AE93-97DE8CC85B2C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais on est bien d'accord que chaque agent va reprendre déjà tout le travail existant pour atteindre 99,9 %, mais sans repartir de quelque chose de complètement nouveau. Parce que le truc, c'est qu'on itère en itère, mais c'est aussi à partir de ce qui existe déjà.",
+      "text" : "Mais on est bien d'accord que chaque agent va reprendre déjà tout le travail existant pour atteindre 99,9 %, mais sans repartir de quelque chose de complètement nouveau. Parce que le truc, c'est qu'on itère en itère, mais c'est aussi à partir de ce qui existe déjà."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813673840.29051,
+      "id" : "B2F6377D-8340-4573-A99F-496C737DDBB5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "La seule crainte que j'ai, c'est que tout le travail de chaque agent ne soit pas consigné dans le code global de l'orchestrateur et que donc on perde globalement le truc. Mais normalement, ça devrait pas être le cas.",
+      "text" : "La seule crainte que j'ai, c'est que tout le travail de chaque agent ne soit pas consigné dans le code global de l'orchestrateur et que donc on perde globalement le truc. Mais normalement, ça devrait pas être le cas."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813673890.550462,
+      "id" : "359C1F63-3767-4F44-B1F5-E88FD2EB864B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et quel est le résultat de chaque agent ? Et est-ce que tu as bien mis les 16 musiques pour musique ? Parce que musique c'était un peu différent parce qu'il y avait pas uniquement 12 pistes mais il y en avait 16. Vérifie que ce soit bien le cas lorsque compute actuellement l'agent.",
+      "text" : "Et quel est le résultat de chaque agent ? Et est-ce que tu as bien mis les 16 musiques pour musique ? Parce que musique c'était un peu différent parce qu'il y avait pas uniquement 12 pistes mais il y en avait 16. Vérifie que ce soit bien le cas lorsque compute actuellement l'agent."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813673940.99094,
+      "id" : "DFDBEEF4-3CEE-448A-9841-47751E5BE8FF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tout à l'heure, je t'avais posé une question sur Vector en mode est-ce que par exemple tu peux changer par rapport à une animation qui est en cours, est-ce que tu peux changer le texte d'animation par rapport à un SFX qu'on colle comme ça ça fait quelque chose de procédural. On passe de par exemple \"Quietly brilliant\" à \"Hello Mathieu\", mais est-ce que ça conserve l'animation et cetera et machin ? Et est-ce que ça a été noté surtout dans Rules ?",
+      "text" : "Tout à l'heure, je t'avais posé une question sur Vector en mode est-ce que par exemple tu peux changer par rapport à une animation qui est en cours, est-ce que tu peux changer le texte d'animation par rapport à un SFX qu'on colle comme ça ça fait quelque chose de procédural. On passe de par exemple \"Quietly brilliant\" à \"Hello Mathieu\", mais est-ce que ça conserve l'animation et cetera et machin ? Et est-ce que ça a été noté surtout dans Rules ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813674381.796532,
+      "id" : "7EEF5E58-F519-4672-8811-A0DFE52EF564",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Au lieu d'éviter le statu quo, ce qu'on va faire, c'est qu'on va coder l'archive seul. On va appliquer ça à Rules, on va dire que pour tous les films et tous les formats vidéo, on passe par l'archive. Et lorsqu'on fera un retéléchargement, ça nous retélécharge du coup. Est-ce que c'est possible que ça peut-être que vu que c'est pas possible d'avoir à la fois le fichier SRT et le fichier vidéo, est-ce que c'est possible de juste retélécharger les deux fichiers ? Peut-être que ça c'est possible et comme ça on tranche et on finit pour éviter le statu quo de actuellement avoir deux archives et donc doubler les octets.",
+      "text" : "Au lieu d'éviter le statu quo, ce qu'on va faire, c'est qu'on va coder l'archive seul. On va appliquer ça à Rules, on va dire que pour tous les films et tous les formats vidéo, on passe par l'archive. Et lorsqu'on fera un retéléchargement, ça nous retélécharge du coup. Est-ce que c'est possible que ça peut-être que vu que c'est pas possible d'avoir à la fois le fichier SRT et le fichier vidéo, est-ce que c'est possible de juste retélécharger les deux fichiers ? Peut-être que ça c'est possible et comme ça on tranche et on finit pour éviter le statu quo de actuellement avoir deux archives et donc doubler les octets."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813674627.750493,
+      "id" : "F64C2057-0941-47CA-BC98-18D3ECD2C376",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "pour avoir une vue plus minimale, donc qui reprend le design SVG actuel, mais qui permet d'éliminer au maximum les éléments pour garder uniquement les icônes. En fait, ce que je veux enlever, c'est tous les éléments circulaires, mais je veux quand même garder si par exemple En fait, c'est le contour circulaire qui me pose problème. Et garder uniquement les icônes avec un drop shadow pour qu'elles restent affichées, mais enlever tout le design circulaire autour.",
+      "text" : "pour avoir une vue plus minimale, donc qui reprend le design SVG actuel, mais qui permet d'éliminer au maximum les éléments pour garder uniquement les icônes. En fait, ce que je veux enlever, c'est tous les éléments circulaires, mais je veux quand même garder si par exemple En fait, c'est le contour circulaire qui me pose problème. Et garder uniquement les icônes avec un drop shadow pour qu'elles restent affichées, mais enlever tout le design circulaire autour."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813674655.722857,
+      "id" : "AFA62287-2BCE-4EA1-92C1-9E909940C123",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Aussi, ajoute dans le fichier zenrc edit à chaque fois que tu crées un nouveau design, ça s'append directement dans ton fichier des skills. En fait, tous les index que tu crées sont directement rangés automatiquement dans le fichier zenrc edit de",
+      "text" : "Aussi, ajoute dans le fichier zenrc edit à chaque fois que tu crées un nouveau design, ça s'append directement dans ton fichier des skills. En fait, tous les index que tu crées sont directement rangés automatiquement dans le fichier zenrc edit de"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813675036.404713,
+      "id" : "BD8B7F9F-57FC-420E-A068-6D83AED235C1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Vérifie maintenant que tout est fluide de A à Z. Pour uploader une vidéo, il faut qu'elle soit streamée. Et du coup, on garde CMAF.",
+      "text" : "Vérifie maintenant que tout est fluide de A à Z. Pour uploader une vidéo, il faut qu'elle soit streamée. Et du coup, on garde CMAF."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813675054.124587,
+      "id" : "ECCB6206-AA04-4E86-9241-3F2F3ADCF941",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, on garde le maximum de ce qui existe déjà, c'est juste que on veut éviter la politique du double octet et on veut garder le maximum de data quand on retélécharge le fichier.",
+      "text" : "En fait, on garde le maximum de ce qui existe déjà, c'est juste que on veut éviter la politique du double octet et on veut garder le maximum de data quand on retélécharge le fichier."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813675069.177072,
+      "id" : "5E2B03FF-3951-44AD-8560-5F3B75B83C52",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et enfin le plus important qu'on voulait garder dès le début, c'est faire en sorte de fluidifier la politique d'upload donc ce soit le plus rapide possible d'uploader des",
+      "text" : "Et enfin le plus important qu'on voulait garder dès le début, c'est faire en sorte de fluidifier la politique d'upload donc ce soit le plus rapide possible d'uploader des"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813675224.470619,
+      "id" : "7F8FE203-FB74-4421-A991-FDC2E1FE8794",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Minimaliste absolu est pas mal, mais je trouve qu'il faudrait rehausser la barre pour avoir la barre de progression qui soit détachée du bord inférieur, comme si elle flottait en fait, mais qu'elle soit toujours collée en bas. Enfin, pas qu'elle soit collée justement, qu'elle soit décollée du bas, mais qu'elle soit ancrée vers le bas. Et qu'il y ait quand même un décalage entre la gauche et la droite pour pas qu'elle soit non plus collée ni à gauche ni à droite. Et il manque la barre du volume qui devrait du coup être mise en haut à droite et alignée avec les icônes existantes. Et normalement, on est bon.",
+      "text" : "Minimaliste absolu est pas mal, mais je trouve qu'il faudrait rehausser la barre pour avoir la barre de progression qui soit détachée du bord inférieur, comme si elle flottait en fait, mais qu'elle soit toujours collée en bas. Enfin, pas qu'elle soit collée justement, qu'elle soit décollée du bas, mais qu'elle soit ancrée vers le bas. Et qu'il y ait quand même un décalage entre la gauche et la droite pour pas qu'elle soit non plus collée ni à gauche ni à droite. Et il manque la barre du volume qui devrait du coup être mise en haut à droite et alignée avec les icônes existantes. Et normalement, on est bon."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813675680.691773,
+      "id" : "6AAE84A5-46BF-4D88-8A7A-62FFAD5E25C4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais il faut aussi me poser la question sur un fichier vidéo classique. Peut-être que j'aurai juste envie de le revoir et dans ce cas-là, il vaudra mieux le streamer plutôt que faire une archive parce que de toute manière, en fait, on fera plus archive plus streaming ou streaming et enfin, je pense pas, enfin, par défaut en tout cas non, on fera jamais archive plus streaming. On fera soit archive, soit streaming. Mais il peut arriver que par exemple je record mon écran sur Houdini et que ça aille pas dans la catégorie animated movies, documentaries ou series et dans ce cas-là, il faudra quand même me poser la question si je préfère que ce soit streamé ou simplement une archive.",
+      "text" : "Mais il faut aussi me poser la question sur un fichier vidéo classique. Peut-être que j'aurai juste envie de le revoir et dans ce cas-là, il vaudra mieux le streamer plutôt que faire une archive parce que de toute manière, en fait, on fera plus archive plus streaming ou streaming et enfin, je pense pas, enfin, par défaut en tout cas non, on fera jamais archive plus streaming. On fera soit archive, soit streaming. Mais il peut arriver que par exemple je record mon écran sur Houdini et que ça aille pas dans la catégorie animated movies, documentaries ou series et dans ce cas-là, il faudra quand même me poser la question si je préfère que ce soit streamé ou simplement une archive."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813675942.502326,
+      "id" : "5D549CC2-27F5-465F-9773-52F3999031F4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais c'est parce que c'est uniquement sur la stem, il y a pas tous les autres en fait, jusqu'au mixage final de la musique.",
+      "text" : "Mais c'est parce que c'est uniquement sur la stem, il y a pas tous les autres en fait, jusqu'au mixage final de la musique."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813676387.792922,
+      "id" : "EC5108FC-2911-49DB-8C00-680516123E3C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est pas possible parce qu'il doit y avoir une erreur parce que même la voix est reproduite parfaitement au truc. Après tu vas me dire oui mais si c'est exactement ce qu'on voulait c'est parfait. Mais j'ai l'impression qu'en fait tu as mis deux fois la même référence sur le même fichier au niveau du HTML ce qui fait que j'entends le même son. Mais en fait je crois qu'il y a quand même un problème. Enfin sinon il faut que tu me prouves que le son reproduit est complètement procédural et que je peux le modifier dans ses paramètres atomiques. Mais là j'ai surtout l'impression que tu t'es trompé dans l'indexation des fichiers quand tu as généré le HTML parce que ça fait exactement le même son.",
+      "text" : "C'est pas possible parce qu'il doit y avoir une erreur parce que même la voix est reproduite parfaitement au truc. Après tu vas me dire oui mais si c'est exactement ce qu'on voulait c'est parfait. Mais j'ai l'impression qu'en fait tu as mis deux fois la même référence sur le même fichier au niveau du HTML ce qui fait que j'entends le même son. Mais en fait je crois qu'il y a quand même un problème. Enfin sinon il faut que tu me prouves que le son reproduit est complètement procédural et que je peux le modifier dans ses paramètres atomiques. Mais là j'ai surtout l'impression que tu t'es trompé dans l'indexation des fichiers quand tu as généré le HTML parce que ça fait exactement le même son."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813676797.466667,
+      "id" : "967F59D0-6BB1-493A-A1A0-5B2B410D7406",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu peux commencer à delete pour le dossier Bleach tous les fichiers qui sont en archive seul.",
+      "text" : "Tu peux commencer à delete pour le dossier Bleach tous les fichiers qui sont en archive seul."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813676805.551299,
+      "id" : "4C7D4318-0D2D-4319-A5BB-F554E715EAB6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et on va garder les fichiers qui sont archive plus streaming.",
+      "text" : "Et on va garder les fichiers qui sont archive plus streaming."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813676849.951235,
+      "id" : "49E9E51D-4DBB-4D2B-965D-6F4CEB7804D6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais du coup, logiquement, maintenant ça devrait aller vite, à part l'empaquetage CMAF qui devrait... Enfin, c'est juste l'empaquetage CMAF qui va prendre du temps. Mais du coup, là tu as appliqué quel débit bitrate pour l'épisode 48 ?",
+      "text" : "Mais du coup, logiquement, maintenant ça devrait aller vite, à part l'empaquetage CMAF qui devrait... Enfin, c'est juste l'empaquetage CMAF qui va prendre du temps. Mais du coup, là tu as appliqué quel débit bitrate pour l'épisode 48 ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813676955.227619,
+      "id" : "98C01D37-9894-43C1-85B3-8EDD13BB1EBB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il faut vraiment que tu les supprimes de GitHub aussi. Il ne faut pas qu'ils restent.",
+      "text" : "Il faut vraiment que tu les supprimes de GitHub aussi. Il ne faut pas qu'ils restent."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813677396.799792,
+      "id" : "11327A19-7D94-4E0F-A6E0-B34D7285C6F1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce qu'il y a moyen que tu me donnes le même portail gate, mais que je puisse modifier huit valeurs procédurales et que je puisse voir la différence avec un switch depuis la référence on\/off, et comme ça je peux comparer et faire des variations procédurales. C'est incroyable si c'est vraiment le cas.",
+      "text" : "Est-ce qu'il y a moyen que tu me donnes le même portail gate, mais que je puisse modifier huit valeurs procédurales et que je puisse voir la différence avec un switch depuis la référence on\/off, et comme ça je peux comparer et faire des variations procédurales. C'est incroyable si c'est vraiment le cas."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813677595.38101,
+      "id" : "8CEB5023-0340-4FA9-94A7-869555A34FA9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "doivent être sauvegardées en passant d'une vidéo à une autre. En règle générale, il y a trois langages, japonais, anglais, français, et si je sélectionne par exemple un sous-titre en français, ça doit être sauvegardé sur la vidéo suivante en mode paramètres par défaut. Et pareil pour le subtitle size, et pareil pour le fond opaque arrondi sélectionné ou non, et pareil pour la speed. Donc il faut sauvegarder les valeurs qui sont dans les paramètres en passant d'une vidéo à une autre, même si c'est pas le même",
+      "text" : "doivent être sauvegardées en passant d'une vidéo à une autre. En règle générale, il y a trois langages, japonais, anglais, français, et si je sélectionne par exemple un sous-titre en français, ça doit être sauvegardé sur la vidéo suivante en mode paramètres par défaut. Et pareil pour le subtitle size, et pareil pour le fond opaque arrondi sélectionné ou non, et pareil pour la speed. Donc il faut sauvegarder les valeurs qui sont dans les paramètres en passant d'une vidéo à une autre, même si c'est pas le même"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813677746.801652,
+      "id" : "22A4C219-1BF7-4F91-A374-21E747B0BA11",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Oui, mais non, tu as pas compris, je veux le voir en temps réel être modifié. Donc peut-être change uniquement des paramètres procéduraux qui peuvent être changés par un HTML. Mais là, ton interface est pas mal, mais le problème c'est que je peux pas changer ou modifier mon hours pour comprendre si ça a vraiment modifié ou pas.",
+      "text" : "Oui, mais non, tu as pas compris, je veux le voir en temps réel être modifié. Donc peut-être change uniquement des paramètres procéduraux qui peuvent être changés par un HTML. Mais là, ton interface est pas mal, mais le problème c'est que je peux pas changer ou modifier mon hours pour comprendre si ça a vraiment modifié ou pas."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813678045.531984,
+      "id" : "76988335-9F1C-4A98-AD4D-4D1420EF6ED2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Oui, du coup ma question actuelle, étant donné que tu m'as donné un HTML et que je voulais pouvoir modifier En fait, le problème, c'est que ça repart sur un rendu alors que les paramètres que je voulais modifier, c'était directement sur le hours de manière procédurale pour qu'en temps réel je puisse voir la modification. Mais est-ce que c'est possible via HTML de faire ça ? Je ne suis pas sûr. Comment est-ce qu'on va faire pour avoir plusieurs variations sans recompute à chaque fois pour avoir du temps réel ? C'est le plus important quand je fais mon debug et que je cherche à savoir qu'est-ce que je peux modifier. Là, actuellement, ça demande d'envoyer un rendu au serveur pour ensuite recompute, c'est beaucoup trop complexe.",
+      "text" : "Oui, du coup ma question actuelle, étant donné que tu m'as donné un HTML et que je voulais pouvoir modifier En fait, le problème, c'est que ça repart sur un rendu alors que les paramètres que je voulais modifier, c'était directement sur le hours de manière procédurale pour qu'en temps réel je puisse voir la modification. Mais est-ce que c'est possible via HTML de faire ça ? Je ne suis pas sûr. Comment est-ce qu'on va faire pour avoir plusieurs variations sans recompute à chaque fois pour avoir du temps réel ? C'est le plus important quand je fais mon debug et que je cherche à savoir qu'est-ce que je peux modifier. Là, actuellement, ça demande d'envoyer un rendu au serveur pour ensuite recompute, c'est beaucoup trop complexe."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813678274.893218,
+      "id" : "2DE451B0-B376-45FB-A2E7-5FA5D57B6626",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il y a un énorme bug suite au changement de politique qui fait que les vidéos ne se lancent plus. En fait, tous mes fichiers qui sont en streaming, donc soit en vert actuellement, ils se lancent plus alors que les fichiers qui avaient archive plus streaming, ils se lancent parfaitement. Mais il faut que tu identifies la cause qui fait qu'actuellement les fichiers ne se lancent plus directement et il y a un peu un bug. Je sais pas à quoi c'est dû mais il faut peut-être que tu compares deux fichiers. Peut-être c'est dans le CMAF ou je sais pas mais il y a un problème qui fait que on peut pas relancer, enfin les fichiers streamés sont pas visionnables en fait sur le site tout simplement. Il faut que tu trouves la cause et le",
+      "text" : "Il y a un énorme bug suite au changement de politique qui fait que les vidéos ne se lancent plus. En fait, tous mes fichiers qui sont en streaming, donc soit en vert actuellement, ils se lancent plus alors que les fichiers qui avaient archive plus streaming, ils se lancent parfaitement. Mais il faut que tu identifies la cause qui fait qu'actuellement les fichiers ne se lancent plus directement et il y a un peu un bug. Je sais pas à quoi c'est dû mais il faut peut-être que tu compares deux fichiers. Peut-être c'est dans le CMAF ou je sais pas mais il y a un problème qui fait que on peut pas relancer, enfin les fichiers streamés sont pas visionnables en fait sur le site tout simplement. Il faut que tu trouves la cause et le"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813678363.305386,
+      "id" : "CDE7533C-2525-4584-A86C-E395700B3DBA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est infini comme truc. Ah, là ça marche. 1 2 3 4 5 C'est hyper lent en fait.",
+      "text" : "C'est infini comme truc. Ah, là ça marche. 1 2 3 4 5 C'est hyper lent en fait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813678398.529158,
+      "id" : "D89CF2A0-2059-4151-9C07-101B0F85BD3E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, ça se lance les fichiers streaming, mais c'est hyper hyper lent comparé à ceux qui étaient en archive plus streaming, donc c'est bizarre.",
+      "text" : "En fait, ça se lance les fichiers streaming, mais c'est hyper hyper lent comparé à ceux qui étaient en archive plus streaming, donc c'est bizarre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813678410.645909,
+      "id" : "33CD6E43-6161-4CF1-95BC-FFB48F1D5E2F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est peut-être aussi à cause du bitrate que j'ai mis.",
+      "text" : "C'est peut-être aussi à cause du bitrate que j'ai mis."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813680462.410388,
+      "id" : "13CB13C3-7CD6-4CF0-883F-9777CA104156",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Du coup, vu que la musique a atteint maintenant 99 %, je pense qu'il faut surtout se focus sur vector, rhythm et shader pour atteindre 99 % sur ces modules maintenant. Et ensuite, il faudra déterminer tous les paramètres procéduraux qui permettent de modifier directement une vidéo pour atteindre un résultat parfait à partir d'un motion. Il faut déjà que tu consignes tout ce que tu as réussi à faire sur music sur le résultat final du software afin de consigner déjà que les trucs importants. Et comme ça, on relance uniquement des agents qui vont vraiment continuer d'améliorer les choses. Mais je pense que sur la musique, il n'y a plus forcément besoin de continuer à faire des recherches pour atteindre 99,9 % puisque à l'oreille, je trouve que c'est strictement identique personnellement. Donc je suis très fier de ce résultat. Donc tu peut t'arrêter là, mais n'oublie pas évidemment de tout consigner à la fois dans le code de manière brute, mais aussi dans toutes les règles et cetera du projet pour te souvenir évidemment tout. Donc bravo pour ça. Et ensuite, voilà, donc ensuite, il te restera à relancer les agents bornés en code pour pas perdre trop vite la limite. Et enfin, voilà, il faudra commencer à upload tous nos fichiers motion directement sur le site par rapport à tous les projets et cetera.",
+      "text" : "Du coup, vu que la musique a atteint maintenant 99 %, je pense qu'il faut surtout se focus sur vector, rhythm et shader pour atteindre 99 % sur ces modules maintenant. Et ensuite, il faudra déterminer tous les paramètres procéduraux qui permettent de modifier directement une vidéo pour atteindre un résultat parfait à partir d'un motion. Il faut déjà que tu consignes tout ce que tu as réussi à faire sur music sur le résultat final du software afin de consigner déjà que les trucs importants. Et comme ça, on relance uniquement des agents qui vont vraiment continuer d'améliorer les choses. Mais je pense que sur la musique, il n'y a plus forcément besoin de continuer à faire des recherches pour atteindre 99,9 % puisque à l'oreille, je trouve que c'est strictement identique personnellement. Donc je suis très fier de ce résultat. Donc tu peut t'arrêter là, mais n'oublie pas évidemment de tout consigner à la fois dans le code de manière brute, mais aussi dans toutes les règles et cetera du projet pour te souvenir évidemment tout. Donc bravo pour ça. Et ensuite, voilà, donc ensuite, il te restera à relancer les agents bornés en code pour pas perdre trop vite la limite. Et enfin, voilà, il faudra commencer à upload tous nos fichiers motion directement sur le site par rapport à tous les projets et cetera."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813680742.734844,
+      "id" : "22FB27F8-2C33-41A9-8F28-D72F5C5E21A2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En somme, ce qu'il faut faire, c'est finir une V1 qui soit à la fois lançable en local et à la fois lançable sur le website. En fait, le truc, c'est que le website, ça sert jamais à faire du montage. Le website, ça sert juste à consulter des résultats qui ont déjà été pré-computed et qui sont pas renvoyés dans un fichier assets, mais qui sont visionnables depuis le web. En revanche, à moins que ce soit possible de tout coder tout ce qu'on a fait directement sur le cloud, dans ce cas-là, oui, il faudrait le mettre sur le website. Mais si c'est pas possible, on garde tout notre code dans une app locale avec une UI, probablement codée en Swift pour la performance, et avec un backend Python qui run directement tous nos scripts. Tu peux aussi réfléchir à la manière la plus logique de le faire, mais en soi, ce que je veux dire, c'est peu importe l'architecture que tu choisis, ce que je veux, c'est juste que en termes d'architecture design, c'est que on ait fini la V1 de Zenray Motion, que je puisse commencer à de moi-même pouvoir utiliser en toute autonomie l'outil pour réaliser soit des motions, soit pouvoir éditer certains paramètres. Donc là, je pense qu'il va y avoir besoin de plus de huit paramètres, tu vois. Mais il faut que nos résultats soient clean, tu vois. Il faut que je puisse utiliser Zenray Motion de moi-même en toute autonomie via la V1, et ensuite via la recherche, on continue en parallèle, notamment sur Vector et sur Shader, de lancer des recherches jusqu'à atteindre 99,9 %, mais ça, on les intégrera dans des mises à jour successives du logiciel. Parce que en fait, le problème, c'est sinon on va jamais ship un seul truc et à la base, Motion Design, il existe pas en tant que logiciel pour lui-même, il existe surtout de manière à améliorer les choses, enfin à pouvoir publier des vidéos 3D, tu vois. Donc si je passe trop de temps à développer ce logiciel, je vais jamais ship mes propres vidéos alors que le but, c'est de faire des vidéos motion très rapides, pouvoir reproduire un design, pouvoir reproduire une autre vidéo, pouvoir modifier des choses. C'est ça le plus important. Pouvoir recréer des SFX, tu vois, c'est vraiment la ligne principale de Motion Design, c'est Zenray Motion Design, donc Z E R N Z E N R A Y, c'est que Zenray Motion Design soit procédural. C'est la ligne numéro 1 dans règles, c'est le plus important.",
+      "text" : "En somme, ce qu'il faut faire, c'est finir une V1 qui soit à la fois lançable en local et à la fois lançable sur le website. En fait, le truc, c'est que le website, ça sert jamais à faire du montage. Le website, ça sert juste à consulter des résultats qui ont déjà été pré-computed et qui sont pas renvoyés dans un fichier assets, mais qui sont visionnables depuis le web. En revanche, à moins que ce soit possible de tout coder tout ce qu'on a fait directement sur le cloud, dans ce cas-là, oui, il faudrait le mettre sur le website. Mais si c'est pas possible, on garde tout notre code dans une app locale avec une UI, probablement codée en Swift pour la performance, et avec un backend Python qui run directement tous nos scripts. Tu peux aussi réfléchir à la manière la plus logique de le faire, mais en soi, ce que je veux dire, c'est peu importe l'architecture que tu choisis, ce que je veux, c'est juste que en termes d'architecture design, c'est que on ait fini la V1 de Zenray Motion, que je puisse commencer à de moi-même pouvoir utiliser en toute autonomie l'outil pour réaliser soit des motions, soit pouvoir éditer certains paramètres. Donc là, je pense qu'il va y avoir besoin de plus de huit paramètres, tu vois. Mais il faut que nos résultats soient clean, tu vois. Il faut que je puisse utiliser Zenray Motion de moi-même en toute autonomie via la V1, et ensuite via la recherche, on continue en parallèle, notamment sur Vector et sur Shader, de lancer des recherches jusqu'à atteindre 99,9 %, mais ça, on les intégrera dans des mises à jour successives du logiciel. Parce que en fait, le problème, c'est sinon on va jamais ship un seul truc et à la base, Motion Design, il existe pas en tant que logiciel pour lui-même, il existe surtout de manière à améliorer les choses, enfin à pouvoir publier des vidéos 3D, tu vois. Donc si je passe trop de temps à développer ce logiciel, je vais jamais ship mes propres vidéos alors que le but, c'est de faire des vidéos motion très rapides, pouvoir reproduire un design, pouvoir reproduire une autre vidéo, pouvoir modifier des choses. C'est ça le plus important. Pouvoir recréer des SFX, tu vois, c'est vraiment la ligne principale de Motion Design, c'est Zenray Motion Design, donc Z E R N Z E N R A Y, c'est que Zenray Motion Design soit procédural. C'est la ligne numéro 1 dans règles, c'est le plus important."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813680928.991489,
+      "id" : "4C56E534-D29C-45EC-9266-9FB8723E5EB0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Sur chaque chantier, déterminer quels sont les quatre paramètres procéduraux les plus importants que je puisse modifier et qui me permettent d'obtenir un résultat professionnel. Par exemple, sur Vector, ça va être le texte. Sur la musique, ça va être les décibels. Sur le storyboard, ça va être par exemple les couleurs. Tu cherches des paramètres procéduraux qui changent vraiment les choses. Par exemple, sur les shaders, ça peut être la couleur, ou alors ça peut être le gradient qui est complètement différent. Tu cherches toujours des paramètres procéduraux qui changent vraiment les choses sur cette V1. Et tu détermines quels sont les quatre paramètres procéduraux les plus importants. Ensuite, tu choisis les huit secondaires et on va dire les 16 tertiaires. Mais les 16 tertiaires, c'est pas le plus important. Si déjà on fait 4 + 8 et qu'on a déjà 12 paramètres procéduraux pour la V1, c'est déjà très très très bien. Et ensuite, ben nos inputs, ben c'est déjà les 12 vidéos qu'on a plus les quatre autres musiques, donc 16 pistes au total pour la musique, mais ces 12 vidéos en termes de motion design qui sont déjà disponibles et qui doivent atteindre 99,9 %, attention, sur tous les chantiers différents. Et les chantiers là différents doivent être assemblés sur l'orchestrateur. Donc voilà. Et tu et pas de workflow pour ça. Du coup, on finit proprement cette étape.",
+      "text" : "Sur chaque chantier, déterminer quels sont les quatre paramètres procéduraux les plus importants que je puisse modifier et qui me permettent d'obtenir un résultat professionnel. Par exemple, sur Vector, ça va être le texte. Sur la musique, ça va être les décibels. Sur le storyboard, ça va être par exemple les couleurs. Tu cherches des paramètres procéduraux qui changent vraiment les choses. Par exemple, sur les shaders, ça peut être la couleur, ou alors ça peut être le gradient qui est complètement différent. Tu cherches toujours des paramètres procéduraux qui changent vraiment les choses sur cette V1. Et tu détermines quels sont les quatre paramètres procéduraux les plus importants. Ensuite, tu choisis les huit secondaires et on va dire les 16 tertiaires. Mais les 16 tertiaires, c'est pas le plus important. Si déjà on fait 4 + 8 et qu'on a déjà 12 paramètres procéduraux pour la V1, c'est déjà très très très bien. Et ensuite, ben nos inputs, ben c'est déjà les 12 vidéos qu'on a plus les quatre autres musiques, donc 16 pistes au total pour la musique, mais ces 12 vidéos en termes de motion design qui sont déjà disponibles et qui doivent atteindre 99,9 %, attention, sur tous les chantiers différents. Et les chantiers là différents doivent être assemblés sur l'orchestrateur. Donc voilà. Et tu et pas de workflow pour ça. Du coup, on finit proprement cette étape."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813681101.836164,
+      "id" : "A6438B11-4792-4720-BFF8-95B638B1FFEB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pour toute l'UI, il faut vraiment penser à quelque chose d'ultra simple à utiliser. C'est vraiment en mode le truc très très simple. Je viens de penser à un truc, mais en fait, vu que je vais passer par un input, une vidéo input la majorité du temps, voire un fichier MP3 ou sonore, je pense qu'il faut quand même créer l'application en local. Et les computes aussi seront faits en local, donc en fait l'application, je pense qu'elle va être locale. C'est juste les fichiers computed et le fait que tout soit bien rangé qui sera directement dans la vue Motion.",
+      "text" : "Pour toute l'UI, il faut vraiment penser à quelque chose d'ultra simple à utiliser. C'est vraiment en mode le truc très très simple. Je viens de penser à un truc, mais en fait, vu que je vais passer par un input, une vidéo input la majorité du temps, voire un fichier MP3 ou sonore, je pense qu'il faut quand même créer l'application en local. Et les computes aussi seront faits en local, donc en fait l'application, je pense qu'elle va être locale. C'est juste les fichiers computed et le fait que tout soit bien rangé qui sera directement dans la vue Motion."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813681160.764186,
+      "id" : "D7AB80DA-DC79-4254-87F8-8ECFAE7C25C5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais je réitère mon but, c'est vraiment que je puisse te donner un input, que ça le découpe en petites scènes de motion, que chaque scène de motion elle soit modifiable directement, que tout soit rangé proprement, que je puisse modifier tous les paramètres que je veux. En fait, il faut vraiment penser à, enfin c'est déjà ce qu'on a construit, tu vois, c'est Zen Rain Motion Design dans une dimension procédurale pour reproduire à 100 % une vidéo mais pour avoir mon propre editing.",
+      "text" : "Mais je réitère mon but, c'est vraiment que je puisse te donner un input, que ça le découpe en petites scènes de motion, que chaque scène de motion elle soit modifiable directement, que tout soit rangé proprement, que je puisse modifier tous les paramètres que je veux. En fait, il faut vraiment penser à, enfin c'est déjà ce qu'on a construit, tu vois, c'est Zen Rain Motion Design dans une dimension procédurale pour reproduire à 100 % une vidéo mais pour avoir mon propre editing."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813681209.268693,
+      "id" : "1D04ADFE-18A8-4396-9974-97FC42AA2D56",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ensuite, il y a un second aspect qui, je pense, va être super important, c'est de pouvoir à la fois faire un MCP directement sur l'application pour, par exemple, copier-coller un passage d'une frame pour le montage global d'une vidéo que je vais faire. Là, par exemple, j'aurais aimé avoir une maison en 16\/9e, je veux basculer en 9\/16e ma vidéo et la mettre dans un coin en bas à droite. Et là, par exemple, cette idée c'est de la",
+      "text" : "Ensuite, il y a un second aspect qui, je pense, va être super important, c'est de pouvoir à la fois faire un MCP directement sur l'application pour, par exemple, copier-coller un passage d'une frame pour le montage global d'une vidéo que je vais faire. Là, par exemple, j'aurais aimé avoir une maison en 16\/9e, je veux basculer en 9\/16e ma vidéo et la mettre dans un coin en bas à droite. Et là, par exemple, cette idée c'est de la"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813681355.951884,
+      "id" : "161F95A4-55B9-4932-95C0-D5642888A8DB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc par exemple, je te dis là, je vais mettre plutôt ce passage de motion design. Au premier plan, je vais mettre ce passage de motion design, mais en fait, je veux garder uniquement le texte via un layer masking transparent. Et mettre ma vidéo à ce moment-là. En fait, il faut que je puisse aussi, un peu à la manière de DaVinci, que je puisse input mes propres vidéos, que je puisse basculer du format 16\/9e au format 9\/16e, que je puisse modifier au format 4\/5e, que je puisse modifier aussi au format 1\/1, que je puisse fit mes images ou mes vidéos de la bonne manière, que je puisse ajouter des titres de sous-titres, etc. Je vais te donner le skill Zenray Edit qui comporte déjà un HTML qui me permettait de faire pas mal de choses en termes de montage. Je pense que ça peut être intéressant pour toi de relire intégralement tout ce skill déjà pour que tu comprennes un peu ma philosophie de design par rapport aux choses à incruster en plus dans Zenray Motion Design pour vraiment pouvoir créer une application ultra rapide qui va permettre à la fois de créer de manière procédurale tous les effets qu'on veut, mais en plus avoir un versant editing sur une petite vidéo qu'on pourrait créer à la volée à partir des motions qu'on a déjà, mais aussi à partir d'une base assez neutre et assez simple, en mode les formats qui s'adaptent, le fait de pouvoir changer la couleur de la fonte, le fait de changer la fonte, le fait de rajouter un texte, vraiment les trucs de base.",
+      "text" : "Donc par exemple, je te dis là, je vais mettre plutôt ce passage de motion design. Au premier plan, je vais mettre ce passage de motion design, mais en fait, je veux garder uniquement le texte via un layer masking transparent. Et mettre ma vidéo à ce moment-là. En fait, il faut que je puisse aussi, un peu à la manière de DaVinci, que je puisse input mes propres vidéos, que je puisse basculer du format 16\/9e au format 9\/16e, que je puisse modifier au format 4\/5e, que je puisse modifier aussi au format 1\/1, que je puisse fit mes images ou mes vidéos de la bonne manière, que je puisse ajouter des titres de sous-titres, etc. Je vais te donner le skill Zenray Edit qui comporte déjà un HTML qui me permettait de faire pas mal de choses en termes de montage. Je pense que ça peut être intéressant pour toi de relire intégralement tout ce skill déjà pour que tu comprennes un peu ma philosophie de design par rapport aux choses à incruster en plus dans Zenray Motion Design pour vraiment pouvoir créer une application ultra rapide qui va permettre à la fois de créer de manière procédurale tous les effets qu'on veut, mais en plus avoir un versant editing sur une petite vidéo qu'on pourrait créer à la volée à partir des motions qu'on a déjà, mais aussi à partir d'une base assez neutre et assez simple, en mode les formats qui s'adaptent, le fait de pouvoir changer la couleur de la fonte, le fait de changer la fonte, le fait de rajouter un texte, vraiment les trucs de base."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813681553.356628,
+      "id" : "F5C49137-8123-4B29-BDB4-50CCA32831A1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il faudra relancer Vector et Shader pour qu'ils atteignent tous dans toutes les vidéos 99,9 %. C'est hyper important avant de build l'application, donc fais bien les choses dans l'ordre.",
+      "text" : "Il faudra relancer Vector et Shader pour qu'ils atteignent tous dans toutes les vidéos 99,9 %. C'est hyper important avant de build l'application, donc fais bien les choses dans l'ordre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813681589.840865,
+      "id" : "E7C1F71C-DDCE-43F9-87D1-53A1EDF224D4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Fais attention à bien attendre certains chantiers ou certaines tâches avant de commencer les autres pour bien ajuster ton plan et faire en sorte de faire les choses dans l'ordre comme un château de cartes.",
+      "text" : "Fais attention à bien attendre certains chantiers ou certaines tâches avant de commencer les autres pour bien ajuster ton plan et faire en sorte de faire les choses dans l'ordre comme un château de cartes."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813681935.604321,
+      "id" : "44D9E528-E395-4B34-9A0D-7A03756403B0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "La partie vecteur, elle est hyper importante parce que par exemple, elle pourrait nous permettre à l'avenir de ne pas être utilisée uniquement dans ce genre de cas de figure, dans le sens où je pourrais reprendre par exemple une vidéo promotionnelle dans un article, et plutôt d'une vidéo Instagram commerciale, par exemple d'un trailer. Et en fait, simplement garder toutes les animations, les easings, etc. de cette vidéo, par exemple Instagram ou YouTube Shorts, et de pouvoir faire en sorte de modifier uniquement les animations qui m'intéressent, et comme ça ce serait parfait. En fait, Motion Design, ça peut être vraiment un outil ultra-agentique qui va révolutionner en fait le montage, parce que finalement, je vais pouvoir m'inspirer de n'importe quelle scène, recréer un template hyper rapidement, de manière procédurale changer uniquement les valeurs que je veux, et même avoir le son, voire le SFX. Donc c'est complètement insane comme outil. Et ça pourra être appliqué dans n'importe quel outil, mais le plus important, c'est de réussir à avoir tous les chantiers et tous les assemblages à 99,9 % pour que en fait, on puisse modifier uniquement les valeurs qui nous intéressent le plus. C'est pour ça que je me dis peut-être que 12 paramètres sur les chantiers, selon les paramètres que tu choisis, ce sera peut-être pas assez. Après, comme je l'ai dit plus tôt, je veux vraiment que tu te focuses sur quatre hyper importants, huit secondaires et 16 tertiaires. Mais je ne suis pas sûr des 16 tertiaires que tu vas me créer. Surtout que chaque paramètre procéduraux en plus, ça peut créer beaucoup plus de compute. Donc il faut, je préfère partir sur 12 en premier et voilà, mais il faut vraiment que tu te concentres sur des paramètres très très globaux, très très normaux. Il faut vraiment que tu comprennes des choses simples quoi. Donc voilà, il va vraiment falloir que tu fasses un résultat",
+      "text" : "La partie vecteur, elle est hyper importante parce que par exemple, elle pourrait nous permettre à l'avenir de ne pas être utilisée uniquement dans ce genre de cas de figure, dans le sens où je pourrais reprendre par exemple une vidéo promotionnelle dans un article, et plutôt d'une vidéo Instagram commerciale, par exemple d'un trailer. Et en fait, simplement garder toutes les animations, les easings, etc. de cette vidéo, par exemple Instagram ou YouTube Shorts, et de pouvoir faire en sorte de modifier uniquement les animations qui m'intéressent, et comme ça ce serait parfait. En fait, Motion Design, ça peut être vraiment un outil ultra-agentique qui va révolutionner en fait le montage, parce que finalement, je vais pouvoir m'inspirer de n'importe quelle scène, recréer un template hyper rapidement, de manière procédurale changer uniquement les valeurs que je veux, et même avoir le son, voire le SFX. Donc c'est complètement insane comme outil. Et ça pourra être appliqué dans n'importe quel outil, mais le plus important, c'est de réussir à avoir tous les chantiers et tous les assemblages à 99,9 % pour que en fait, on puisse modifier uniquement les valeurs qui nous intéressent le plus. C'est pour ça que je me dis peut-être que 12 paramètres sur les chantiers, selon les paramètres que tu choisis, ce sera peut-être pas assez. Après, comme je l'ai dit plus tôt, je veux vraiment que tu te focuses sur quatre hyper importants, huit secondaires et 16 tertiaires. Mais je ne suis pas sûr des 16 tertiaires que tu vas me créer. Surtout que chaque paramètre procéduraux en plus, ça peut créer beaucoup plus de compute. Donc il faut, je préfère partir sur 12 en premier et voilà, mais il faut vraiment que tu te concentres sur des paramètres très très globaux, très très normaux. Il faut vraiment que tu comprennes des choses simples quoi. Donc voilà, il va vraiment falloir que tu fasses un résultat"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813682076.365717,
+      "id" : "89639B76-223B-4EA2-8DBA-13A0B862C385",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et n'oublie pas non plus toutes les n'oublie pas le second versant qui sert à faire du montage via Zen Rail Edit. Mais pas uniquement via Zen Rail Edit, tu dois aussi créer toute une documentation des features de pas forcément de DaVinci Code, de DaVinci Resolve, pardon, parce que ce serait beaucoup trop gros. Mais tu vois, le fait de par exemple prendre un motion, pouvoir le drag and drop dans une chronologie, pouvoir faire pouvoir voir sa chronologie, enfin il y a plein de choses de base qui qu'il faut que tu fasses, notamment via Hyperframes.",
+      "text" : "Et n'oublie pas non plus toutes les n'oublie pas le second versant qui sert à faire du montage via Zen Rail Edit. Mais pas uniquement via Zen Rail Edit, tu dois aussi créer toute une documentation des features de pas forcément de DaVinci Code, de DaVinci Resolve, pardon, parce que ce serait beaucoup trop gros. Mais tu vois, le fait de par exemple prendre un motion, pouvoir le drag and drop dans une chronologie, pouvoir faire pouvoir voir sa chronologie, enfin il y a plein de choses de base qui qu'il faut que tu fasses, notamment via Hyperframes."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813682089.840827,
+      "id" : "4DB628AB-978B-4DA6-8769-9827CB12A803",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "plein de choses qui sont déjà consignées dans tout le travail de recherche qu'on a déjà fait en soi.",
+      "text" : "plein de choses qui sont déjà consignées dans tout le travail de recherche qu'on a déjà fait en soi."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813692721.191189,
+      "id" : "14D8DF87-DB39-4BBF-B7C7-1F17042D6EA3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pourquoi tu fais un seul épisode à la fois ? La seule contrainte, c'est inférieur à 2048. Donc c'est pour ça qu'on fait 1900 MO max, soit 20 parties. C'est ça qui détermine un push. Et ensuite, c'est vrai que ça sert à rien de relancer un autre push de 1900 MO, bien que ce soit possible parce que on peut faire jusqu'à six push par minute. Mais c'est juste que chaque push doit jamais dépasser 2 Go. C'est pour ça qu'on a setup et refais le paragraphe de A à Z mais vraiment de manière vierge juste en lisant soit le code soit la politique globale. Repars d'une page blanche et explique-moi ce que tu aurais",
+      "text" : "Pourquoi tu fais un seul épisode à la fois ? La seule contrainte, c'est inférieur à 2048. Donc c'est pour ça qu'on fait 1900 MO max, soit 20 parties. C'est ça qui détermine un push. Et ensuite, c'est vrai que ça sert à rien de relancer un autre push de 1900 MO, bien que ce soit possible parce que on peut faire jusqu'à six push par minute. Mais c'est juste que chaque push doit jamais dépasser 2 Go. C'est pour ça qu'on a setup et refais le paragraphe de A à Z mais vraiment de manière vierge juste en lisant soit le code soit la politique globale. Repars d'une page blanche et explique-moi ce que tu aurais"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813692846.551411,
+      "id" : "39122CC5-55E8-4E84-9B50-A6AAB9F93D92",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais c'est quoi la contrainte ou l'équivalent ? Du coup, pourquoi tu as fait ça comme ça ? Quel est le problème ? C'est que ça arrivera pas à retélécharger les sous-titres et les pistes audio.",
+      "text" : "Mais c'est quoi la contrainte ou l'équivalent ? Du coup, pourquoi tu as fait ça comme ça ? Quel est le problème ? C'est que ça arrivera pas à retélécharger les sous-titres et les pistes audio."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813694262.658404,
+      "id" : "4C2738CD-0A25-4C87-98BD-949A1E8F41E7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je comprends pas ce que tu appelles transcodage et je comprends pas pourquoi tu fais pas l'envoi une fois que c'est prêt.",
+      "text" : "Je comprends pas ce que tu appelles transcodage et je comprends pas pourquoi tu fais pas l'envoi une fois que c'est prêt."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813694343.106245,
+      "id" : "14868241-8999-4532-80BE-0C7325E8AF0E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est trop chiant parce que j'ai l'impression que au lieu d'utiliser le code de Zanarkand Progress de manière normale, j'ai l'impression qu'à chaque fois que tu te demandes de télécharger des fichiers et des épisodes spécifiques, tu recommences à faire des scripts de toi-même. Le code de Zanarkand Progress ne prévoit pas toutes les alternatives et toutes les possibilités.",
+      "text" : "C'est trop chiant parce que j'ai l'impression que au lieu d'utiliser le code de Zanarkand Progress de manière normale, j'ai l'impression qu'à chaque fois que tu te demandes de télécharger des fichiers et des épisodes spécifiques, tu recommences à faire des scripts de toi-même. Le code de Zanarkand Progress ne prévoit pas toutes les alternatives et toutes les possibilités."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813694580.386469,
+      "id" : "007FC970-A398-4D78-B878-D40B02D73DDC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Oui, Karine, maman est bien là.",
+      "text" : "Oui, Karine, maman est bien là."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813694703.476499,
+      "id" : "0B74557B-DAC0-4E8C-A94F-CB48F5AF53F2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je sais pas ce que racontent ces Chinois, mais ils sont bien mignons.",
+      "text" : "Je sais pas ce que racontent ces Chinois, mais ils sont bien mignons."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813696069.148168,
+      "id" : "7945592E-58AE-4A33-A032-44F4E4A7FB38",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ça me fatigue parce que j'ai passé toute la journée à t'expliquer les politiques de GitHub et là tu continues à écrire n'importe quoi. Je voulais juste finir l'état final et ne plus jamais avoir à m'en occuper. Essaie de peut-être relire tous les feedbacks, comprendre ma volonté et ne plus jamais me poser de questions en écrivant tout ce qui reste dans Rules et ensuite tu tranches les questions de manière autonome.",
+      "text" : "Ça me fatigue parce que j'ai passé toute la journée à t'expliquer les politiques de GitHub et là tu continues à écrire n'importe quoi. Je voulais juste finir l'état final et ne plus jamais avoir à m'en occuper. Essaie de peut-être relire tous les feedbacks, comprendre ma volonté et ne plus jamais me poser de questions en écrivant tout ce qui reste dans Rules et ensuite tu tranches les questions de manière autonome."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813700019.731653,
+      "id" : "7C569746-C0DF-4DCB-AF86-EAA0712B5063",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu vas continuer sur vecteur pour atteindre 99 % sur tous les effets et tu vas vraiment focus sur ça.",
+      "text" : "Tu vas continuer sur vecteur pour atteindre 99 % sur tous les effets et tu vas vraiment focus sur ça."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813700278.427243,
+      "id" : "A108A957-E57B-4455-9728-AEEF9CB9D5A8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je pense aussi qu'il faut vraiment que tu comprennes le multi-layering, c'est-à-dire que parfois sur beaucoup d'effets, c'est pas un seul vecteur qui est appliqué, mais c'est plusieurs calques de vecteurs qui qui s'appliquent afin d'avoir la forme idéale.",
+      "text" : "Je pense aussi qu'il faut vraiment que tu comprennes le multi-layering, c'est-à-dire que parfois sur beaucoup d'effets, c'est pas un seul vecteur qui est appliqué, mais c'est plusieurs calques de vecteurs qui qui s'appliquent afin d'avoir la forme idéale."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813700302.978579,
+      "id" : "245E7F49-9AEC-4EF0-9613-AA2CF49CA224",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je pense que comme Illustrator, ce serait pas forcément bête que tu aies une banque de vecteurs et de formes et que tu puisses les modifier procéduralement, même après.",
+      "text" : "Je pense que comme Illustrator, ce serait pas forcément bête que tu aies une banque de vecteurs et de formes et que tu puisses les modifier procéduralement, même après."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813700378.18889,
+      "id" : "52C7AEF0-CADC-4F96-A3C2-DF625EE20CAE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pour la musique en revanche sur les quatre principaux puis les huit autres une fois que tu auras atteint 99,9 % sur vecteur, j'aimerais que lorsqu'on modifie le recompute fasse en sorte que la musique soit toujours agréable à écouter alors que là actuellement il manque vraiment les étapes de polish qui font que la musique reste agréable à écouter quel que soit le paramètre procédural que je choisisse. Et ça c'est un gros point noir du code actuellement. Tu peux aussi faire en sorte que la musique se compute en prenant beaucoup plus de temps, ça c'est pas un problème. Mais actuellement c'est pas ouf du tout parce que ben parce que le temps réel ne fonctionne pas. Après on peut discard l'idée de temps réel pour faire en sorte de recompute une jusqu'à 5 minutes pour avoir vraiment une musique parfaite.",
+      "text" : "Pour la musique en revanche sur les quatre principaux puis les huit autres une fois que tu auras atteint 99,9 % sur vecteur, j'aimerais que lorsqu'on modifie le recompute fasse en sorte que la musique soit toujours agréable à écouter alors que là actuellement il manque vraiment les étapes de polish qui font que la musique reste agréable à écouter quel que soit le paramètre procédural que je choisisse. Et ça c'est un gros point noir du code actuellement. Tu peux aussi faire en sorte que la musique se compute en prenant beaucoup plus de temps, ça c'est pas un problème. Mais actuellement c'est pas ouf du tout parce que ben parce que le temps réel ne fonctionne pas. Après on peut discard l'idée de temps réel pour faire en sorte de recompute une jusqu'à 5 minutes pour avoir vraiment une musique parfaite."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813700444.305317,
+      "id" : "31A616D5-BEED-4EDA-96B2-752F8429D7D8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je pense que comme toujours, il faut que tu rajoutes plus d'effets via des banques de data sets. Donc peut-être plus de fontes, peut-être plus de formes de base, peut-être plus d'effets intégrés aux data sets.",
+      "text" : "Je pense que comme toujours, il faut que tu rajoutes plus d'effets via des banques de data sets. Donc peut-être plus de fontes, peut-être plus de formes de base, peut-être plus d'effets intégrés aux data sets."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813704225.353959,
+      "id" : "DF6130CE-D0B8-4CB5-A549-332A1DF69E8A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Fais-moi un prompt qui pour toute application, logiciel ou algorithme permet de améliorer toutes les fonctionnalités, faire un audit de l'existant, améliorer les performances et penser à toutes les features ou à tout le design qui pourrait être amélioré. Mais de manière générale, fais un prompt généraliste puis un prompt plus descriptif ou particulier.",
+      "text" : "Fais-moi un prompt qui pour toute application, logiciel ou algorithme permet de améliorer toutes les fonctionnalités, faire un audit de l'existant, améliorer les performances et penser à toutes les features ou à tout le design qui pourrait être amélioré. Mais de manière générale, fais un prompt généraliste puis un prompt plus descriptif ou particulier."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813704268.957926,
+      "id" : "6190F6EF-2562-4194-B8C7-EBF05B906B6A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je cherche à trouver le prompt qui de manière récursive permet de dire à mon agent améliore mon application mais de manière à ce qu'il travaille quand même de manière récursive.",
+      "text" : "Je cherche à trouver le prompt qui de manière récursive permet de dire à mon agent améliore mon application mais de manière à ce qu'il travaille quand même de manière récursive."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813704349.447433,
+      "id" : "A9EB7428-9323-45E6-9FF7-CB21A5881344",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pareil mais en langage naturel et les deux prompts doivent être écrits en un paragraphe.",
+      "text" : "Pareil mais en langage naturel et les deux prompts doivent être écrits en un paragraphe."
     }
   ],
   "modes" : [
