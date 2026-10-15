@@ -6299,6 +6299,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Mais je veux beaucoup plus de paramètres procéduraux en soi. Et tu peux t'inspirer de Zener Edit aussi pour rajouter tous les paramètres de saturation, de couleur, etc.",
       "text" : "Mais je veux beaucoup plus de paramètres procéduraux en soi. Et tu peux t'inspirer de Zener Edit aussi pour rajouter tous les paramètres de saturation, de couleur, etc."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813754743.221141,
+      "id" : "9CAD669A-4685-4330-B629-88FBAC2FE154",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Reprends les règles existantes du projet et ajoute une nouvelle structure, tout en gardant tout l'ancien travail qu'on a fait. Il y a certains trucs qui vont pas forcément dans l'abs, toute l'archive des vidéos, toute la reproduction de la musique, tout le fait de pouvoir insérer dans un montage directement. Par contre, ce que je vois comme erreur dans les motions que tu as reproduites, c'est que par exemple si je change le format 16\/9e au format 1\/1, il faut par exemple que le texte ne soit pas crop. Donc il faut faire un travail très essentiel sur le fait de jamais crop les choses. Et par rapport à la reproduction 99,9 %, je pense que tu arriveras pas forcément à refaire quelque chose de similaire. Mais par contre, ce que tu peux faire, c'est analyser la musique existante depuis le fichier MP3 et créer trois variations qui sont polish, mais avec le workflow 99,9 %. Parce que le but, c'est que ce soit polish dans les effets musicaux.",
+      "text" : "Reprends les règles existantes du projet et ajoute une nouvelle structure, tout en gardant tout l'ancien travail qu'on a fait. Il y a certains trucs qui vont pas forcément dans l'abs, toute l'archive des vidéos, toute la reproduction de la musique, tout le fait de pouvoir insérer dans un montage directement. Par contre, ce que je vois comme erreur dans les motions que tu as reproduites, c'est que par exemple si je change le format 16\/9e au format 1\/1, il faut par exemple que le texte ne soit pas crop. Donc il faut faire un travail très essentiel sur le fait de jamais crop les choses. Et par rapport à la reproduction 99,9 %, je pense que tu arriveras pas forcément à refaire quelque chose de similaire. Mais par contre, ce que tu peux faire, c'est analyser la musique existante depuis le fichier MP3 et créer trois variations qui sont polish, mais avec le workflow 99,9 %. Parce que le but, c'est que ce soit polish dans les effets musicaux."
     }
   ],
   "modes" : [
