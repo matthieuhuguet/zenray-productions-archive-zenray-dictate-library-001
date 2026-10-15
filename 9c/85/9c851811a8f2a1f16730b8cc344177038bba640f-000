@@ -6349,6 +6349,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Mais je comprends pas, en fait, il faut que tu puisses hide la vidéo de référence par rapport à l'effet reproduit parce que là, j'arrive pas à comparer. Du coup, puisqu'en arrière-plan, il y a toujours l'ancienne vidéo.",
       "text" : "Mais je comprends pas, en fait, il faut que tu puisses hide la vidéo de référence par rapport à l'effet reproduit parce que là, j'arrive pas à comparer. Du coup, puisqu'en arrière-plan, il y a toujours l'ancienne vidéo."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813762441.254063,
+      "id" : "19A7415B-ACB9-4BAF-9DC0-E70ECFC921D8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il faudrait que pour les vidéos motion en elle-même, il y ait des galeries, chaque animation qui est séparée, que je puisse voir directement et cliquer sur l'animation qui m'intéresse.",
+      "text" : "Il faudrait que pour les vidéos motion en elle-même, il y ait des galeries, chaque animation qui est séparée, que je puisse voir directement et cliquer sur l'animation qui m'intéresse."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813762480.564866,
+      "id" : "4CF24611-5DB2-4680-BDC3-AC49188EC818",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il faudrait que la barre soit beaucoup plus simple de naviguer dessus. Actuellement, c'est assez difficile et il n'y a pas le temps de manière précise. Il faut que je puisse utiliser une barre de progression qui soit facile à utiliser.",
+      "text" : "Il faudrait que la barre soit beaucoup plus simple de naviguer dessus. Actuellement, c'est assez difficile et il n'y a pas le temps de manière précise. Il faut que je puisse utiliser une barre de progression qui soit facile à utiliser."
     }
   ],
   "modes" : [
