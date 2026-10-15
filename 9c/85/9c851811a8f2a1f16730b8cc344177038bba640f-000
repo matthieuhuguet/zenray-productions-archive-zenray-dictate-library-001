@@ -6189,6 +6189,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Pareil mais en langage naturel et les deux prompts doivent être écrits en un paragraphe.",
       "text" : "Pareil mais en langage naturel et les deux prompts doivent être écrits en un paragraphe."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813744782.343317,
+      "id" : "83D8D7E2-13CC-4E33-BB0A-BE442E5E6B6C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "le Père Noël",
+      "text" : "le Père Noël"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813744789.974564,
+      "id" : "A881F2FB-CD42-49B8-BC35-4E9FD74B0D21",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ça s'appelle l'emprunt de relance économique, c'est pas non plus le Pérou.",
+      "text" : "Ça s'appelle l'emprunt de relance économique, c'est pas non plus le Pérou."
     }
   ],
   "modes" : [
