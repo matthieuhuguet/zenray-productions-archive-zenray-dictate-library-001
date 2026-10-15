@@ -6279,6 +6279,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "J'ai l'impression que tu as compute toute la nuit pour créer un truc qui va jamais marcher. Vérifie la faisabilité de la chose.",
       "text" : "J'ai l'impression que tu as compute toute la nuit pour créer un truc qui va jamais marcher. Vérifie la faisabilité de la chose."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813754559.494741,
+      "id" : "2339D085-1DEB-484B-931A-FE9D34B23C91",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ok, c'est beaucoup mieux, sauf qu'il faut que tu l'intègres dans l'app déjà build qui s'appelle SceneReMotion Design et que tu arrêtes ton délire de renommer mes projets ZenRe Studio. Ensuite, il aurait fallu que je puisse sélectionner n'importe quelle musique qui aurait été reproduite à 99,9 %. Ensuite, il faut que tu reproduises en motion toutes les vidéos ref, donc les 12 vidéos ref actuelles, plan par plan, et que tu me donnes des paramètres procéduraux pour que je puisse modifier depuis les 12 vidéos générées qui sont des références en",
+      "text" : "Ok, c'est beaucoup mieux, sauf qu'il faut que tu l'intègres dans l'app déjà build qui s'appelle SceneReMotion Design et que tu arrêtes ton délire de renommer mes projets ZenRe Studio. Ensuite, il aurait fallu que je puisse sélectionner n'importe quelle musique qui aurait été reproduite à 99,9 %. Ensuite, il faut que tu reproduises en motion toutes les vidéos ref, donc les 12 vidéos ref actuelles, plan par plan, et que tu me donnes des paramètres procéduraux pour que je puisse modifier depuis les 12 vidéos générées qui sont des références en"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813754609.84384,
+      "id" : "10AC680F-CCEC-48EC-8820-AE762786BD83",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais je veux beaucoup plus de paramètres procéduraux en soi. Et tu peux t'inspirer de Zener Edit aussi pour rajouter tous les paramètres de saturation, de couleur, etc.",
+      "text" : "Mais je veux beaucoup plus de paramètres procéduraux en soi. Et tu peux t'inspirer de Zener Edit aussi pour rajouter tous les paramètres de saturation, de couleur, etc."
     }
   ],
   "modes" : [
