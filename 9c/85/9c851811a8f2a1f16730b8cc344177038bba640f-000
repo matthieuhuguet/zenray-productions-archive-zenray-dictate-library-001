@@ -6209,6 +6209,66 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ça s'appelle l'emprunt de relance économique, c'est pas non plus le Pérou.",
       "text" : "Ça s'appelle l'emprunt de relance économique, c'est pas non plus le Pérou."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813751321.617379,
+      "id" : "FCD3FD74-CAA1-41CE-AC65-1996968FDD52",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais du coup, ma question",
+      "text" : "Mais du coup, ma question"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813751340.193705,
+      "id" : "965DD13F-EBE4-4E5E-8116-6D9714D0B8DB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Du coup, ma question c'est comment les calculs s'effectuent-ils si je suis sur une app sur mon browser ? Je comprends pas comment ça peut compute des calculs.",
+      "text" : "Du coup, ma question c'est comment les calculs s'effectuent-ils si je suis sur une app sur mon browser ? Je comprends pas comment ça peut compute des calculs."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813751380.193751,
+      "id" : "B7490551-4038-44AB-B082-AD0554C1B96F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ok, mais est-ce qu'il y a pas un délai par rapport au serveur et au résultat ? Est-ce que ça irait pas plus vite si je faisais directement sur mon app locale même si c'est un WebKitView ?",
+      "text" : "Ok, mais est-ce qu'il y a pas un délai par rapport au serveur et au résultat ? Est-ce que ça irait pas plus vite si je faisais directement sur mon app locale même si c'est un WebKitView ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813751447.194836,
+      "id" : "AC1F753A-CCAC-4721-88C0-D38506F43E5C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais attends, du coup, à l'avenir, enfin, je vois pas où sont les résultats de ce que tu as fait sur l'application.",
+      "text" : "Mais attends, du coup, à l'avenir, enfin, je vois pas où sont les résultats de ce que tu as fait sur l'application."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813751468.194123,
+      "id" : "ED7ACB2E-B08D-4435-9B51-D39CD236D99B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce qu'à l'avenir je vais pouvoir input une vidéo, ça fait le calcul en combien de temps et qu'est-ce que ça me ressort ? Et s'il y a des filtres et des calques et machin, est-ce que je peux les modifier ?",
+      "text" : "Est-ce qu'à l'avenir je vais pouvoir input une vidéo, ça fait le calcul en combien de temps et qu'est-ce que ça me ressort ? Et s'il y a des filtres et des calques et machin, est-ce que je peux les modifier ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813751479.193871,
+      "id" : "99A0C856-7DE2-4689-AD0F-A54F2D6EB906",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, là sur l'application, je vois pas où faire mes tests pour voir que je peux bien modifier les choses.",
+      "text" : "En fait, là sur l'application, je vois pas où faire mes tests pour voir que je peux bien modifier les choses."
     }
   ],
   "modes" : [
