@@ -6319,6 +6319,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ajoute un module qui s'appelle post process et qui est inspiré de ZenRayEdit.",
       "text" : "Ajoute un module qui s'appelle post process et qui est inspiré de ZenRayEdit."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813757346.827129,
+      "id" : "35F5DC29-9C15-49D8-9C19-BA9FBAD1BFB0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pour l'instant, c'est n'importe quoi, tu as pas du tout reproduit l'effet motion de chaque vidéo. À la limite, copie juste identiquement l'effet motion de chaque vidéo, mais là tu as juste mis un texte Louisa May Alcott sur toutes les frames au lieu de reproduire par exemple toutes les faits des vidéos et cetera. Donc là pour l'instant, tu fais n'importe quoi.",
+      "text" : "Pour l'instant, c'est n'importe quoi, tu as pas du tout reproduit l'effet motion de chaque vidéo. À la limite, copie juste identiquement l'effet motion de chaque vidéo, mais là tu as juste mis un texte Louisa May Alcott sur toutes les frames au lieu de reproduire par exemple toutes les faits des vidéos et cetera. Donc là pour l'instant, tu fais n'importe quoi."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813757366.224865,
+      "id" : "63D29928-51E3-4686-BA4D-19FF91B4EDF1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En vrai, c'est simple. Tu prends chaque vidéo et tu essaies de la reproduire en motion. Ensuite, tu ajoutes des paramètres procéduraux pour que je puisse changer le texte ou la couleur.",
+      "text" : "En vrai, c'est simple. Tu prends chaque vidéo et tu essaies de la reproduire en motion. Ensuite, tu ajoutes des paramètres procéduraux pour que je puisse changer le texte ou la couleur."
     }
   ],
   "modes" : [
