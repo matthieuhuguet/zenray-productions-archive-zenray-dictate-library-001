@@ -6339,6 +6339,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "En vrai, c'est simple. Tu prends chaque vidéo et tu essaies de la reproduire en motion. Ensuite, tu ajoutes des paramètres procéduraux pour que je puisse changer le texte ou la couleur.",
       "text" : "En vrai, c'est simple. Tu prends chaque vidéo et tu essaies de la reproduire en motion. Ensuite, tu ajoutes des paramètres procéduraux pour que je puisse changer le texte ou la couleur."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813761900.790643,
+      "id" : "08C114C6-12FA-441D-907F-B69DEF928923",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais je comprends pas, en fait, il faut que tu puisses hide la vidéo de référence par rapport à l'effet reproduit parce que là, j'arrive pas à comparer. Du coup, puisqu'en arrière-plan, il y a toujours l'ancienne vidéo.",
+      "text" : "Mais je comprends pas, en fait, il faut que tu puisses hide la vidéo de référence par rapport à l'effet reproduit parce que là, j'arrive pas à comparer. Du coup, puisqu'en arrière-plan, il y a toujours l'ancienne vidéo."
     }
   ],
   "modes" : [
