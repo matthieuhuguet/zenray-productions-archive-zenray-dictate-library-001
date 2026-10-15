@@ -6269,6 +6269,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "En fait, là sur l'application, je vois pas où faire mes tests pour voir que je peux bien modifier les choses.",
       "text" : "En fait, là sur l'application, je vois pas où faire mes tests pour voir que je peux bien modifier les choses."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813751635.631465,
+      "id" : "D724754D-2D5D-44E2-8FB2-2047DFBA828F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'ai l'impression que tu as compute toute la nuit pour créer un truc qui va jamais marcher. Vérifie la faisabilité de la chose.",
+      "text" : "J'ai l'impression que tu as compute toute la nuit pour créer un truc qui va jamais marcher. Vérifie la faisabilité de la chose."
     }
   ],
   "modes" : [
