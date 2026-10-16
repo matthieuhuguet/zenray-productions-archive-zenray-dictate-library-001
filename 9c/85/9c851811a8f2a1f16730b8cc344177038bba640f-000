@@ -6369,6 +6369,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Il faudrait que la barre soit beaucoup plus simple de naviguer dessus. Actuellement, c'est assez difficile et il n'y a pas le temps de manière précise. Il faut que je puisse utiliser une barre de progression qui soit facile à utiliser.",
       "text" : "Il faudrait que la barre soit beaucoup plus simple de naviguer dessus. Actuellement, c'est assez difficile et il n'y a pas le temps de manière précise. Il faut que je puisse utiliser une barre de progression qui soit facile à utiliser."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813808268.0179,
+      "id" : "66A110E4-7C3B-422F-931E-4B9E0E393AD5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ce que je veux faire, c'est prendre la vidéo de chaque motion et faire précisément chaque motion comme motion opus. Et je veux une boucle de mesure pour chacune des vidéos. L'important, c'est pas que tu fasses les 100 vidéos, c'est juste que tu avances vidéo par vidéo par rapport à tout le corpus existant.",
+      "text" : "Ce que je veux faire, c'est prendre la vidéo de chaque motion et faire précisément chaque motion comme motion opus. Et je veux une boucle de mesure pour chacune des vidéos. L'important, c'est pas que tu fasses les 100 vidéos, c'est juste que tu avances vidéo par vidéo par rapport à tout le corpus existant."
     }
   ],
   "modes" : [
