@@ -6379,6 +6379,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ce que je veux faire, c'est prendre la vidéo de chaque motion et faire précisément chaque motion comme motion opus. Et je veux une boucle de mesure pour chacune des vidéos. L'important, c'est pas que tu fasses les 100 vidéos, c'est juste que tu avances vidéo par vidéo par rapport à tout le corpus existant.",
       "text" : "Ce que je veux faire, c'est prendre la vidéo de chaque motion et faire précisément chaque motion comme motion opus. Et je veux une boucle de mesure pour chacune des vidéos. L'important, c'est pas que tu fasses les 100 vidéos, c'est juste que tu avances vidéo par vidéo par rapport à tout le corpus existant."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813840030.351568,
+      "id" : "B58DA977-F207-4A07-9F5F-D27CF6B1080E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ce que je veux, c'est pouvoir cliquer sur une musique et changer sa variation immédiatement, un peu comme une Spotify, de manière à pouvoir changer la variation immédiatement, extrêmement rapidement.",
+      "text" : "Ce que je veux, c'est pouvoir cliquer sur une musique et changer sa variation immédiatement, un peu comme une Spotify, de manière à pouvoir changer la variation immédiatement, extrêmement rapidement."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813840052.414111,
+      "id" : "7CFA133D-DFF7-46C6-8B43-882B79AEFC0E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et lui, globalement, elle est moche, elle est pas pensée pour interagir avec autant de fichiers, donc change cette interface.",
+      "text" : "Et lui, globalement, elle est moche, elle est pas pensée pour interagir avec autant de fichiers, donc change cette interface."
     }
   ],
   "modes" : [
