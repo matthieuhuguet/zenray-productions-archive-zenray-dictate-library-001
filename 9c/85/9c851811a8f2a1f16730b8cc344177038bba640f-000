@@ -6539,6 +6539,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Fais via le nouveau workflow. J'aimerais bien que tu lui donnes un nom et un identifiant qui permette de segmenter par rapport à l'ancien, ce serait plus logique. Avant, je disais on fait un score à 99,9 %, mais maintenant il faudrait trouver un nom par",
       "text" : "Fais via le nouveau workflow. J'aimerais bien que tu lui donnes un nom et un identifiant qui permette de segmenter par rapport à l'ancien, ce serait plus logique. Avant, je disais on fait un score à 99,9 %, mais maintenant il faudrait trouver un nom par"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813845857.270945,
+      "id" : "8EE6BD01-4174-4088-B0D0-27169394E21F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ça servira à réitérer sur des vidéos ou des animations qui n'auraient pas été faites correctement. Je veux aussi que tu me mettes une liste avec un nouvel onglet qui s'appellerait List ou Threads. Dans Threads, tu mets toutes les vidéos et tous les liens, plus le lien local, parce que normalement tu as un lien local de la vidéo, mais tu as aussi le lien d'une vidéo YouTube ou un site web. Tu me fais une page et tu mets aussi le statut et dans quel onglet elle se trouve. Est-ce que c'est actuellement dans la méthode 99,9, est-ce que c'est dans la nouvelle méthode Validate, est-ce que c'est dans Not Validate. Bref, il faut une étiquette pour savoir où se trouve chacune des vidéos par rapport au corpus existant. Dans la liste Threads, tu mets toutes les vidéos que j'ai listées à ce jour, c'est-à-dire qu'il y a les 12 vidéos, il y a le corpus de 102 et il y a ensuite les quatre vidéos que j'ai rajoutées et qui se cumulent avec cinq qui sont dans Validate actuellement. Ton travail, c'est de créer cette interface, mais c'est aussi de créer le motion des 11 vidéos.",
+      "text" : "Ça servira à réitérer sur des vidéos ou des animations qui n'auraient pas été faites correctement. Je veux aussi que tu me mettes une liste avec un nouvel onglet qui s'appellerait List ou Threads. Dans Threads, tu mets toutes les vidéos et tous les liens, plus le lien local, parce que normalement tu as un lien local de la vidéo, mais tu as aussi le lien d'une vidéo YouTube ou un site web. Tu me fais une page et tu mets aussi le statut et dans quel onglet elle se trouve. Est-ce que c'est actuellement dans la méthode 99,9, est-ce que c'est dans la nouvelle méthode Validate, est-ce que c'est dans Not Validate. Bref, il faut une étiquette pour savoir où se trouve chacune des vidéos par rapport au corpus existant. Dans la liste Threads, tu mets toutes les vidéos que j'ai listées à ce jour, c'est-à-dire qu'il y a les 12 vidéos, il y a le corpus de 102 et il y a ensuite les quatre vidéos que j'ai rajoutées et qui se cumulent avec cinq qui sont dans Validate actuellement. Ton travail, c'est de créer cette interface, mais c'est aussi de créer le motion des 11 vidéos."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813845994.43387,
+      "id" : "72DB3DA9-E9A7-4ABB-998F-84AE3346971D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pour chacun de ces exercices, tu crées un seul image par rapport à mon nombre N d'exercices dans le style Jujutsu Kaisen.",
+      "text" : "Pour chacun de ces exercices, tu crées un seul image par rapport à mon nombre N d'exercices dans le style Jujutsu Kaisen."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813846485.434707,
+      "id" : "CE1B9950-975B-4CE1-9CE5-929535710E64",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pour les valeurs numériques type int, il faut que tu ajoutes kilo lorsqu'il s'agit des kilos. Et pour les répétitions, c'est plutôt entre 6 et 8, donc mets ces deux valeurs par défaut cliquables, plus pour le nombre de séries, c'est entre 3 et 4.",
+      "text" : "Pour les valeurs numériques type int, il faut que tu ajoutes kilo lorsqu'il s'agit des kilos. Et pour les répétitions, c'est plutôt entre 6 et 8, donc mets ces deux valeurs par défaut cliquables, plus pour le nombre de séries, c'est entre 3 et 4."
     }
   ],
   "modes" : [
