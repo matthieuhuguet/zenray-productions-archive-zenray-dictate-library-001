@@ -6419,6 +6419,56 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Reprends le projet Louise Anna Bayo, ouvre-le et on va reprendre le modeling et faire une vidéo qui illustre actuellement notre progression.",
       "text" : "Reprends le projet Louise Anna Bayo, ouvre-le et on va reprendre le modeling et faire une vidéo qui illustre actuellement notre progression."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813843876.42502,
+      "id" : "6F24E2C1-E07A-4912-A2BC-EAF9520EC9EC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ouvre le projet Zenrai Freelance. Et en fait, ce que j'aimerais faire, c'est faire en sorte de pouvoir ouvrir un nombre N de pages directement sur le site de l'offre du studio. Donc c'est rajouter la fonctionnalité qui me permet d'un clic sélectionner un nombre d'offres et en fait ça prend les meilleures offres scorées et ça me permet d'ouvrir directement le site. Ça m'ouvre directement sur la page du site en question, comme ça ça me permet de télécharger directement ou enfin non, de renseigner mes informations.",
+      "text" : "Ouvre le projet Zenrai Freelance. Et en fait, ce que j'aimerais faire, c'est faire en sorte de pouvoir ouvrir un nombre N de pages directement sur le site de l'offre du studio. Donc c'est rajouter la fonctionnalité qui me permet d'un clic sélectionner un nombre d'offres et en fait ça prend les meilleures offres scorées et ça me permet d'ouvrir directement le site. Ça m'ouvre directement sur la page du site en question, comme ça ça me permet de télécharger directement ou enfin non, de renseigner mes informations."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813843953.674869,
+      "id" : "63D383B9-352C-4C29-B77D-144E6166BD30",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "de choisir N nombre d'offres auxquelles je souhaite postuler et que ça me pré-remplisse les pages au maximum. Après, si c'est pas possible de pré-remplir les pages, directement pouvoir ouvrir les pages du studio. Comme ça ça va plus vite et ensuite je peux mettre contacter directement.",
+      "text" : "de choisir N nombre d'offres auxquelles je souhaite postuler et que ça me pré-remplisse les pages au maximum. Après, si c'est pas possible de pré-remplir les pages, directement pouvoir ouvrir les pages du studio. Comme ça ça va plus vite et ensuite je peux mettre contacter directement."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813844023.574233,
+      "id" : "E9817567-E6EC-4CC5-8FC5-6491DC5A1FBB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, ce qu'on va faire, c'est plutôt une boucle qui va dans le projet Zenri Freelance, où grâce à un agent LLM, va directement sur la page et qui me prépare la page pour N nombre de N que je définis. C'est-à-dire que par exemple, je définis entre 10 et 50 pages. L'agent va récupérer directement le texte qu'il doit coller et renseigner toutes mes informations et ensuite il me dit c'est prêt, c'est validé et il me laisse la possibilité de faire en sorte d'envoyer par moi-même pour vérifier les informations avant que les informations soient envoyées. C'est un peu comme si tu remplissais une liste de mails, sauf que la database, elle est déjà faite et elle est déjà automatisée. La seule chose qu'il reste à faire, c'est de créer le skill qui viendra refaire cette boucle à chaque fois à partir de N offres.",
+      "text" : "En fait, ce qu'on va faire, c'est plutôt une boucle qui va dans le projet Zenri Freelance, où grâce à un agent LLM, va directement sur la page et qui me prépare la page pour N nombre de N que je définis. C'est-à-dire que par exemple, je définis entre 10 et 50 pages. L'agent va récupérer directement le texte qu'il doit coller et renseigner toutes mes informations et ensuite il me dit c'est prêt, c'est validé et il me laisse la possibilité de faire en sorte d'envoyer par moi-même pour vérifier les informations avant que les informations soient envoyées. C'est un peu comme si tu remplissais une liste de mails, sauf que la database, elle est déjà faite et elle est déjà automatisée. La seule chose qu'il reste à faire, c'est de créer le skill qui viendra refaire cette boucle à chaque fois à partir de N offres."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813844080.576011,
+      "id" : "356039BF-72CF-41D6-A75D-E1F772DBEE94",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais quand tu ouvres N-Studio, il faut pas oublier de mettre à jour la page contactée une fois que je t'ai dit que j'avais envoyé le message, mais de manière automatisée.",
+      "text" : "Mais quand tu ouvres N-Studio, il faut pas oublier de mettre à jour la page contactée une fois que je t'ai dit que j'avais envoyé le message, mais de manière automatisée."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813844129.424102,
+      "id" : "ADA74F04-46A9-4355-90D7-DCFB92810EC5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Parce que là le problème, c'est que je fais trois studios environ par jour et du coup ça va être beaucoup trop long.",
+      "text" : "Parce que là le problème, c'est que je fais trois studios environ par jour et du coup ça va être beaucoup trop long."
     }
   ],
   "modes" : [
