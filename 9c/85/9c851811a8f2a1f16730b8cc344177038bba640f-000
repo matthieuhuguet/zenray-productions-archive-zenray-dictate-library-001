@@ -6569,6 +6569,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Pour les valeurs numériques type int, il faut que tu ajoutes kilo lorsqu'il s'agit des kilos. Et pour les répétitions, c'est plutôt entre 6 et 8, donc mets ces deux valeurs par défaut cliquables, plus pour le nombre de séries, c'est entre 3 et 4.",
       "text" : "Pour les valeurs numériques type int, il faut que tu ajoutes kilo lorsqu'il s'agit des kilos. Et pour les répétitions, c'est plutôt entre 6 et 8, donc mets ces deux valeurs par défaut cliquables, plus pour le nombre de séries, c'est entre 3 et 4."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813846999.441604,
+      "id" : "20877C17-F594-45BA-8310-C4A7F8432C27",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le problème, c'est que le design de chaque tuile n'est pas aligné. Fais-moi trois propositions du design avec toutes les informations et je te valide ça.",
+      "text" : "Le problème, c'est que le design de chaque tuile n'est pas aligné. Fais-moi trois propositions du design avec toutes les informations et je te valide ça."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813847113.803327,
+      "id" : "FF4707F7-9FE6-40FA-ACEC-2B0487E8E62E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "On a un problème depuis qu'on a incliné le toit, c'est que depuis qu'on a fait ça, j'ai l'impression que tu as modifié toute la géométrie en haut alors que la géométrie devait rester clean. C'est-à-dire que j'ai l'impression que tu as mis un lattice sur la partie du haut du toit alors qu'en fait, de manière procédurale, il fallait juste mettre une courbe qui redessine toutes les planches en fonction de la géométrie dont on avait besoin. Donc il va falloir que tu me fasses le design s'il te plaît. Il faut que tu changes les paramètres atomiques des component HDA afin que ce soit propre et que tu n'utilises pas un lattice mais que je puisse vraiment changer les courbures du toit proprement. Vas-y, itère sur ça s'il te plaît, sans provoquer de régression.",
+      "text" : "On a un problème depuis qu'on a incliné le toit, c'est que depuis qu'on a fait ça, j'ai l'impression que tu as modifié toute la géométrie en haut alors que la géométrie devait rester clean. C'est-à-dire que j'ai l'impression que tu as mis un lattice sur la partie du haut du toit alors qu'en fait, de manière procédurale, il fallait juste mettre une courbe qui redessine toutes les planches en fonction de la géométrie dont on avait besoin. Donc il va falloir que tu me fasses le design s'il te plaît. Il faut que tu changes les paramètres atomiques des component HDA afin que ce soit propre et que tu n'utilises pas un lattice mais que je puisse vraiment changer les courbures du toit proprement. Vas-y, itère sur ça s'il te plaît, sans provoquer de régression."
     }
   ],
   "modes" : [
