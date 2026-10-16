@@ -6599,6 +6599,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Il n'y a pas de format global parce qu'il s'agit d'images générées par IA, mais par contre tu dois découper uniquement ce qui illustre l'image. Je vais te passer les images et je veux que tu me sur une sheet, tu me découpes toutes les images proprement et ensuite tu me montres et ensuite je t'enregistrerai ce que je garde. Tu peux aussi faire plusieurs découpes via un bord rouge et je te dis via une sheet laquelle je confirme. Il y a trois propositions.",
       "text" : "Il n'y a pas de format global parce qu'il s'agit d'images générées par IA, mais par contre tu dois découper uniquement ce qui illustre l'image. Je vais te passer les images et je veux que tu me sur une sheet, tu me découpes toutes les images proprement et ensuite tu me montres et ensuite je t'enregistrerai ce que je garde. Tu peux aussi faire plusieurs découpes via un bord rouge et je te dis via une sheet laquelle je confirme. Il y a trois propositions."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813848530.437688,
+      "id" : "8B0F7267-7430-4FF8-B44F-802A9C39E0D7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Comment s'appelle ce logiciel ou cette solution ? Il faut que tu m'indexe le fait que est-ce que c'est déployé par exemple sur Zen et Progress et comment est-ce que j'appellerai à l'avenir cette solution ? Est-ce que c'est dans le skill ou En fait, il faut que ce soit très clair pour moi pour, sans que je m'en souvienne et que je fasse un effort de mémoire, pouvoir déployer N nombre d'offres",
+      "text" : "Comment s'appelle ce logiciel ou cette solution ? Il faut que tu m'indexe le fait que est-ce que c'est déployé par exemple sur Zen et Progress et comment est-ce que j'appellerai à l'avenir cette solution ? Est-ce que c'est dans le skill ou En fait, il faut que ce soit très clair pour moi pour, sans que je m'en souvienne et que je fasse un effort de mémoire, pouvoir déployer N nombre d'offres"
     }
   ],
   "modes" : [
