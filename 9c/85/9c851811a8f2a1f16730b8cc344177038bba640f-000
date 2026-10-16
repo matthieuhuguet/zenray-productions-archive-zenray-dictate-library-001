@@ -6489,6 +6489,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Dans ton app, est beaucoup trop complexe et dans le mockup, je veux que ça l'envoie et que ça montre dans Plan exactement comme si ça envoyait une notification dans Plan.",
       "text" : "Dans ton app, est beaucoup trop complexe et dans le mockup, je veux que ça l'envoie et que ça montre dans Plan exactement comme si ça envoyait une notification dans Plan."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813844937.978567,
+      "id" : "869E4346-BFAA-4732-9402-625C1C8D69A6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est parfait, c'est exactement ce que je voulais. Maintenant, tu peux itérer sur le corpus des 102 corpus et ce que je veux c'est uniquement, en fait pas des 102 corpus. Maintenant, tu me refais exactement pareil mais pour les 12 premières vidéos que j'avais sélectionnées, pas le 102 corpus. Tu distingues bien le corpus de 102 ensuite, à moins que le corpus de 102 t'ait déjà ajouté les 12 premières vidéos initiales. Dans ce cas-là, valide ma validation et donne-moi les 12 premières vidéos sans Claude Opus Motion du coup. Parce que là ce que tu as fait c'est parfait, j'aimerais vraiment que tu consignes ce que tu as fait dans le sens où c'est j'aime bien que tu aies conservé uniquement le premier plan en fait. Enfin c'est uniquement les assets graphiques et textuels et jamais le background ou les images qui demanderaient une génération AI. Donc là c'est parfait mais valide ma validation et redonne-moi la liste des 12 - 1 puisque tu as déjà fait Claude Opus",
+      "text" : "C'est parfait, c'est exactement ce que je voulais. Maintenant, tu peux itérer sur le corpus des 102 corpus et ce que je veux c'est uniquement, en fait pas des 102 corpus. Maintenant, tu me refais exactement pareil mais pour les 12 premières vidéos que j'avais sélectionnées, pas le 102 corpus. Tu distingues bien le corpus de 102 ensuite, à moins que le corpus de 102 t'ait déjà ajouté les 12 premières vidéos initiales. Dans ce cas-là, valide ma validation et donne-moi les 12 premières vidéos sans Claude Opus Motion du coup. Parce que là ce que tu as fait c'est parfait, j'aimerais vraiment que tu consignes ce que tu as fait dans le sens où c'est j'aime bien que tu aies conservé uniquement le premier plan en fait. Enfin c'est uniquement les assets graphiques et textuels et jamais le background ou les images qui demanderaient une génération AI. Donc là c'est parfait mais valide ma validation et redonne-moi la liste des 12 - 1 puisque tu as déjà fait Claude Opus"
     }
   ],
   "modes" : [
