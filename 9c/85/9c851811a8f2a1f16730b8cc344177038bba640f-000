@@ -6499,6 +6499,46 @@
       "provider" : "Gemini live dictation",
       "rawText" : "C'est parfait, c'est exactement ce que je voulais. Maintenant, tu peux itérer sur le corpus des 102 corpus et ce que je veux c'est uniquement, en fait pas des 102 corpus. Maintenant, tu me refais exactement pareil mais pour les 12 premières vidéos que j'avais sélectionnées, pas le 102 corpus. Tu distingues bien le corpus de 102 ensuite, à moins que le corpus de 102 t'ait déjà ajouté les 12 premières vidéos initiales. Dans ce cas-là, valide ma validation et donne-moi les 12 premières vidéos sans Claude Opus Motion du coup. Parce que là ce que tu as fait c'est parfait, j'aimerais vraiment que tu consignes ce que tu as fait dans le sens où c'est j'aime bien que tu aies conservé uniquement le premier plan en fait. Enfin c'est uniquement les assets graphiques et textuels et jamais le background ou les images qui demanderaient une génération AI. Donc là c'est parfait mais valide ma validation et redonne-moi la liste des 12 - 1 puisque tu as déjà fait Claude Opus",
       "text" : "C'est parfait, c'est exactement ce que je voulais. Maintenant, tu peux itérer sur le corpus des 102 corpus et ce que je veux c'est uniquement, en fait pas des 102 corpus. Maintenant, tu me refais exactement pareil mais pour les 12 premières vidéos que j'avais sélectionnées, pas le 102 corpus. Tu distingues bien le corpus de 102 ensuite, à moins que le corpus de 102 t'ait déjà ajouté les 12 premières vidéos initiales. Dans ce cas-là, valide ma validation et donne-moi les 12 premières vidéos sans Claude Opus Motion du coup. Parce que là ce que tu as fait c'est parfait, j'aimerais vraiment que tu consignes ce que tu as fait dans le sens où c'est j'aime bien que tu aies conservé uniquement le premier plan en fait. Enfin c'est uniquement les assets graphiques et textuels et jamais le background ou les images qui demanderaient une génération AI. Donc là c'est parfait mais valide ma validation et redonne-moi la liste des 12 - 1 puisque tu as déjà fait Claude Opus"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813845192.00912,
+      "id" : "CB46EF72-8AD5-4059-BF1F-F6FB4B6ED15E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, le tuile est pas mal du tout, mais le problème c'est qu'il faut que, en fait, ça tu fasses pas genre séance A ou B ou C, mais que tu fasses plutôt un append par rapport à un exercice que j'aurais fait. C'est-à-dire, il y a une database d'exercices, je cherche dans tous les exercices et ça append dans la session du jour en fait. Quand je mets série en fait et que je mets le nombre de répétitions et le nombre de machin, ça append directement dans Plan la séance, mais ça crée pas une nouvelle case, tu vois. Ça append dans une seule case de plan, mais avec toute la liste des choses qui ont déjà été faites. Donc, fais-moi une proposition qui itère sur mon idée et qui est facile à avoir.",
+      "text" : "En fait, le tuile est pas mal du tout, mais le problème c'est qu'il faut que, en fait, ça tu fasses pas genre séance A ou B ou C, mais que tu fasses plutôt un append par rapport à un exercice que j'aurais fait. C'est-à-dire, il y a une database d'exercices, je cherche dans tous les exercices et ça append dans la session du jour en fait. Quand je mets série en fait et que je mets le nombre de répétitions et le nombre de machin, ça append directement dans Plan la séance, mais ça crée pas une nouvelle case, tu vois. Ça append dans une seule case de plan, mais avec toute la liste des choses qui ont déjà été faites. Donc, fais-moi une proposition qui itère sur mon idée et qui est facile à avoir."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813845565.432364,
+      "id" : "57B53C78-7F2D-4AF9-9104-683623733A57",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donne-moi le nouveau workflow qui explique comment tu fais exactement pour découper les motions. Donne-le-moi en entier comme ça je valide ou non. Comme ça je vérifie que tu as bien tout compris.",
+      "text" : "Donne-moi le nouveau workflow qui explique comment tu fais exactement pour découper les motions. Donne-le-moi en entier comme ça je valide ou non. Comme ça je vérifie que tu as bien tout compris."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813845624.965059,
+      "id" : "A7F7DA46-3FA7-4C97-B2F5-F325CED3977A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Attention, je veux aucune occurrence de l'ancien workflow.",
+      "text" : "Attention, je veux aucune occurrence de l'ancien workflow."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813845736.207381,
+      "id" : "17ABD98A-A7F1-4726-9A2E-29FF9684287C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Fais via le nouveau workflow. J'aimerais bien que tu lui donnes un nom et un identifiant qui permette de segmenter par rapport à l'ancien, ce serait plus logique. Avant, je disais on fait un score à 99,9 %, mais maintenant il faudrait trouver un nom par",
+      "text" : "Fais via le nouveau workflow. J'aimerais bien que tu lui donnes un nom et un identifiant qui permette de segmenter par rapport à l'ancien, ce serait plus logique. Avant, je disais on fait un score à 99,9 %, mais maintenant il faudrait trouver un nom par"
     }
   ],
   "modes" : [
