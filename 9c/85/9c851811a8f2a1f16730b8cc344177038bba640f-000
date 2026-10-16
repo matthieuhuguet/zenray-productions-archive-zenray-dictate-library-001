@@ -6399,6 +6399,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Et lui, globalement, elle est moche, elle est pas pensée pour interagir avec autant de fichiers, donc change cette interface.",
       "text" : "Et lui, globalement, elle est moche, elle est pas pensée pour interagir avec autant de fichiers, donc change cette interface."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813843635.856341,
+      "id" : "5FD20BB8-3763-499E-894C-D3CC68D237B2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ce que j'aimerais faire sur Zen Rep Progress, ce serait une section dans la sidebar de gauche qui s'appellerait Sport. J'aimerais mettre tous les exos que j'ai déjà faits et que quand je note une entrée, notamment sur mon mobile ou même sur mon desktop, je puisse noter le nombre de répétitions que j'ai fait et le nombre de séries. Et que ça m'inscrive la date automatiquement et qu'il y ait une image qui décrive exactement ce qu'est l'exercice. Je peux te donner la banque d'images, mais il faut que tu me donnes une description précise pour chaque image. Et enfin, je vais te donner mon programme et le but, c'est de faire une interface très clean pour que je puisse renseigner les informations sur chaque exercice et je puisse aussi dire par exemple tel jour, je puisse grep la database d'exercices et que je puisse les mettre directement. Et ensuite, je peux consigner par exemple aussi une description, etc. Commence à me faire trois mockups différents et je choisirai la base de design que je veux garder.",
+      "text" : "Ce que j'aimerais faire sur Zen Rep Progress, ce serait une section dans la sidebar de gauche qui s'appellerait Sport. J'aimerais mettre tous les exos que j'ai déjà faits et que quand je note une entrée, notamment sur mon mobile ou même sur mon desktop, je puisse noter le nombre de répétitions que j'ai fait et le nombre de séries. Et que ça m'inscrive la date automatiquement et qu'il y ait une image qui décrive exactement ce qu'est l'exercice. Je peux te donner la banque d'images, mais il faut que tu me donnes une description précise pour chaque image. Et enfin, je vais te donner mon programme et le but, c'est de faire une interface très clean pour que je puisse renseigner les informations sur chaque exercice et je puisse aussi dire par exemple tel jour, je puisse grep la database d'exercices et que je puisse les mettre directement. Et ensuite, je peux consigner par exemple aussi une description, etc. Commence à me faire trois mockups différents et je choisirai la base de design que je veux garder."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813843751.425193,
+      "id" : "C4A6328C-B6D2-4196-836C-83485DCF244B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Reprends le projet Louise Anna Bayo, ouvre-le et on va reprendre le modeling et faire une vidéo qui illustre actuellement notre progression.",
+      "text" : "Reprends le projet Louise Anna Bayo, ouvre-le et on va reprendre le modeling et faire une vidéo qui illustre actuellement notre progression."
     }
   ],
   "modes" : [
