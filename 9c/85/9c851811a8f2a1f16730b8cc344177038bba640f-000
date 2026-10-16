@@ -6469,6 +6469,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Parce que là le problème, c'est que je fais trois studios environ par jour et du coup ça va être beaucoup trop long.",
       "text" : "Parce que là le problème, c'est que je fais trois studios environ par jour et du coup ça va être beaucoup trop long."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813844370.049947,
+      "id" : "BCB7A65E-8B69-4DBD-91E9-40FDBCAF5E7D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ben du coup, redémarre l'app et montre-moi où sont les cinq motions.",
+      "text" : "Ben du coup, redémarre l'app et montre-moi où sont les cinq motions."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813844449.424306,
+      "id" : "87AAB301-5CBC-4646-A14A-8AB548DDD0B7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Dans ton app, est beaucoup trop complexe et dans le mockup, je veux que ça l'envoie et que ça montre dans Plan exactement comme si ça envoyait une notification dans Plan.",
+      "text" : "Dans ton app, est beaucoup trop complexe et dans le mockup, je veux que ça l'envoie et que ça montre dans Plan exactement comme si ça envoyait une notification dans Plan."
     }
   ],
   "modes" : [
