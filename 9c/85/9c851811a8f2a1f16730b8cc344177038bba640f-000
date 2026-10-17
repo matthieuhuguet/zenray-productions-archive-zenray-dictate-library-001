@@ -6609,6 +6609,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Comment s'appelle ce logiciel ou cette solution ? Il faut que tu m'indexe le fait que est-ce que c'est déployé par exemple sur Zen et Progress et comment est-ce que j'appellerai à l'avenir cette solution ? Est-ce que c'est dans le skill ou En fait, il faut que ce soit très clair pour moi pour, sans que je m'en souvienne et que je fasse un effort de mémoire, pouvoir déployer N nombre d'offres",
       "text" : "Comment s'appelle ce logiciel ou cette solution ? Il faut que tu m'indexe le fait que est-ce que c'est déployé par exemple sur Zen et Progress et comment est-ce que j'appellerai à l'avenir cette solution ? Est-ce que c'est dans le skill ou En fait, il faut que ce soit très clair pour moi pour, sans que je m'en souvienne et que je fasse un effort de mémoire, pouvoir déployer N nombre d'offres"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 813940330.517397,
+      "id" : "18B29726-CA47-43DB-8D82-80B5DEF525FE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, regarde le teint sur celui-là, il est quasi parfait. Il aurait fallu utiliser quasi ce teint. Là, tu vois, le teint il est trop bleu, mais si tu le mets un teint un peu naturel, la peau elle est très jolie et ensuite tu as juste à mettre un fond gris qui s'adapte à la couleur. Parce que le problème, c'est que le Source Clean Studio Clean, il fait que la peau elle ressort pas parfaitement. Elle ressort un peu trop blanche. Donc là, c'est c'est quasi parfait via le masque rouge, sauf qu'il faut changer la teinte de la peau pour qu'elle soit pour qu'elle soit juste.",
+      "text" : "En fait, regarde le teint sur celui-là, il est quasi parfait. Il aurait fallu utiliser quasi ce teint. Là, tu vois, le teint il est trop bleu, mais si tu le mets un teint un peu naturel, la peau elle est très jolie et ensuite tu as juste à mettre un fond gris qui s'adapte à la couleur. Parce que le problème, c'est que le Source Clean Studio Clean, il fait que la peau elle ressort pas parfaitement. Elle ressort un peu trop blanche. Donc là, c'est c'est quasi parfait via le masque rouge, sauf qu'il faut changer la teinte de la peau pour qu'elle soit pour qu'elle soit juste."
     }
   ],
   "modes" : [
