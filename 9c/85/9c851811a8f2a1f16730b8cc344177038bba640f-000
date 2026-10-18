@@ -6739,6 +6739,56 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Dis-moi si c'est une texture AI Gen ou si c'est une texture ZenRay.",
       "text" : "Dis-moi si c'est une texture AI Gen ou si c'est une texture ZenRay."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814041195.427514,
+      "id" : "67493D8B-EC6D-429E-99F5-629ACABD81E1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donne-moi le graphe exactement de Z8 qui aurait été passé par la 8.",
+      "text" : "Donne-moi le graphe exactement de Z8 qui aurait été passé par la 8."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814041282.780849,
+      "id" : "AFD539A0-668D-4FED-AD6C-3F7366A8B094",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mets des salissures sur cette texture. Donne-moi juste un graphe de salissures ou un masque parce que là c'est pas assez sale.",
+      "text" : "Mets des salissures sur cette texture. Donne-moi juste un graphe de salissures ou un masque parce que là c'est pas assez sale."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814041304.430814,
+      "id" : "19556D4F-DCC1-4422-A579-DC930B8D2D08",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu peux me redonner tous les prompts de génération d'image, s'il te plaît ?",
+      "text" : "Est-ce que tu peux me redonner tous les prompts de génération d'image, s'il te plaît ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814041539.023662,
+      "id" : "50A5724D-6A44-44F3-93B9-73F3DAE09F0A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, ce que j'aimerais créer, c'est Zenray Money. Ce serait une app qui me permet chaque semaine d'enregistrer tous les flux financiers de mon entreprise afin de constituer un revenu intéressant. En fait, il faudrait que l'app soit hyper addictive et que tu me proposes trois designs via Zenray Edit. Et via ce skill, tu me proposerais un design très intéressant afin de créer directement une app qui me permettrait de cumuler mes revenus et de voir des choses intéressantes. En fait, le but ce serait de, comme un jeu vidéo ultra addictif, tu peux t'inspirer de l'UI de League of Legends pour créer une espèce d'app qui me permettrait à partir de Zenray Assets de à la fois me mettre dans une dynamique où je publie tous mes projets, mais en même temps une dynamique où chacun des projets participe à l'essor économique de mon entreprise via des publications, etc. Mais je sais pas, ce serait complexe à créer. Je sais pas exactement ce que je veux créer, mais j'ai l'intuition que avoir une app dans la sidebar de gauche qui s'appellerait peut-être Zenray Money ou pas Zenray Cashflow parce que ce serait pas ouf, mais il y a des choses à faire.",
+      "text" : "En fait, ce que j'aimerais créer, c'est Zenray Money. Ce serait une app qui me permet chaque semaine d'enregistrer tous les flux financiers de mon entreprise afin de constituer un revenu intéressant. En fait, il faudrait que l'app soit hyper addictive et que tu me proposes trois designs via Zenray Edit. Et via ce skill, tu me proposerais un design très intéressant afin de créer directement une app qui me permettrait de cumuler mes revenus et de voir des choses intéressantes. En fait, le but ce serait de, comme un jeu vidéo ultra addictif, tu peux t'inspirer de l'UI de League of Legends pour créer une espèce d'app qui me permettrait à partir de Zenray Assets de à la fois me mettre dans une dynamique où je publie tous mes projets, mais en même temps une dynamique où chacun des projets participe à l'essor économique de mon entreprise via des publications, etc. Mais je sais pas, ce serait complexe à créer. Je sais pas exactement ce que je veux créer, mais j'ai l'intuition que avoir une app dans la sidebar de gauche qui s'appellerait peut-être Zenray Money ou pas Zenray Cashflow parce que ce serait pas ouf, mais il y a des choses à faire."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814041621.11514,
+      "id" : "71B98698-1F1D-4842-BCA7-D5B326868AD8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pour Zenrai Books, c'est n'importe quoi. C'est affreux. Il faut absolument que tu fasses quelque chose de beaucoup plus simple. Là, c'est beaucoup trop moche. N'utilise jamais la fonte en light, utilise uniquement en tropic serif médium ou intermedium.",
+      "text" : "Pour Zenrai Books, c'est n'importe quoi. C'est affreux. Il faut absolument que tu fasses quelque chose de beaucoup plus simple. Là, c'est beaucoup trop moche. N'utilise jamais la fonte en light, utilise uniquement en tropic serif médium ou intermedium."
     }
   ],
   "modes" : [
