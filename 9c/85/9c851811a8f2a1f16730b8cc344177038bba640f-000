@@ -7019,6 +7019,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Donc là, on a quasi le workflow ultime. Le tout, c'est de consigner tout ça exactement et ensuite que je puisse te valider la génération de la trim sheet par rapport à une bonne attribution des texel density. Le plus important, c'est que tu arrives à faire automatiquement à partager les UV qui se répètent et à bien les positionner via un dépliage automatique automatisé.",
       "text" : "Donc là, on a quasi le workflow ultime. Le tout, c'est de consigner tout ça exactement et ensuite que je puisse te valider la génération de la trim sheet par rapport à une bonne attribution des texel density. Le plus important, c'est que tu arrives à faire automatiquement à partager les UV qui se répètent et à bien les positionner via un dépliage automatique automatisé."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814059566.968493,
+      "id" : "505DC0B6-4060-4B68-83B3-BF22D89C58DB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le but, tu l'auras compris, c'est de pouvoir à partir d'une géométrie déjà existante générer le dépliage UV parfait dans l'idée d'en faire une trim sheet afin de, via ChatGPT Image par exemple, pouvoir générer une trim sheet de eight et depuis l'outil Zenray eight qu'on a déjà créé, pouvoir directement créer n'importe quel matériau.",
+      "text" : "Le but, tu l'auras compris, c'est de pouvoir à partir d'une géométrie déjà existante générer le dépliage UV parfait dans l'idée d'en faire une trim sheet afin de, via ChatGPT Image par exemple, pouvoir générer une trim sheet de eight et depuis l'outil Zenray eight qu'on a déjà créé, pouvoir directement créer n'importe quel matériau."
     }
   ],
   "modes" : [
