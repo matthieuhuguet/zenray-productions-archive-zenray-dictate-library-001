@@ -7029,6 +7029,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Le but, tu l'auras compris, c'est de pouvoir à partir d'une géométrie déjà existante générer le dépliage UV parfait dans l'idée d'en faire une trim sheet afin de, via ChatGPT Image par exemple, pouvoir générer une trim sheet de eight et depuis l'outil Zenray eight qu'on a déjà créé, pouvoir directement créer n'importe quel matériau.",
       "text" : "Le but, tu l'auras compris, c'est de pouvoir à partir d'une géométrie déjà existante générer le dépliage UV parfait dans l'idée d'en faire une trim sheet afin de, via ChatGPT Image par exemple, pouvoir générer une trim sheet de eight et depuis l'outil Zenray eight qu'on a déjà créé, pouvoir directement créer n'importe quel matériau."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814059714.089052,
+      "id" : "B3813B2A-7BCD-45F3-AA6D-392ED909CCD4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Sans le faire, détermine juste si cette méthode est intelligente ou si elle réinvente un peu la roue pour rien.",
+      "text" : "Sans le faire, détermine juste si cette méthode est intelligente ou si elle réinvente un peu la roue pour rien."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814059751.507568,
+      "id" : "5A349BB4-EF4D-4CD4-942A-882252AFFE8F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le fait de pouvoir générer une trim sheet de manière automatisée, ça me semble quand même assez intelligent, mais bon, est-ce que c'est pas au final juste un dépliage UV classique ? L'intérêt, c'est que vu que les trim sheets sont découpées par bandes, on peut attribuer comme un matériau déjà assigné à la géométrie de l'objet et du coup, ça évite toute la partie Substance Painter et Designer. C'est ça qui est globalement assez intelligent.",
+      "text" : "Le fait de pouvoir générer une trim sheet de manière automatisée, ça me semble quand même assez intelligent, mais bon, est-ce que c'est pas au final juste un dépliage UV classique ? L'intérêt, c'est que vu que les trim sheets sont découpées par bandes, on peut attribuer comme un matériau déjà assigné à la géométrie de l'objet et du coup, ça évite toute la partie Substance Painter et Designer. C'est ça qui est globalement assez intelligent."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814060408.920819,
+      "id" : "2186279C-8B69-42BE-B940-A10F404843CF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En soi, du coup, je vois pas comment un studio pourrait faire sans ma méthode pour texturer tout ce qui va être bâtiment et n'importe quel objet de type hard surface. Ça me semblerait bizarre d'aller directement à chaque fois dans Substance Painter pour texturer chaque asset, ce serait bizarre. C'est pour ça que ma méthode, je la trouve intéressante parce qu'en soi, c'est à partir de la géo, tu obtiens l'UDIM. Mais en fait, au-delà de l'UDIM, c'est juste que ça fait un dépliage parfait et que l'UDIM sert surtout à avoir un color ID plus un texel density parfait, ce qui permet ensuite de texturer parfaitement. Mais je vois pas comment faire autrement hormis faire un color ID avec plusieurs matériaux.",
+      "text" : "En soi, du coup, je vois pas comment un studio pourrait faire sans ma méthode pour texturer tout ce qui va être bâtiment et n'importe quel objet de type hard surface. Ça me semblerait bizarre d'aller directement à chaque fois dans Substance Painter pour texturer chaque asset, ce serait bizarre. C'est pour ça que ma méthode, je la trouve intéressante parce qu'en soi, c'est à partir de la géo, tu obtiens l'UDIM. Mais en fait, au-delà de l'UDIM, c'est juste que ça fait un dépliage parfait et que l'UDIM sert surtout à avoir un color ID plus un texel density parfait, ce qui permet ensuite de texturer parfaitement. Mais je vois pas comment faire autrement hormis faire un color ID avec plusieurs matériaux."
     }
   ],
   "modes" : [
