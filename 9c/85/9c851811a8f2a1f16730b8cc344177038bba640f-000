@@ -6989,6 +6989,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Est-ce que tu peux me donner les texels density par pixel qui sont notamment déjà consignés dans le skill ?",
       "text" : "Est-ce que tu peux me donner les texels density par pixel qui sont notamment déjà consignés dans le skill ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814057753.504812,
+      "id" : "B988973C-91A7-4D5D-A2B2-185EEB122088",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il y avait une leçon pour le toit et ça donnait les texels par mètre de manière globale. Ça donnait une leçon qui expliquait par exemple 512, 1024, 2048, 4096. Il y avait une vraie leçon mais je l'ai oubliée.",
+      "text" : "Il y avait une leçon pour le toit et ça donnait les texels par mètre de manière globale. Ça donnait une leçon qui expliquait par exemple 512, 1024, 2048, 4096. Il y avait une vraie leçon mais je l'ai oubliée."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814058570.848725,
+      "id" : "CF57DE2A-6D0E-4E42-AEAA-884455FBF108",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu dois faire une méthode parfaite en termes d'alignement, en termes d'espace distribué par rapport au texel density. À la limite, tu peux aussi créer un script de texte. Je ne suis pas sûr qu'en fait un script de texel density t'aide parce que, à mon avis, ça va être customisé à chaque fois. À mon avis, ce qu'il faut, c'est au lieu d'écrire du code, ce qu'il faut, c'est écrire un concept de méthode qui est infaillible en fait. Et donc, il faut que tu mettes mes UV par rapport à la texel density, par rapport au maître. En fait, le truc, c'est que tu devais mettre à côté d'un d'un personnage Houdini le bon scale. Ensuite, je valide le scale et par rapport au scale, on détermine la bonne texel density pour réaliser la feuille de trim sheet. Je crois que c'est ça en fait la méthode. C'est on met l'asset à côté d'un d'un props, enfin d'un mannequin Manny de Houdini. Et du coup, tu mets un mannequin Manny en HDA, comme ça tu l'as dans le disque dur, mais à la bonne taille, à la taille normale quoi. Enfin à la taille 1,76 m environ. Et comme ça, on applique un texel density parfait dans le sens où on applique soit un texel density à 1024, soit 512, soit 2048. Mais en règle générale, on l'applique 1024 par défaut. Et donc toutes les phases partagées, elles sont pareilles. Tu utilises toujours un alignement sur la gauche et de haut en bas. Et voilà, et chaque couleur occupe une bande du coup, parce que chaque couleur est un matériau différent. Mais il faut vraiment que tu notes ça partout dans les skins. C'est en termes d'attribution et des UV, des texel density, il faut vraiment que ce soit parfait d'un coup. Comme ça à l'avenir, j'aurai juste à faire ma géométrie et une fois que j'aurai fait ma géométrie, je pourrai instancier le mannequin Manny. Je pourrai choisir le bon scale pour l'asset par rapport à trois propositions. Et je pourrai de manière automatisée choisir le bon texel density par rapport à une de tes propositions. En fait, une fois que j'ai choisi le scale, tu me proposes par rapport à l'attribution du scale de répartir les UV. Mais la répartition des UV doit être parfaite. Il doit y avoir aucun truc qui dépasse, aucun truc. Et une fois qu'on a la répartition des UV, je peux lancer ma génération de la height. Je te redonne ma height, on déclenche Zen Height et ensuite à partir de la height, on peut générer les cinq maps.",
+      "text" : "Tu dois faire une méthode parfaite en termes d'alignement, en termes d'espace distribué par rapport au texel density. À la limite, tu peux aussi créer un script de texte. Je ne suis pas sûr qu'en fait un script de texel density t'aide parce que, à mon avis, ça va être customisé à chaque fois. À mon avis, ce qu'il faut, c'est au lieu d'écrire du code, ce qu'il faut, c'est écrire un concept de méthode qui est infaillible en fait. Et donc, il faut que tu mettes mes UV par rapport à la texel density, par rapport au maître. En fait, le truc, c'est que tu devais mettre à côté d'un d'un personnage Houdini le bon scale. Ensuite, je valide le scale et par rapport au scale, on détermine la bonne texel density pour réaliser la feuille de trim sheet. Je crois que c'est ça en fait la méthode. C'est on met l'asset à côté d'un d'un props, enfin d'un mannequin Manny de Houdini. Et du coup, tu mets un mannequin Manny en HDA, comme ça tu l'as dans le disque dur, mais à la bonne taille, à la taille normale quoi. Enfin à la taille 1,76 m environ. Et comme ça, on applique un texel density parfait dans le sens où on applique soit un texel density à 1024, soit 512, soit 2048. Mais en règle générale, on l'applique 1024 par défaut. Et donc toutes les phases partagées, elles sont pareilles. Tu utilises toujours un alignement sur la gauche et de haut en bas. Et voilà, et chaque couleur occupe une bande du coup, parce que chaque couleur est un matériau différent. Mais il faut vraiment que tu notes ça partout dans les skins. C'est en termes d'attribution et des UV, des texel density, il faut vraiment que ce soit parfait d'un coup. Comme ça à l'avenir, j'aurai juste à faire ma géométrie et une fois que j'aurai fait ma géométrie, je pourrai instancier le mannequin Manny. Je pourrai choisir le bon scale pour l'asset par rapport à trois propositions. Et je pourrai de manière automatisée choisir le bon texel density par rapport à une de tes propositions. En fait, une fois que j'ai choisi le scale, tu me proposes par rapport à l'attribution du scale de répartir les UV. Mais la répartition des UV doit être parfaite. Il doit y avoir aucun truc qui dépasse, aucun truc. Et une fois qu'on a la répartition des UV, je peux lancer ma génération de la height. Je te redonne ma height, on déclenche Zen Height et ensuite à partir de la height, on peut générer les cinq maps."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814058616.899196,
+      "id" : "0BB65A0C-7FFB-4034-86BD-F177793AED5C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc là, on a quasi le workflow ultime. Le tout, c'est de consigner tout ça exactement et ensuite que je puisse te valider la génération de la trim sheet par rapport à une bonne attribution des texel density. Le plus important, c'est que tu arrives à faire automatiquement à partager les UV qui se répètent et à bien les positionner via un dépliage automatique automatisé.",
+      "text" : "Donc là, on a quasi le workflow ultime. Le tout, c'est de consigner tout ça exactement et ensuite que je puisse te valider la génération de la trim sheet par rapport à une bonne attribution des texel density. Le plus important, c'est que tu arrives à faire automatiquement à partager les UV qui se répètent et à bien les positionner via un dépliage automatique automatisé."
     }
   ],
   "modes" : [
