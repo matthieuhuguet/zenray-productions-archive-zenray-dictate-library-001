@@ -6839,6 +6839,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Mais il faut bosser sur le fait que ce soit vraiment procédural. Ensuite, je te reconfirme si tu as réussi et ça permettra de valider tout le reste.",
       "text" : "Mais il faut bosser sur le fait que ce soit vraiment procédural. Ensuite, je te reconfirme si tu as réussi et ça permettra de valider tout le reste."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814044067.926226,
+      "id" : "CED3598C-2098-4852-AB70-A9C3F1D784A2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Par contre, c'est beaucoup mieux le fait d'avoir segmenté chaque élément de manière à le modifier directement. Ça, c'est beaucoup mieux, bravo. En revanche, on peut toujours pas le modifier proprement.",
+      "text" : "Par contre, c'est beaucoup mieux le fait d'avoir segmenté chaque élément de manière à le modifier directement. Ça, c'est beaucoup mieux, bravo. En revanche, on peut toujours pas le modifier proprement."
     }
   ],
   "modes" : [
