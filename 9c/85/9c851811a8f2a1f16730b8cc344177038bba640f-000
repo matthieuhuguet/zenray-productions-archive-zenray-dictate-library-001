@@ -6799,6 +6799,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Il faut que ce soit light comme une aide professionnelle parce que sinon ce sera trop puissant par rapport à l'existant. Donc fais vraiment très très light et très très subtil et très très élégant.",
       "text" : "Il faut que ce soit light comme une aide professionnelle parce que sinon ce sera trop puissant par rapport à l'existant. Donc fais vraiment très très light et très très subtil et très très élégant."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814042138.391846,
+      "id" : "9ADD0AA4-2565-41D6-8BD3-0AFAC2EF9F11",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Dernièrement, parmi de nombreuses conversations, je t'ai demandé de créer un prompt par rapport à un éclairage photo de studio. J'aimerais que tu reprennes toutes les conversations qui avaient une occurrence dans ce style et que tu me redonnes tout le prompt complet que j'aurais pu faire.",
+      "text" : "Dernièrement, parmi de nombreuses conversations, je t'ai demandé de créer un prompt par rapport à un éclairage photo de studio. J'aimerais que tu reprennes toutes les conversations qui avaient une occurrence dans ce style et que tu me redonnes tout le prompt complet que j'aurais pu faire."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814042145.857769,
+      "id" : "D012C909-1CED-4809-904B-1D60340737BC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il y a beaucoup de conversations.",
+      "text" : "Il y a beaucoup de conversations."
     }
   ],
   "modes" : [
