@@ -6969,6 +6969,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Donc dans Zenreplan, je dois pouvoir mettre des pièces jointes.",
       "text" : "Donc dans Zenreplan, je dois pouvoir mettre des pièces jointes."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814057601.63585,
+      "id" : "5CB55AF5-E277-48D5-A80D-78E8541BD54B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Regarde là, tu vois, l'arche elle est pas symétrique. J'aurais pas dû te le dire, mais tu devrais comprendre que c'est pas positionné au niveau du side exactement au centre du pilier, ce qui aurait dû être fait.",
+      "text" : "Regarde là, tu vois, l'arche elle est pas symétrique. J'aurais pas dû te le dire, mais tu devrais comprendre que c'est pas positionné au niveau du side exactement au centre du pilier, ce qui aurait dû être fait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814057686.206902,
+      "id" : "7FA705D3-3881-472B-8E50-B015329206E7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu peux me donner les texels density par pixel qui sont notamment déjà consignés dans le skill ?",
+      "text" : "Est-ce que tu peux me donner les texels density par pixel qui sont notamment déjà consignés dans le skill ?"
     }
   ],
   "modes" : [
