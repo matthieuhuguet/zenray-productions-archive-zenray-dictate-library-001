@@ -6649,6 +6649,46 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ensuite, ce que j'aimerais que tu fasses, c'est que tu me proposes trois designs pour une app qui s'appellerait Books et qui me permettrait de lire des livres, de sauvegarder ma progression, de changer la fonte. Bref, une app avec un design minimal qui reprend toutes les fonctionnalités de ces deux apps et qui soit hostée directement sur mon cloud Zenrépro.",
       "text" : "Ensuite, ce que j'aimerais que tu fasses, c'est que tu me proposes trois designs pour une app qui s'appellerait Books et qui me permettrait de lire des livres, de sauvegarder ma progression, de changer la fonte. Bref, une app avec un design minimal qui reprend toutes les fonctionnalités de ces deux apps et qui soit hostée directement sur mon cloud Zenrépro."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814040244.987456,
+      "id" : "1688ACDF-716E-4C09-BF02-92CB18C82983",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Écris plutôt dans le skill d'outil tiers cette règle de plutôt écrire comme ça. Et ensuite, modifie dans le skills, je ne sais plus si c'est dans cloud.md ou dans zendrey-houdini que je te demande de changer les dates. Donc c'est à cet endroit que tu le",
+      "text" : "Écris plutôt dans le skill d'outil tiers cette règle de plutôt écrire comme ça. Et ensuite, modifie dans le skills, je ne sais plus si c'est dans cloud.md ou dans zendrey-houdini que je te demande de changer les dates. Donc c'est à cet endroit que tu le"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814040286.427102,
+      "id" : "5829194D-D310-4D01-BD80-C04F13C7BD93",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Si tu n'as pas la date, regarde dans les métadonnées à quel moment la texture ou le fichier a été créé.",
+      "text" : "Si tu n'as pas la date, regarde dans les métadonnées à quel moment la texture ou le fichier a été créé."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814040326.612642,
+      "id" : "2DB35831-8EB9-4265-8859-305BF7DE6BEA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Demande-toi d'abord d'où vient cette règle et une fois que tu as la confirmation, fais ce que je te dis. Attends ma validation avant de le faire.",
+      "text" : "Demande-toi d'abord d'où vient cette règle et une fois que tu as la confirmation, fais ce que je te dis. Attends ma validation avant de le faire."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814040654.066637,
+      "id" : "DD4DB0DD-E10C-45CD-BF6F-73A87696997F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "car en effet ça casserait mais par contre note dans Claude.md et dans Zenrai-Houdini.",
+      "text" : "car en effet ça casserait mais par contre note dans Claude.md et dans Zenrai-Houdini."
     }
   ],
   "modes" : [
