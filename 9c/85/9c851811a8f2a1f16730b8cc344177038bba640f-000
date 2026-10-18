@@ -6689,6 +6689,56 @@
       "provider" : "Gemini live dictation",
       "rawText" : "car en effet ça casserait mais par contre note dans Claude.md et dans Zenrai-Houdini.",
       "text" : "car en effet ça casserait mais par contre note dans Claude.md et dans Zenrai-Houdini."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814040670.046577,
+      "id" : "3262EB36-537B-4902-B441-B5980DBD11FA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ça, c'est un exemple en fait.",
+      "text" : "Ça, c'est un exemple en fait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814040686.181446,
+      "id" : "A26F74A6-C9F0-4C3C-A7A4-1EE0A4F57D30",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ce qu'il faut c'est indiquer jour-mois en lettres-année en nombre et jour en nombre aussi.",
+      "text" : "Ce qu'il faut c'est indiquer jour-mois en lettres-année en nombre et jour en nombre aussi."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814041051.683587,
+      "id" : "76835C8A-B8B4-425D-9206-42350712814C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Redonne-moi la texture qui est actuellement donc la 8 qui est actuellement au niveau de la peinture blanche et dis-moi si elle a déjà été faite en tant que si elle a déjà été passée par Zenray 8 ou pas.",
+      "text" : "Redonne-moi la texture qui est actuellement donc la 8 qui est actuellement au niveau de la peinture blanche et dis-moi si elle a déjà été faite en tant que si elle a déjà été passée par Zenray 8 ou pas."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814041077.013766,
+      "id" : "50526FF0-65B6-4437-9469-3FDE820EB2DB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'aimerais si possible que dans ZRH tu mettes une validation peut-être par le nom. Normalement, c'est déjà marqué dans ZRH.",
+      "text" : "J'aimerais si possible que dans ZRH tu mettes une validation peut-être par le nom. Normalement, c'est déjà marqué dans ZRH."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814041100.428554,
+      "id" : "52D5D75C-0593-4F21-B3C5-DC9EFF4D3767",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Dis-moi si c'est une texture AI Gen ou si c'est une texture ZenRay.",
+      "text" : "Dis-moi si c'est une texture AI Gen ou si c'est une texture ZenRay."
     }
   ],
   "modes" : [
