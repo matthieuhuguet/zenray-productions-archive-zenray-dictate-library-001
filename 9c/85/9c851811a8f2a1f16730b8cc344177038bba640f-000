@@ -6619,6 +6619,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "En fait, regarde le teint sur celui-là, il est quasi parfait. Il aurait fallu utiliser quasi ce teint. Là, tu vois, le teint il est trop bleu, mais si tu le mets un teint un peu naturel, la peau elle est très jolie et ensuite tu as juste à mettre un fond gris qui s'adapte à la couleur. Parce que le problème, c'est que le Source Clean Studio Clean, il fait que la peau elle ressort pas parfaitement. Elle ressort un peu trop blanche. Donc là, c'est c'est quasi parfait via le masque rouge, sauf qu'il faut changer la teinte de la peau pour qu'elle soit pour qu'elle soit juste.",
       "text" : "En fait, regarde le teint sur celui-là, il est quasi parfait. Il aurait fallu utiliser quasi ce teint. Là, tu vois, le teint il est trop bleu, mais si tu le mets un teint un peu naturel, la peau elle est très jolie et ensuite tu as juste à mettre un fond gris qui s'adapte à la couleur. Parce que le problème, c'est que le Source Clean Studio Clean, il fait que la peau elle ressort pas parfaitement. Elle ressort un peu trop blanche. Donc là, c'est c'est quasi parfait via le masque rouge, sauf qu'il faut changer la teinte de la peau pour qu'elle soit pour qu'elle soit juste."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814039584.932638,
+      "id" : "16CD8C68-2D38-4AFB-B983-6E4AD13A59C5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ajoute aussi dans Zenray Edit à chaque fois qu'il propose un design, il doit copier automatiquement dans index et dans les skills le bon dossier, mais ça doit aussi partir dans un projet Zenray Assets.",
+      "text" : "Ajoute aussi dans Zenray Edit à chaque fois qu'il propose un design, il doit copier automatiquement dans index et dans les skills le bon dossier, mais ça doit aussi partir dans un projet Zenray Assets."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814039609.940133,
+      "id" : "800D9F2C-9DB7-4F09-8CA4-E4453902650F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le seul choix que je n'arrive pas à trancher, c'est est-ce que ça doit partir dans le fichier ZenRE Assets de ZenRE Edit du projet ZenRE Edit ou plutôt d'un nouveau projet en cours. Mais je pense plutôt que ça devrait partir dans ZenRE Edit, comme si ZenRE Edit était un projet de ZenRE Assets. Je sais pas si tu comprends.",
+      "text" : "Le seul choix que je n'arrive pas à trancher, c'est est-ce que ça doit partir dans le fichier ZenRE Assets de ZenRE Edit du projet ZenRE Edit ou plutôt d'un nouveau projet en cours. Mais je pense plutôt que ça devrait partir dans ZenRE Edit, comme si ZenRE Edit était un projet de ZenRE Assets. Je sais pas si tu comprends."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814039658.622422,
+      "id" : "0D388AA6-5A65-4E6A-931E-F09299F74136",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ensuite, ce que j'aimerais que tu fasses, c'est que tu me proposes trois designs pour une app qui s'appellerait Books et qui me permettrait de lire des livres, de sauvegarder ma progression, de changer la fonte. Bref, une app avec un design minimal qui reprend toutes les fonctionnalités de ces deux apps et qui soit hostée directement sur mon cloud Zenrépro.",
+      "text" : "Ensuite, ce que j'aimerais que tu fasses, c'est que tu me proposes trois designs pour une app qui s'appellerait Books et qui me permettrait de lire des livres, de sauvegarder ma progression, de changer la fonte. Bref, une app avec un design minimal qui reprend toutes les fonctionnalités de ces deux apps et qui soit hostée directement sur mon cloud Zenrépro."
     }
   ],
   "modes" : [
