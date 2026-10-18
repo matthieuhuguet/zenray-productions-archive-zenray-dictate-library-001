@@ -6879,6 +6879,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Maintenant, apply directement depuis la 8 et recompute les 5 maps. Ensuite, branche-les et fais un avant-après sur la",
       "text" : "Maintenant, apply directement depuis la 8 et recompute les 5 maps. Ensuite, branche-les et fais un avant-après sur la"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814052242.385739,
+      "id" : "02904665-CBC4-45B9-8B53-8A35C3471F8D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Arrêtons Cycles, je pense qu'il y a un problème au niveau du GPU et de mon Mac, donc ça va poser trop de problèmes. Donc ce qu'on va faire, c'est qu'on va utiliser directement Karma CPU parce que en fait je suis sur Mac. Donc tu vas plug correctement tous les matériaux et ça nous permettra de voir directement comment on plug les choses à l'ego.",
+      "text" : "Arrêtons Cycles, je pense qu'il y a un problème au niveau du GPU et de mon Mac, donc ça va poser trop de problèmes. Donc ce qu'on va faire, c'est qu'on va utiliser directement Karma CPU parce que en fait je suis sur Mac. Donc tu vas plug correctement tous les matériaux et ça nous permettra de voir directement comment on plug les choses à l'ego."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814052497.478743,
+      "id" : "00761889-35B0-42C6-A9ED-FD9E56749366",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu devrais prendre une seconde pour regarder la documentation officielle, savoir comment connecter les matériaux, faire en sorte qu'il n'y ait pas de problème de normales. Là, j'ai l'impression de faire une énorme régression et en plus rien ne fonctionne. Commence par faire une web search, vérifie toute la documentation, note dans un fichier qui s'appellera karma1.md, note-le dans zenrayhoudini.md et ensuite on plug directement si ça fonctionne. Première étape, c'est faire en sorte que le base color grey soit affiché partout sur Karma CPU.",
+      "text" : "Tu devrais prendre une seconde pour regarder la documentation officielle, savoir comment connecter les matériaux, faire en sorte qu'il n'y ait pas de problème de normales. Là, j'ai l'impression de faire une énorme régression et en plus rien ne fonctionne. Commence par faire une web search, vérifie toute la documentation, note dans un fichier qui s'appellera karma1.md, note-le dans zenrayhoudini.md et ensuite on plug directement si ça fonctionne. Première étape, c'est faire en sorte que le base color grey soit affiché partout sur Karma CPU."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814053080.170755,
+      "id" : "0A111218-6AB7-487F-9148-080BB0A1BD8A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu vois bien que la façade a un bug d'ombrage en fait.",
+      "text" : "Tu vois bien que la façade a un bug d'ombrage en fait."
     }
   ],
   "modes" : [
