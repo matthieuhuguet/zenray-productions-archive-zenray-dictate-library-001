@@ -6849,6 +6849,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Par contre, c'est beaucoup mieux le fait d'avoir segmenté chaque élément de manière à le modifier directement. Ça, c'est beaucoup mieux, bravo. En revanche, on peut toujours pas le modifier proprement.",
       "text" : "Par contre, c'est beaucoup mieux le fait d'avoir segmenté chaque élément de manière à le modifier directement. Ça, c'est beaucoup mieux, bravo. En revanche, on peut toujours pas le modifier proprement."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814049766.475106,
+      "id" : "6D898533-A492-44BE-87CC-EF92AB97F564",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est ce que je craignais. En fait, il faudrait que chaque bande s'aligne parfaitement avec les planches déjà existantes. Mais là, actuellement, ce que tu as fait dans le mix, c'est qu'il y a un problème parce que ça scale pas sur l'interstice des planches. En fait, la ligne doit scaler sur l'interstice des planches et pas en dessous. Essaie de le refaire proprement. Enfin, tu as juste à le transforme proprement sur chaque bande.",
+      "text" : "C'est ce que je craignais. En fait, il faudrait que chaque bande s'aligne parfaitement avec les planches déjà existantes. Mais là, actuellement, ce que tu as fait dans le mix, c'est qu'il y a un problème parce que ça scale pas sur l'interstice des planches. En fait, la ligne doit scaler sur l'interstice des planches et pas en dessous. Essaie de le refaire proprement. Enfin, tu as juste à le transforme proprement sur chaque bande."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814049789.244077,
+      "id" : "F1BC5D0F-B17F-46DA-B796-D6949ECE618E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je parle uniquement de la salissure sur les planches. Évidemment, tu ne bouges pas les planches existantes.",
+      "text" : "Je parle uniquement de la salissure sur les planches. Évidemment, tu ne bouges pas les planches existantes."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814050010.472451,
+      "id" : "56BDEFB7-690E-4413-9F79-7376F03A545E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Maintenant, apply directement depuis la 8 et recompute les 5 maps. Ensuite, branche-les et fais un avant-après sur la",
+      "text" : "Maintenant, apply directement depuis la 8 et recompute les 5 maps. Ensuite, branche-les et fais un avant-après sur la"
     }
   ],
   "modes" : [
