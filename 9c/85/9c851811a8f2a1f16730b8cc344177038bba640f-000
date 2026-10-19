@@ -7269,6 +7269,56 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Massive prend trop de mémoire. Il faudrait que tu essaies de coder exactement la même application, mais en beaucoup moins d'espace.",
       "text" : "Massive prend trop de mémoire. Il faudrait que tu essaies de coder exactement la même application, mais en beaucoup moins d'espace."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814123679.528337,
+      "id" : "B4C060C8-D157-4BEE-B747-63C99162CCD0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est pas un carré parfait, mais c'est un carré qui contient toutes les",
+      "text" : "C'est pas un carré parfait, mais c'est un carré qui contient toutes les"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814123686.751727,
+      "id" : "8661B866-154C-4E06-B1AC-034DB0CDA2A4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est pas un carré par famille, c'est un carré qui contient toutes les",
+      "text" : "C'est pas un carré par famille, c'est un carré qui contient toutes les"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814123715.171543,
+      "id" : "1D76B0DD-67F4-480E-8AD8-4B495EEA3BB3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Puisque ici tu ne displays pas le RGB via le channel packing, on ne peut pas savoir si ça a fonctionné en fait.",
+      "text" : "Puisque ici tu ne displays pas le RGB via le channel packing, on ne peut pas savoir si ça a fonctionné en fait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814123723.693076,
+      "id" : "36C2A16C-FA16-48EA-9860-B4990CEF0EA4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est surtout ici qu'il nous faudrait une texture pour voir que ça fonctionne bien.",
+      "text" : "C'est surtout ici qu'il nous faudrait une texture pour voir que ça fonctionne bien."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814123757.525469,
+      "id" : "6BC473C8-6D07-43A7-836E-3E7285A3451A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il faut du coup l'adapter au process de Houdini qui possède pas forcément de shaders qui peuvent se superposer, mais tu peux le faire au niveau de Copernicus en tout cas pour avoir un blend entre deux couleurs.",
+      "text" : "Il faut du coup l'adapter au process de Houdini qui possède pas forcément de shaders qui peuvent se superposer, mais tu peux le faire au niveau de Copernicus en tout cas pour avoir un blend entre deux couleurs."
     }
   ],
   "modes" : [
