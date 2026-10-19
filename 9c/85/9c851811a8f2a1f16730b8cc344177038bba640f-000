@@ -7379,6 +7379,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Normalement, en regardant l'image, tu vas comprendre exactement ce que je veux.",
       "text" : "Normalement, en regardant l'image, tu vas comprendre exactement ce que je veux."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814133868.095926,
+      "id" : "0ABD49C7-BD4B-4D81-866A-68A8D93E3F82",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais c'est pas logique parce que logiquement on demande toujours la même texel density, c'est juste la répartition des UV. J'ai l'impression que tu respectes pas les méthodes. J'ai l'impression que en fait juste tu répartis les les texels UV de manière random à chaque fois afin de satisfaire plus ou moins ma demande sans regarder sur Internet, etc. la vraie méthode, etc. Je te donne une dernière chance à partir de tous les feedbacks qu'on a déjà fait pour placer parfaitement nos UV, avoir une démarche artistique comme indiquée dans l'article de Naughty Dog, respecter toutes les demandes et adapter à Houdini. Par exemple, le mesh décale. Je comprends même pas ce que tu as essayé de faire en fait. Tu mets du texte alors que ça devait jouer uniquement sur la normale. Tu me montres pas le HTML. Tu me montres pas les fichiers de texture. Franchement, il y a encore beaucoup de taf à faire. Bon, itère une dernière fois sur toutes les méthodes en respectant ou en faisant des recherches directement.",
+      "text" : "Mais c'est pas logique parce que logiquement on demande toujours la même texel density, c'est juste la répartition des UV. J'ai l'impression que tu respectes pas les méthodes. J'ai l'impression que en fait juste tu répartis les les texels UV de manière random à chaque fois afin de satisfaire plus ou moins ma demande sans regarder sur Internet, etc. la vraie méthode, etc. Je te donne une dernière chance à partir de tous les feedbacks qu'on a déjà fait pour placer parfaitement nos UV, avoir une démarche artistique comme indiquée dans l'article de Naughty Dog, respecter toutes les demandes et adapter à Houdini. Par exemple, le mesh décale. Je comprends même pas ce que tu as essayé de faire en fait. Tu mets du texte alors que ça devait jouer uniquement sur la normale. Tu me montres pas le HTML. Tu me montres pas les fichiers de texture. Franchement, il y a encore beaucoup de taf à faire. Bon, itère une dernière fois sur toutes les méthodes en respectant ou en faisant des recherches directement."
     }
   ],
   "modes" : [
