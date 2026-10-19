@@ -7139,6 +7139,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Et comment à la manière de Trim UV Check, je peux avoir un Trim UV d'Excell ou juste un Excell UV Check ?",
       "text" : "Et comment à la manière de Trim UV Check, je peux avoir un Trim UV d'Excell ou juste un Excell UV Check ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814100001.759161,
+      "id" : "FC478741-6D04-42FA-8EB2-F4FFF1ED96EC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il faudrait repartir de zéro et me faire une leçon pour que je comprenne les texel density et les UV de A à Z. Donc tu me fais un document index comme tu m'avais fait pour le rooftile pour comprendre exactement tout avec des graphes interactifs où je peux bouger les sliders pour comprendre les choses. Et une fois que tu t'es assuré que j'avais tout compris, tu notes aussi dans claude.md global les leçons apprises dans memory et on itère uniquement sur ça. Donc commence à me faire une leçon digestible, compréhensible et accessible et ensuite je déterminerai comment approprier le bon asset, la bonne méthodologie d'UV et de texturing.",
+      "text" : "Il faudrait repartir de zéro et me faire une leçon pour que je comprenne les texel density et les UV de A à Z. Donc tu me fais un document index comme tu m'avais fait pour le rooftile pour comprendre exactement tout avec des graphes interactifs où je peux bouger les sliders pour comprendre les choses. Et une fois que tu t'es assuré que j'avais tout compris, tu notes aussi dans claude.md global les leçons apprises dans memory et on itère uniquement sur ça. Donc commence à me faire une leçon digestible, compréhensible et accessible et ensuite je déterminerai comment approprier le bon asset, la bonne méthodologie d'UV et de texturing."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814100055.161028,
+      "id" : "F41C7616-7CE3-44C1-955E-F9889C67448C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En résumé, détermine toutes les méthodes qu'utilisent les studios, mais dans un paragraphe simple et concis, et explique quelles méthodes ils privilégient par rapport à quel type d'asset.",
+      "text" : "En résumé, détermine toutes les méthodes qu'utilisent les studios, mais dans un paragraphe simple et concis, et explique quelles méthodes ils privilégient par rapport à quel type d'asset."
     }
   ],
   "modes" : [
