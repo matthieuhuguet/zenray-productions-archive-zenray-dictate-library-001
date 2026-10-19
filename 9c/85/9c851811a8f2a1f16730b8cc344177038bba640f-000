@@ -7399,6 +7399,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ma question, c'est dans Fire Emblem: Three Houses, à quoi servent les montures et sont-elles fortes contre",
       "text" : "Ma question, c'est dans Fire Emblem: Three Houses, à quoi servent les montures et sont-elles fortes contre"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814141679.345787,
+      "id" : "D7A4AB9E-CEB8-4A08-A6CB-2753864AAA96",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que via le câblage HDMI il n'y aurait pas moyen de coder une app qui permet à l'écran MacBook Retina sur mon Mac M5 Max de directement récupérer l'input de la Switch ? Je suis sûr qu'il y a une solution, trouve-la.",
+      "text" : "Est-ce que via le câblage HDMI il n'y aurait pas moyen de coder une app qui permet à l'écran MacBook Retina sur mon Mac M5 Max de directement récupérer l'input de la Switch ? Je suis sûr qu'il y a une solution, trouve-la."
     }
   ],
   "modes" : [
