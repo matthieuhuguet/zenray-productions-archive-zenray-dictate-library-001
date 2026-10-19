@@ -7259,6 +7259,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Peut-être qu'on peut aussi ajouter de la virtual memory via le disque dur.",
       "text" : "Peut-être qu'on peut aussi ajouter de la virtual memory via le disque dur."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814117610.298721,
+      "id" : "AAC4487A-F0DC-4145-A137-D38176452E79",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Massive prend trop de mémoire. Il faudrait que tu essaies de coder exactement la même application, mais en beaucoup moins d'espace.",
+      "text" : "Massive prend trop de mémoire. Il faudrait que tu essaies de coder exactement la même application, mais en beaucoup moins d'espace."
     }
   ],
   "modes" : [
