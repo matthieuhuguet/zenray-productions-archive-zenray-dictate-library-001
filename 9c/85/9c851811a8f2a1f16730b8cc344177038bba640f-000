@@ -7159,6 +7159,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "En résumé, détermine toutes les méthodes qu'utilisent les studios, mais dans un paragraphe simple et concis, et explique quelles méthodes ils privilégient par rapport à quel type d'asset.",
       "text" : "En résumé, détermine toutes les méthodes qu'utilisent les studios, mais dans un paragraphe simple et concis, et explique quelles méthodes ils privilégient par rapport à quel type d'asset."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814109605.717141,
+      "id" : "C275EF23-275A-4C9E-989E-46086EE1CA50",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Dans Fire Emblem Fates, est-ce que si un invité meurt pendant la partie et que tu es en mode classique, est-ce qu'il meurt définitivement pour tous les autres playthrough ou pas ? J'ai la confirmation que si mes personnages sont dans mon équipe et qu'ils meurent, peu importe le combat, ils ne reviennent pas. Donc je me demande si c'est pareil avec les invités.",
+      "text" : "Dans Fire Emblem Fates, est-ce que si un invité meurt pendant la partie et que tu es en mode classique, est-ce qu'il meurt définitivement pour tous les autres playthrough ou pas ? J'ai la confirmation que si mes personnages sont dans mon équipe et qu'ils meurent, peu importe le combat, ils ne reviennent pas. Donc je me demande si c'est pareil avec les invités."
     }
   ],
   "modes" : [
