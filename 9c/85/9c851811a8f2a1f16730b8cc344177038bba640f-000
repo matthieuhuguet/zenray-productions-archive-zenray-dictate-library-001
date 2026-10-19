@@ -7079,6 +7079,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "En fait, c'est pas ce qu'on va faire. Finalement, je pense qu'on va changer de méthode. En fait, on va faire un",
       "text" : "En fait, c'est pas ce qu'on va faire. Finalement, je pense qu'on va changer de méthode. En fait, on va faire un"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814091911.293237,
+      "id" : "30135D9F-60D8-41FC-ACD3-4A6BBD283E90",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu peux me résumer ce que fait Zen UV Trim Sheet ?",
+      "text" : "Est-ce que tu peux me résumer ce que fait Zen UV Trim Sheet ?"
     }
   ],
   "modes" : [
