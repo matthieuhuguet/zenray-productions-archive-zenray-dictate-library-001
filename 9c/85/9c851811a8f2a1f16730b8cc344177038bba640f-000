@@ -7329,6 +7329,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "De M1 à M5, en fait, ce qu'il me manque, c'est surtout des exemples pour être sûr que ça fonctionne via le visuel de rendu. C'est vrai que tu m'as fait l'UV checker et c'est pas mal. Mais déjà, l'UV checker, il devrait être noir et blanc, je pense, parce que ça a pas trop d'intérêt qu'il soit bleu et rose. Et ensuite, il faudrait mettre des textures pour être sûr que tout fonctionne bien. En fait, il manque une vue trois-quarts qui possède une texture pour me faire une prévisualisation dans le HTML.",
       "text" : "De M1 à M5, en fait, ce qu'il me manque, c'est surtout des exemples pour être sûr que ça fonctionne via le visuel de rendu. C'est vrai que tu m'as fait l'UV checker et c'est pas mal. Mais déjà, l'UV checker, il devrait être noir et blanc, je pense, parce que ça a pas trop d'intérêt qu'il soit bleu et rose. Et ensuite, il faudrait mettre des textures pour être sûr que tout fonctionne bien. En fait, il manque une vue trois-quarts qui possède une texture pour me faire une prévisualisation dans le HTML."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814129379.421224,
+      "id" : "7C11DB15-6F54-4010-A4FB-CD7F01C4CA2E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je comprends pas pourquoi tu arrives pas, mais je viens de capter peut-être un problème. Déjà 8192 ça peut jamais exister parce que ça fait des textures beaucoup trop lourdes, donc bannis ça de notre méthodologie globale.",
+      "text" : "Je comprends pas pourquoi tu arrives pas, mais je viens de capter peut-être un problème. Déjà 8192 ça peut jamais exister parce que ça fait des textures beaucoup trop lourdes, donc bannis ça de notre méthodologie globale."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814129441.525628,
+      "id" : "9D96DF2D-C1D4-4633-B2C2-E8CCAAE13F56",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ensuite, peut-être qu'il faudrait straight les UV, c'est-à-dire les rendre droits. Par exemple, peut-être que tu pourrais essayer de rendre droit les arches afin que le pattern soit plus intéressant. Ensuite, le problème de la coupure et de mettre des coupures un peu partout, c'est que du coup certaines connexions devraient être plus proches. Notamment par exemple, tu peux voir que toutes les coupures de l'arche coupent globalement un peu trop nos textures de bandes, mais c'est sans doute parce que les textures ne sont pas straight.",
+      "text" : "Ensuite, peut-être qu'il faudrait straight les UV, c'est-à-dire les rendre droits. Par exemple, peut-être que tu pourrais essayer de rendre droit les arches afin que le pattern soit plus intéressant. Ensuite, le problème de la coupure et de mettre des coupures un peu partout, c'est que du coup certaines connexions devraient être plus proches. Notamment par exemple, tu peux voir que toutes les coupures de l'arche coupent globalement un peu trop nos textures de bandes, mais c'est sans doute parce que les textures ne sont pas straight."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814129532.881473,
+      "id" : "B989FB1F-6D6E-4606-A771-21EB5ED1F653",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ensuite, il faut vraiment qu'un pattern, par exemple, il faut vraiment identifier que si c'est la même island ou si c'est la même découpe, il faudrait faire en sorte que le En fait, je pense que si on ajoute des règles au fur et à mesure, ça va marcher. Ce que j'aimerais faire actuellement, c'est que mes UV, comment dire, tu vois par exemple pour la pour la M1 UV unique et bake, c'est n'importe quoi, tu vois. Tu avais pas le droit de faire une texture de 8192. C'est beaucoup trop gros.",
+      "text" : "Ensuite, il faut vraiment qu'un pattern, par exemple, il faut vraiment identifier que si c'est la même island ou si c'est la même découpe, il faudrait faire en sorte que le En fait, je pense que si on ajoute des règles au fur et à mesure, ça va marcher. Ce que j'aimerais faire actuellement, c'est que mes UV, comment dire, tu vois par exemple pour la pour la M1 UV unique et bake, c'est n'importe quoi, tu vois. Tu avais pas le droit de faire une texture de 8192. C'est beaucoup trop gros."
     }
   ],
   "modes" : [
