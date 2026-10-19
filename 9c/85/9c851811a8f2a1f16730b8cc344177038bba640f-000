@@ -7109,6 +7109,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Étant donné que tous les modèles d'IA frontière ont des milliards de paramètres dans leur corps, finalement, comment est-ce qu'on fait pour demander à une IA d'au lieu de regarder dans le web search, qu'elle regarde elle-même dans son data search ? J'imagine que ça lui demande de think plus longtemps, mais quelle serait l'instruction précise en une ligne pour demander d'aller chercher dans les milliards de paramètres plutôt que de faire une web search par rapport à un modèle comme Gemini 4, Claude Opus 5.5 ou GPT-6 ?",
       "text" : "Étant donné que tous les modèles d'IA frontière ont des milliards de paramètres dans leur corps, finalement, comment est-ce qu'on fait pour demander à une IA d'au lieu de regarder dans le web search, qu'elle regarde elle-même dans son data search ? J'imagine que ça lui demande de think plus longtemps, mais quelle serait l'instruction précise en une ligne pour demander d'aller chercher dans les milliards de paramètres plutôt que de faire une web search par rapport à un modèle comme Gemini 4, Claude Opus 5.5 ou GPT-6 ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814095725.914251,
+      "id" : "0AC75043-5C36-4EE1-8AB2-77C00642B8B7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, je ne comprends pas trop ce qu'on fait actuellement. En fait, on fait juste un dépliage UV classique au final.",
+      "text" : "En fait, je ne comprends pas trop ce qu'on fait actuellement. En fait, on fait juste un dépliage UV classique au final."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814095810.646446,
+      "id" : "045DE2FB-CFD1-4E37-B205-099C0869392E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-il vraiment utile de passer de 5 à 3",
+      "text" : "Est-il vraiment utile de passer de 5 à 3"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814095840.598957,
+      "id" : "90189467-746E-4D8C-B017-3CB1148CB69E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et comment à la manière de Trim UV Check, je peux avoir un Trim UV d'Excell ou juste un Excell UV Check ?",
+      "text" : "Et comment à la manière de Trim UV Check, je peux avoir un Trim UV d'Excell ou juste un Excell UV Check ?"
     }
   ],
   "modes" : [
