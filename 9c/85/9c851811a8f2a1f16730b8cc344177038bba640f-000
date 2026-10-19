@@ -7359,6 +7359,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ensuite, il faut vraiment qu'un pattern, par exemple, il faut vraiment identifier que si c'est la même island ou si c'est la même découpe, il faudrait faire en sorte que le En fait, je pense que si on ajoute des règles au fur et à mesure, ça va marcher. Ce que j'aimerais faire actuellement, c'est que mes UV, comment dire, tu vois par exemple pour la pour la M1 UV unique et bake, c'est n'importe quoi, tu vois. Tu avais pas le droit de faire une texture de 8192. C'est beaucoup trop gros.",
       "text" : "Ensuite, il faut vraiment qu'un pattern, par exemple, il faut vraiment identifier que si c'est la même island ou si c'est la même découpe, il faudrait faire en sorte que le En fait, je pense que si on ajoute des règles au fur et à mesure, ça va marcher. Ce que j'aimerais faire actuellement, c'est que mes UV, comment dire, tu vois par exemple pour la pour la M1 UV unique et bake, c'est n'importe quoi, tu vois. Tu avais pas le droit de faire une texture de 8192. C'est beaucoup trop gros."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814129733.954824,
+      "id" : "BB5733AE-B9B0-4341-B9BC-F75F6E61E32A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ensuite, hormis pour cette méthode, je pense que par exemple lorsqu'il y a le signe qui représente un peu une forme de montagne ou de deux triangles les uns à côté des autres, ça devrait être dans la même orientation et dans la même longueur. Et si par exemple c'est une trim sheet, ben ça devait être stacké en fait. C'est ça qui est bizarre, c'est que en fait les UV ne semblent pas propres actuellement. Ce qu'il faudrait, c'est que chaque UV, lorsque je le regarde, il soit parfait comme s'il avait été fait par un artiste ou un designer. Parce que OK, ça marche, mais ça marche pas parfaitement en fait. Je vais te donner des références de trim sheet qui auraient été faites par Naughty Dog et tu vas essayer de t'en inspirer pour créer des UV parfaites. Peu importe la méthode, il faut un peu que respecte l'image fournie.",
+      "text" : "Ensuite, hormis pour cette méthode, je pense que par exemple lorsqu'il y a le signe qui représente un peu une forme de montagne ou de deux triangles les uns à côté des autres, ça devrait être dans la même orientation et dans la même longueur. Et si par exemple c'est une trim sheet, ben ça devait être stacké en fait. C'est ça qui est bizarre, c'est que en fait les UV ne semblent pas propres actuellement. Ce qu'il faudrait, c'est que chaque UV, lorsque je le regarde, il soit parfait comme s'il avait été fait par un artiste ou un designer. Parce que OK, ça marche, mais ça marche pas parfaitement en fait. Je vais te donner des références de trim sheet qui auraient été faites par Naughty Dog et tu vas essayer de t'en inspirer pour créer des UV parfaites. Peu importe la méthode, il faut un peu que respecte l'image fournie."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814129765.148472,
+      "id" : "AA54413A-47E6-4CCA-A839-F22DBCAED6DA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Normalement, en regardant l'image, tu vas comprendre exactement ce que je veux.",
+      "text" : "Normalement, en regardant l'image, tu vas comprendre exactement ce que je veux."
     }
   ],
   "modes" : [
