@@ -7059,6 +7059,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "En soi, du coup, je vois pas comment un studio pourrait faire sans ma méthode pour texturer tout ce qui va être bâtiment et n'importe quel objet de type hard surface. Ça me semblerait bizarre d'aller directement à chaque fois dans Substance Painter pour texturer chaque asset, ce serait bizarre. C'est pour ça que ma méthode, je la trouve intéressante parce qu'en soi, c'est à partir de la géo, tu obtiens l'UDIM. Mais en fait, au-delà de l'UDIM, c'est juste que ça fait un dépliage parfait et que l'UDIM sert surtout à avoir un color ID plus un texel density parfait, ce qui permet ensuite de texturer parfaitement. Mais je vois pas comment faire autrement hormis faire un color ID avec plusieurs matériaux.",
       "text" : "En soi, du coup, je vois pas comment un studio pourrait faire sans ma méthode pour texturer tout ce qui va être bâtiment et n'importe quel objet de type hard surface. Ça me semblerait bizarre d'aller directement à chaque fois dans Substance Painter pour texturer chaque asset, ce serait bizarre. C'est pour ça que ma méthode, je la trouve intéressante parce qu'en soi, c'est à partir de la géo, tu obtiens l'UDIM. Mais en fait, au-delà de l'UDIM, c'est juste que ça fait un dépliage parfait et que l'UDIM sert surtout à avoir un color ID plus un texel density parfait, ce qui permet ensuite de texturer parfaitement. Mais je vois pas comment faire autrement hormis faire un color ID avec plusieurs matériaux."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814091522.039382,
+      "id" : "6CEC53AC-BF00-4275-8ED9-DF507EB4201F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, je me pose la question si c'est vraiment intelligent parce que certes ça peut marcher, mais en fait",
+      "text" : "En fait, je me pose la question si c'est vraiment intelligent parce que certes ça peut marcher, mais en fait"
     }
   ],
   "modes" : [
