@@ -7239,6 +7239,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Le but, c'est que ce soit le plus versatile possible. Il faut faire les choses parfaitement.",
       "text" : "Le but, c'est que ce soit le plus versatile possible. Il faut faire les choses parfaitement."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814117216.275073,
+      "id" : "911A8BE8-6700-4BBB-B283-F1C4FF28678B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Identifie les apps qui prennent de la ressource en mémoire vive et ensuite je déterminerai avec ma validation s'il faut les supprimer, les désinstaller proprement et ou instaurer des politiques de limite de mémoire.",
+      "text" : "Identifie les apps qui prennent de la ressource en mémoire vive et ensuite je déterminerai avec ma validation s'il faut les supprimer, les désinstaller proprement et ou instaurer des politiques de limite de mémoire."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814117235.132329,
+      "id" : "82373174-F347-4F4F-9275-E60F5E3BB190",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Peut-être qu'on peut aussi ajouter de la virtual memory via le disque dur.",
+      "text" : "Peut-être qu'on peut aussi ajouter de la virtual memory via le disque dur."
     }
   ],
   "modes" : [
