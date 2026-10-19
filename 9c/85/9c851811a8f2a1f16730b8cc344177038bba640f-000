@@ -7089,6 +7089,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Est-ce que tu peux me résumer ce que fait Zen UV Trim Sheet ?",
       "text" : "Est-ce que tu peux me résumer ce que fait Zen UV Trim Sheet ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814092544.472016,
+      "id" : "1BC5C586-D92A-4CBC-A028-57A725830509",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais tu vois, c'est toujours le même problème. C'est soit on génère la feuille d'abord, soit on génère la géométrie d'abord, mais on sait jamais exactement comment faire les choses. En fait, avec un outil de génération d'IA comme ChatGPT qui peut s'adapter peu importe la trimsheet qu'on lui donne, il faudrait plutôt se poser la question quelle serait la meilleure méthode à l'ère de l'IA où ChatGPT Image peut générer une height depuis n'importe quelle contrainte. En fait, pars du principe que ChatGPT aura généré n'importe quelle height. Dans ce cas-là, est-ce qu'il vaut mieux déplier les UV depuis la géométrie ? Est-ce qu'il vaut mieux stacker les UV dans une trimsheet ? Est-ce qu'il vaut mieux générer la feuille de trimsheet d'abord, mais du coup ça demande de déterminer le texel density après ? En fait, il faut se poser la question de comment est-ce que on génère des UV et des matériaux reliés à une géométrie avec un workflow AI native à l'ère de Claude Code et de ChatGPT Image pour en tirer parti.",
+      "text" : "Mais tu vois, c'est toujours le même problème. C'est soit on génère la feuille d'abord, soit on génère la géométrie d'abord, mais on sait jamais exactement comment faire les choses. En fait, avec un outil de génération d'IA comme ChatGPT qui peut s'adapter peu importe la trimsheet qu'on lui donne, il faudrait plutôt se poser la question quelle serait la meilleure méthode à l'ère de l'IA où ChatGPT Image peut générer une height depuis n'importe quelle contrainte. En fait, pars du principe que ChatGPT aura généré n'importe quelle height. Dans ce cas-là, est-ce qu'il vaut mieux déplier les UV depuis la géométrie ? Est-ce qu'il vaut mieux stacker les UV dans une trimsheet ? Est-ce qu'il vaut mieux générer la feuille de trimsheet d'abord, mais du coup ça demande de déterminer le texel density après ? En fait, il faut se poser la question de comment est-ce que on génère des UV et des matériaux reliés à une géométrie avec un workflow AI native à l'ère de Claude Code et de ChatGPT Image pour en tirer parti."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814092711.528638,
+      "id" : "741AB07B-812F-453E-B78C-3F0DEB1C588B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Étant donné que tous les modèles d'IA frontière ont des milliards de paramètres dans leur corps, finalement, comment est-ce qu'on fait pour demander à une IA d'au lieu de regarder dans le web search, qu'elle regarde elle-même dans son data search ? J'imagine que ça lui demande de think plus longtemps, mais quelle serait l'instruction précise en une ligne pour demander d'aller chercher dans les milliards de paramètres plutôt que de faire une web search par rapport à un modèle comme Gemini 4, Claude Opus 5.5 ou GPT-6 ?",
+      "text" : "Étant donné que tous les modèles d'IA frontière ont des milliards de paramètres dans leur corps, finalement, comment est-ce qu'on fait pour demander à une IA d'au lieu de regarder dans le web search, qu'elle regarde elle-même dans son data search ? J'imagine que ça lui demande de think plus longtemps, mais quelle serait l'instruction précise en une ligne pour demander d'aller chercher dans les milliards de paramètres plutôt que de faire une web search par rapport à un modèle comme Gemini 4, Claude Opus 5.5 ou GPT-6 ?"
     }
   ],
   "modes" : [
