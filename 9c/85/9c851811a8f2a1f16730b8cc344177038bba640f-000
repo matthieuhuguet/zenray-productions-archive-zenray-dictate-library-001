@@ -7069,6 +7069,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "En fait, je me pose la question si c'est vraiment intelligent parce que certes ça peut marcher, mais en fait",
       "text" : "En fait, je me pose la question si c'est vraiment intelligent parce que certes ça peut marcher, mais en fait"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814091876.751075,
+      "id" : "0A8464D7-8E18-4BD4-BB0D-062FA6D11EE9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, c'est pas ce qu'on va faire. Finalement, je pense qu'on va changer de méthode. En fait, on va faire un",
+      "text" : "En fait, c'est pas ce qu'on va faire. Finalement, je pense qu'on va changer de méthode. En fait, on va faire un"
     }
   ],
   "modes" : [
