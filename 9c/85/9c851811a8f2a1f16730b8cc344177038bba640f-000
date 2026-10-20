@@ -7429,6 +7429,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Note d'oncle Claude, la meilleure météo.",
       "text" : "Note d'oncle Claude, la meilleure météo."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814206037.603283,
+      "id" : "0DE3B21F-D01E-460C-BB12-5FA63EE5E68E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Comment cuire des lentilles ?",
+      "text" : "Comment cuire des lentilles ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814206086.332835,
+      "id" : "8B857878-ECF7-497C-8C25-F1A92A337DD1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce qu'il est possible d'utiliser son crédit API Claude Code directement sur l'application Claude Desktop ou c'est uniquement possible via le terminal ?",
+      "text" : "Est-ce qu'il est possible d'utiliser son crédit API Claude Code directement sur l'application Claude Desktop ou c'est uniquement possible via le terminal ?"
     }
   ],
   "modes" : [
