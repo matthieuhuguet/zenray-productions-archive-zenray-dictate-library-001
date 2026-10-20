@@ -7419,6 +7419,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "I wish you the best of luck.",
       "text" : "I wish you the best of luck."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814189399.686175,
+      "id" : "F738D316-53EC-4CF9-B1C5-A5FA251E79AF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Note d'oncle Claude, la meilleure météo.",
+      "text" : "Note d'oncle Claude, la meilleure météo."
     }
   ],
   "modes" : [
