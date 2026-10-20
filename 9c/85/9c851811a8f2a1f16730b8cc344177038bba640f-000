@@ -7479,6 +7479,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "En fait, je viens de comprendre ce que je voulais. Je veux que ce soit comme un En fait, la vue et le design doivent être comme un article, mais le style et le ton doivent pas être comme un article justement. En fait, ça doit expliquer ce que c'est de la manière la plus simple possible, mais pas sous la forme d'un article, juste sous la forme de peut-être Wikipédia plutôt. Par exemple, Wikipédia, il fait pas d'article, mais il présente les informations de manière factuelle. Ben là, c'est un peu le même ton que j'aimerais appliquer. Parce que en fait le problème, c'est que sinon tu fais des figures de style qui ont rien à faire dans des trucs de 3D. Donc en fait, je veux juste de la manière la plus simple et la manière la plus descriptive et courte créer ces articles et ensuite consigne toutes ces instructions directement dans dans l'article. Par exemple le prompt, ben tu changes pas un mot.",
       "text" : "En fait, je viens de comprendre ce que je voulais. Je veux que ce soit comme un En fait, la vue et le design doivent être comme un article, mais le style et le ton doivent pas être comme un article justement. En fait, ça doit expliquer ce que c'est de la manière la plus simple possible, mais pas sous la forme d'un article, juste sous la forme de peut-être Wikipédia plutôt. Par exemple, Wikipédia, il fait pas d'article, mais il présente les informations de manière factuelle. Ben là, c'est un peu le même ton que j'aimerais appliquer. Parce que en fait le problème, c'est que sinon tu fais des figures de style qui ont rien à faire dans des trucs de 3D. Donc en fait, je veux juste de la manière la plus simple et la manière la plus descriptive et courte créer ces articles et ensuite consigne toutes ces instructions directement dans dans l'article. Par exemple le prompt, ben tu changes pas un mot."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814208465.241067,
+      "id" : "828B8575-99EE-4E4C-BA6F-0250F2392249",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, ce qu'il reste à faire, c'est au niveau de la gorge et au niveau de la joue du cochon. Regarde sur la planche UV, les UV que tu as fait au niveau de la tête. Si tu regardes uniquement le vert, c'est pas symétrique alors que ça aurait dû l'être. Alors que sur celui de SideFX, on voit bien que c'est bien symétrique et bien propre parce qu'il a pris au niveau de l'arête qui rentre dans dans la dans la gorge du cochon et qui part sur la joue. Donc en fait, si tu regardes left de ZRU V, au niveau du haut, c'est propre mais tu aurais dû faire une découpe qui découpe proprement toute la gorge à ce niveau-là. Et en fait, entre left et right, tu vois bien que c'est pas symétrique. Et la gorge du cou qui est qui est du coup rose ou un peu orange, elle aurait dû être coupée beaucoup plus proprement et beaucoup plus droite parce que si tu remarques au niveau du buste du cochon, c'est pas propre et tu as encore refait une espèce de bordure d'escalier. Donc il reste ce léger détail et évidemment tout consigner dans le",
+      "text" : "En fait, ce qu'il reste à faire, c'est au niveau de la gorge et au niveau de la joue du cochon. Regarde sur la planche UV, les UV que tu as fait au niveau de la tête. Si tu regardes uniquement le vert, c'est pas symétrique alors que ça aurait dû l'être. Alors que sur celui de SideFX, on voit bien que c'est bien symétrique et bien propre parce qu'il a pris au niveau de l'arête qui rentre dans dans la dans la gorge du cochon et qui part sur la joue. Donc en fait, si tu regardes left de ZRU V, au niveau du haut, c'est propre mais tu aurais dû faire une découpe qui découpe proprement toute la gorge à ce niveau-là. Et en fait, entre left et right, tu vois bien que c'est pas symétrique. Et la gorge du cou qui est qui est du coup rose ou un peu orange, elle aurait dû être coupée beaucoup plus proprement et beaucoup plus droite parce que si tu remarques au niveau du buste du cochon, c'est pas propre et tu as encore refait une espèce de bordure d'escalier. Donc il reste ce léger détail et évidemment tout consigner dans le"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814208498.551253,
+      "id" : "0AE3A6DA-4EEA-4358-9CDA-A9EF337FBF6C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais évidemment, tu as pas le droit de juste comparer les deux et compute à partir de side effects. Ce doit être l'algorithme qui détermine automatiquement proprement les choses.",
+      "text" : "Mais évidemment, tu as pas le droit de juste comparer les deux et compute à partir de side effects. Ce doit être l'algorithme qui détermine automatiquement proprement les choses."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814209014.892557,
+      "id" : "8F50FD54-2A17-4216-8495-93A1E1128634",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Actuellement dans ma vue assets de directement sur le site, mes miniatures sont très très moches. Identifie pourquoi et ensuite je te donne la solution pour changer",
+      "text" : "Actuellement dans ma vue assets de directement sur le site, mes miniatures sont très très moches. Identifie pourquoi et ensuite je te donne la solution pour changer"
     }
   ],
   "modes" : [
