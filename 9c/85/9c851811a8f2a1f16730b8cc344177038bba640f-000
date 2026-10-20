@@ -7409,6 +7409,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Est-ce que via le câblage HDMI il n'y aurait pas moyen de coder une app qui permet à l'écran MacBook Retina sur mon Mac M5 Max de directement récupérer l'input de la Switch ? Je suis sûr qu'il y a une solution, trouve-la.",
       "text" : "Est-ce que via le câblage HDMI il n'y aurait pas moyen de coder une app qui permet à l'écran MacBook Retina sur mon Mac M5 Max de directement récupérer l'input de la Switch ? Je suis sûr qu'il y a une solution, trouve-la."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814188374.543607,
+      "id" : "BACBA7B7-B058-4FBC-82CC-6572456207E9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "I wish you the best of luck.",
+      "text" : "I wish you the best of luck."
     }
   ],
   "modes" : [
