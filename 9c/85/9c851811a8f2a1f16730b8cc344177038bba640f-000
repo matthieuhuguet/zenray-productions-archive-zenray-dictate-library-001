@@ -7449,6 +7449,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Est-ce qu'il est possible d'utiliser son crédit API Claude Code directement sur l'application Claude Desktop ou c'est uniquement possible via le terminal ?",
       "text" : "Est-ce qu'il est possible d'utiliser son crédit API Claude Code directement sur l'application Claude Desktop ou c'est uniquement possible via le terminal ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814206291.580236,
+      "id" : "4897FBF7-B6FA-42BF-9901-14964A8EAC63",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "OK, nickel. En revanche, l'article aurait pu être un tout petit peu plus court.",
+      "text" : "OK, nickel. En revanche, l'article aurait pu être un tout petit peu plus court."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814206437.667508,
+      "id" : "6B5F1866-EB90-4096-B4E2-684CE7097DA4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'aimerais que tu ajoutes directement, soit via des liens dynamiques, soit directement via toutes les images du projet. Je veux que tu affiches l'image du projet puis toutes les images téléchargées directement dans la vue design de Zendesk.",
+      "text" : "J'aimerais que tu ajoutes directement, soit via des liens dynamiques, soit directement via toutes les images du projet. Je veux que tu affiches l'image du projet puis toutes les images téléchargées directement dans la vue design de Zendesk."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814206715.805907,
+      "id" : "FE08D02E-0397-4839-9AA9-6F5BF2D615A0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, je viens de comprendre ce que je voulais. Je veux que ce soit comme un En fait, la vue et le design doivent être comme un article, mais le style et le ton doivent pas être comme un article justement. En fait, ça doit expliquer ce que c'est de la manière la plus simple possible, mais pas sous la forme d'un article, juste sous la forme de peut-être Wikipédia plutôt. Par exemple, Wikipédia, il fait pas d'article, mais il présente les informations de manière factuelle. Ben là, c'est un peu le même ton que j'aimerais appliquer. Parce que en fait le problème, c'est que sinon tu fais des figures de style qui ont rien à faire dans des trucs de 3D. Donc en fait, je veux juste de la manière la plus simple et la manière la plus descriptive et courte créer ces articles et ensuite consigne toutes ces instructions directement dans dans l'article. Par exemple le prompt, ben tu changes pas un mot.",
+      "text" : "En fait, je viens de comprendre ce que je voulais. Je veux que ce soit comme un En fait, la vue et le design doivent être comme un article, mais le style et le ton doivent pas être comme un article justement. En fait, ça doit expliquer ce que c'est de la manière la plus simple possible, mais pas sous la forme d'un article, juste sous la forme de peut-être Wikipédia plutôt. Par exemple, Wikipédia, il fait pas d'article, mais il présente les informations de manière factuelle. Ben là, c'est un peu le même ton que j'aimerais appliquer. Parce que en fait le problème, c'est que sinon tu fais des figures de style qui ont rien à faire dans des trucs de 3D. Donc en fait, je veux juste de la manière la plus simple et la manière la plus descriptive et courte créer ces articles et ensuite consigne toutes ces instructions directement dans dans l'article. Par exemple le prompt, ben tu changes pas un mot."
     }
   ],
   "modes" : [
