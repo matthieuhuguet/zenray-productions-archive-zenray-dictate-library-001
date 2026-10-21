@@ -7679,6 +7679,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ma question est très simple et tu vas me donner la réponse en un paragraphe. Ce que je ne comprends pas, c'est comment est-ce que on peut déterminer depuis un objet 3D une surface en mètres carrés, surtout si on regarde le rubber toy par exemple. Notamment sur un objet organique. Sur un objet hard surface, j'arrive à comprendre, par exemple une table, il suffirait de mesurer le haut de la table et le bas de la table. Mais pour un objet organique qui va avoir des déformations comme le rubber toy, je ne sais pas comment calculer en mètres carrés le nombre exact de pixels qu'il faudrait par mètre. On définit toujours la densité d'un projet au début, donc soit 1024 ou 2048, mais ce que je ne comprends pas, c'est comment on calcule la taille en mètres carrés. Est-ce que en fait au final on calcule simplement la couture directement ? J'arrive pas à comprendre, fais-moi un petit schéma ou diagramme.",
       "text" : "Ma question est très simple et tu vas me donner la réponse en un paragraphe. Ce que je ne comprends pas, c'est comment est-ce que on peut déterminer depuis un objet 3D une surface en mètres carrés, surtout si on regarde le rubber toy par exemple. Notamment sur un objet organique. Sur un objet hard surface, j'arrive à comprendre, par exemple une table, il suffirait de mesurer le haut de la table et le bas de la table. Mais pour un objet organique qui va avoir des déformations comme le rubber toy, je ne sais pas comment calculer en mètres carrés le nombre exact de pixels qu'il faudrait par mètre. On définit toujours la densité d'un projet au début, donc soit 1024 ou 2048, mais ce que je ne comprends pas, c'est comment on calcule la taille en mètres carrés. Est-ce que en fait au final on calcule simplement la couture directement ? J'arrive pas à comprendre, fais-moi un petit schéma ou diagramme."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814282529.897311,
+      "id" : "B1035BE6-8E69-440B-A760-5FBB148CB3BA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu mesures par rapport à la surface la plus grande, c'est ça ?",
+      "text" : "Tu mesures par rapport à la surface la plus grande, c'est ça ?"
     }
   ],
   "modes" : [
