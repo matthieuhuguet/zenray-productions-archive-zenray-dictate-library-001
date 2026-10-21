@@ -7719,6 +7719,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Donc en fait, si j'ai bien compris, corrige-moi si je me trompe, un tech artiste 3D n'a pas besoin de savoir la taille en mètres de l'objet puisque le programme le fait déjà par rapport à la densité choisie. La seule chose que l'artiste doit mesurer dans ce cas-là, c'est le scale global de l'objet et des objets entre eux. Mais alors dans ce cas-là, est-ce que c'est encore pertinent d'avoir la mesure en mètres cubes ou plutôt en mètres carrés ? Je ne comprends pas à quoi ça sert de connaître en mètres carrés un objet puisque il manque une logique puisque c'est de la 3D.",
       "text" : "Donc en fait, si j'ai bien compris, corrige-moi si je me trompe, un tech artiste 3D n'a pas besoin de savoir la taille en mètres de l'objet puisque le programme le fait déjà par rapport à la densité choisie. La seule chose que l'artiste doit mesurer dans ce cas-là, c'est le scale global de l'objet et des objets entre eux. Mais alors dans ce cas-là, est-ce que c'est encore pertinent d'avoir la mesure en mètres cubes ou plutôt en mètres carrés ? Je ne comprends pas à quoi ça sert de connaître en mètres carrés un objet puisque il manque une logique puisque c'est de la 3D."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814284814.611737,
+      "id" : "2B4BBAF1-19E6-4871-BE9E-BBFAA8504D57",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais je comprends pas pourquoi tu dis qu'une seule échelle suffit à mesurer l'asset. Enfin, je comprends parce que si on dit que par exemple le Porsche fait 3 m, je comprends ça te suffit à calculer les UV par rapport à la texel density, mais je comprends pas vraiment pourquoi en fait.",
+      "text" : "Mais je comprends pas pourquoi tu dis qu'une seule échelle suffit à mesurer l'asset. Enfin, je comprends parce que si on dit que par exemple le Porsche fait 3 m, je comprends ça te suffit à calculer les UV par rapport à la texel density, mais je comprends pas vraiment pourquoi en fait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814284824.438803,
+      "id" : "FAD00EC2-B5C2-47B6-ACDE-ADF1C4C6A553",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce qu'il y a juste à prendre la hauteur la plus grande du coup ?",
+      "text" : "Est-ce qu'il y a juste à prendre la hauteur la plus grande du coup ?"
     }
   ],
   "modes" : [
