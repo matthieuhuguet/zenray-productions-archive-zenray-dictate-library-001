@@ -7779,6 +7779,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Et donc ensuite, je vais run ZR8.",
       "text" : "Et donc ensuite, je vais run ZR8."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814294679.810443,
+      "id" : "B4A78423-5D87-4ABD-84FF-B99B634E57C6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ensuite, je te donnerai pour la réf. Tu peux directement utiliser le geopig de SideFX car il doit contenir normalement une texture que tu peux render via Karma CPU rapidement pour en 1024x1024 avoir le rendu caméra de la référence vue trois-quarts de la tête du cochon que tu inscris du coup dans le document M1. Comme ça, je peux télécharger directement les quatre assets au niveau de la page HTML M1 sur la section cochon. Et ainsi, je peux aller générer la nouvelle height du cochon et comme ça on boucle l'apprentissage avec un objet de calage qui est organique et de type caractère. Donc ça peut être très bien de faire ça comme ça.",
+      "text" : "Ensuite, je te donnerai pour la réf. Tu peux directement utiliser le geopig de SideFX car il doit contenir normalement une texture que tu peux render via Karma CPU rapidement pour en 1024x1024 avoir le rendu caméra de la référence vue trois-quarts de la tête du cochon que tu inscris du coup dans le document M1. Comme ça, je peux télécharger directement les quatre assets au niveau de la page HTML M1 sur la section cochon. Et ainsi, je peux aller générer la nouvelle height du cochon et comme ça on boucle l'apprentissage avec un objet de calage qui est organique et de type caractère. Donc ça peut être très bien de faire ça comme ça."
     }
   ],
   "modes" : [
