@@ -7669,6 +7669,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Si ça c'est la règle, alors comment tu fais pour calculer alors la taille d'un objet dans le monde une fois qu'il est finalisé ? Tu le calcules comment, en mètres cubes ou pas ?",
       "text" : "Si ça c'est la règle, alors comment tu fais pour calculer alors la taille d'un objet dans le monde une fois qu'il est finalisé ? Tu le calcules comment, en mètres cubes ou pas ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814279116.723168,
+      "id" : "D1AB7F0E-E10F-4427-A77F-4E1B912BFB36",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ma question est très simple et tu vas me donner la réponse en un paragraphe. Ce que je ne comprends pas, c'est comment est-ce que on peut déterminer depuis un objet 3D une surface en mètres carrés, surtout si on regarde le rubber toy par exemple. Notamment sur un objet organique. Sur un objet hard surface, j'arrive à comprendre, par exemple une table, il suffirait de mesurer le haut de la table et le bas de la table. Mais pour un objet organique qui va avoir des déformations comme le rubber toy, je ne sais pas comment calculer en mètres carrés le nombre exact de pixels qu'il faudrait par mètre. On définit toujours la densité d'un projet au début, donc soit 1024 ou 2048, mais ce que je ne comprends pas, c'est comment on calcule la taille en mètres carrés. Est-ce que en fait au final on calcule simplement la couture directement ? J'arrive pas à comprendre, fais-moi un petit schéma ou diagramme.",
+      "text" : "Ma question est très simple et tu vas me donner la réponse en un paragraphe. Ce que je ne comprends pas, c'est comment est-ce que on peut déterminer depuis un objet 3D une surface en mètres carrés, surtout si on regarde le rubber toy par exemple. Notamment sur un objet organique. Sur un objet hard surface, j'arrive à comprendre, par exemple une table, il suffirait de mesurer le haut de la table et le bas de la table. Mais pour un objet organique qui va avoir des déformations comme le rubber toy, je ne sais pas comment calculer en mètres carrés le nombre exact de pixels qu'il faudrait par mètre. On définit toujours la densité d'un projet au début, donc soit 1024 ou 2048, mais ce que je ne comprends pas, c'est comment on calcule la taille en mètres carrés. Est-ce que en fait au final on calcule simplement la couture directement ? J'arrive pas à comprendre, fais-moi un petit schéma ou diagramme."
     }
   ],
   "modes" : [
