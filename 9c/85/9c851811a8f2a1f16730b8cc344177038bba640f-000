@@ -7509,6 +7509,136 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Actuellement dans ma vue assets de directement sur le site, mes miniatures sont très très moches. Identifie pourquoi et ensuite je te donne la solution pour changer",
       "text" : "Actuellement dans ma vue assets de directement sur le site, mes miniatures sont très très moches. Identifie pourquoi et ensuite je te donne la solution pour changer"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814218322.412724,
+      "id" : "4281D48E-3A2F-43DA-BB59-209E32018B38",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Non, mais en fait, ça marche en plus.",
+      "text" : "Non, mais en fait, ça marche en plus."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814218346.954783,
+      "id" : "231AB677-A76F-49D3-98D7-DD6A2C74873F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Non, mais en fait, ma demande concerne surtout le fait de pouvoir continuer à utiliser Claude Code Desktop via cette limite d'API. Et comment faire.",
+      "text" : "Non, mais en fait, ma demande concerne surtout le fait de pouvoir continuer à utiliser Claude Code Desktop via cette limite d'API. Et comment faire."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814219211.087165,
+      "id" : "16404D76-050E-4556-9416-51A885D59586",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "À date, je me pose la question lors de la génération de textures. Si tu prends les cinq maps, qui sont la normal, la height, l'ambient occlusion, la base color et la roughness ou la metallic, sachant que la roughness c'est souvent il y a souvent soit une map de roughness, ah non, ORM. Ah oui, c'est ambient occlusion, roughness, metallic, base color et la height et pas plug, mais la height donne énormément d'informations. À date, qu'est-ce qui donne le plus d'informations lors d'une génération de textures à partir d'un outil AI et ou dans un logiciel genre Substance Designer ou autre ?",
+      "text" : "À date, je me pose la question lors de la génération de textures. Si tu prends les cinq maps, qui sont la normal, la height, l'ambient occlusion, la base color et la roughness ou la metallic, sachant que la roughness c'est souvent il y a souvent soit une map de roughness, ah non, ORM. Ah oui, c'est ambient occlusion, roughness, metallic, base color et la height et pas plug, mais la height donne énormément d'informations. À date, qu'est-ce qui donne le plus d'informations lors d'une génération de textures à partir d'un outil AI et ou dans un logiciel genre Substance Designer ou autre ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814219560.919433,
+      "id" : "7D720A7D-1AD6-4BD6-95DB-DC45B75BA190",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "De ce que je vois, c'est beaucoup mieux, mais par contre, je note quand même, surtout comparé à la référence de SideFX, qu'il y a quand même une régression au niveau, surtout au niveau des oreilles. En fait, tu fais au moins trois voire quatre coupes alors que une oreille, ça devrait être coupé en deux tout simplement en fonction de l'edge flow du bord le plus extérieur. Tu as scindé le visage avec une couleur jaune et une couleur orange alors que ça devrait être ensemble. Et enfin, la gorge, c'est pareil. Je pense que par exemple là, tu vois dans l'image de référence, tu peux lier le bord jaune avec le bord orange et éviter cette découpe au niveau du bord gauche et droit qui n'a pas vraiment de sens. Et pareil pour au niveau de la gorge, donc le bord vert et le bord bleu, ils peuvent être mis ensemble et d'ailleurs, c'est ce qui se passe dans la référence. Donc si je récapitule, sur le visage, il faut assembler les deux. Sur le visage, il faut assembler le bord jaune avec le bord orange et sur la gorge, il faut assembler le bord vert avec le bord bleu. Et sur l'oreille, il faut découper proprement en fonction de l'edge flow extérieur et simplement en deux parties. Et voilà.",
+      "text" : "De ce que je vois, c'est beaucoup mieux, mais par contre, je note quand même, surtout comparé à la référence de SideFX, qu'il y a quand même une régression au niveau, surtout au niveau des oreilles. En fait, tu fais au moins trois voire quatre coupes alors que une oreille, ça devrait être coupé en deux tout simplement en fonction de l'edge flow du bord le plus extérieur. Tu as scindé le visage avec une couleur jaune et une couleur orange alors que ça devrait être ensemble. Et enfin, la gorge, c'est pareil. Je pense que par exemple là, tu vois dans l'image de référence, tu peux lier le bord jaune avec le bord orange et éviter cette découpe au niveau du bord gauche et droit qui n'a pas vraiment de sens. Et pareil pour au niveau de la gorge, donc le bord vert et le bord bleu, ils peuvent être mis ensemble et d'ailleurs, c'est ce qui se passe dans la référence. Donc si je récapitule, sur le visage, il faut assembler les deux. Sur le visage, il faut assembler le bord jaune avec le bord orange et sur la gorge, il faut assembler le bord vert avec le bord bleu. Et sur l'oreille, il faut découper proprement en fonction de l'edge flow extérieur et simplement en deux parties. Et voilà."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814221732.212523,
+      "id" : "08B084B1-583E-4F1E-900C-FF2D603F565B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Alors du coup, comment se lance l'outil ? Où est-ce qu'il est référencé et où est-ce que la documentation est consignée ? Et enfin, est-ce que tu es sûr d'avoir absolument tout consigné ? Et maintenant, je crois qu'il faut lancer Krag pour voir, pour que je puisse valider ou non si ça marche en automatique.",
+      "text" : "Alors du coup, comment se lance l'outil ? Où est-ce qu'il est référencé et où est-ce que la documentation est consignée ? Et enfin, est-ce que tu es sûr d'avoir absolument tout consigné ? Et maintenant, je crois qu'il faut lancer Krag pour voir, pour que je puisse valider ou non si ça marche en automatique."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814221857.21696,
+      "id" : "7E2C5EBD-8D58-4250-B46D-6FA4788B97C5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Le seul truc où je suis pas forcément convaincu, c'est au niveau de l'arche en elle-même. Donc je sais pas trop. En revanche, la pig head et l'orientation, c'est vraiment nickel. La pig head c'est vraiment nickel, Manny c'est vraiment nickel. Manny c'est vraiment nickel. Par contre, en général, comme tu l'as fait sur Manny, tu as mis deux Ah non, mais je comprends pas parce que tu as fait deux Ah non, c'est bon. Bon bref.",
+      "text" : "Le seul truc où je suis pas forcément convaincu, c'est au niveau de l'arche en elle-même. Donc je sais pas trop. En revanche, la pig head et l'orientation, c'est vraiment nickel. La pig head c'est vraiment nickel, Manny c'est vraiment nickel. Manny c'est vraiment nickel. Par contre, en général, comme tu l'as fait sur Manny, tu as mis deux Ah non, mais je comprends pas parce que tu as fait deux Ah non, c'est bon. Bon bref."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814222049.309452,
+      "id" : "6BD56F7C-364F-4F62-98E9-22A49976BAB9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Par contre, en général, le problème c'est que là actuellement, on n'a plus forcément la texel density par rapport à la taille du mesh en lui-même. Tu as fait les répartitions du document par rapport au truc d'Island, mais j'ai plus mes texel density à partir d'un mètre ou d'une échelle choisie. Donc c'est un peu la prochaine étape, tu vois, en mode tu determines chaque tuile. Et par contre, je pense que 2048 c'est pas mal pour le truc, mais il faut raisonner en termes de millions de pixels dans le sens où, par exemple, quatre tuiles 2024, ça fait 4 Mo, tandis que une seule texture 4096, ça prend 16 Mo. Donc en fait, il vaut mieux toujours faire plusieurs bandes du V par rapport à la bonne texel density. Donc là par exemple, on avait déterminé que Magni faisait 1,80 m. Et ensuite, voilà, répartir les UV. Mais ce qui est bizarre, c'est que là il s'agit d'un personnage et du coup, je sais pas si ça reprend les mêmes conventions de Là, on avait dit 2048 par mètre. Donc je sais pas. En fait, ce que j'arrive pas à trancher et je veux pas que tu tranches en faisant des tuiles, mais je me demande pas forcément comment optimiser les choses parce que je pense que l'heure n'est pas à l'optimisation. Mais bon, bref.",
+      "text" : "Par contre, en général, le problème c'est que là actuellement, on n'a plus forcément la texel density par rapport à la taille du mesh en lui-même. Tu as fait les répartitions du document par rapport au truc d'Island, mais j'ai plus mes texel density à partir d'un mètre ou d'une échelle choisie. Donc c'est un peu la prochaine étape, tu vois, en mode tu determines chaque tuile. Et par contre, je pense que 2048 c'est pas mal pour le truc, mais il faut raisonner en termes de millions de pixels dans le sens où, par exemple, quatre tuiles 2024, ça fait 4 Mo, tandis que une seule texture 4096, ça prend 16 Mo. Donc en fait, il vaut mieux toujours faire plusieurs bandes du V par rapport à la bonne texel density. Donc là par exemple, on avait déterminé que Magni faisait 1,80 m. Et ensuite, voilà, répartir les UV. Mais ce qui est bizarre, c'est que là il s'agit d'un personnage et du coup, je sais pas si ça reprend les mêmes conventions de Là, on avait dit 2048 par mètre. Donc je sais pas. En fait, ce que j'arrive pas à trancher et je veux pas que tu tranches en faisant des tuiles, mais je me demande pas forcément comment optimiser les choses parce que je pense que l'heure n'est pas à l'optimisation. Mais bon, bref."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814222273.881136,
+      "id" : "F6CBDDEE-CC57-4631-9828-4B6C20C8723B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pour l'indice du texel density, on va changer les choses. On va le créer en vert au milieu, en bleu c'est trop et en rouge c'est pas assez. Pour l'outil texel density qui existe déjà, tu me prends les Z R U V de mani 01 et de mani 02 qu'on a créé actuellement via notre méthodologie. Sur les fiches de pixels, il y a une texture qui est en 4096 et il y en a une autre qui est en 2048. Tu m'affiches directement la texel density actuelle par rapport à l'outil. Mais tu me fais juste une cheat pour ça pour que je comprenne moi-même si l'outil génère déjà en fonction de la bonne texel density ou si c'est pas encore le cas.",
+      "text" : "Pour l'indice du texel density, on va changer les choses. On va le créer en vert au milieu, en bleu c'est trop et en rouge c'est pas assez. Pour l'outil texel density qui existe déjà, tu me prends les Z R U V de mani 01 et de mani 02 qu'on a créé actuellement via notre méthodologie. Sur les fiches de pixels, il y a une texture qui est en 4096 et il y en a une autre qui est en 2048. Tu m'affiches directement la texel density actuelle par rapport à l'outil. Mais tu me fais juste une cheat pour ça pour que je comprenne moi-même si l'outil génère déjà en fonction de la bonne texel density ou si c'est pas encore le cas."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814222880.035084,
+      "id" : "9B956562-200C-4B95-820F-93B26160A674",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc le but, si j'ai bien compris, c'est pas forcément de fit totalement en prenant le maximum d'espace pour la texture. Logiquement ce serait le cas parce que plus il y a d'espace, plus on peut organiser nos éléments. Mais en même temps, je me dis, puisqu'on peut utiliser plusieurs tuiles 2024 voire de 2048, le but c'est surtout d'assurer une densité parfaite et cohérente plutôt que plutôt que tout fit au maximum pour fill au maximum. En fait, on s'en fiche de fill, ce qu'il faut c'est que la densité soit parfaite. Et du coup, qu'est-ce que je voulais dire ? Ben je sais plus.",
+      "text" : "Donc le but, si j'ai bien compris, c'est pas forcément de fit totalement en prenant le maximum d'espace pour la texture. Logiquement ce serait le cas parce que plus il y a d'espace, plus on peut organiser nos éléments. Mais en même temps, je me dis, puisqu'on peut utiliser plusieurs tuiles 2024 voire de 2048, le but c'est surtout d'assurer une densité parfaite et cohérente plutôt que plutôt que tout fit au maximum pour fill au maximum. En fait, on s'en fiche de fill, ce qu'il faut c'est que la densité soit parfaite. Et du coup, qu'est-ce que je voulais dire ? Ben je sais plus."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814222983.528309,
+      "id" : "3ACDC83D-73CF-4F32-8639-51A7B24AD727",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'aimerais que tu notes par rapport à Z R U V que j'aimais bien justement quand tu donnais une correspondance des islands UV par rapport à un numéro dans les six vues et dans les UV générés en termes de couleur et d'island UV. Je trouvais ça très pratique et je veux que ce soit généré dans chaque tuile de manière systématique désormais. C'est-à-dire, tu fais une vue six views et tu mets en plus l'attribution des islands UV au bon endroit sans te tromper. Tu fais un algorithme ultra solide pour être sûr que ça fonctionne à chaque fois. Et comme ça, on a une correspondance entre les six views à la planche d'UV découpée en vue 2D, voire plusieurs vues découpées.",
+      "text" : "J'aimerais que tu notes par rapport à Z R U V que j'aimais bien justement quand tu donnais une correspondance des islands UV par rapport à un numéro dans les six vues et dans les UV générés en termes de couleur et d'island UV. Je trouvais ça très pratique et je veux que ce soit généré dans chaque tuile de manière systématique désormais. C'est-à-dire, tu fais une vue six views et tu mets en plus l'attribution des islands UV au bon endroit sans te tromper. Tu fais un algorithme ultra solide pour être sûr que ça fonctionne à chaque fois. Et comme ça, on a une correspondance entre les six views à la planche d'UV découpée en vue 2D, voire plusieurs vues découpées."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814224886.940309,
+      "id" : "E4854964-81DD-445F-B4B9-2B3AADB524BC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ça me semble beaucoup trop long d'attendre 20 minutes pour Crag. Soit le problème c'est que Houdini n'est pas ouvert proprement, soit le problème c'est que l'algorithme aurait dû faire les choses étape par étape au lieu de tout faire d'un coup. Ça me semble beaucoup trop long d'attendre 20 minutes pour Crag et de toute manière, même en termes de performance, c'est pas des choses que je souhaite garder. Donc il faut optimiser le programme pour qu'il procède étape par étape afin de justement jamais attendre 20 minutes.",
+      "text" : "Ça me semble beaucoup trop long d'attendre 20 minutes pour Crag. Soit le problème c'est que Houdini n'est pas ouvert proprement, soit le problème c'est que l'algorithme aurait dû faire les choses étape par étape au lieu de tout faire d'un coup. Ça me semble beaucoup trop long d'attendre 20 minutes pour Crag et de toute manière, même en termes de performance, c'est pas des choses que je souhaite garder. Donc il faut optimiser le programme pour qu'il procède étape par étape afin de justement jamais attendre 20 minutes."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814230097.180963,
+      "id" : "007CCBF2-2174-4A1D-AC0B-60466D6CE799",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Du coup, fixe toutes les densités pour qu'elles soient en accord avec le prompt actuel. Pour le shader ball, le problème, c'est que tu aurais dû faire chacune des découpes de manière symétrique, c'est-à-dire par exemple toujours essayer de découper les choses par derrière. Par exemple, dans la vue left et right, on voit que tu as découpé à gauche de l'objet alors que le plus logique aurait été de découper soit en bas, soit en haut, de manière symétrique. Et là, plutôt en haut parce que et bien parce que la zone du bas est beaucoup plus visible en soi. Et du coup, ça aurait pu être recoupé directement plus proprement.",
+      "text" : "Du coup, fixe toutes les densités pour qu'elles soient en accord avec le prompt actuel. Pour le shader ball, le problème, c'est que tu aurais dû faire chacune des découpes de manière symétrique, c'est-à-dire par exemple toujours essayer de découper les choses par derrière. Par exemple, dans la vue left et right, on voit que tu as découpé à gauche de l'objet alors que le plus logique aurait été de découper soit en bas, soit en haut, de manière symétrique. Et là, plutôt en haut parce que et bien parce que la zone du bas est beaucoup plus visible en soi. Et du coup, ça aurait pu être recoupé directement plus proprement."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814230194.591147,
+      "id" : "1D5C120B-9879-488A-9657-5DAB3EA21660",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En soi, la logique pour du hard surface ou de l'organique, c'est de toujours faire en sorte d'essayer de découper les seams, surtout dans le back, c'est-à-dire le derrière, et ou le top en règle générale, ou le bas. Mais c'est plutôt en règle générale back en premier, ensuite top et ensuite bottom, par rapport au fait que les seams doivent être découpées proprement. Après, ça change pas les règles, c'est juste que dans le cadre du shadow ball, ça aurait dû être fait plutôt en haut puisque dans une vue front, on voit que Après, je vois le problème, c'est que dans la sheet, tu m'as donné la vue front, mais en fait la vue front, c'est la vue left. Si tu regardes le modèle directement à partir de la six views, tu vas comprendre que c'est la vue la vue left et la vue front. Et je te dis, c'est pour ça que si tu regardes la vue left comme la vue front, tu dois voir que la seam aurait dû être placée en haut en fait.",
+      "text" : "En soi, la logique pour du hard surface ou de l'organique, c'est de toujours faire en sorte d'essayer de découper les seams, surtout dans le back, c'est-à-dire le derrière, et ou le top en règle générale, ou le bas. Mais c'est plutôt en règle générale back en premier, ensuite top et ensuite bottom, par rapport au fait que les seams doivent être découpées proprement. Après, ça change pas les règles, c'est juste que dans le cadre du shadow ball, ça aurait dû être fait plutôt en haut puisque dans une vue front, on voit que Après, je vois le problème, c'est que dans la sheet, tu m'as donné la vue front, mais en fait la vue front, c'est la vue left. Si tu regardes le modèle directement à partir de la six views, tu vas comprendre que c'est la vue la vue left et la vue front. Et je te dis, c'est pour ça que si tu regardes la vue left comme la vue front, tu dois voir que la seam aurait dû être placée en haut en fait."
     }
   ],
   "modes" : [
