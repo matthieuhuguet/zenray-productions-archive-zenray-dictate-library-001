@@ -7659,6 +7659,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ce que je ne comprends pas, c'est que j'ai l'impression qu'on calcule les UV en fonction de la taille de l'asset par rapport à la scène, mais je ne comprends pas forcément puisque en soi, ce que je ne comprends pas, c'est pourquoi on calcule la texel density à partir d'un mètre en se disant par exemple on va utiliser 1024 pixels par mètre. Dans ce cas-là, qu'est-ce qui se passe si on scale l'asset ? C'est bizarre. Est-ce que si on scale l'asset dans une scène de manière hyper grande, est-ce que dans ce cas-là il faut ajouter beaucoup plus de textures ?",
       "text" : "Ce que je ne comprends pas, c'est que j'ai l'impression qu'on calcule les UV en fonction de la taille de l'asset par rapport à la scène, mais je ne comprends pas forcément puisque en soi, ce que je ne comprends pas, c'est pourquoi on calcule la texel density à partir d'un mètre en se disant par exemple on va utiliser 1024 pixels par mètre. Dans ce cas-là, qu'est-ce qui se passe si on scale l'asset ? C'est bizarre. Est-ce que si on scale l'asset dans une scène de manière hyper grande, est-ce que dans ce cas-là il faut ajouter beaucoup plus de textures ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814271914.260873,
+      "id" : "B66BBFB8-5F64-409B-B85D-F54E7CB62298",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Si ça c'est la règle, alors comment tu fais pour calculer alors la taille d'un objet dans le monde une fois qu'il est finalisé ? Tu le calcules comment, en mètres cubes ou pas ?",
+      "text" : "Si ça c'est la règle, alors comment tu fais pour calculer alors la taille d'un objet dans le monde une fois qu'il est finalisé ? Tu le calcules comment, en mètres cubes ou pas ?"
     }
   ],
   "modes" : [
