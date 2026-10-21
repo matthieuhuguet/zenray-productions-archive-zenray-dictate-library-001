@@ -7739,6 +7739,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Est-ce qu'il y a juste à prendre la hauteur la plus grande du coup ?",
       "text" : "Est-ce qu'il y a juste à prendre la hauteur la plus grande du coup ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814284970.930667,
+      "id" : "0659F12F-67E5-47D8-8F9E-B01CC7B43F83",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "D'accord, je crois que j'ai compris. En fait, ça sert à obtenir l'échelle dans le monde. C'est-à-dire que si on dit qu'une porte fait environ 2 m, on peut vérifier l'échelle globale de l'objet uniquement grâce à sa hauteur. Mais du coup, est-ce que ça ne nous donnerait pas plus d'indications si on prenait par exemple la hauteur + la largeur, voire la profondeur ? En vrai, si on avait toutes les unités à chaque fois, est-ce que ça permettrait pas de vérifier plus de choses ? Et du coup, finalement, même si on a besoin que d'une seule unité, est-ce que le fait de mettre une bonne bounding box sur chaque objet ne permet pas d'avoir encore plus de précision ?",
+      "text" : "D'accord, je crois que j'ai compris. En fait, ça sert à obtenir l'échelle dans le monde. C'est-à-dire que si on dit qu'une porte fait environ 2 m, on peut vérifier l'échelle globale de l'objet uniquement grâce à sa hauteur. Mais du coup, est-ce que ça ne nous donnerait pas plus d'indications si on prenait par exemple la hauteur + la largeur, voire la profondeur ? En vrai, si on avait toutes les unités à chaque fois, est-ce que ça permettrait pas de vérifier plus de choses ? Et du coup, finalement, même si on a besoin que d'une seule unité, est-ce que le fait de mettre une bonne bounding box sur chaque objet ne permet pas d'avoir encore plus de précision ?"
     }
   ],
   "modes" : [
