@@ -7689,6 +7689,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Tu mesures par rapport à la surface la plus grande, c'est ça ?",
       "text" : "Tu mesures par rapport à la surface la plus grande, c'est ça ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814284002.241862,
+      "id" : "F0939364-E328-4E3D-B32B-5B671F7CCC11",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais en fait, très globalement, ma question se résume en une ligne, c'est juste comment faire en sorte de Par exemple, j'ai Manie ou j'ai le rubber toy, parce qu'en fait, ce que je comprends pas, c'est je comprends quelle texel density appliquer par rapport à un objet, parce que ça, ça se juge à l'œil et ça doit être globalement cohérent. Mais ce que je ne comprends pas, c'est globalement comment comment comment dire. C'est comment En fait, je comprends, mais j'arrive même pas à expliquer le problème. Je pense que c'est En fait, j'arrive à comprendre la cohérence de la de la texel density à appliquer par rapport à un objet, dans le sens où si juste je teste 1024 puis 2048 puis 512 ou 4096, même si 4096, c'est généralement jamais appliqué, on va dire que je comprends la texel density que je vais appliquer. Mais par contre, ce que j'arrive toujours pas à expliquer, c'est enfin, c'est surtout à retenir, c'est comment est-ce que je détermine la taille d'un objet par rapport par rapport à sa taille globale de l'objet. Parce que on dit c'est en fonction, par exemple on disait Manie fait 1,8 m. OK, j'ai sa taille en hauteur, mais pour un objet comme le rubber toy qui va être à la fois haut et profond et aussi large, mais qui est surtout plus large que haut, je comprends pas. Vraiment, j'arrive pas à me l'expliquer. Explique-moi comme si j'avais",
+      "text" : "Mais en fait, très globalement, ma question se résume en une ligne, c'est juste comment faire en sorte de Par exemple, j'ai Manie ou j'ai le rubber toy, parce qu'en fait, ce que je comprends pas, c'est je comprends quelle texel density appliquer par rapport à un objet, parce que ça, ça se juge à l'œil et ça doit être globalement cohérent. Mais ce que je ne comprends pas, c'est globalement comment comment comment dire. C'est comment En fait, je comprends, mais j'arrive même pas à expliquer le problème. Je pense que c'est En fait, j'arrive à comprendre la cohérence de la de la texel density à appliquer par rapport à un objet, dans le sens où si juste je teste 1024 puis 2048 puis 512 ou 4096, même si 4096, c'est généralement jamais appliqué, on va dire que je comprends la texel density que je vais appliquer. Mais par contre, ce que j'arrive toujours pas à expliquer, c'est enfin, c'est surtout à retenir, c'est comment est-ce que je détermine la taille d'un objet par rapport par rapport à sa taille globale de l'objet. Parce que on dit c'est en fonction, par exemple on disait Manie fait 1,8 m. OK, j'ai sa taille en hauteur, mais pour un objet comme le rubber toy qui va être à la fois haut et profond et aussi large, mais qui est surtout plus large que haut, je comprends pas. Vraiment, j'arrive pas à me l'expliquer. Explique-moi comme si j'avais"
     }
   ],
   "modes" : [
