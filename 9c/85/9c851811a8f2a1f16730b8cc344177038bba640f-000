@@ -7759,6 +7759,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Sur les feuilles de Dexel Density, il n'y a pas besoin de noter les numéros.",
       "text" : "Sur les feuilles de Dexel Density, il n'y a pas besoin de noter les numéros."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814292836.522328,
+      "id" : "E916121E-9847-4C3D-967C-14FE27131079",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Maintenant ce qu'il faudrait faire, c'est me redonner directement dans le document M1 un bouton de téléchargement qui me permet d'avoir deux images, c'est-à-dire la carte du dépliage avec les numéros, la carte du dépliage sans les numéros, l'image de référence et la carte de dépliage sans les numéros mais avec les les colors UV island. Ou alors aussi un toggle qui permet de switch uniquement en masque avec un index de dégâts des gris différents, un peu comme un tile random sur Substance Designer.",
+      "text" : "Maintenant ce qu'il faudrait faire, c'est me redonner directement dans le document M1 un bouton de téléchargement qui me permet d'avoir deux images, c'est-à-dire la carte du dépliage avec les numéros, la carte du dépliage sans les numéros, l'image de référence et la carte de dépliage sans les numéros mais avec les les colors UV island. Ou alors aussi un toggle qui permet de switch uniquement en masque avec un index de dégâts des gris différents, un peu comme un tile random sur Substance Designer."
     }
   ],
   "modes" : [
