@@ -7639,6 +7639,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "En soi, la logique pour du hard surface ou de l'organique, c'est de toujours faire en sorte d'essayer de découper les seams, surtout dans le back, c'est-à-dire le derrière, et ou le top en règle générale, ou le bas. Mais c'est plutôt en règle générale back en premier, ensuite top et ensuite bottom, par rapport au fait que les seams doivent être découpées proprement. Après, ça change pas les règles, c'est juste que dans le cadre du shadow ball, ça aurait dû être fait plutôt en haut puisque dans une vue front, on voit que Après, je vois le problème, c'est que dans la sheet, tu m'as donné la vue front, mais en fait la vue front, c'est la vue left. Si tu regardes le modèle directement à partir de la six views, tu vas comprendre que c'est la vue la vue left et la vue front. Et je te dis, c'est pour ça que si tu regardes la vue left comme la vue front, tu dois voir que la seam aurait dû être placée en haut en fait.",
       "text" : "En soi, la logique pour du hard surface ou de l'organique, c'est de toujours faire en sorte d'essayer de découper les seams, surtout dans le back, c'est-à-dire le derrière, et ou le top en règle générale, ou le bas. Mais c'est plutôt en règle générale back en premier, ensuite top et ensuite bottom, par rapport au fait que les seams doivent être découpées proprement. Après, ça change pas les règles, c'est juste que dans le cadre du shadow ball, ça aurait dû être fait plutôt en haut puisque dans une vue front, on voit que Après, je vois le problème, c'est que dans la sheet, tu m'as donné la vue front, mais en fait la vue front, c'est la vue left. Si tu regardes le modèle directement à partir de la six views, tu vas comprendre que c'est la vue la vue left et la vue front. Et je te dis, c'est pour ça que si tu regardes la vue left comme la vue front, tu dois voir que la seam aurait dû être placée en haut en fait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814270715.501378,
+      "id" : "4135DC3D-8006-4392-B455-5D8629AC1FF2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ce que je comprends pas, c'est que",
+      "text" : "Ce que je comprends pas, c'est que"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814270889.81708,
+      "id" : "5047B770-9C21-41C2-A8B1-6ABB06DD8901",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ce que je ne comprends pas, c'est que j'ai l'impression qu'on calcule les UV en fonction de la taille de l'asset par rapport à la scène, mais je ne comprends pas forcément puisque en soi, ce que je ne comprends pas, c'est pourquoi on calcule la texel density à partir d'un mètre en se disant par exemple on va utiliser 1024 pixels par mètre. Dans ce cas-là, qu'est-ce qui se passe si on scale l'asset ? C'est bizarre. Est-ce que si on scale l'asset dans une scène de manière hyper grande, est-ce que dans ce cas-là il faut ajouter beaucoup plus de textures ?",
+      "text" : "Ce que je ne comprends pas, c'est que j'ai l'impression qu'on calcule les UV en fonction de la taille de l'asset par rapport à la scène, mais je ne comprends pas forcément puisque en soi, ce que je ne comprends pas, c'est pourquoi on calcule la texel density à partir d'un mètre en se disant par exemple on va utiliser 1024 pixels par mètre. Dans ce cas-là, qu'est-ce qui se passe si on scale l'asset ? C'est bizarre. Est-ce que si on scale l'asset dans une scène de manière hyper grande, est-ce que dans ce cas-là il faut ajouter beaucoup plus de textures ?"
     }
   ],
   "modes" : [
