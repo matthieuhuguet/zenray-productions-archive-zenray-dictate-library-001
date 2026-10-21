@@ -7749,6 +7749,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "D'accord, je crois que j'ai compris. En fait, ça sert à obtenir l'échelle dans le monde. C'est-à-dire que si on dit qu'une porte fait environ 2 m, on peut vérifier l'échelle globale de l'objet uniquement grâce à sa hauteur. Mais du coup, est-ce que ça ne nous donnerait pas plus d'indications si on prenait par exemple la hauteur + la largeur, voire la profondeur ? En vrai, si on avait toutes les unités à chaque fois, est-ce que ça permettrait pas de vérifier plus de choses ? Et du coup, finalement, même si on a besoin que d'une seule unité, est-ce que le fait de mettre une bonne bounding box sur chaque objet ne permet pas d'avoir encore plus de précision ?",
       "text" : "D'accord, je crois que j'ai compris. En fait, ça sert à obtenir l'échelle dans le monde. C'est-à-dire que si on dit qu'une porte fait environ 2 m, on peut vérifier l'échelle globale de l'objet uniquement grâce à sa hauteur. Mais du coup, est-ce que ça ne nous donnerait pas plus d'indications si on prenait par exemple la hauteur + la largeur, voire la profondeur ? En vrai, si on avait toutes les unités à chaque fois, est-ce que ça permettrait pas de vérifier plus de choses ? Et du coup, finalement, même si on a besoin que d'une seule unité, est-ce que le fait de mettre une bonne bounding box sur chaque objet ne permet pas d'avoir encore plus de précision ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814286595.921532,
+      "id" : "B2C5F972-6465-4223-BEA9-C0755451B89F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Sur les feuilles de Dexel Density, il n'y a pas besoin de noter les numéros.",
+      "text" : "Sur les feuilles de Dexel Density, il n'y a pas besoin de noter les numéros."
     }
   ],
   "modes" : [
