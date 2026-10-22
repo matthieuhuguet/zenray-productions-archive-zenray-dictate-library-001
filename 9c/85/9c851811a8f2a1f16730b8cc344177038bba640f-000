@@ -7809,6 +7809,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Qui se bat avec les Chinois dans les montagnes avec des lamas pour revendiquer leurs droits.",
       "text" : "Qui se bat avec les Chinois dans les montagnes avec des lamas pour revendiquer leurs droits."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814393234.207343,
+      "id" : "AFAED85A-632E-45D3-A63E-F023C0AF77AD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais il manque les autres nations.",
+      "text" : "Mais il manque les autres nations."
     }
   ],
   "modes" : [
