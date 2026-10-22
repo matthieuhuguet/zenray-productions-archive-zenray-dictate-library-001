@@ -7819,6 +7819,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Mais il manque les autres nations.",
       "text" : "Mais il manque les autres nations."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814395353.493065,
+      "id" : "E519120A-6DD8-4582-AA9F-F22E30BCC042",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ben, contrôle et si tout est déjà sur GitHub, ben dans ce cas-là, tu peux supprimer. Mais fais très très attention à ne pas delete de la data qui serait importante. C'est ultra crucial.",
+      "text" : "Ben, contrôle et si tout est déjà sur GitHub, ben dans ce cas-là, tu peux supprimer. Mais fais très très attention à ne pas delete de la data qui serait importante. C'est ultra crucial."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814395363.04737,
+      "id" : "7844591F-9C62-4427-BD50-7C6879DB5124",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En revanche, pour tout ce qui est crossover et Steam, pour l'instant, on n'y touche pas.",
+      "text" : "En revanche, pour tout ce qui est crossover et Steam, pour l'instant, on n'y touche pas."
     }
   ],
   "modes" : [
