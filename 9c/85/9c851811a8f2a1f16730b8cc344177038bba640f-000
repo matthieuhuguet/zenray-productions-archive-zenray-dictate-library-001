@@ -8959,6 +8959,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Analyse pendant longtemps toutes les mathématiques du jeu et utilise un maximum ton knowledge ainsi que des recherches",
       "text" : "Analyse pendant longtemps toutes les mathématiques du jeu et utilise un maximum ton knowledge ainsi que des recherches"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814479587.229287,
+      "id" : "E8637BC2-6219-452D-BF69-53BDC1D8C2AA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Crée-moi deux variations avec un rouge vif et un vert, voir aussi un turquoise, un jaune et un magenta.",
+      "text" : "Crée-moi deux variations avec un rouge vif et un vert, voir aussi un turquoise, un jaune et un magenta."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814479610.123713,
+      "id" : "85E54684-0100-4243-B1F1-6D03886FC183",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Si possible, tu mets tout dans la même vidéo et tu mets juste un toggler qui me permet de modifier le design, s'il te plaît.",
+      "text" : "Si possible, tu mets tout dans la même vidéo et tu mets juste un toggler qui me permet de modifier le design, s'il te plaît."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814479621.880746,
+      "id" : "D1C367D3-2C12-4243-AB23-2E507CC13D5C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je pense que tu as une ou deux lignes de code à modifier, mais pas beaucoup d'autres.",
+      "text" : "Je pense que tu as une ou deux lignes de code à modifier, mais pas beaucoup d'autres."
     }
   ],
   "modes" : [
