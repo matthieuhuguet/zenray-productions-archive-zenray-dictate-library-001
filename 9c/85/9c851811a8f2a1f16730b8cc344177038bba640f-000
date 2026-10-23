@@ -7909,6 +7909,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Imaginons qu'un joueur e-sportif ait le choix, il préférera un 1080p, un 1440p ou un 4K. Ma question, c'est pas forcément sur les détails du jeu, c'est plutôt sur la rapidité.",
       "text" : "Imaginons qu'un joueur e-sportif ait le choix, il préférera un 1080p, un 1440p ou un 4K. Ma question, c'est pas forcément sur les détails du jeu, c'est plutôt sur la rapidité."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814443417.268464,
+      "id" : "FA61B558-CDDC-4853-A488-3D3BFEF2BF25",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je t'ai déjà dit de ne pas utiliser le raccourci Option + Commande + C parce que c'est ce qui me permet de copier mes dossiers. Je l'utilise tout le temps dans le cadre où j'ai besoin des accès à mes dossiers, donc change le raccourci de l'application s'il te plaît.",
+      "text" : "Je t'ai déjà dit de ne pas utiliser le raccourci Option + Commande + C parce que c'est ce qui me permet de copier mes dossiers. Je l'utilise tout le temps dans le cadre où j'ai besoin des accès à mes dossiers, donc change le raccourci de l'application s'il te plaît."
     }
   ],
   "modes" : [
