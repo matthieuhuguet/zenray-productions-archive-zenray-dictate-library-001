@@ -8079,6 +8079,56 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Et par contre, consigne que c'est toujours GTCtra et jamais Display du coup.",
       "text" : "Et par contre, consigne que c'est toujours GTCtra et jamais Display du coup."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814449030.345568,
+      "id" : "6949BABF-6B45-42F7-BE71-1D13A8108F38",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En revanche, je choisis anglais, donc le B, mais je vois qu'il y a encore quelques erreurs au niveau du HTML. Lorsque, par exemple sur la date du 20 août, c'est quoi les Cloudflare rules, tu vois bien que c'est pas lié en termes d'anglais. Donc il faut que chacune des questions, même si le thread de questions est immense, que ça se relie parfaitement à chaque fois. Donc tu peux trouver une astuce par rapport au fait que les plus le thread va être long, plus les questions seront pas forcément liées, mais en soi, il vaut mieux toujours centrer la réponse de droite par rapport à la question de gauche afin qu'il y ait jamais d'erreur. Tu peux centrer par exemple avec un alignement en haut sur les deux sur les deux éléments. Et il faut créer le thème liquid glass et pour voir que le thème liquid glass est bien appliqué, en soi tu peux mettre une image de derrière. Et du coup, ben tu peux aller sur Zen Replay Progress, voir l'image de derrière qu'il y a dans Create par exemple et l'appliquer pour ce mockup et créer la V5.",
+      "text" : "En revanche, je choisis anglais, donc le B, mais je vois qu'il y a encore quelques erreurs au niveau du HTML. Lorsque, par exemple sur la date du 20 août, c'est quoi les Cloudflare rules, tu vois bien que c'est pas lié en termes d'anglais. Donc il faut que chacune des questions, même si le thread de questions est immense, que ça se relie parfaitement à chaque fois. Donc tu peux trouver une astuce par rapport au fait que les plus le thread va être long, plus les questions seront pas forcément liées, mais en soi, il vaut mieux toujours centrer la réponse de droite par rapport à la question de gauche afin qu'il y ait jamais d'erreur. Tu peux centrer par exemple avec un alignement en haut sur les deux sur les deux éléments. Et il faut créer le thème liquid glass et pour voir que le thème liquid glass est bien appliqué, en soi tu peux mettre une image de derrière. Et du coup, ben tu peux aller sur Zen Replay Progress, voir l'image de derrière qu'il y a dans Create par exemple et l'appliquer pour ce mockup et créer la V5."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814449058.594645,
+      "id" : "15988F24-7BF6-4E83-BB0A-43AA5CE03D02",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Fais dans un premier temps le design pour qu'il soit parfait et ensuite dans un deuxième temps tu fais son optimisation.",
+      "text" : "Fais dans un premier temps le design pour qu'il soit parfait et ensuite dans un deuxième temps tu fais son optimisation."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814449362.890083,
+      "id" : "26EE43AF-7A7D-464C-BC07-18E0D11D99CB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, ma question c'est je vois pas où est-ce que tu as mis les propositions de plusieurs designs d'artistes.",
+      "text" : "En fait, ma question c'est je vois pas où est-ce que tu as mis les propositions de plusieurs designs d'artistes."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814449506.334619,
+      "id" : "AB532D25-344C-4CBC-9B8F-4FFB8B798056",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, le problème, c'est que tu n'utilises pas les consignes de typographie qui sont dans Claude.md, dans un fichier typographie ou même dans ZenRayEdit.",
+      "text" : "En fait, le problème, c'est que tu n'utilises pas les consignes de typographie qui sont dans Claude.md, dans un fichier typographie ou même dans ZenRayEdit."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814449523.056008,
+      "id" : "19B7EF86-CC44-4D7E-A8A9-D276DDE51772",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et ensuite, dans Zen Re Assets, normalement je t'avais donné des consignes pour avoir un ton neutre et relativement concis.",
+      "text" : "Et ensuite, dans Zen Re Assets, normalement je t'avais donné des consignes pour avoir un ton neutre et relativement concis."
     }
   ],
   "modes" : [
