@@ -8229,6 +8229,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Je pense ce qui peut être important, c'est de voir dans le progrès ce que j'ai fait ces derniers temps.",
       "text" : "Je pense ce qui peut être important, c'est de voir dans le progrès ce que j'ai fait ces derniers temps."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814459943.101001,
+      "id" : "E2638ADA-3DF7-4EB3-8262-347FEC66EFAE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Alors, c'est un détail, mais peut-être que l'heure plutôt, elle pourrait être calculée en GT Sectra en petit en haut à gauche de la tuile. Comme ça, ce serait plus joli. Propose-moi trois designs de tuile et ensuite tu",
+      "text" : "Alors, c'est un détail, mais peut-être que l'heure plutôt, elle pourrait être calculée en GT Sectra en petit en haut à gauche de la tuile. Comme ça, ce serait plus joli. Propose-moi trois designs de tuile et ensuite tu"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814459974.180108,
+      "id" : "7774EF08-7C58-45C7-BA64-CCF14CB6B622",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ensuite, on est bien d'accord que chaque Zenrai Edit est directement lié au skill Zenrai Edit, c'est-à-dire que chaque HTML est relié à Zenrai Edit et ensuite tout est push dans assets.",
+      "text" : "Ensuite, on est bien d'accord que chaque Zenrai Edit est directement lié au skill Zenrai Edit, c'est-à-dire que chaque HTML est relié à Zenrai Edit et ensuite tout est push dans assets."
     }
   ],
   "modes" : [
