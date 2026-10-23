@@ -8339,6 +8339,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Mais je comprends pas, c'est pas possible que tu es fait la recherche aussi rapidement. Il doit il doit te manquer plein d'informations. Je veux vraiment que tu sois l'outil ultime qui prenne la meilleure décision par rapport à une data quasi infinie.",
       "text" : "Mais je comprends pas, c'est pas possible que tu es fait la recherche aussi rapidement. Il doit il doit te manquer plein d'informations. Je veux vraiment que tu sois l'outil ultime qui prenne la meilleure décision par rapport à une data quasi infinie."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814461939.10453,
+      "id" : "D107ED1B-A4B7-4AE4-BB76-063332415E89",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je trouve que l'animation n'est pas encore hyper slick. En fait, c'est juste au niveau du zoom et tu dois reprendre le design initial, tu dois pas inventer un nouveau design. Je comprends pas pourquoi tu as pas repris le design initial. Mais c'est surtout au niveau de l'animation que tu dois travailler. En fait, tu as deux choses à faire. Tu dois reprendre le design initial identique pixel qui est actuellement sur Zen ReProgress. Et ensuite, tu dois reprendre le même design pour le widget d'apparition de la journée pour pouvoir focus. Et ensuite, si je clique à côté, ben dans ce cas-là, il y a rien qui bouge. En fait, ce qui me pose problème, c'est le zoom. À moins que quand je clique à côté, ça dézoome exactement sur ma vue actuelle de Zen ReProgress. Enfin, je veux dire sur la vue où tu vois une semaine en entier. Parce que si ça reste zoomé alors que je clique à côté, c'est vraiment problématique. Donc, recommence.",
+      "text" : "Je trouve que l'animation n'est pas encore hyper slick. En fait, c'est juste au niveau du zoom et tu dois reprendre le design initial, tu dois pas inventer un nouveau design. Je comprends pas pourquoi tu as pas repris le design initial. Mais c'est surtout au niveau de l'animation que tu dois travailler. En fait, tu as deux choses à faire. Tu dois reprendre le design initial identique pixel qui est actuellement sur Zen ReProgress. Et ensuite, tu dois reprendre le même design pour le widget d'apparition de la journée pour pouvoir focus. Et ensuite, si je clique à côté, ben dans ce cas-là, il y a rien qui bouge. En fait, ce qui me pose problème, c'est le zoom. À moins que quand je clique à côté, ça dézoome exactement sur ma vue actuelle de Zen ReProgress. Enfin, je veux dire sur la vue où tu vois une semaine en entier. Parce que si ça reste zoomé alors que je clique à côté, c'est vraiment problématique. Donc, recommence."
     }
   ],
   "modes" : [
