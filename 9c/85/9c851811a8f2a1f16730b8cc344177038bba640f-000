@@ -7939,6 +7939,56 @@
       "provider" : "Gemini live dictation",
       "rawText" : "À l'image des LLM et de ZenRe Progress, ce que j'aimerais, c'est créer ZenRe Knowledge, c'est-à-dire un recensement de toutes les questions que j'ai déjà posées par rapport au fait de savoir quelque chose. Il pourra y avoir des questions santé, des questions business, peu importe la question. Ce que je veux, c'est avoir dans la sidebar de gauche de ZenRe Progress un onglet qui s'appelle Knowledge et qui me dit par exemple, ah vous avez déjà posé cette question tel jour à tel moment. Comme ça, ça me permet de consolider ma mémoire. En fait, ça peut être des questions de n'importe quel sujet, mais le but en fait, c'est de tout le temps, à la manière de ZenRe Assets et de Progress qui note tous les progrès de chaque jour, c'est de lire comment est faite l'architecture de ces projets et de me dire directement quelles questions j'ai posées à quel moment. Je pense qu'une interface entre Progress et Assets peut être intéressante afin de retrouver toutes les questions et surtout interroger la base de données à chaque fois que je pose une question et créer le skill associé afin de créer proprement ZenRe Knowledge et de pouvoir tout uploader. Le but, c'est que tu lises l'architecture de ZenRe Assets, puis tu lis l'architecture de ZenRe Progress et enfin tu crées ZenRe Knowledge. Donc à chaque fois que je pose une question, ça se recense dans une base de données et avant de poser les futures questions, tu interroges la base de données. Comme ça, j'ai toutes les questions que j'ai déjà posées dans une chronologie, mais aussi dans une base de données qui fait que ça interroge toujours la base de données. Il y a aussi pas mal de questions qui sont déjà dans le fichier mathieu1.md que tu peux associer à la base de données, mais le but, c'est d'avoir une interface très slick afin de jamais se perdre ni s'embrouiller dans beaucoup trop de knowledge. Le but, c'est d'avoir des réponses simples en un à trois paragraphes à chaque fois pour ne pas trop perdre d'attention dans une journée où d'énergie.",
       "text" : "À l'image des LLM et de ZenRe Progress, ce que j'aimerais, c'est créer ZenRe Knowledge, c'est-à-dire un recensement de toutes les questions que j'ai déjà posées par rapport au fait de savoir quelque chose. Il pourra y avoir des questions santé, des questions business, peu importe la question. Ce que je veux, c'est avoir dans la sidebar de gauche de ZenRe Progress un onglet qui s'appelle Knowledge et qui me dit par exemple, ah vous avez déjà posé cette question tel jour à tel moment. Comme ça, ça me permet de consolider ma mémoire. En fait, ça peut être des questions de n'importe quel sujet, mais le but en fait, c'est de tout le temps, à la manière de ZenRe Assets et de Progress qui note tous les progrès de chaque jour, c'est de lire comment est faite l'architecture de ces projets et de me dire directement quelles questions j'ai posées à quel moment. Je pense qu'une interface entre Progress et Assets peut être intéressante afin de retrouver toutes les questions et surtout interroger la base de données à chaque fois que je pose une question et créer le skill associé afin de créer proprement ZenRe Knowledge et de pouvoir tout uploader. Le but, c'est que tu lises l'architecture de ZenRe Assets, puis tu lis l'architecture de ZenRe Progress et enfin tu crées ZenRe Knowledge. Donc à chaque fois que je pose une question, ça se recense dans une base de données et avant de poser les futures questions, tu interroges la base de données. Comme ça, j'ai toutes les questions que j'ai déjà posées dans une chronologie, mais aussi dans une base de données qui fait que ça interroge toujours la base de données. Il y a aussi pas mal de questions qui sont déjà dans le fichier mathieu1.md que tu peux associer à la base de données, mais le but, c'est d'avoir une interface très slick afin de jamais se perdre ni s'embrouiller dans beaucoup trop de knowledge. Le but, c'est d'avoir des réponses simples en un à trois paragraphes à chaque fois pour ne pas trop perdre d'attention dans une journée où d'énergie."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814446936.860544,
+      "id" : "CB3EDE07-0837-47D9-989B-140B002CB51D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "notamment lorsque je te demande d'utiliser deux designs. Et c'est la même logique pour les chiffres etc. puisque c'est une police serif. En fait, ce que je veux, c'est que tu utilises soit l'un soit l'autre.",
+      "text" : "notamment lorsque je te demande d'utiliser deux designs. Et c'est la même logique pour les chiffres etc. puisque c'est une police serif. En fait, ce que je veux, c'est que tu utilises soit l'un soit l'autre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814446951.452277,
+      "id" : "2EDC9B35-D541-464C-BF11-C261CCF70F17",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je t'avais dit de consigner dans Claude.md global, mais t'as peut-être un fichier qui s'appelle typographie aussi qu'il faut update.",
+      "text" : "Je t'avais dit de consigner dans Claude.md global, mais t'as peut-être un fichier qui s'appelle typographie aussi qu'il faut update."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814446989.483351,
+      "id" : "111DC7AF-A8CD-41D5-800C-FE9D1AF61D9D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, ce que je veux, c'est que tu varies avec la fonte Anthropic et ou la fonte GT Sectra, mais uniquement pour tout ce qui va être les sous-titres ou bien les chiffres.",
+      "text" : "En fait, ce que je veux, c'est que tu varies avec la fonte Anthropic et ou la fonte GT Sectra, mais uniquement pour tout ce qui va être les sous-titres ou bien les chiffres."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814447102.280545,
+      "id" : "58D398D3-7935-469C-9647-2F460D2B4005",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Non, pardon, en fait, soit tu utilises GT10 Non, en fait, c'est GT Sectra LCG.",
+      "text" : "Non, pardon, en fait, soit tu utilises GT10 Non, en fait, c'est GT Sectra LCG."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814447260.349236,
+      "id" : "524A5CC5-86A4-4361-B996-FEC1998DEFA9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "pour que j'ai le tenant et les aboutissants de toutes les fonctionnalités à date du module. Parce que c'est important là maintenant de faire un document qui recense la documentation de ces projets pour que j'ai un visuel un peu sur tout ce que contient le code.",
+      "text" : "pour que j'ai le tenant et les aboutissants de toutes les fonctionnalités à date du module. Parce que c'est important là maintenant de faire un document qui recense la documentation de ces projets pour que j'ai un visuel un peu sur tout ce que contient le code."
     }
   ],
   "modes" : [
