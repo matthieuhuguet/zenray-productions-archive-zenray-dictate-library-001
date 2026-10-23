@@ -8379,6 +8379,456 @@
       "provider" : "Gemini live dictation",
       "rawText" : "tout en respectant la DA de l'UI actuelle, car actuellement on voit trop de transparence et c'est pas agréable à lire.",
       "text" : "tout en respectant la DA de l'UI actuelle, car actuellement on voit trop de transparence et c'est pas agréable à lire."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814466951.236992,
+      "id" : "CC800926-7430-4B48-9F92-FFB5610F567B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ok, mais est-ce que tu as pensé à tout dans la recherche, c'est-à-dire les lois auto-entrepreneur, le basculement vers la SAS, l'entreprise, les formes d'évolution par rapport à mon propre business ? Il faut vraiment que l'agence soit ultra complète en fait.",
+      "text" : "Ok, mais est-ce que tu as pensé à tout dans la recherche, c'est-à-dire les lois auto-entrepreneur, le basculement vers la SAS, l'entreprise, les formes d'évolution par rapport à mon propre business ? Il faut vraiment que l'agence soit ultra complète en fait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814466971.551049,
+      "id" : "6A4D079E-C3EC-4D42-8787-9B01C9B2EA45",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "la déclaration des revenus, la potentialité du fait de travailler au Japon, la résidence permanente à terme, etc.",
+      "text" : "la déclaration des revenus, la potentialité du fait de travailler au Japon, la résidence permanente à terme, etc."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814467748.361532,
+      "id" : "48042B3D-9ECB-42DC-9DE5-70D8ECB0533E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il y a toujours un problème parce que quand j'arrive sur ZenReplan, il reclique encore, enfin il repasse encore sur Mathieu 2026 alors que ça devrait l'ouvrir automatiquement étant donné qu'il y a qu'un seul plan.",
+      "text" : "Il y a toujours un problème parce que quand j'arrive sur ZenReplan, il reclique encore, enfin il repasse encore sur Mathieu 2026 alors que ça devrait l'ouvrir automatiquement étant donné qu'il y a qu'un seul plan."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814467869.069923,
+      "id" : "E1785A07-9632-4388-815D-33A6FBA41A6C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Maintenant, il faut créer la même variation mais avec le logo Zenrai. Donc attention, les contours extérieurs sont blancs. Et il faut reproduire exactement la même animation que tu as créée, sauf que du coup, il y aura marqué Zenrai en dessous.",
+      "text" : "Maintenant, il faut créer la même variation mais avec le logo Zenrai. Donc attention, les contours extérieurs sont blancs. Et il faut reproduire exactement la même animation que tu as créée, sauf que du coup, il y aura marqué Zenrai en dessous."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814468055.148338,
+      "id" : "5878B177-4528-43F1-A4A6-9AF8A4D51A00",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais du coup, j'ai une question. Est-ce que c'est déjà live ?",
+      "text" : "Mais du coup, j'ai une question. Est-ce que c'est déjà live ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814468110.255099,
+      "id" : "DAEAF622-6FD6-4DCD-8571-A9237AB1E9A7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, c'est ça, mais il manque une animation de 0,35 seconde où ça zoome sur Mathieu plan 2026 et ensuite ça exécute les autres animations.",
+      "text" : "En fait, c'est ça, mais il manque une animation de 0,35 seconde où ça zoome sur Mathieu plan 2026 et ensuite ça exécute les autres animations."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814468202.13836,
+      "id" : "524D50CF-B34A-47EA-A1F6-173C5F106F6E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Regarde sur le storyboard, le motion n'est pas exact. Tu vois bien qu'il y a des contours bleus au début de l'animation du logo PlayStation qui n'apparaissent pas sur le logo de Zenrai. En fait, le contour est beaucoup plus fin et beaucoup plus bleu et surtout il y a un décalage qui part sur les bords et qui crée un effet gradient comme un projectile ou une petite comète qui fait que actuellement l'animation n'est pas parfaite.",
+      "text" : "Regarde sur le storyboard, le motion n'est pas exact. Tu vois bien qu'il y a des contours bleus au début de l'animation du logo PlayStation qui n'apparaissent pas sur le logo de Zenrai. En fait, le contour est beaucoup plus fin et beaucoup plus bleu et surtout il y a un décalage qui part sur les bords et qui crée un effet gradient comme un projectile ou une petite comète qui fait que actuellement l'animation n'est pas parfaite."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814468341.638036,
+      "id" : "3D0F7BA5-81A6-4F31-842F-81ACEBB82AA1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu as mis la dernière forme de lettre ?",
+      "text" : "Est-ce que tu as mis la dernière forme de lettre ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814468542.638909,
+      "id" : "9CFE367A-D9DD-4AFF-B0EA-2D83725EDE65",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "La section Tools va tout en dernier dans la barre latérale de gauche, dans la dernière section après Systems. Tu peux faire disparaître Zen et Progress sur la barre latérale et tu peux remonter Create tout en haut. Ensuite, tu peux enlever Craft et Quick Tools pour que ce soit une seule famille. En fait, enlève les sous-sous-familles dans les menus de section. Et tu mets Plan au tout début avant Create.",
+      "text" : "La section Tools va tout en dernier dans la barre latérale de gauche, dans la dernière section après Systems. Tu peux faire disparaître Zen et Progress sur la barre latérale et tu peux remonter Create tout en haut. Ensuite, tu peux enlever Craft et Quick Tools pour que ce soit une seule famille. En fait, enlève les sous-sous-familles dans les menus de section. Et tu mets Plan au tout début avant Create."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814469253.427705,
+      "id" : "B3F04665-8B22-4511-A046-A1A98235504C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je pense que tu peux continuer les designs en testant deux choses. Déjà, enlever les barres transversales et mettre plutôt de l'espace à la place.",
+      "text" : "Je pense que tu peux continuer les designs en testant deux choses. Déjà, enlever les barres transversales et mettre plutôt de l'espace à la place."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814469261.142557,
+      "id" : "CAFA7022-1317-4FD1-B93D-0A05D73E8E7A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ensuite, testez au moins un design avec GT Sectra pour les titres.",
+      "text" : "Ensuite, testez au moins un design avec GT Sectra pour les titres."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814469307.287938,
+      "id" : "B9AD2F3B-A0EA-4130-B430-3266A2976EA1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et enfin, testons ça. Du coup, on garde. On va tester un design avec GTS Extra pour les titres, un design et on enlève le maximum de choses dans la sidebar, c'est-à-dire on enlève les barres transversales qui sont comme des grands tirets, parce qu'au final je pense que c'est un peu moche et on peut s'en passer. Et le but, c'est juste de mettre un espace pour qu'en termes de UI et les leçons de Gestalt soient",
+      "text" : "Et enfin, testons ça. Du coup, on garde. On va tester un design avec GTS Extra pour les titres, un design et on enlève le maximum de choses dans la sidebar, c'est-à-dire on enlève les barres transversales qui sont comme des grands tirets, parce qu'au final je pense que c'est un peu moche et on peut s'en passer. Et le but, c'est juste de mettre un espace pour qu'en termes de UI et les leçons de Gestalt soient"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814469645.444751,
+      "id" : "CBD59F6F-3C2B-48A5-AFDB-B902CDC7E52A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais alors pourquoi le contour de Zenrai il est toujours pas bleuté ? Alors pas jusqu'au bout, tu vois bien que jusqu'à 3,7 secondes le contour il est toujours bleuté sur Studio et que le carré il est pas arrondi, il est toujours En fait, c'est la luminance du carré qui est qui est bleuté. Et les comètes c'est pareil. Par contre le design des comètes que tu as fait est pas tout à fait pareil parce qu'il y avait un gradient qui fait que les bords de comète disparaissent. Donc on y est presque mais il faut vraiment que tu focuses sur l'aspect bleuté de la chose.",
+      "text" : "Mais alors pourquoi le contour de Zenrai il est toujours pas bleuté ? Alors pas jusqu'au bout, tu vois bien que jusqu'à 3,7 secondes le contour il est toujours bleuté sur Studio et que le carré il est pas arrondi, il est toujours En fait, c'est la luminance du carré qui est qui est bleuté. Et les comètes c'est pareil. Par contre le design des comètes que tu as fait est pas tout à fait pareil parce qu'il y avait un gradient qui fait que les bords de comète disparaissent. Donc on y est presque mais il faut vraiment que tu focuses sur l'aspect bleuté de la chose."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814469685.129798,
+      "id" : "0CEBAAD2-A3F4-4908-9C3F-1C5C61C3C878",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Italie qui est magnifique, donc on valide.",
+      "text" : "Italie qui est magnifique, donc on valide."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814469762.130568,
+      "id" : "08308633-1264-4A0F-9DFD-BFFDFC7E0911",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu peux push sur assets tout ce qui est bind à ZenRay Sales ?",
+      "text" : "Est-ce que tu peux push sur assets tout ce qui est bind à ZenRay Sales ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814469779.783065,
+      "id" : "62E47F0D-5597-4279-B283-0A67F954387C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et me biffer et me consigner tout ce qui a été dit dans cette conversation.",
+      "text" : "Et me biffer et me consigner tout ce qui a été dit dans cette conversation."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814470717.831053,
+      "id" : "AFF3C308-E0B1-46A4-A828-083569C4D515",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, c'est très bien, mais j'aimerais simplement tester les titres en italique pour l'article neutre et si ça me plaît, on consignera du coup dans les règles typographiques de Claude.md voir de",
+      "text" : "En fait, c'est très bien, mais j'aimerais simplement tester les titres en italique pour l'article neutre et si ça me plaît, on consignera du coup dans les règles typographiques de Claude.md voir de"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814470960.572485,
+      "id" : "D7D926F0-D916-42E4-8597-46EFFC674298",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est un peu de la merde ce que tu as fait, notamment le design. Actuellement, j'ai un fond bleu sur mon site, c'est hyper moche. Je comprends pas ce que tu as fait. Et en plus, il y a certains textes qui dépassent de l'espace assigné, donc il faut vraiment que tu focuses sur le design et que tu bosses proprement.",
+      "text" : "C'est un peu de la merde ce que tu as fait, notamment le design. Actuellement, j'ai un fond bleu sur mon site, c'est hyper moche. Je comprends pas ce que tu as fait. Et en plus, il y a certains textes qui dépassent de l'espace assigné, donc il faut vraiment que tu focuses sur le design et que tu bosses proprement."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814471027.662918,
+      "id" : "20BADADB-E364-41F3-88C2-CCA422D29340",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et puis, j'ai l'impression même que la méthodologie n'est pas la bonne parce qu'en fait, tu crées des questions alors que en soi, il y a déjà toutes les conversations et tout. Je comprends pas comment tu fais tes mesures d'unité, etc. Je trouve que c'est bizarre. Alors que pourtant, je t'avais donné une bonne méthodologie, c'est-à-dire que t'interrogeais Memory 1. Mais là, en fait, le problème, c'est que tu recrées une autre source de vérité avec question 1.md. Donc je pense qu'il faut réviser tout ce qu'on a vu jusqu'à maintenant pour créer vraiment la version de Zettelkasten Knowledge la plus finale, la plus définitive et la plus intelligente en termes d'utilité au quotidien, tu vois.",
+      "text" : "Et puis, j'ai l'impression même que la méthodologie n'est pas la bonne parce qu'en fait, tu crées des questions alors que en soi, il y a déjà toutes les conversations et tout. Je comprends pas comment tu fais tes mesures d'unité, etc. Je trouve que c'est bizarre. Alors que pourtant, je t'avais donné une bonne méthodologie, c'est-à-dire que t'interrogeais Memory 1. Mais là, en fait, le problème, c'est que tu recrées une autre source de vérité avec question 1.md. Donc je pense qu'il faut réviser tout ce qu'on a vu jusqu'à maintenant pour créer vraiment la version de Zettelkasten Knowledge la plus finale, la plus définitive et la plus intelligente en termes d'utilité au quotidien, tu vois."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814471176.021678,
+      "id" : "D62A3BAA-A588-441D-AFCD-F4E3FF54D6C3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il me faut une section dans sport dans le design mais de manière très propre, peut-être simplement un onglet qui s'appellerait Last Sessions qui me permet de voir peut-être dans les toggles en haut à droite. En fait, le but c'est de voir tous les poids que j'ai porté la dernière fois, c'est d'avoir les unités, en fait c'est d'avoir une petite capsule qui montre la séance complète avec lui GTC Xtra du",
+      "text" : "Il me faut une section dans sport dans le design mais de manière très propre, peut-être simplement un onglet qui s'appellerait Last Sessions qui me permet de voir peut-être dans les toggles en haut à droite. En fait, le but c'est de voir tous les poids que j'ai porté la dernière fois, c'est d'avoir les unités, en fait c'est d'avoir une petite capsule qui montre la séance complète avec lui GTC Xtra du"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814471282.84894,
+      "id" : "9D3A8C59-C80E-41BC-A2B8-1ACCFE6118FB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'aimerais aussi que tu me proposes trois propositions de test sur trois fontes qui sont GT Sectra. J'aimerais simplement sur un fichier HTML ou sur un fichier PNG que tu me proposes, c'est une nouvelle tâche complètement indépendante, que tu me proposes trois designs en italique avec du coup GT Sectra normal, GT Sectra Fine Display et GT Sectra",
+      "text" : "J'aimerais aussi que tu me proposes trois propositions de test sur trois fontes qui sont GT Sectra. J'aimerais simplement sur un fichier HTML ou sur un fichier PNG que tu me proposes, c'est une nouvelle tâche complètement indépendante, que tu me proposes trois designs en italique avec du coup GT Sectra normal, GT Sectra Fine Display et GT Sectra"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814471297.954777,
+      "id" : "A23A0B2D-2CC9-47B5-BF04-B33F3E2025DB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En soi, j'ai trois fontes, tu as juste à les lister et à écrire le mot sport, voire écrire directement plusieurs mots en mode Lorem ipsum mais toujours en italique.",
+      "text" : "En soi, j'ai trois fontes, tu as juste à les lister et à écrire le mot sport, voire écrire directement plusieurs mots en mode Lorem ipsum mais toujours en italique."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814471349.319286,
+      "id" : "3318DF89-A6BC-43CE-9D40-24CFD34E1A4D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Dans la section sport qui est actuellement affichée en screen, tu peux me faire des variations où tu modifies GT Sectra pour tous les titres qui sont affichés. Pour tous les titres qui sont actuellement affichés en Inter ou en Entropic Serif, tu peux essayer de les modifier en GT Sectra.",
+      "text" : "Dans la section sport qui est actuellement affichée en screen, tu peux me faire des variations où tu modifies GT Sectra pour tous les titres qui sont affichés. Pour tous les titres qui sont actuellement affichés en Inter ou en Entropic Serif, tu peux essayer de les modifier en GT Sectra."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814472062.156153,
+      "id" : "B05901E0-8BFF-4F90-A80E-4E6E0229C041",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ajoute une phrase empathique en mode En revanche, je peux comprendre que ça puisse ne pas vous convenir, auquel cas ce n'est pas grave.",
+      "text" : "Ajoute une phrase empathique en mode En revanche, je peux comprendre que ça puisse ne pas vous convenir, auquel cas ce n'est pas grave."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814472084.534597,
+      "id" : "3E7A66B4-F093-47EB-9014-6F997F3E1357",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je pense qu'il vaut mieux enlever la phrase de fin.",
+      "text" : "Je pense qu'il vaut mieux enlever la phrase de fin."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814472093.98136,
+      "id" : "7ACADF43-D275-46F9-A36B-B8DCD062BC3F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu penses qu'il vaut mieux laisser la phrase de fin ou plutôt l'enlever en mode ça baisse pas proposition ?",
+      "text" : "Est-ce que tu penses qu'il vaut mieux laisser la phrase de fin ou plutôt l'enlever en mode ça baisse pas proposition ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814472744.527849,
+      "id" : "1E298C48-45F7-4BD1-90FF-B85C9878CED1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il y avait un logo d'introduction dans les films qui faisait un motion design très intéressant. C'était peut-être Columbia. Je ne sais plus exactement ce que c'était.",
+      "text" : "Il y avait un logo d'introduction dans les films qui faisait un motion design très intéressant. C'était peut-être Columbia. Je ne sais plus exactement ce que c'était."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814472793.578301,
+      "id" : "5E31E661-0C96-4564-9D18-D31D23B90F3D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'était peut-être Sony ou peut-être c'était Marvel ou peut-être c'était Lion Gates, je sais plus, mais c'était un effet de lentille qui passait de gauche à droite. Je sais plus lequel c'est.",
+      "text" : "C'était peut-être Sony ou peut-être c'était Marvel ou peut-être c'était Lion Gates, je sais plus, mais c'était un effet de lentille qui passait de gauche à droite. Je sais plus lequel c'est."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814473125.127932,
+      "id" : "966754A1-5559-4EE9-83A4-37B9104A9B5F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "YouTube DLP",
+      "text" : "YouTube DLP"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814473189.163636,
+      "id" : "914B16E5-2CD7-41DE-A862-FBB2C7E57278",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc on va prendre ce trailer. Mais là, j'ai encore le problème du Y qui est trop espacé. C'est un peu chiant. Mais je sais ce que je vais faire. Donc on va recréer le motion exact jusqu'à 10 secondes de cette vidéo. Ensuite, on va créer une variation où avec la fonte procédurale, on va écrire Zenrai à la place. Et à 10 secondes, on va faire la transition pour que au lieu que la variation du coup de Zenrai qui s'inspire du logo PlayStation, donc le motion que je t'ai demandé de faire juste avant, tu fasses la variation au niveau des des boutons donc qui sont triangle, rond, croix et carré.",
+      "text" : "Donc on va prendre ce trailer. Mais là, j'ai encore le problème du Y qui est trop espacé. C'est un peu chiant. Mais je sais ce que je vais faire. Donc on va recréer le motion exact jusqu'à 10 secondes de cette vidéo. Ensuite, on va créer une variation où avec la fonte procédurale, on va écrire Zenrai à la place. Et à 10 secondes, on va faire la transition pour que au lieu que la variation du coup de Zenrai qui s'inspire du logo PlayStation, donc le motion que je t'ai demandé de faire juste avant, tu fasses la variation au niveau des des boutons donc qui sont triangle, rond, croix et carré."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814473197.940073,
+      "id" : "89A0C5FA-90DB-4749-8265-06ECDC28F7C0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Let's go ahead and do this motion.",
+      "text" : "Let's go ahead and do this motion."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814473314.888613,
+      "id" : "7C1A5651-6C70-49D2-BD6B-67DBA89413D6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc en fait là, tu refais le motion que jusqu'à 10 secondes et ensuite on fera une transition qui ouvre de 0 à 10 secondes avec la fonte procédurale qui met Zenrai à la place de Sony et ensuite ça fait une transition vers le nouveau motion et le logo",
+      "text" : "Donc en fait là, tu refais le motion que jusqu'à 10 secondes et ensuite on fera une transition qui ouvre de 0 à 10 secondes avec la fonte procédurale qui met Zenrai à la place de Sony et ensuite ça fait une transition vers le nouveau motion et le logo"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814473938.167853,
+      "id" : "19D9E48C-8396-406E-8F8B-1FD1E1FDC6DB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ensuite, on prend la variation où il y a écrit Zenrai, donc de 0 à 10 secondes avec l'apparition et donc l'exact motion qui est une variation, mais ce qu'on veut c'est qu'on met le Zenrai bleuté qui va correspondre à l'ancien triangle rond croix carré et qui fait la transition avec le rayon bleuté et ensuite le logo qui apparaît et qui écrit Zenrai en dessous. En fait, si tu veux dans la nouvelle variation, on crée une nouvelle variation, mais c'est le logo Sony qui écrit Zenrai qui remplace le triangle rond carré et croix.",
+      "text" : "Ensuite, on prend la variation où il y a écrit Zenrai, donc de 0 à 10 secondes avec l'apparition et donc l'exact motion qui est une variation, mais ce qu'on veut c'est qu'on met le Zenrai bleuté qui va correspondre à l'ancien triangle rond croix carré et qui fait la transition avec le rayon bleuté et ensuite le logo qui apparaît et qui écrit Zenrai en dessous. En fait, si tu veux dans la nouvelle variation, on crée une nouvelle variation, mais c'est le logo Sony qui écrit Zenrai qui remplace le triangle rond carré et croix."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814474004.853298,
+      "id" : "29C9150B-E60E-433C-A0B3-C27AC3316372",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Au final, il y a trois motions à créer. Il y a le premier motion qui est le Sony, le deuxième qui est Zenrai en reproduction et qui dure 10 secondes, et le troisième qui est celui qu'on a fait juste avant et qui vient remplacer les icônes de la manette de la PlayStation, c'est-à-dire la croix, le triangle, le carré et le rond, avec du coup de 0 à 10 secondes l'apparition du logo Sony, mais du coup où il y aura marqué Zenrai, et ensuite la transition vers le Zenrai bleuté où il y avait la comète, etc.",
+      "text" : "Au final, il y a trois motions à créer. Il y a le premier motion qui est le Sony, le deuxième qui est Zenrai en reproduction et qui dure 10 secondes, et le troisième qui est celui qu'on a fait juste avant et qui vient remplacer les icônes de la manette de la PlayStation, c'est-à-dire la croix, le triangle, le carré et le rond, avec du coup de 0 à 10 secondes l'apparition du logo Sony, mais du coup où il y aura marqué Zenrai, et ensuite la transition vers le Zenrai bleuté où il y avait la comète, etc."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814474494.380458,
+      "id" : "92C4D879-2F06-451F-943B-70B764FCED22",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "De toute manière, je choisis GT Sectra uniquement pour changer les titres, mais par contre sur la simulation vue de sport réel, je veux que tu mettes les titres un peu plus gros parce qu'actuellement c'est vraiment minuscule. En fait, il faudrait doubler minimum x 2. Et par contre, je choisis GT Sectra normal. Mais en fait, je voulais juste avoir une nouvelle icône Last Sessions. Et donc le design actuel ne change pas, mais la seule chose qui va changer, c'est le design des précédentes sessions. Et du coup, pour le design des précédentes sessions, j'aimerais en fait que tu prennes le design B parce qu'il reprend les images et je trouve que c'est toujours mieux d'avoir des images. Mais en revanche, il faut vraiment simplifier le design de Last Sessions. Tu peux prendre B, mais dans séance, les exercices, les databases d'exercices doivent avoir leur titre au moins deux fois plus gros parce qu'actuellement c'est trop petit. Et du coup, Last Sessions garderait les images, mais en soi, tu reprends juste le design actuel. Refais-moi un mockup avec le design actuel, un simple mockup du design actuel, sauf que tu changes tous les titres par GT Sectra normal. Et enfin, tu appliques le design B pour Last Sessions, mais je veux que tu simplifies au maximum le design. Donc tu gardes les images, mais tu simplifies au maximum le design juste pour avoir l'information des poids de la dernière fois. Et ce sera parfait.",
+      "text" : "De toute manière, je choisis GT Sectra uniquement pour changer les titres, mais par contre sur la simulation vue de sport réel, je veux que tu mettes les titres un peu plus gros parce qu'actuellement c'est vraiment minuscule. En fait, il faudrait doubler minimum x 2. Et par contre, je choisis GT Sectra normal. Mais en fait, je voulais juste avoir une nouvelle icône Last Sessions. Et donc le design actuel ne change pas, mais la seule chose qui va changer, c'est le design des précédentes sessions. Et du coup, pour le design des précédentes sessions, j'aimerais en fait que tu prennes le design B parce qu'il reprend les images et je trouve que c'est toujours mieux d'avoir des images. Mais en revanche, il faut vraiment simplifier le design de Last Sessions. Tu peux prendre B, mais dans séance, les exercices, les databases d'exercices doivent avoir leur titre au moins deux fois plus gros parce qu'actuellement c'est trop petit. Et du coup, Last Sessions garderait les images, mais en soi, tu reprends juste le design actuel. Refais-moi un mockup avec le design actuel, un simple mockup du design actuel, sauf que tu changes tous les titres par GT Sectra normal. Et enfin, tu appliques le design B pour Last Sessions, mais je veux que tu simplifies au maximum le design. Donc tu gardes les images, mais tu simplifies au maximum le design juste pour avoir l'information des poids de la dernière fois. Et ce sera parfait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814474502.347951,
+      "id" : "2A0C2461-987A-433E-962D-73688C04CEAE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais on est toujours dans une phase de mockup.",
+      "text" : "Mais on est toujours dans une phase de mockup."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814475071.599064,
+      "id" : "807AB24F-6FE5-4D91-B590-2754BB4F0802",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Dans la dernière version, il y a 4 secondes de trop entre 06 et 10. Il faut que tu réduises cette partie. Ensuite, il y a un problème au niveau du N parce qu'en fait, il y a un carré qui est trop En fait, sur la partie supérieure du N, c'est pas exactement le même N que dans Sonic. Il faut le reproduire d'abord.",
+      "text" : "Dans la dernière version, il y a 4 secondes de trop entre 06 et 10. Il faut que tu réduises cette partie. Ensuite, il y a un problème au niveau du N parce qu'en fait, il y a un carré qui est trop En fait, sur la partie supérieure du N, c'est pas exactement le même N que dans Sonic. Il faut le reproduire d'abord."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814475097.026348,
+      "id" : "78A5EBB5-09B7-44E1-8DC6-EE6052D4009F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Parce que si tu veux, on a l'apparition de Zenrai avec la petite lentille sur le côté et ensuite on peut faire directement la transition avec le faisceau qui enchaîne sur le logo.",
+      "text" : "Parce que si tu veux, on a l'apparition de Zenrai avec la petite lentille sur le côté et ensuite on peut faire directement la transition avec le faisceau qui enchaîne sur le logo."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814475251.555384,
+      "id" : "97670A6C-1C53-4955-8BFF-20B8B7882A1D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, j'ai besoin d'une explication sur Zendesk Sell et son statut actuel en trois paragraphes afin de vraiment comprendre l'outil et comment je pourrais l'utiliser à l'avenir, mais de manière efficace et sans que ça me prenne trop la tête parce que là il commence à être 21h le soir et j'ai moins d'énergie pour me concentrer sur quelque chose de nouveau.",
+      "text" : "En fait, j'ai besoin d'une explication sur Zendesk Sell et son statut actuel en trois paragraphes afin de vraiment comprendre l'outil et comment je pourrais l'utiliser à l'avenir, mais de manière efficace et sans que ça me prenne trop la tête parce que là il commence à être 21h le soir et j'ai moins d'énergie pour me concentrer sur quelque chose de nouveau."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814475278.704747,
+      "id" : "2A97F64F-BB26-4268-BC58-C36657953C8E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce qu'il est à jour ? Est-ce que tout est terminé ? Est-ce que tout est commit ? Et est-ce que tout est sauvegardé ? Et est-ce que tout est consigné ?",
+      "text" : "Est-ce qu'il est à jour ? Est-ce que tout est terminé ? Est-ce que tout est commit ? Et est-ce que tout est sauvegardé ? Et est-ce que tout est consigné ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814475313.02418,
+      "id" : "7C9E6FBD-B467-4C97-8F43-0A9173225314",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que tu as push dans un fichier assets ?",
+      "text" : "Est-ce que tu as push dans un fichier assets ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814475334.90751,
+      "id" : "4B911CC5-F981-4E8B-9227-6EC739741F7B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc tu commences par me résumer en trois paragraphes et si tout n'est pas consigné, tu consignes tout dans le skill et dans",
+      "text" : "Donc tu commences par me résumer en trois paragraphes et si tout n'est pas consigné, tu consignes tout dans le skill et dans"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814475476.160828,
+      "id" : "DD443FBB-8517-445E-B239-18C8004A2695",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Les fontes sont un peu trop grosses. Propose-moi juste un settings où je peux éditer la fonte au niveau des icônes pour le texte qui est en GT Sectra. Par contre, je voulais juste le poids. Affiche dans la sessions, tu affiches simplement en haut à droite dans une capsule arrondie à 999 le poids avec un effet liquid glass dans une capsule très discrète. C'est bien d'avoir la dernière séance comme tu l'as mis, ça c'est très bien. Il y a juste ces deux petits edits à faire.",
+      "text" : "Les fontes sont un peu trop grosses. Propose-moi juste un settings où je peux éditer la fonte au niveau des icônes pour le texte qui est en GT Sectra. Par contre, je voulais juste le poids. Affiche dans la sessions, tu affiches simplement en haut à droite dans une capsule arrondie à 999 le poids avec un effet liquid glass dans une capsule très discrète. C'est bien d'avoir la dernière séance comme tu l'as mis, ça c'est très bien. Il y a juste ces deux petits edits à faire."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814475923.73254,
+      "id" : "F214BA8B-CB04-4F64-A6F4-EDFA88FF6FE6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je corrige rapidement pour les petites capsules, mais en fait, il faut mettre un flou de verre minimum et une opacité verre minimum aussi et me laisser le contrôle du slider. Mais par contre, sur la fonte, puisque c'est du blanc, il faut mettre un léger drop shadow sur les chiffres là en l'occurrence. Comme ça, ça me permet de pas mettre un stroke sur les chiffres et de quand même voir. Et du coup, il faut mettre sur les chiffres et les lettres.",
+      "text" : "Je corrige rapidement pour les petites capsules, mais en fait, il faut mettre un flou de verre minimum et une opacité verre minimum aussi et me laisser le contrôle du slider. Mais par contre, sur la fonte, puisque c'est du blanc, il faut mettre un léger drop shadow sur les chiffres là en l'occurrence. Comme ça, ça me permet de pas mettre un stroke sur les chiffres et de quand même voir. Et du coup, il faut mettre sur les chiffres et les lettres."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814475997.351218,
+      "id" : "E82FC785-093D-427E-8BD6-638909CF2CD0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ouais, c'est pas mal du tout, sauf que j'ai l'impression que entre le R et le A et le A et le Y, il y a pas le même espace, donc c'est un peu bizarre.",
+      "text" : "Ouais, c'est pas mal du tout, sauf que j'ai l'impression que entre le R et le A et le A et le Y, il y a pas le même espace, donc c'est un peu bizarre."
     }
   ],
   "modes" : [
