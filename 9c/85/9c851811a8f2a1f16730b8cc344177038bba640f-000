@@ -9049,6 +9049,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Je sélectionne les différentes couleurs mais ça modifie rien et surtout ça le fait pas en temps réel donc est-ce que tu peux vérifier ?",
       "text" : "Je sélectionne les différentes couleurs mais ça modifie rien et surtout ça le fait pas en temps réel donc est-ce que tu peux vérifier ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814480406.318887,
+      "id" : "EDEE7DF1-EB86-44FF-8883-29CC0B63C63B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Bon, ça marche pas, mais je sais ce que tu vas faire. Tu vas simplement refaire les cinq autres versions dans d'autres vidéos et comme ça je suis sûr que ça fonctionne.",
+      "text" : "Bon, ça marche pas, mais je sais ce que tu vas faire. Tu vas simplement refaire les cinq autres versions dans d'autres vidéos et comme ça je suis sûr que ça fonctionne."
     }
   ],
   "modes" : [
