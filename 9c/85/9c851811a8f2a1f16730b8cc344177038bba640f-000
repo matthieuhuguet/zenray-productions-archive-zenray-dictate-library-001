@@ -9089,6 +9089,56 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Et ensuite, tu supprimes l'ancien Skill Zenrai Plan parce qu'il y aura un nouveau Skill Zenrai Calendar.",
       "text" : "Et ensuite, tu supprimes l'ancien Skill Zenrai Plan parce qu'il y aura un nouveau Skill Zenrai Calendar."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814481551.081199,
+      "id" : "3EA632AF-FC77-401B-94F2-0C0316222DB5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, c'est surtout est-ce que Zenrei Knowledge à date il répond à toutes les questions qui ont été mises dans Zenrei Memory et notamment dans Mathieu Context.",
+      "text" : "En fait, c'est surtout est-ce que Zenrei Knowledge à date il répond à toutes les questions qui ont été mises dans Zenrei Memory et notamment dans Mathieu Context."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814481577.192155,
+      "id" : "9008FCD8-816D-477C-AEC2-B2615AE8E262",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Sachant que le dossier memory est énorme, il faut vraiment run à l'infini pour l'instant Haiku, mais normalement le Haiku doit toujours finir, donc donne-moi son statut actuel.",
+      "text" : "Sachant que le dossier memory est énorme, il faut vraiment run à l'infini pour l'instant Haiku, mais normalement le Haiku doit toujours finir, donc donne-moi son statut actuel."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814481706.1773,
+      "id" : "9B927C4A-01C6-4951-8D67-A99EF0E51B77",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et à mon développement global.",
+      "text" : "Et à mon développement global."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814481717.638706,
+      "id" : "DFB4E8FE-36C9-44C6-89A2-BB1A0AC09A82",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu peux scanner intégralement mon disque pour être sûr de rien oublier.",
+      "text" : "Tu peux scanner intégralement mon disque pour être sûr de rien oublier."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814481727.868793,
+      "id" : "BFC38F9A-F44A-4E66-9EF4-D5353B2E89AE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais globalement, Claude.md va déjà t'aider à faire un inventaire de tout.",
+      "text" : "Mais globalement, Claude.md va déjà t'aider à faire un inventaire de tout."
     }
   ],
   "modes" : [
