@@ -8349,6 +8349,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Je trouve que l'animation n'est pas encore hyper slick. En fait, c'est juste au niveau du zoom et tu dois reprendre le design initial, tu dois pas inventer un nouveau design. Je comprends pas pourquoi tu as pas repris le design initial. Mais c'est surtout au niveau de l'animation que tu dois travailler. En fait, tu as deux choses à faire. Tu dois reprendre le design initial identique pixel qui est actuellement sur Zen ReProgress. Et ensuite, tu dois reprendre le même design pour le widget d'apparition de la journée pour pouvoir focus. Et ensuite, si je clique à côté, ben dans ce cas-là, il y a rien qui bouge. En fait, ce qui me pose problème, c'est le zoom. À moins que quand je clique à côté, ça dézoome exactement sur ma vue actuelle de Zen ReProgress. Enfin, je veux dire sur la vue où tu vois une semaine en entier. Parce que si ça reste zoomé alors que je clique à côté, c'est vraiment problématique. Donc, recommence.",
       "text" : "Je trouve que l'animation n'est pas encore hyper slick. En fait, c'est juste au niveau du zoom et tu dois reprendre le design initial, tu dois pas inventer un nouveau design. Je comprends pas pourquoi tu as pas repris le design initial. Mais c'est surtout au niveau de l'animation que tu dois travailler. En fait, tu as deux choses à faire. Tu dois reprendre le design initial identique pixel qui est actuellement sur Zen ReProgress. Et ensuite, tu dois reprendre le même design pour le widget d'apparition de la journée pour pouvoir focus. Et ensuite, si je clique à côté, ben dans ce cas-là, il y a rien qui bouge. En fait, ce qui me pose problème, c'est le zoom. À moins que quand je clique à côté, ça dézoome exactement sur ma vue actuelle de Zen ReProgress. Enfin, je veux dire sur la vue où tu vois une semaine en entier. Parce que si ça reste zoomé alors que je clique à côté, c'est vraiment problématique. Donc, recommence."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814462295.258046,
+      "id" : "C2F47A52-41DE-4CFA-8D6C-7DBA77F827F6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Puisque l'agent tourne dans une autre conversation, ça veut dire qu'on peut continuer cette conversation et tu auras une notification normalement lorsque Zenrai Sales sera beaucoup plus complet. Et du coup, on va reprendre dans Zenrai Plan. Tout à l'heure, je t'ai demandé d'écrire exécution Andreas méthode, mais j'aimerais que l'information des 10000 par jour, elle soit au début en fait.",
+      "text" : "Puisque l'agent tourne dans une autre conversation, ça veut dire qu'on peut continuer cette conversation et tu auras une notification normalement lorsque Zenrai Sales sera beaucoup plus complet. Et du coup, on va reprendre dans Zenrai Plan. Tout à l'heure, je t'ai demandé d'écrire exécution Andreas méthode, mais j'aimerais que l'information des 10000 par jour, elle soit au début en fait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814462525.561716,
+      "id" : "1B95F759-2993-44A0-A73E-48850B828654",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Quand je refais un double clic directement sur la journée, il faut que ça me remette en mode focus et quand je clique à côté, ça me dézoom. Et du coup, on va choisir focus et tu peux coder maintenant.",
+      "text" : "Quand je refais un double clic directement sur la journée, il faut que ça me remette en mode focus et quand je clique à côté, ça me dézoom. Et du coup, on va choisir focus et tu peux coder maintenant."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814462663.572886,
+      "id" : "65BB1709-9E6C-47A6-9D86-C7E95AC37452",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "tout en respectant la DA de l'UI actuelle, car actuellement on voit trop de transparence et c'est pas agréable à lire.",
+      "text" : "tout en respectant la DA de l'UI actuelle, car actuellement on voit trop de transparence et c'est pas agréable à lire."
     }
   ],
   "modes" : [
