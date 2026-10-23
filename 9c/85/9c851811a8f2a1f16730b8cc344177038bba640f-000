@@ -9399,6 +9399,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ok, bah achète-le dans ce cas-là.",
       "text" : "Ok, bah achète-le dans ce cas-là."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814492442.863359,
+      "id" : "F4DCA528-4D73-4534-8602-B2B20345805B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Normalement, c'est pas un client, mais c'est un peu genre parler à des gens en 3D. Au pire, go appeler maintenant.",
+      "text" : "Normalement, c'est pas un client, mais c'est un peu genre parler à des gens en 3D. Au pire, go appeler maintenant."
     }
   ],
   "modes" : [
