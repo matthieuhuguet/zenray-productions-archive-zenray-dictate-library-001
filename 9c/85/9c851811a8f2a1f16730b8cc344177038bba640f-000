@@ -9349,6 +9349,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Mais moi, j'étais dans ce lycée, mais j'étais pas dans le premier lycée, ni dans le top 3, genre à Louis-le-Grand. Est-ce que ça veut dire que j'ai échoué ma vie ?",
       "text" : "Mais moi, j'étais dans ce lycée, mais j'étais pas dans le premier lycée, ni dans le top 3, genre à Louis-le-Grand. Est-ce que ça veut dire que j'ai échoué ma vie ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814485452.824714,
+      "id" : "278848E8-1565-4D4D-8736-2D973791CF83",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Est-ce que le collège d'Ambrésis est un bon lycée et est-ce qu'il est situé en région parisienne ?",
+      "text" : "Est-ce que le collège d'Ambrésis est un bon lycée et est-ce qu'il est situé en région parisienne ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814485592.085735,
+      "id" : "E2667987-944D-4D63-81F5-FA8CC2106CBF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais c'est dingue du coup en termes de chance que j'ai été dans un des meilleurs lycées de France. C'est chaud n'empêche, non ?",
+      "text" : "Mais c'est dingue du coup en termes de chance que j'ai été dans un des meilleurs lycées de France. C'est chaud n'empêche, non ?"
     }
   ],
   "modes" : [
