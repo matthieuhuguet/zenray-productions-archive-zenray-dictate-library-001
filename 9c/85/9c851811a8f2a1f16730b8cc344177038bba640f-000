@@ -9309,6 +9309,46 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Il faut absolument corriger ce problème.",
       "text" : "Il faut absolument corriger ce problème."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814484739.964002,
+      "id" : "5B5056E8-C160-4C89-899E-861422F49F5D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Quels sont les meilleurs collèges ou lycées de France ? Dans l'ordre, tu me donnes le top 10 à chaque fois.",
+      "text" : "Quels sont les meilleurs collèges ou lycées de France ? Dans l'ordre, tu me donnes le top 10 à chaque fois."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814484899.805484,
+      "id" : "B1DFF4BF-D245-4E17-9024-6F2AE2CA0F11",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "À quelle place se place le lycée Lacordaire à Marseille ? J'ai entendu parler qu'il était un peu équivalent au lycée de Provence de Marseille, mais quelle est sa vraie place sur une échelle où on dirait que ton classement est déjà le bon ?",
+      "text" : "À quelle place se place le lycée Lacordaire à Marseille ? J'ai entendu parler qu'il était un peu équivalent au lycée de Provence de Marseille, mais quelle est sa vraie place sur une échelle où on dirait que ton classement est déjà le bon ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814485021.218005,
+      "id" : "AF282589-C13D-4855-972B-2DD42C10D7A2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donne-moi le classement du coup des meilleurs lycées jusqu'à ce que le lycée Lacordaire y apparaisse. Donc tu me donnes tous les lycées qui sont devant lui. Et combien y a-t-il de lycées au total en France ?",
+      "text" : "Donne-moi le classement du coup des meilleurs lycées jusqu'à ce que le lycée Lacordaire y apparaisse. Donc tu me donnes tous les lycées qui sont devant lui. Et combien y a-t-il de lycées au total en France ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814485095.253809,
+      "id" : "C7E7436F-960A-4836-A12D-7AE1CB8610E5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais moi, j'étais dans ce lycée, mais j'étais pas dans le premier lycée, ni dans le top 3, genre à Louis-le-Grand. Est-ce que ça veut dire que j'ai échoué ma vie ?",
+      "text" : "Mais moi, j'étais dans ce lycée, mais j'étais pas dans le premier lycée, ni dans le top 3, genre à Louis-le-Grand. Est-ce que ça veut dire que j'ai échoué ma vie ?"
     }
   ],
   "modes" : [
