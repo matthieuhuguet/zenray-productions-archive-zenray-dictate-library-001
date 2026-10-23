@@ -8249,6 +8249,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ensuite, on est bien d'accord que chaque Zenrai Edit est directement lié au skill Zenrai Edit, c'est-à-dire que chaque HTML est relié à Zenrai Edit et ensuite tout est push dans assets.",
       "text" : "Ensuite, on est bien d'accord que chaque Zenrai Edit est directement lié au skill Zenrai Edit, c'est-à-dire que chaque HTML est relié à Zenrai Edit et ensuite tout est push dans assets."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814460176.587441,
+      "id" : "BB4835FF-47F7-49C5-A95A-4869CB2CBCA8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc, pour les chiffres, tu mets Entropic 100 et pour le corps, tu tentes GT Sectra Normal.",
+      "text" : "Donc, pour les chiffres, tu mets Entropic 100 et pour le corps, tu tentes GT Sectra Normal."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814460426.54474,
+      "id" : "7BEBB344-EAC5-4CA7-8713-D7AAFC4F7C56",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Suite au meeting que j'ai eu avec Andreas, j'aimerais créer un skills qui s'appelle ZenReSales. Je crois qu'on a commencé à le créer tout àhr, mais en fait ce qu'il faudrait, c'est qu'en fait tu fasses une deep research pendant extrêmement longtemps et que l'agent prenne toute la data disponible sur Internet à la manière de Copernicus 2.md quand on a créé ZenRe8. Tu t'inspires de toutes les recherches qui ont été faites pour avoir tout le knowledge de sales, etc. Et en fait le but du skills, ça va être de grep un maximum de data, un maximum de knowledge, de tout ce qui est disponible, des ouvrages, des œuvres, en fait tout ce qui est disponible sur le web et de jamais t'arrêter tant que tu peux continuer à ajouter de la data dans le skill. Et donc de le mettre dans un fichier qui s'appellera sales1.md. Et une fois, et donc ce fichier sales1.md sera indexé directement dans le dossier des skills ou dans le dossier memory. Tu peux aussi rajouter ou alors ranger les anciens dossiers qui s'appellent sales, etc. Et en fait le but de l'agent sales, enfin de l'agent ou du skills, c'est un peu la même chose au final, ce sera de comprendre mon business et de faire en sorte d'avoir une prospection et un audit de mon business notamment. Là ce que je vais faire en ce moment, c'est que je vais exécuter pour contacter des studios et faire en sorte de contacter au moins 10 studios par jour parce que j'ai un ratio qui fait que à chaque fois que je contacte 10 studios, il y a au moins une personne qui me répond positivement. Donc après c'est pas une stat officielle, c'est sans doute de la chance, mais il faut absolument noter cette stat quelque part. Et ainsi de manière séquentielle, il faut faire en sorte de développer l'outil, etc. Et donc qu'est-ce que je voulais dire ? Je voulais dire, je ne sais plus. Je ne sais plus, je ne sais plus. Oui bon bref, en soi tu dois juste de manière séquentielle grep un maximum de data et constituer le skill de manière ultime, de manière à pouvoir invoquer ZenReSales. Et par exemple avant d'avoir avant de préparer un rendez-vous où je vais proposer trois tarifications pour un studio, c'est dire par exemple il y a une offre à 1500 €, toujours proposer l'offre la plus chère en premier. Une offre à 1500 €, une offre à 1000 € et une offre à 500 € par exemple. Ça c'est un exemple, c'est pas une tarification mais c'est par exemple l'agent devra répondre à n'importe quelle question. Et donc pour ça tu peux utiliser ZenReKnowledge ou memory, tout le dossier memory, ou encore toutes les conversations, etc. Mais le but c'est que tu aies un",
+      "text" : "Suite au meeting que j'ai eu avec Andreas, j'aimerais créer un skills qui s'appelle ZenReSales. Je crois qu'on a commencé à le créer tout àhr, mais en fait ce qu'il faudrait, c'est qu'en fait tu fasses une deep research pendant extrêmement longtemps et que l'agent prenne toute la data disponible sur Internet à la manière de Copernicus 2.md quand on a créé ZenRe8. Tu t'inspires de toutes les recherches qui ont été faites pour avoir tout le knowledge de sales, etc. Et en fait le but du skills, ça va être de grep un maximum de data, un maximum de knowledge, de tout ce qui est disponible, des ouvrages, des œuvres, en fait tout ce qui est disponible sur le web et de jamais t'arrêter tant que tu peux continuer à ajouter de la data dans le skill. Et donc de le mettre dans un fichier qui s'appellera sales1.md. Et une fois, et donc ce fichier sales1.md sera indexé directement dans le dossier des skills ou dans le dossier memory. Tu peux aussi rajouter ou alors ranger les anciens dossiers qui s'appellent sales, etc. Et en fait le but de l'agent sales, enfin de l'agent ou du skills, c'est un peu la même chose au final, ce sera de comprendre mon business et de faire en sorte d'avoir une prospection et un audit de mon business notamment. Là ce que je vais faire en ce moment, c'est que je vais exécuter pour contacter des studios et faire en sorte de contacter au moins 10 studios par jour parce que j'ai un ratio qui fait que à chaque fois que je contacte 10 studios, il y a au moins une personne qui me répond positivement. Donc après c'est pas une stat officielle, c'est sans doute de la chance, mais il faut absolument noter cette stat quelque part. Et ainsi de manière séquentielle, il faut faire en sorte de développer l'outil, etc. Et donc qu'est-ce que je voulais dire ? Je voulais dire, je ne sais plus. Je ne sais plus, je ne sais plus. Oui bon bref, en soi tu dois juste de manière séquentielle grep un maximum de data et constituer le skill de manière ultime, de manière à pouvoir invoquer ZenReSales. Et par exemple avant d'avoir avant de préparer un rendez-vous où je vais proposer trois tarifications pour un studio, c'est dire par exemple il y a une offre à 1500 €, toujours proposer l'offre la plus chère en premier. Une offre à 1500 €, une offre à 1000 € et une offre à 500 € par exemple. Ça c'est un exemple, c'est pas une tarification mais c'est par exemple l'agent devra répondre à n'importe quelle question. Et donc pour ça tu peux utiliser ZenReKnowledge ou memory, tout le dossier memory, ou encore toutes les conversations, etc. Mais le but c'est que tu aies un"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814460471.531386,
+      "id" : "50D482A2-0989-4513-8DBA-44E4149E37E2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais inspire-toi aussi de Zenrai Houdini, de Zenrai UV et de Zenrai 8 qui ont été créés récemment et qui ont proposé de très très bons résultats par rapport au fait d'aller chercher de la data pour créer quelque chose d'excellente facture.",
+      "text" : "Mais inspire-toi aussi de Zenrai Houdini, de Zenrai UV et de Zenrai 8 qui ont été créés récemment et qui ont proposé de très très bons résultats par rapport au fait d'aller chercher de la data pour créer quelque chose d'excellente facture."
     }
   ],
   "modes" : [
