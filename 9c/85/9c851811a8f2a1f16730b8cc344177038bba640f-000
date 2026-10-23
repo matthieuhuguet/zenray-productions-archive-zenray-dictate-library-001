@@ -8859,6 +8859,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Oui, merci beaucoup. Je l'ai aidé à mettre ses affaires dans le taxi.",
       "text" : "Oui, merci beaucoup. Je l'ai aidé à mettre ses affaires dans le taxi."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814477657.691349,
+      "id" : "B039561E-F03B-4B2F-867D-3ADF9C3A5D11",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Comment bien jouer mécaniquement Kazix ?",
+      "text" : "Comment bien jouer mécaniquement Kazix ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814477724.819999,
+      "id" : "167B74B7-B222-48A4-AA19-403D871F96A3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Actuellement, je suis coach pour une équipe e-sport et en fait, ce que j'explique à mon équipe, c'est que le plus important dans le jeu, c'est un, l'argent, deux, la vision et trois, jouer mécaniquement impeccablement et donc ne pas faire d'erreur, etc. Mais par rapport à Kha'Zix spécifiquement, qu'est-ce qu'il faut faire pour vraiment très très bien le jouer et est-ce que tu penses qu'à haut niveau, il vaut mieux jouer Lillia, Kha'Zix ou Kayn, sachant que je coach surtout mon jungler actuellement ?",
+      "text" : "Actuellement, je suis coach pour une équipe e-sport et en fait, ce que j'explique à mon équipe, c'est que le plus important dans le jeu, c'est un, l'argent, deux, la vision et trois, jouer mécaniquement impeccablement et donc ne pas faire d'erreur, etc. Mais par rapport à Kha'Zix spécifiquement, qu'est-ce qu'il faut faire pour vraiment très très bien le jouer et est-ce que tu penses qu'à haut niveau, il vaut mieux jouer Lillia, Kha'Zix ou Kayn, sachant que je coach surtout mon jungler actuellement ?"
     }
   ],
   "modes" : [
