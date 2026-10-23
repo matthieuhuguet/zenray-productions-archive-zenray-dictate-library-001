@@ -9369,6 +9369,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Mais c'est dingue du coup en termes de chance que j'ai été dans un des meilleurs lycées de France. C'est chaud n'empêche, non ?",
       "text" : "Mais c'est dingue du coup en termes de chance que j'ai été dans un des meilleurs lycées de France. C'est chaud n'empêche, non ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814487030.676719,
+      "id" : "514D8CCB-E59B-495C-90B7-B869C801F2EA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est une machine avec un processeur 667.",
+      "text" : "C'est une machine avec un processeur 667."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814487036.468978,
+      "id" : "B8746367-AB18-48CE-9897-37EE8262CCA5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Okay, ben, à chaque fois, bien sûr.",
+      "text" : "Okay, ben, à chaque fois, bien sûr."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814487041.478855,
+      "id" : "18388800-4314-4631-9E3E-B71C882E5F3D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ok, bah achète-le dans ce cas-là.",
+      "text" : "Ok, bah achète-le dans ce cas-là."
     }
   ],
   "modes" : [
