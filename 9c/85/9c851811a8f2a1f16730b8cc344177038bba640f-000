@@ -9139,6 +9139,96 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Mais globalement, Claude.md va déjà t'aider à faire un inventaire de tout.",
       "text" : "Mais globalement, Claude.md va déjà t'aider à faire un inventaire de tout."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814481790.449021,
+      "id" : "2553EE7A-65E3-43ED-9AEB-C929E531065F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais le but à terme, c'est aussi de voir dès qu'il y a un nouveau fichier qui apparaît, de le traquer et de générer directement toutes les questions auxquelles soit la conversation, soit les fichiers répondent. Le but en fait, c'est que ZenReKnowledge il puisse répondre à n'importe quelle question d'un truc qui aurait été fait sur mon ordinateur. Donc en fait, tu peux aussi lire directement le fichier progress, mais ce sera pas suffisant. Donc en fait, il faut vraiment que tu fasses une méthodologie qui scanne absolument tout et qui répond à toutes les questions qui ont déjà été posées. Et c'est là où toi déjà, tu dois faire tout un travail de recherche dans le passé pour mettre à jour le futur qui puisse anticiper les futures questions qui vont s'ajouter de manière progressive. Et chaque jour en fait, on ajoute énormément de questions. Donc il faut que le workflow soit extrêmement solide.",
+      "text" : "Mais le but à terme, c'est aussi de voir dès qu'il y a un nouveau fichier qui apparaît, de le traquer et de générer directement toutes les questions auxquelles soit la conversation, soit les fichiers répondent. Le but en fait, c'est que ZenReKnowledge il puisse répondre à n'importe quelle question d'un truc qui aurait été fait sur mon ordinateur. Donc en fait, tu peux aussi lire directement le fichier progress, mais ce sera pas suffisant. Donc en fait, il faut vraiment que tu fasses une méthodologie qui scanne absolument tout et qui répond à toutes les questions qui ont déjà été posées. Et c'est là où toi déjà, tu dois faire tout un travail de recherche dans le passé pour mettre à jour le futur qui puisse anticiper les futures questions qui vont s'ajouter de manière progressive. Et chaque jour en fait, on ajoute énormément de questions. Donc il faut que le workflow soit extrêmement solide."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814481893.047638,
+      "id" : "BBA1FD05-741C-4315-8FE6-376D3DB18833",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "N'hésite pas à faire une boucle ou à relancer un cron pour être sûr de continuer ce processus qui va être extrêmement long, qui va prendre à mon avis probablement plusieurs semaines. Donc tant que tu n'arrives pas à 100 % de tout l'inventaire et du dressage de 100 % des questions, bah tu n'arrêtes jamais en fait.",
+      "text" : "N'hésite pas à faire une boucle ou à relancer un cron pour être sûr de continuer ce processus qui va être extrêmement long, qui va prendre à mon avis probablement plusieurs semaines. Donc tant que tu n'arrives pas à 100 % de tout l'inventaire et du dressage de 100 % des questions, bah tu n'arrêtes jamais en fait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814481928.901079,
+      "id" : "F430F64C-9A64-4CD1-BE8B-FB17D5121B32",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est pour ça que peut-être que certaines boucles devront être faites par API et notamment via Claude Haiku ou alors Claude Sonnet. Tu peux déjà dépenser les 100 dollars en Claude Sonnet. Je pense qu'il vaut mieux pas utiliser Claude Haiku parce que ça fait vraiment trop de la merde, mais tu peux utiliser Claude Sonnet 3.5 en low ou en medium pour faire continuer la boucle aussi en parallèle sur des questions que tu te poserais.",
+      "text" : "C'est pour ça que peut-être que certaines boucles devront être faites par API et notamment via Claude Haiku ou alors Claude Sonnet. Tu peux déjà dépenser les 100 dollars en Claude Sonnet. Je pense qu'il vaut mieux pas utiliser Claude Haiku parce que ça fait vraiment trop de la merde, mais tu peux utiliser Claude Sonnet 3.5 en low ou en medium pour faire continuer la boucle aussi en parallèle sur des questions que tu te poserais."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814482004.138802,
+      "id" : "3FDD3C54-2510-4E36-8E65-D278DFC6E3E7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Ça dépend, c'est quoi ma journée demain ?",
+      "text" : "Ça dépend, c'est quoi ma journée demain ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814482013.02,
+      "id" : "3E5B9085-5CF6-4541-9E0E-76DAD35AE6F7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Avant de savoir si j'ajoute ou si je supprime, j'aimerais que tu me fasses un petit brief.",
+      "text" : "Avant de savoir si j'ajoute ou si je supprime, j'aimerais que tu me fasses un petit brief."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814482038.729211,
+      "id" : "468DE1CC-5BB6-4AE9-A885-CC6B9AA2AA4A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Non, pour l'instant, le rendez-vous avec Nibir Khan n'est pas encore défini.",
+      "text" : "Non, pour l'instant, le rendez-vous avec Nibir Khan n'est pas encore défini."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814482052.34996,
+      "id" : "C2B58A5E-F81D-4EAB-9E17-29FC2F343F33",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Pour l'instant, il ne m'a pas encore répondu.",
+      "text" : "Pour l'instant, il ne m'a pas encore répondu."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814482144.149516,
+      "id" : "6FDF1962-D2B2-4CBB-B35D-AC96379332CF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je comprends pas pourquoi tu dis que d'email au studio et prospection et contact mission c'est différent, en fait c'est la même chose. Je fais pas de candidatures spontanées en fait au final. Donc en fait c'est la même chose.",
+      "text" : "Je comprends pas pourquoi tu dis que d'email au studio et prospection et contact mission c'est différent, en fait c'est la même chose. Je fais pas de candidatures spontanées en fait au final. Donc en fait c'est la même chose."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814482228.361725,
+      "id" : "A7A153FF-8A10-4FA3-B165-7A67F3F15715",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Demain, juste après l'envoi des 10 messages, je vais continuer Louisiana Bayou jusqu'à midi environ. Ensuite, je vais aller au sport direct, je pense que ce sera à midi. Ensuite, je vais rentrer pour manger et ensuite je ferai du japonais à ce moment-là.",
+      "text" : "Demain, juste après l'envoi des 10 messages, je vais continuer Louisiana Bayou jusqu'à midi environ. Ensuite, je vais aller au sport direct, je pense que ce sera à midi. Ensuite, je vais rentrer pour manger et ensuite je ferai du japonais à ce moment-là."
     }
   ],
   "modes" : [
