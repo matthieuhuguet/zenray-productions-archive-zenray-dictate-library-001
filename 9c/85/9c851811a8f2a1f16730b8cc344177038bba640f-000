@@ -9019,6 +9019,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Il faut que tu fasses confiance au temps.",
       "text" : "Il faut que tu fasses confiance au temps."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814479848.803871,
+      "id" : "DC70243B-2D54-45A4-A360-37816753CA8A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "de souffler, de te mettre un peu d'eau froide sur les joues, de respirer, de faire des expirations, de rester optimiste.",
+      "text" : "de souffler, de te mettre un peu d'eau froide sur les joues, de respirer, de faire des expirations, de rester optimiste."
     }
   ],
   "modes" : [
