@@ -7989,6 +7989,46 @@
       "provider" : "Gemini live dictation",
       "rawText" : "pour que j'ai le tenant et les aboutissants de toutes les fonctionnalités à date du module. Parce que c'est important là maintenant de faire un document qui recense la documentation de ces projets pour que j'ai un visuel un peu sur tout ce que contient le code.",
       "text" : "pour que j'ai le tenant et les aboutissants de toutes les fonctionnalités à date du module. Parce que c'est important là maintenant de faire un document qui recense la documentation de ces projets pour que j'ai un visuel un peu sur tout ce que contient le code."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814447450.335992,
+      "id" : "C31C9DA0-0A86-4E13-B945-76D9354BB0B0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Sur directement le projet Houdini, dans la scène Houdini, j'aimerais que tu me, du coup depuis la 8, tu me compute la normal, tu me compute l'ORM et tu me compute aussi et tu m'attaches la base color et comme ça dans Karma CPU, je peux voir toutes les maps qui normalement devront être faites. Et comme ça on finit proprement arch et ensuite dans M1, tu documentes tout avec toutes les maps, donc les cinq maps qui ont été finies. Tu peux aussi intégrer le channel packing dans une texture ORM qui est ensuite redivisée par canal directement sur Copernicus et ensuite tu ranges aussi le graphe Copernicus du coup qui à la base s'appelait ZenRay8 mais tu l'appelles ZenRay8 to 5 maps et tu consignes aussi dans le skill ce workflow, c'est-à-dire le fait de passer de 8 à 5 maps, surtout avec le nouveau module que tu as créé par rapport à la base color. Il faut évidemment tout relier et mettre les choses dans l'ordre sans te tromper. Donc normalement la prochaine étape ce sera du coup d'avoir dans mon document M1 directement mes fichiers, non pardon, mon asset qui sera du coup avec ces cinq maps en mode PBR. Comme ça je verrai si j'ai des choses à changer au niveau des cinq maps ou bien au niveau de directement de la texture et cetera.",
+      "text" : "Sur directement le projet Houdini, dans la scène Houdini, j'aimerais que tu me, du coup depuis la 8, tu me compute la normal, tu me compute l'ORM et tu me compute aussi et tu m'attaches la base color et comme ça dans Karma CPU, je peux voir toutes les maps qui normalement devront être faites. Et comme ça on finit proprement arch et ensuite dans M1, tu documentes tout avec toutes les maps, donc les cinq maps qui ont été finies. Tu peux aussi intégrer le channel packing dans une texture ORM qui est ensuite redivisée par canal directement sur Copernicus et ensuite tu ranges aussi le graphe Copernicus du coup qui à la base s'appelait ZenRay8 mais tu l'appelles ZenRay8 to 5 maps et tu consignes aussi dans le skill ce workflow, c'est-à-dire le fait de passer de 8 à 5 maps, surtout avec le nouveau module que tu as créé par rapport à la base color. Il faut évidemment tout relier et mettre les choses dans l'ordre sans te tromper. Donc normalement la prochaine étape ce sera du coup d'avoir dans mon document M1 directement mes fichiers, non pardon, mon asset qui sera du coup avec ces cinq maps en mode PBR. Comme ça je verrai si j'ai des choses à changer au niveau des cinq maps ou bien au niveau de directement de la texture et cetera."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814447570.837692,
+      "id" : "7355C4AF-F241-463C-A539-626E77E3C5B6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "À l'avenir, ce genre de document M1 sera quasi systématique. Ce document sera quasi systématique lorsqu'on s'occupe d'un asset, parce que ça permet d'avoir une documentation sur chaque asset. Et c'est bien parce que ça permet d'avoir un document. En fait, le but des HTML, c'est d'avoir un document qui soit une forme d'article, mais qui présente directement tout notre travail. Donc en fait, c'est super bien parce que ça permet à la fois d'avoir quelque chose. Et en fait, ces documents, ils seront cloudés directement dans Zenray Assets. Donc au final, là tu dois me faire trois articles en fait, parce que il y a l'article de Zenray Eight, il y a l'article de Zenray Houdini et il y a l'article M1 en tant que tel. Mais par contre, ce qu'il faut ne pas faire, c'est quand j'update un document, certes il faut le re-clouder sur GitHub pour qu'il arrive sur Zenray Progress dans la section Assets, mais il faut pas que ce soit, comment dire, il faut pas que ce soit mal fait quoi. Enfin, je sais pas comment dire mais",
+      "text" : "À l'avenir, ce genre de document M1 sera quasi systématique. Ce document sera quasi systématique lorsqu'on s'occupe d'un asset, parce que ça permet d'avoir une documentation sur chaque asset. Et c'est bien parce que ça permet d'avoir un document. En fait, le but des HTML, c'est d'avoir un document qui soit une forme d'article, mais qui présente directement tout notre travail. Donc en fait, c'est super bien parce que ça permet à la fois d'avoir quelque chose. Et en fait, ces documents, ils seront cloudés directement dans Zenray Assets. Donc au final, là tu dois me faire trois articles en fait, parce que il y a l'article de Zenray Eight, il y a l'article de Zenray Houdini et il y a l'article M1 en tant que tel. Mais par contre, ce qu'il faut ne pas faire, c'est quand j'update un document, certes il faut le re-clouder sur GitHub pour qu'il arrive sur Zenray Progress dans la section Assets, mais il faut pas que ce soit, comment dire, il faut pas que ce soit mal fait quoi. Enfin, je sais pas comment dire mais"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814447594.293105,
+      "id" : "BC6787CC-6662-422F-B9F2-1B37D8EB47A0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, il faut pas qu'il y ait deux sources de vérité, c'est-à-dire que le document M1, il est tout le temps update à partir des dernières modifications et donc pushé sur Zenréa 7, mais il y a jamais deux sources de vérité. Mais normalement, c'est déjà dans le code de Zenréa 7.",
+      "text" : "En fait, il faut pas qu'il y ait deux sources de vérité, c'est-à-dire que le document M1, il est tout le temps update à partir des dernières modifications et donc pushé sur Zenréa 7, mais il y a jamais deux sources de vérité. Mais normalement, c'est déjà dans le code de Zenréa 7."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814447905.044537,
+      "id" : "FE80CE21-F1C8-43FB-9E18-EF8869E5D8E7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En fait, ça marche pas du tout GT Sectra pour autre chose que des titres et même les numéros, je préférais qu'ils soient en Entropic. Donc update cette consigne. Et même pour les numéros, ça marche pas. Par contre, ça marche bien pour tout ce qui va être mois et titres en normal, mais pas en italique. En fait, pour les titres, ça marche bien en regular. Attends, je vérifie que c'est regular. Regular, ouais, regular. Mais regular pas italique du coup. Il faudrait retester avec ça. Et pour tout ce qui va être les chiffres, bah tu mets Entropic direct. Donc tu crées une version où c'est le corps c'est Entropic, les chiffres c'est Entropic pour Serif et les titres c'est les titres c'est GT Sectra. Donc ce que tu peux tester, c'est les titres en mode les titres par exemple. S'il y a des numéros, tu mets tu fais un mix de Entropic + GT Sectra. Ça peut bien marcher ça.",
+      "text" : "En fait, ça marche pas du tout GT Sectra pour autre chose que des titres et même les numéros, je préférais qu'ils soient en Entropic. Donc update cette consigne. Et même pour les numéros, ça marche pas. Par contre, ça marche bien pour tout ce qui va être mois et titres en normal, mais pas en italique. En fait, pour les titres, ça marche bien en regular. Attends, je vérifie que c'est regular. Regular, ouais, regular. Mais regular pas italique du coup. Il faudrait retester avec ça. Et pour tout ce qui va être les chiffres, bah tu mets Entropic direct. Donc tu crées une version où c'est le corps c'est Entropic, les chiffres c'est Entropic pour Serif et les titres c'est les titres c'est GT Sectra. Donc ce que tu peux tester, c'est les titres en mode les titres par exemple. S'il y a des numéros, tu mets tu fais un mix de Entropic + GT Sectra. Ça peut bien marcher ça."
     }
   ],
   "modes" : [
