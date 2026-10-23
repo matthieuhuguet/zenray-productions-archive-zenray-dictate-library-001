@@ -7859,6 +7859,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Il y avait eu un vol dans le Louvre, je crois, ou alors dans un hôtel particulier en France, ou alors un hôtel qui sert de musée, je sais plus. Mais est-ce que les voleurs ont été retrouvés depuis ? Et j'ai une autre question, c'est par rapport aux manifestations du 17 octobre 2026. Emmanuel Macron a dit qu'il y avait eu des interpellations, mais est-ce que c'est vraiment le cas et est-ce que le gros des voleurs et pilleurs n'a pas été retrouvé, etc. Et pourquoi ils ont dit que c'était l'ultra-gauche ?",
       "text" : "Il y avait eu un vol dans le Louvre, je crois, ou alors dans un hôtel particulier en France, ou alors un hôtel qui sert de musée, je sais plus. Mais est-ce que les voleurs ont été retrouvés depuis ? Et j'ai une autre question, c'est par rapport aux manifestations du 17 octobre 2026. Emmanuel Macron a dit qu'il y avait eu des interpellations, mais est-ce que c'est vraiment le cas et est-ce que le gros des voleurs et pilleurs n'a pas été retrouvé, etc. Et pourquoi ils ont dit que c'était l'ultra-gauche ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814442510.281228,
+      "id" : "7B20B08C-F0B5-496C-AF48-E428FDB0EB40",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'ai un bug critique sur mon application custom de picker color qui fait que parfois le clic fait que je peux plus cliquer sur la barre des tâches ou sur aucune application, donc c'est extrêmement critique de résoudre ce problème.",
+      "text" : "J'ai un bug critique sur mon application custom de picker color qui fait que parfois le clic fait que je peux plus cliquer sur la barre des tâches ou sur aucune application, donc c'est extrêmement critique de résoudre ce problème."
     }
   ],
   "modes" : [
