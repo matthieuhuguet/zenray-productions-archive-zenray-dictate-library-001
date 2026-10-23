@@ -8989,6 +8989,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Je pense que tu as une ou deux lignes de code à modifier, mais pas beaucoup d'autres.",
       "text" : "Je pense que tu as une ou deux lignes de code à modifier, mais pas beaucoup d'autres."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814479788.957403,
+      "id" : "AE228215-5E8B-4A6A-9E60-03C96FE94FEF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Bon ben, j'espère que ça va aller, mais essaie de gérer un peu le stress. Tout va bien se passer, ma chérie.",
+      "text" : "Bon ben, j'espère que ça va aller, mais essaie de gérer un peu le stress. Tout va bien se passer, ma chérie."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814479810.521533,
+      "id" : "C9880130-314D-4761-87E9-B33DFD5C89AF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Une bataille après l'autre, tu vas t'en sortir.",
+      "text" : "Une bataille après l'autre, tu vas t'en sortir."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814479822.040655,
+      "id" : "62F971C9-0587-4982-9005-540092C60EEC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il faut que tu fasses confiance au temps.",
+      "text" : "Il faut que tu fasses confiance au temps."
     }
   ],
   "modes" : [
