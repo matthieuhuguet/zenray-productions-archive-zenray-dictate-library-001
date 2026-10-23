@@ -7899,6 +7899,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Dès que je me reconnecte, la page reste blanche, donc c'est un peu bizarre. Je pense que ça fera pareil sur navigation privée, je vais tester. ChatGPT, login, Continue with Google. Je mets mon passkey. Redirection, account Google. Ah ben non, là en navigation privée, ça marche d'être log, mais ça marche pas sur le Chrome de base.",
       "text" : "Dès que je me reconnecte, la page reste blanche, donc c'est un peu bizarre. Je pense que ça fera pareil sur navigation privée, je vais tester. ChatGPT, login, Continue with Google. Je mets mon passkey. Redirection, account Google. Ah ben non, là en navigation privée, ça marche d'être log, mais ça marche pas sur le Chrome de base."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814443257.50587,
+      "id" : "002B65E2-ACA1-4130-9A9A-4A409DC803E0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Imaginons qu'un joueur e-sportif ait le choix, il préférera un 1080p, un 1440p ou un 4K. Ma question, c'est pas forcément sur les détails du jeu, c'est plutôt sur la rapidité.",
+      "text" : "Imaginons qu'un joueur e-sportif ait le choix, il préférera un 1080p, un 1440p ou un 4K. Ma question, c'est pas forcément sur les détails du jeu, c'est plutôt sur la rapidité."
     }
   ],
   "modes" : [
