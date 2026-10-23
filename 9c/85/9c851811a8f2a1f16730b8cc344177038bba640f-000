@@ -7869,6 +7869,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "J'ai un bug critique sur mon application custom de picker color qui fait que parfois le clic fait que je peux plus cliquer sur la barre des tâches ou sur aucune application, donc c'est extrêmement critique de résoudre ce problème.",
       "text" : "J'ai un bug critique sur mon application custom de picker color qui fait que parfois le clic fait que je peux plus cliquer sur la barre des tâches ou sur aucune application, donc c'est extrêmement critique de résoudre ce problème."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814442659.356179,
+      "id" : "579D196E-C7A4-4FBE-82BC-819B2F7589B6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'ai un problème de white screen sur Chrome sur l'application, enfin sur le site web ChatGPT. Est-ce que tu peux m'aider à le résoudre s'il te plaît ?",
+      "text" : "J'ai un problème de white screen sur Chrome sur l'application, enfin sur le site web ChatGPT. Est-ce que tu peux m'aider à le résoudre s'il te plaît ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814442742.607079,
+      "id" : "252C16A7-C096-40B4-ABB5-FA8FB02BAEE1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Navigation privée, ça marche, mais le ChatGPT de la navigation non privée ne marche toujours pas.",
+      "text" : "Navigation privée, ça marche, mais le ChatGPT de la navigation non privée ne marche toujours pas."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814442862.703208,
+      "id" : "C722195F-206B-435B-BC4D-DBEA6E2A7877",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Dès que je me reconnecte, la page reste blanche, donc c'est un peu bizarre. Je pense que ça fera pareil sur navigation privée, je vais tester. ChatGPT, login, Continue with Google. Je mets mon passkey. Redirection, account Google. Ah ben non, là en navigation privée, ça marche d'être log, mais ça marche pas sur le Chrome de base.",
+      "text" : "Dès que je me reconnecte, la page reste blanche, donc c'est un peu bizarre. Je pense que ça fera pareil sur navigation privée, je vais tester. ChatGPT, login, Continue with Google. Je mets mon passkey. Redirection, account Google. Ah ben non, là en navigation privée, ça marche d'être log, mais ça marche pas sur le Chrome de base."
     }
   ],
   "modes" : [
