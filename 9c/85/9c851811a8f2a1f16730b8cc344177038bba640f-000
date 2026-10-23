@@ -8829,6 +8829,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Ouais, c'est pas mal du tout, sauf que j'ai l'impression que entre le R et le A et le A et le Y, il y a pas le même espace, donc c'est un peu bizarre.",
       "text" : "Ouais, c'est pas mal du tout, sauf que j'ai l'impression que entre le R et le A et le A et le Y, il y a pas le même espace, donc c'est un peu bizarre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814476297.85518,
+      "id" : "3422AA8A-230C-44DE-AB8A-ABE14C0E8AD5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Juste le récap de la dernière séance, il faut mettre la fonte un tout petit peu plus gros.",
+      "text" : "Juste le récap de la dernière séance, il faut mettre la fonte un tout petit peu plus gros."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814476360.26425,
+      "id" : "02E26446-6801-4ECD-A92E-1F42B81C94D6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Non, c'était probablement mieux tout à l'heure, donc reviens au résultat précédent s'il te plaît. Et ensuite, corrige directement le motion et on va s'arrêter là.",
+      "text" : "Non, c'était probablement mieux tout à l'heure, donc reviens au résultat précédent s'il te plaît. Et ensuite, corrige directement le motion et on va s'arrêter là."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814476432.732858,
+      "id" : "498624B0-94E0-4B1A-A61D-46B77F7AEDBE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Oui, merci beaucoup. Je l'ai aidé à mettre ses affaires dans le taxi.",
+      "text" : "Oui, merci beaucoup. Je l'ai aidé à mettre ses affaires dans le taxi."
     }
   ],
   "modes" : [
