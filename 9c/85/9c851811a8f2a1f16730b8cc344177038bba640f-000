@@ -9029,6 +9029,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "de souffler, de te mettre un peu d'eau froide sur les joues, de respirer, de faire des expirations, de rester optimiste.",
       "text" : "de souffler, de te mettre un peu d'eau froide sur les joues, de respirer, de faire des expirations, de rester optimiste."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814480013.748492,
+      "id" : "25BB819A-5798-4C0F-9B2A-A3512110AACB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Sur le storyboard, on dirait que ça a marché ce que tu as fait, mais sur le design, ça ne marche pas actuellement, donc c'est un peu dommage.",
+      "text" : "Sur le storyboard, on dirait que ça a marché ce que tu as fait, mais sur le design, ça ne marche pas actuellement, donc c'est un peu dommage."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814480033.190894,
+      "id" : "A097C88B-5E85-416F-BD1E-AC2BCD25C480",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je sélectionne les différentes couleurs mais ça modifie rien et surtout ça le fait pas en temps réel donc est-ce que tu peux vérifier ?",
+      "text" : "Je sélectionne les différentes couleurs mais ça modifie rien et surtout ça le fait pas en temps réel donc est-ce que tu peux vérifier ?"
     }
   ],
   "modes" : [
