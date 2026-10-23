@@ -8159,6 +8159,76 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Le seul truc, c'est que les nouveaux fichiers à l'avenir doivent être quand même analysés par un modèle AI parce que sinon, si tu as à peine juste des nouvelles questions sur ça, ce sera pas trié et organisé. Il y aura pas les métadonnées des dates, etc. Donc en fait, c'est hyper important de déléguer un template court de réponse, etc. et que tout soit parfait. En mode je pose n'importe quelle question et c'est comme si j'interrogeais la mémoire.",
       "text" : "Le seul truc, c'est que les nouveaux fichiers à l'avenir doivent être quand même analysés par un modèle AI parce que sinon, si tu as à peine juste des nouvelles questions sur ça, ce sera pas trié et organisé. Il y aura pas les métadonnées des dates, etc. Donc en fait, c'est hyper important de déléguer un template court de réponse, etc. et que tout soit parfait. En mode je pose n'importe quelle question et c'est comme si j'interrogeais la mémoire."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814450281.863909,
+      "id" : "261EE0C9-998B-4AB5-B0EC-057A621D30AD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Attention, je veux une seule source de vérité. Si c'est pas le cas, tu édites les règles typographiques qui doivent être dans le .md global, dans typographie, voir dans Zenread.it, mais normalement ça avait déjà été consigné.",
+      "text" : "Attention, je veux une seule source de vérité. Si c'est pas le cas, tu édites les règles typographiques qui doivent être dans le .md global, dans typographie, voir dans Zenread.it, mais normalement ça avait déjà été consigné."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814450474.508194,
+      "id" : "6D241023-469E-40D2-986F-FF97395B022A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Aujourd'hui, j'ai un rendez-vous avec Andreas, c'est un ami qui est dans la vente et du coup le but ce serait que je lui explique à peu près mes activités afin qu'il m'aide à me mettre en relation avec des gens qui sont plutôt orientés vente et orientés démarche commerciale. Je ne sais pas comment lui présenter mes activités et ce que je fais, mais le but ce serait de lui clarifier au maximum tous les outils que j'ai créés et développés notamment ces derniers temps afin de fluidifier l'échange pour qu'il puisse m'aider au maximum. Le but c'est de lui présenter mon activité en tant que 3D tech artist et lui dire quelles sont mes hypothèses et alternatives de vente, mais le problème c'est que je ne sais pas exactement qui sont mes clients. En fait, il faudrait lui dire que j'ai un problème de démarchage commercial sur l'acquisition client parce que aussi je me concentre beaucoup sur la production et le développement d'outils qui à l'échelle peuvent être intéressants, mais qui pour l'instant me prennent beaucoup trop de temps. Donc c'est un peu ça le problème. Après je suis évidemment capable de me remettre en question et cetera. Il faudrait créer un skill qui s'appellerait soit Zenrai Sales, soit Zenrai Marketing. En fait mon problème c'est marketing et sales et le but ce serait que tu lises déjà tout le contexte de Zenrai Progress pour voir qu'est-ce que j'ai fait ces derniers temps et que tu puisses préparer le rendez-vous qui va durer environ une heure et qui commence dans 15 minutes.",
+      "text" : "Aujourd'hui, j'ai un rendez-vous avec Andreas, c'est un ami qui est dans la vente et du coup le but ce serait que je lui explique à peu près mes activités afin qu'il m'aide à me mettre en relation avec des gens qui sont plutôt orientés vente et orientés démarche commerciale. Je ne sais pas comment lui présenter mes activités et ce que je fais, mais le but ce serait de lui clarifier au maximum tous les outils que j'ai créés et développés notamment ces derniers temps afin de fluidifier l'échange pour qu'il puisse m'aider au maximum. Le but c'est de lui présenter mon activité en tant que 3D tech artist et lui dire quelles sont mes hypothèses et alternatives de vente, mais le problème c'est que je ne sais pas exactement qui sont mes clients. En fait, il faudrait lui dire que j'ai un problème de démarchage commercial sur l'acquisition client parce que aussi je me concentre beaucoup sur la production et le développement d'outils qui à l'échelle peuvent être intéressants, mais qui pour l'instant me prennent beaucoup trop de temps. Donc c'est un peu ça le problème. Après je suis évidemment capable de me remettre en question et cetera. Il faudrait créer un skill qui s'appellerait soit Zenrai Sales, soit Zenrai Marketing. En fait mon problème c'est marketing et sales et le but ce serait que tu lises déjà tout le contexte de Zenrai Progress pour voir qu'est-ce que j'ai fait ces derniers temps et que tu puisses préparer le rendez-vous qui va durer environ une heure et qui commence dans 15 minutes."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814450547.433889,
+      "id" : "3675A2DC-6EE3-4894-8C66-28C20BB3B525",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Il y a déjà un skill qui s'appelle Zenri Freelance, mais le problème c'est que j'envoie pas assez de contacts sur ça. Sur Zenri Freelance, il y a à peu près tu vois, il y a 736 studios à contacter et moi j'en ai contacté que 11. Mais je pense que ça peut être intéressant de lui montrer mon fichier Zenri Freelance parce que c'est l'outil le plus logique que j'ai développé pour la prospection client.",
+      "text" : "Il y a déjà un skill qui s'appelle Zenri Freelance, mais le problème c'est que j'envoie pas assez de contacts sur ça. Sur Zenri Freelance, il y a à peu près tu vois, il y a 736 studios à contacter et moi j'en ai contacté que 11. Mais je pense que ça peut être intéressant de lui montrer mon fichier Zenri Freelance parce que c'est l'outil le plus logique que j'ai développé pour la prospection client."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814450565.062454,
+      "id" : "C75D817E-1060-477F-9483-F858BFF52278",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Mais le problème que j'ai, c'est qu'il faut à la fois que je contacte les studios en tant que potentiel salarié, mais aussi en tant que potentiel freelance.",
+      "text" : "Mais le problème que j'ai, c'est qu'il faut à la fois que je contacte les studios en tant que potentiel salarié, mais aussi en tant que potentiel freelance."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814450644.335926,
+      "id" : "AB988E08-170A-4B5A-9C64-38F5CFAC6001",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et enfin, il y a un double aspect dans le métier de tech artist, c'est qu'il faut à la fois développer son portfolio pour avoir une crédibilité sur LinkedIn, etc. Et à la fois, il faut développer l'asset store. Je te renvoie à mon website sur lequel on a zenrestudio.com, il me semble, mais le site n'est pas encore développé. Sinon, on a mathieuguy.com qui est mon site portfolio, mais où j'ai quand même la difficulté de produire tous les trucs et ensuite de marketer ce que j'ai fait. Alors après, je commence à trouver des solutions en créant des articles pendant la production, mais ce qui marche le mieux, c'est les shorts. Donc en fait, il y a un problème marketing et un problème de démarchage commercial auquel j'ai déjà commencé à réfléchir, mais qui n'est pas",
+      "text" : "Et enfin, il y a un double aspect dans le métier de tech artist, c'est qu'il faut à la fois développer son portfolio pour avoir une crédibilité sur LinkedIn, etc. Et à la fois, il faut développer l'asset store. Je te renvoie à mon website sur lequel on a zenrestudio.com, il me semble, mais le site n'est pas encore développé. Sinon, on a mathieuguy.com qui est mon site portfolio, mais où j'ai quand même la difficulté de produire tous les trucs et ensuite de marketer ce que j'ai fait. Alors après, je commence à trouver des solutions en créant des articles pendant la production, mais ce qui marche le mieux, c'est les shorts. Donc en fait, il y a un problème marketing et un problème de démarchage commercial auquel j'ai déjà commencé à réfléchir, mais qui n'est pas"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814450675.685812,
+      "id" : "C90A6D7E-54B5-46B0-9D11-8261CBB5F39E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Donc là pour l'instant, tu codes pas forcément de nouvelles choses, mais tu mets juste à préparer le rendez-vous pour que ce soit le plus clair possible pour Andreas et pour qu'il puisse m'aider sans lui overflow le cerveau de tout ce que j'ai fait.",
+      "text" : "Donc là pour l'instant, tu codes pas forcément de nouvelles choses, mais tu mets juste à préparer le rendez-vous pour que ce soit le plus clair possible pour Andreas et pour qu'il puisse m'aider sans lui overflow le cerveau de tout ce que j'ai fait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814450685.594744,
+      "id" : "3CB9BD06-0F16-49EF-93A4-B18BD885EEC7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je pense ce qui peut être important, c'est de voir dans le progrès ce que j'ai fait ces derniers temps.",
+      "text" : "Je pense ce qui peut être important, c'est de voir dans le progrès ce que j'ai fait ces derniers temps."
     }
   ],
   "modes" : [
