@@ -8029,6 +8029,56 @@
       "provider" : "Gemini live dictation",
       "rawText" : "En fait, ça marche pas du tout GT Sectra pour autre chose que des titres et même les numéros, je préférais qu'ils soient en Entropic. Donc update cette consigne. Et même pour les numéros, ça marche pas. Par contre, ça marche bien pour tout ce qui va être mois et titres en normal, mais pas en italique. En fait, pour les titres, ça marche bien en regular. Attends, je vérifie que c'est regular. Regular, ouais, regular. Mais regular pas italique du coup. Il faudrait retester avec ça. Et pour tout ce qui va être les chiffres, bah tu mets Entropic direct. Donc tu crées une version où c'est le corps c'est Entropic, les chiffres c'est Entropic pour Serif et les titres c'est les titres c'est GT Sectra. Donc ce que tu peux tester, c'est les titres en mode les titres par exemple. S'il y a des numéros, tu mets tu fais un mix de Entropic + GT Sectra. Ça peut bien marcher ça.",
       "text" : "En fait, ça marche pas du tout GT Sectra pour autre chose que des titres et même les numéros, je préférais qu'ils soient en Entropic. Donc update cette consigne. Et même pour les numéros, ça marche pas. Par contre, ça marche bien pour tout ce qui va être mois et titres en normal, mais pas en italique. En fait, pour les titres, ça marche bien en regular. Attends, je vérifie que c'est regular. Regular, ouais, regular. Mais regular pas italique du coup. Il faudrait retester avec ça. Et pour tout ce qui va être les chiffres, bah tu mets Entropic direct. Donc tu crées une version où c'est le corps c'est Entropic, les chiffres c'est Entropic pour Serif et les titres c'est les titres c'est GT Sectra. Donc ce que tu peux tester, c'est les titres en mode les titres par exemple. S'il y a des numéros, tu mets tu fais un mix de Entropic + GT Sectra. Ça peut bien marcher ça."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814448304.391806,
+      "id" : "1ADE5A0C-6811-4559-82FB-FDF548260B96",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'aime bien le design de Threads + bibliothèque et essaie de me reproposer un design. Ce que j'aime bien dans le Threads, c'est d'abord la date + la question et le fait de pouvoir cliquer pour avoir la réponse. Après, je pense que l'UI est encore un peu trop chargée et les éléments sont pas alignés. Et j'aime bien l'aspect bibliothèque en mode la question à gauche et une deuxième colonne avec un rectangle entouré sur la droite. Donc repropose-moi trois designs à partir de cette itération.",
+      "text" : "J'aime bien le design de Threads + bibliothèque et essaie de me reproposer un design. Ce que j'aime bien dans le Threads, c'est d'abord la date + la question et le fait de pouvoir cliquer pour avoir la réponse. Après, je pense que l'UI est encore un peu trop chargée et les éléments sont pas alignés. Et j'aime bien l'aspect bibliothèque en mode la question à gauche et une deuxième colonne avec un rectangle entouré sur la droite. Donc repropose-moi trois designs à partir de cette itération."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814448323.046085,
+      "id" : "1EB48C68-A2B5-456A-80A6-0A66E9D58C39",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "En revanche, mets moins d'éléments. Essaie de te focus uniquement sur les consignes. Arrête de mettre des éléments qui servent pas.",
+      "text" : "En revanche, mets moins d'éléments. Essaie de te focus uniquement sur les consignes. Arrête de mettre des éléments qui servent pas."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814448351.140981,
+      "id" : "8F2029EE-8C90-4DB5-B373-D65301A72EDE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et pour le corps, je t'ai dit de mettre Entropic. En fait, je voulais jeter Sectra uniquement sur les titres au final. C'est uniquement sur les titres et s'il y a des numéros, tu utilises Entropic en plus.",
+      "text" : "Et pour le corps, je t'ai dit de mettre Entropic. En fait, je voulais jeter Sectra uniquement sur les titres au final. C'est uniquement sur les titres et s'il y a des numéros, tu utilises Entropic en plus."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814448639.364292,
+      "id" : "B9ED76C1-214A-4A3C-8977-FF1CFC3728FE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Je trouve que la B est pas mal, mais je trouve que là pour le coup le design n'est pas assez relié en termes de gauche droite. En fait, ça manque de cohérence. On a l'impression que la question de la gauche si on clique vers la droite, c'est pas assez relié. Il faudrait peut-être un carré qui entoure tout ou la même couleur. Parce que là le fait que ce soit juste blanc et blanc, c'est pas forcément ouf. Donc repars de la B et refais trois designs.",
+      "text" : "Je trouve que la B est pas mal, mais je trouve que là pour le coup le design n'est pas assez relié en termes de gauche droite. En fait, ça manque de cohérence. On a l'impression que la question de la gauche si on clique vers la droite, c'est pas assez relié. Il faudrait peut-être un carré qui entoure tout ou la même couleur. Parce que là le fait que ce soit juste blanc et blanc, c'est pas forcément ouf. Donc repars de la B et refais trois designs."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814448648.347102,
+      "id" : "A08CC57D-10AF-4FC7-8851-273B4BA03022",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et par contre, consigne que c'est toujours GTCtra et jamais Display du coup.",
+      "text" : "Et par contre, consigne que c'est toujours GTCtra et jamais Display du coup."
     }
   ],
   "modes" : [
