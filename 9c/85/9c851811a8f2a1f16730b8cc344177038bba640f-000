@@ -9529,6 +9529,36 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Les consignes typographiques sont déjà notées.",
       "text" : "Les consignes typographiques sont déjà notées."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814629140.967096,
+      "id" : "64E6E72E-E685-407A-90E1-F61EE705CEA7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Essaye en revanche d'harmoniser toutes les fontes pour qu'elles soient à la bonne hauteur, enfin pour qu'il y ait une harmonie en termes d'UI et en termes de taille des polices. Ce sera parfait.",
+      "text" : "Essaye en revanche d'harmoniser toutes les fontes pour qu'elles soient à la bonne hauteur, enfin pour qu'il y ait une harmonie en termes d'UI et en termes de taille des polices. Ce sera parfait."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814629384.672627,
+      "id" : "F43A199D-711D-4C0B-A924-CD710133783B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Tu peux même appliquer ce thème aussi aux articles neutres qui sont générés par Zenray Assets et qui sont générés par Zenray Edit.",
+      "text" : "Tu peux même appliquer ce thème aussi aux articles neutres qui sont générés par Zenray Assets et qui sont générés par Zenray Edit."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814629442.039558,
+      "id" : "4CE37B5F-231F-459C-BA31-B2F19AB9E98F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est uniquement quelques lignes à changer.",
+      "text" : "C'est uniquement quelques lignes à changer."
     }
   ],
   "modes" : [
