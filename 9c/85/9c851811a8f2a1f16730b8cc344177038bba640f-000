@@ -9419,6 +9419,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Je l'ai écouté trois fois le livre. Je l'ai écouté une fois, mais génial. Je l'ai écouté en plus, c'était la semaine de mon mariage.",
       "text" : "Je l'ai écouté trois fois le livre. Je l'ai écouté une fois, mais génial. Je l'ai écouté en plus, c'était la semaine de mon mariage."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814618022.414098,
+      "id" : "9FFBA522-19FC-48A0-8B22-1A167734F1C3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Et là, il faudrait absolument avoir trouvé un contrat.",
+      "text" : "Et là, il faudrait absolument avoir trouvé un contrat."
     }
   ],
   "modes" : [
