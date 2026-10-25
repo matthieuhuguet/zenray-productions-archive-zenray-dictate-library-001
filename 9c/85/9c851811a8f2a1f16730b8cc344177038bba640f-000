@@ -9739,6 +9739,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Est-ce que tu penses que le texte apparaît dans une carte 640p et il est toujours copié? Les actions sont copiées et insérées. Gardez la carte bien placée.",
       "text" : "Est-ce que tu penses que le texte apparaît dans une carte 640p et il est toujours copié? Les actions sont copiées et insérées. Gardez la carte bien placée."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814650657.611983,
+      "id" : "BDF6DC51-A668-44D3-B242-26197AFF18D8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "D'où est tirée la référence de Pellegrini dans la série Lupin dans Arsène Lupin, trouve la référence ou le lieu commun entre Arsène Lupin et Pellegrini.",
+      "text" : "D'où est tirée la référence de Pellegrini dans la série Lupin dans Arsène Lupin, trouve la référence ou le lieu commun entre Arsène Lupin et Pellegrini."
     }
   ],
   "modes" : [
