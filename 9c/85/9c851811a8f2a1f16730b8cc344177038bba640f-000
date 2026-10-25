@@ -9559,6 +9559,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "C'est uniquement quelques lignes à changer.",
       "text" : "C'est uniquement quelques lignes à changer."
+    },
+    {
+      "application" : "ZenRayDictate composer",
+      "date" : 814643617.468216,
+      "id" : "CAB7DD3F-359A-4C1F-91FB-180953568F9A",
+      "inserted" : true,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Yo, comment ça va?",
+      "text" : "Yo, comment ça va?"
     }
   ],
   "modes" : [
@@ -9636,9 +9646,14 @@
   "preferences" : {
     "activeMode" : "verbatim",
     "allowLocalFallback" : false,
+    "claudeExecutable" : "\/Users\/zenray\/.local\/bin\/claude",
+    "claudeKeytermLimit" : 50,
+    "claudeKeyterms" : "Houdini, Unreal Engine, Copernicus, ZenRay, Claude Code",
+    "claudeSttProvider" : "",
+    "claudeVoiceBaseURL" : "wss:\/\/api.anthropic.com",
     "clipboardRestoreDelay" : 0.6,
     "doublePressInterval" : 0.35,
-    "engine" : "gemini",
+    "engine" : "claude",
     "fnPushToTalk" : true,
     "keepAudio" : false,
     "keepHistory" : true,
