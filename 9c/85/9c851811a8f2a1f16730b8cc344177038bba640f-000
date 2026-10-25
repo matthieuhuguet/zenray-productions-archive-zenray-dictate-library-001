@@ -9749,6 +9749,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "D'où est tirée la référence de Pellegrini dans la série Lupin dans Arsène Lupin, trouve la référence ou le lieu commun entre Arsène Lupin et Pellegrini.",
       "text" : "D'où est tirée la référence de Pellegrini dans la série Lupin dans Arsène Lupin, trouve la référence ou le lieu commun entre Arsène Lupin et Pellegrini."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814653273.525322,
+      "id" : "FB072AD8-8913-43B8-8000-0B9A31A5A4C3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais qu'est-ce que tu fais? Genre, prends en autonomie toutes les décisions futures et va jusqu'à... Et ne me pose plus de questions jusqu'à demain matin. Demain matin à 8 h. Donc là, pour l'instant, tu continues. Mais en fait, enfin, c'est simple, en fait, tu compares les images, tu te dis, est-ce que c'est la même chose? Et tant que c'est pas la même chose, bah, tu continues d'itérer, en fait. Là, on est encore très très loin du résultat final. Et il faut que tu fasses une recherche via toutes les méthodologies que tu as déjà apprises, en fait. Parce que là, je comprends pas ce que tu fais. Enfin, je t'ai demandé de reproduire la voiture et tu l'as toujours pas reproduite, donc c'est aussi simple que ça. Tant que tu l'as pas reproduite, bah, tu te poses la question de est-ce que c'est la bonne méthodologie que j'applique? Sinon, tu fais une recherche et sinon, tu continues d'itérer. Mais en fait, c'est tout. Tu vois, enfin, il n'y a pas beaucoup de. En fait, c'est genre, si t'arrives pas à faire un truc, tu te poses la question de la méthodologie et ensuite tu débloques.",
+      "text" : "Mais qu'est-ce que tu fais? Genre, prends en autonomie toutes les décisions futures et va jusqu'à... Et ne me pose plus de questions jusqu'à demain matin. Demain matin à 8 h. Donc là, pour l'instant, tu continues. Mais en fait, enfin, c'est simple, en fait, tu compares les images, tu te dis, est-ce que c'est la même chose? Et tant que c'est pas la même chose, bah, tu continues d'itérer, en fait. Là, on est encore très très loin du résultat final. Et il faut que tu fasses une recherche via toutes les méthodologies que tu as déjà apprises, en fait. Parce que là, je comprends pas ce que tu fais. Enfin, je t'ai demandé de reproduire la voiture et tu l'as toujours pas reproduite, donc c'est aussi simple que ça. Tant que tu l'as pas reproduite, bah, tu te poses la question de est-ce que c'est la bonne méthodologie que j'applique? Sinon, tu fais une recherche et sinon, tu continues d'itérer. Mais en fait, c'est tout. Tu vois, enfin, il n'y a pas beaucoup de. En fait, c'est genre, si t'arrives pas à faire un truc, tu te poses la question de la méthodologie et ensuite tu débloques."
     }
   ],
   "modes" : [
