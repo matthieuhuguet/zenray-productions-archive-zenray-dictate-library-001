@@ -9649,8 +9649,49 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Je crois qu'il y a juste un léger problème de transparence d'une icône à l'autre. Quoique non, en fait, c'est bon. Ah si, en fait, il y a un léger bug sur le fait que le widget n'est pas totalement transparent. C'est comme s'il y avait un carré, alors qu'en fait, je t'ai demandé de faire une capsule. Mais c'est quasi bon en soi.",
       "text" : "Je crois qu'il y a juste un léger problème de transparence d'une icône à l'autre. Quoique non, en fait, c'est bon. Ah si, en fait, il y a un léger bug sur le fait que le widget n'est pas totalement transparent. C'est comme s'il y avait un carré, alors qu'en fait, je t'ai demandé de faire une capsule. Mais c'est quasi bon en soi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814648081.473055,
+      "id" : "BE1FE324-AF6B-420B-81AF-3C3614D411CB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Si une méthode prend trop de temps selon toi, tu peux changer complètement la méthode jusqu'à ce que ça fonctionne parfaitement.",
+      "text" : "Si une méthode prend trop de temps selon toi, tu peux changer complètement la méthode jusqu'à ce que ça fonctionne parfaitement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814648088.21622,
+      "id" : "2ED59716-CF30-4FB8-B929-8B19943FE6BD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ouais, mais ça marche bien maintenant.",
+      "text" : "Ouais, mais ça marche bien maintenant."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814648097.515193,
+      "id" : "010A16BD-637B-4435-842D-918993EE8F83",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je me demande qu'est-ce que je pourrais modifier désormais.",
+      "text" : "Je me demande qu'est-ce que je pourrais modifier désormais."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814648146.319573,
+      "id" : "339C841B-C8DC-41DB-9825-1F0101076603",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il faut évidemment consigner dans l'algorithme à mesure que les choses avancent.",
+      "text" : "Il faut évidemment consigner dans l'algorithme à mesure que les choses avancent."
     }
   ],
+  "lastError" : "Claude dictation returned no text. Recording saved for retry.",
   "modes" : [
     {
       "applications" : [
