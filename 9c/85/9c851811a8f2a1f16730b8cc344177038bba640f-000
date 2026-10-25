@@ -9609,6 +9609,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Refais trois propositions à partir de ce qui existe déjà.",
       "text" : "Refais trois propositions à partir de ce qui existe déjà."
+    },
+    {
+      "application" : "ZenRayDictate composer",
+      "date" : 814646098.517276,
+      "id" : "F7B2F94C-94F4-4652-97D0-875595EF0495",
+      "inserted" : true,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Okay, je viens de comprendre ce que tu fais mal. En fait, ce que tu fais, c'est que tu continues de reproduire par rapport à des masques une forme ou une méthodologie, mais ce n'est pas du tout ça que tu dois faire. En fait, arrête d'essayer de faire des effets de nuage pour obtenir l'objet. Ce que tu dois faire plutôt, c'est comprendre comment l'objet est construit par components. En fait, à la limite, tu vois, ce qu'il faudrait, c'est que tu fasses non pas des masques, mais que tu identifies chaque asset pour le diviser en components et ensuite, en hard surface ou en organique, tu construis le mesh. C'est-à-dire, par exemple, je te donne un mannequin, tu divises la tête, ensuite tu divises les bras, et ensuite tu divises les mains, et ensuite tu divises les doigts. Et tu fais pareil dans la même logique pour la jambe. Ben, une voiture, c'est exactement pareil, tu vois. Tu peux créer un dataset industriel qui va repérer tous les components. Et ensuite, par exemple, je pourrais valider la manière dont tu divises et tu identifies une voiture, par exemple, notamment la voiture que je t'ai donnée. Et en plus, et ensuite, désormais, en plus, tu as des méthodes qui te permettent directement.",
+      "text" : "Okay, je viens de comprendre ce que tu fais mal. En fait, ce que tu fais, c'est que tu continues de reproduire par rapport à des masques une forme ou une méthodologie, mais ce n'est pas du tout ça que tu dois faire. En fait, arrête d'essayer de faire des effets de nuage pour obtenir l'objet. Ce que tu dois faire plutôt, c'est comprendre comment l'objet est construit par components. En fait, à la limite, tu vois, ce qu'il faudrait, c'est que tu fasses non pas des masques, mais que tu identifies chaque asset pour le diviser en components et ensuite, en hard surface ou en organique, tu construis le mesh. C'est-à-dire, par exemple, je te donne un mannequin, tu divises la tête, ensuite tu divises les bras, et ensuite tu divises les mains, et ensuite tu divises les doigts. Et tu fais pareil dans la même logique pour la jambe. Ben, une voiture, c'est exactement pareil, tu vois. Tu peux créer un dataset industriel qui va repérer tous les components. Et ensuite, par exemple, je pourrais valider la manière dont tu divises et tu identifies une voiture, par exemple, notamment la voiture que je t'ai donnée. Et en plus, et ensuite, désormais, en plus, tu as des méthodes qui te permettent directement."
+    },
+    {
+      "application" : "Imported file",
+      "date" : 814646302.011891,
+      "id" : "7625A551-5170-4239-93CF-DF910FC51D14",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Alors, du coup, là, normalement, ça doit fonctionner.",
+      "text" : "Alors, du coup, là, normalement, ça doit fonctionner."
+    },
+    {
+      "application" : "Imported file",
+      "date" : 814646309.500494,
+      "id" : "329E16AB-EBA1-4882-8105-6B019A139F3D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Alors, du coup, là, ça doit fonctionner.",
+      "text" : "Alors, du coup, là, ça doit fonctionner."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814646350.672532,
+      "id" : "3BFFAD8B-50ED-433F-934F-0F7FE0A46287",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je crois qu'il y a juste un léger problème de transparence d'une icône à l'autre. Quoique non, en fait, c'est bon. Ah si, en fait, il y a un léger bug sur le fait que le widget n'est pas totalement transparent. C'est comme s'il y avait un carré, alors qu'en fait, je t'ai demandé de faire une capsule. Mais c'est quasi bon en soi.",
+      "text" : "Je crois qu'il y a juste un léger problème de transparence d'une icône à l'autre. Quoique non, en fait, c'est bon. Ah si, en fait, il y a un léger bug sur le fait que le widget n'est pas totalement transparent. C'est comme s'il y avait un carré, alors qu'en fait, je t'ai demandé de faire une capsule. Mais c'est quasi bon en soi."
     }
   ],
   "modes" : [
@@ -9686,6 +9726,7 @@
   "preferences" : {
     "activeMode" : "verbatim",
     "allowLocalFallback" : false,
+    "autoInsert" : false,
     "claudeExecutable" : "\/Users\/zenray\/.local\/bin\/claude",
     "claudeKeytermLimit" : 50,
     "claudeKeyterms" : "Houdini, Unreal Engine, Copernicus, ZenRay, Claude Code",
