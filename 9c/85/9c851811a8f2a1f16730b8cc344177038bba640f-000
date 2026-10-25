@@ -9759,6 +9759,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Mais qu'est-ce que tu fais? Genre, prends en autonomie toutes les décisions futures et va jusqu'à... Et ne me pose plus de questions jusqu'à demain matin. Demain matin à 8 h. Donc là, pour l'instant, tu continues. Mais en fait, enfin, c'est simple, en fait, tu compares les images, tu te dis, est-ce que c'est la même chose? Et tant que c'est pas la même chose, bah, tu continues d'itérer, en fait. Là, on est encore très très loin du résultat final. Et il faut que tu fasses une recherche via toutes les méthodologies que tu as déjà apprises, en fait. Parce que là, je comprends pas ce que tu fais. Enfin, je t'ai demandé de reproduire la voiture et tu l'as toujours pas reproduite, donc c'est aussi simple que ça. Tant que tu l'as pas reproduite, bah, tu te poses la question de est-ce que c'est la bonne méthodologie que j'applique? Sinon, tu fais une recherche et sinon, tu continues d'itérer. Mais en fait, c'est tout. Tu vois, enfin, il n'y a pas beaucoup de. En fait, c'est genre, si t'arrives pas à faire un truc, tu te poses la question de la méthodologie et ensuite tu débloques.",
       "text" : "Mais qu'est-ce que tu fais? Genre, prends en autonomie toutes les décisions futures et va jusqu'à... Et ne me pose plus de questions jusqu'à demain matin. Demain matin à 8 h. Donc là, pour l'instant, tu continues. Mais en fait, enfin, c'est simple, en fait, tu compares les images, tu te dis, est-ce que c'est la même chose? Et tant que c'est pas la même chose, bah, tu continues d'itérer, en fait. Là, on est encore très très loin du résultat final. Et il faut que tu fasses une recherche via toutes les méthodologies que tu as déjà apprises, en fait. Parce que là, je comprends pas ce que tu fais. Enfin, je t'ai demandé de reproduire la voiture et tu l'as toujours pas reproduite, donc c'est aussi simple que ça. Tant que tu l'as pas reproduite, bah, tu te poses la question de est-ce que c'est la bonne méthodologie que j'applique? Sinon, tu fais une recherche et sinon, tu continues d'itérer. Mais en fait, c'est tout. Tu vois, enfin, il n'y a pas beaucoup de. En fait, c'est genre, si t'arrives pas à faire un truc, tu te poses la question de la méthodologie et ensuite tu débloques."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814653544.236529,
+      "id" : "039CA4A0-1FC0-4617-9711-534963D8C01C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "keep the same text and just keep what is important and what I should write into my Claude.md.",
+      "text" : "keep the same text and just keep what is important and what I should write into my Claude.md."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814653555.140332,
+      "id" : "66456716-F776-45E3-8D32-1A26CEC9C323",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "from the next text written.",
+      "text" : "from the next text written."
     }
   ],
   "modes" : [
