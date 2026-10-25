@@ -9569,6 +9569,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Yo, comment ça va?",
       "text" : "Yo, comment ça va?"
+    },
+    {
+      "application" : "Imported file",
+      "date" : 814645055.472795,
+      "id" : "4F7EA8F2-84B3-44F0-B7E9-D4A49AE29B34",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mmh.",
+      "text" : "Mmh."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814645065.495238,
+      "id" : "A531485C-33CB-4FF2-B813-3FE855744D2B",
+      "inserted" : true,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, est-ce que ça fonctionne du coup?",
+      "text" : "Ok, est-ce que ça fonctionne du coup?"
+    },
+    {
+      "application" : "ZenRayDictate composer",
+      "date" : 814645077.429408,
+      "id" : "57DDA83B-A9EC-4ECC-9D9F-15A05FBC9401",
+      "inserted" : true,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, ça marche pas du tout.",
+      "text" : "Non, ça marche pas du tout."
     }
   ],
   "modes" : [
