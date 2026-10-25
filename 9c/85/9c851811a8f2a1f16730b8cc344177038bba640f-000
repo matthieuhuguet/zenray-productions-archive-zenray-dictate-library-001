@@ -9509,6 +9509,26 @@
       "provider" : "Gemini live dictation",
       "rawText" : "C'est celui du centre, donc le B, mais il manque juste le fait d'écrire Claude Code en GT Spectra en titre.",
       "text" : "C'est celui du centre, donc le B, mais il manque juste le fait d'écrire Claude Code en GT Spectra en titre."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814628958.347931,
+      "id" : "0BF44189-51CF-403B-A1AE-55A036508D55",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "J'ai mon app de preview de Markdown, je ne sais plus laquelle j'ai installée. Ah oui, ça s'appelait MarkdownQL Extension. Donc pour MarkdownQL Extension, j'aimerais que tu me proposes trois designs différents dans un HTML, sachant que les titres, j'aimerais que ce soit en GT Sectra. En fait, tu as déjà les consignes sur Zenrai Edit. À partir du logiciel MarkdownQL Extension, tu me proposes trois choix de designs différents à partir aussi de l'existant et tu me permets de modifier et de permettre trois nouveaux designs qui permettront ensuite que je modifie les",
+      "text" : "J'ai mon app de preview de Markdown, je ne sais plus laquelle j'ai installée. Ah oui, ça s'appelait MarkdownQL Extension. Donc pour MarkdownQL Extension, j'aimerais que tu me proposes trois designs différents dans un HTML, sachant que les titres, j'aimerais que ce soit en GT Sectra. En fait, tu as déjà les consignes sur Zenrai Edit. À partir du logiciel MarkdownQL Extension, tu me proposes trois choix de designs différents à partir aussi de l'existant et tu me permets de modifier et de permettre trois nouveaux designs qui permettront ensuite que je modifie les"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814628993.809297,
+      "id" : "A77879F2-C0AE-4D1A-940F-83BC77F2DF39",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Les consignes typographiques sont déjà notées.",
+      "text" : "Les consignes typographiques sont déjà notées."
     }
   ],
   "modes" : [
