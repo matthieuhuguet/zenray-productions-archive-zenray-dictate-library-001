@@ -9469,6 +9469,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Du coup, il en est où le projet ?",
       "text" : "Du coup, il en est où le projet ?"
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814628250.772271,
+      "id" : "FFC58262-1C6B-4C70-BCCB-D96FD7CF62CE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "Normalement, quand je te donne Zenrai Edit, tu me donnes toujours à la fin le HTML en nom de passe complet sur macOS afin que je puisse directement l'ouvrir dans Finder et que je puisse directement comparer les viewers dans mon propre browser. Ce qui serait bien, c'est que tu l'ouvres aussi dans ton propre browser, mais j'ai l'impression que des fois ça marche pas et il vaut mieux avoir la fenêtre en entier. Donc à la limite, tu retiens les deux propositions et tu édites le skill ou tu append en priorité dans les",
+      "text" : "Normalement, quand je te donne Zenrai Edit, tu me donnes toujours à la fin le HTML en nom de passe complet sur macOS afin que je puisse directement l'ouvrir dans Finder et que je puisse directement comparer les viewers dans mon propre browser. Ce qui serait bien, c'est que tu l'ouvres aussi dans ton propre browser, mais j'ai l'impression que des fois ça marche pas et il vaut mieux avoir la fenêtre en entier. Donc à la limite, tu retiens les deux propositions et tu édites le skill ou tu append en priorité dans les"
     }
   ],
   "modes" : [
