@@ -9799,6 +9799,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Ce que je veux dire, c'est que, tu vois, la voiture, elle est construite comme un ensemble, dans le sens où si tu avais un wireframe ou si tu construisais cette voiture, genre chez Tesla ou chez Renault, bah, tu ferais pas les choses comme ça, tu vois, tu construirais vraiment atomiquement, components par components, et t'as forcément des plans qui existent sur le net et qui te permettent d'avoir cette voiture. Alors, cette voiture, elle s'appelle Tesla Roadster, je crois. Mais ce qu'on cherche, c'est pas forcément des brevets, tu vois. Ce qu'on cherche, c'est plutôt une méthode pour un 3D tech artiste pour créer un software qui permettrait de recréer n'importe quelle forme 3D. Et là, en fait, c'est dégueulasse ton résultat, tu vois. Et en fait, je comprends pas pourquoi tu pars pas d'un résultat qui est propre. En fait, je comprends pas pourquoi tu fais un résultat aussi organique, bizarre, tu vois.",
       "text" : "Ce que je veux dire, c'est que, tu vois, la voiture, elle est construite comme un ensemble, dans le sens où si tu avais un wireframe ou si tu construisais cette voiture, genre chez Tesla ou chez Renault, bah, tu ferais pas les choses comme ça, tu vois, tu construirais vraiment atomiquement, components par components, et t'as forcément des plans qui existent sur le net et qui te permettent d'avoir cette voiture. Alors, cette voiture, elle s'appelle Tesla Roadster, je crois. Mais ce qu'on cherche, c'est pas forcément des brevets, tu vois. Ce qu'on cherche, c'est plutôt une méthode pour un 3D tech artiste pour créer un software qui permettrait de recréer n'importe quelle forme 3D. Et là, en fait, c'est dégueulasse ton résultat, tu vois. Et en fait, je comprends pas pourquoi tu pars pas d'un résultat qui est propre. En fait, je comprends pas pourquoi tu fais un résultat aussi organique, bizarre, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814661264.118665,
+      "id" : "2727FF10-2FD4-4F2A-89B6-5896EB479748",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et enfin, des fois dans tes captures, tu prends le tronc de l'arbre ou d'autres assets, mais je t'ai dit focus uniquement sur la voiture, donc arrête de faire des erreurs.",
+      "text" : "Et enfin, des fois dans tes captures, tu prends le tronc de l'arbre ou d'autres assets, mais je t'ai dit focus uniquement sur la voiture, donc arrête de faire des erreurs."
     }
   ],
   "modes" : [
