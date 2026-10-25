@@ -9499,6 +9499,16 @@
       "provider" : "Gemini live dictation",
       "rawText" : "Donc consigne évidemment tout ce que je viens de te dire dans ces deux skills.",
       "text" : "Donc consigne évidemment tout ce que je viens de te dire dans ces deux skills."
+    },
+    {
+      "application" : "Clipboard",
+      "date" : 814628551.965385,
+      "id" : "AB0211D6-5F6D-4C03-B9CE-FC18858AC5FD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Gemini live dictation",
+      "rawText" : "C'est celui du centre, donc le B, mais il manque juste le fait d'écrire Claude Code en GT Spectra en titre.",
+      "text" : "C'est celui du centre, donc le B, mais il manque juste le fait d'écrire Claude Code en GT Spectra en titre."
     }
   ],
   "modes" : [
