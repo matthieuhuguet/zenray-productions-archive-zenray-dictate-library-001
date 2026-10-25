@@ -9689,9 +9689,58 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Il faut évidemment consigner dans l'algorithme à mesure que les choses avancent.",
       "text" : "Il faut évidemment consigner dans l'algorithme à mesure que les choses avancent."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814649876.482445,
+      "id" : "B3270600-F172-4A4F-B47B-DF4B994DCBCA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je t'ai déjà dit de faire tous les composants jusqu'à la fin. Et actuellement, tu vois bien que c'est pas fini. Donc fais pareil, relance un cron toutes les minutes si la boucle s'arrête. Et construis tous les composants de la voiture jusqu'à la fin, jusqu'à ce qu'elle soit identique à la feuille de référence. Et tout en continuant de créer des choses, tu consignes dans le skill tous les apprentissages qui te permettront d'aller jusqu'à la ref finale.",
+      "text" : "Je t'ai déjà dit de faire tous les composants jusqu'à la fin. Et actuellement, tu vois bien que c'est pas fini. Donc fais pareil, relance un cron toutes les minutes si la boucle s'arrête. Et construis tous les composants de la voiture jusqu'à la fin, jusqu'à ce qu'elle soit identique à la feuille de référence. Et tout en continuant de créer des choses, tu consignes dans le skill tous les apprentissages qui te permettront d'aller jusqu'à la ref finale."
+    },
+    {
+      "application" : "ZenRayDictate composer",
+      "date" : 814649883.618439,
+      "id" : "8911012B-4039-4E0A-806A-39E8286A09DE",
+      "inserted" : true,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je t'ai déjà dit de faire tous les composants jusqu'à la fin. Et actuellement, tu vois bien que c'est pas fini. Donc fais pareil, relance un cron toutes les minutes si la boucle s'arrête. Et construis tous les composants de la voiture jusqu'à la fin, jusqu'à ce qu'elle soit identique à la feuille de référence. Et tout en continuant de créer des choses, tu consignes dans le skill tous les apprentissages qui te permettront d'aller jusqu'à la ref finale.",
+      "text" : "Je t'ai déjà dit de faire tous les composants jusqu'à la fin. Et actuellement, tu vois bien que c'est pas fini. Donc fais pareil, relance un cron toutes les minutes si la boucle s'arrête. Et construis tous les composants de la voiture jusqu'à la fin, jusqu'à ce qu'elle soit identique à la feuille de référence. Et tout en continuant de créer des choses, tu consignes dans le skill tous les apprentissages qui te permettront d'aller jusqu'à la ref finale."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814649897.996378,
+      "id" : "8C30F127-6772-456F-9E0C-D52646C4D796",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je m'appelle Timothée et j'adore la classe à la guimauve.",
+      "text" : "Je m'appelle Timothée et j'adore la classe à la guimauve."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814649903.215978,
+      "id" : "99487676-80EF-4D90-9F0C-3E16B3350FB4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, la glace, pas la classe.",
+      "text" : "Non, la glace, pas la classe."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814649913.410919,
+      "id" : "5220F4DB-040F-45E1-8175-7F34D9CA31D0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu penses que le texte apparaît dans une carte 640p et il est toujours copié? Les actions sont copiées et insérées. Gardez la carte bien placée.",
+      "text" : "Est-ce que tu penses que le texte apparaît dans une carte 640p et il est toujours copié? Les actions sont copiées et insérées. Gardez la carte bien placée."
     }
   ],
-  "lastError" : "Claude dictation returned no text. Recording saved for retry.",
   "modes" : [
     {
       "applications" : [
