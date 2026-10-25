@@ -9599,6 +9599,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Non, ça marche pas du tout.",
       "text" : "Non, ça marche pas du tout."
+    },
+    {
+      "application" : "ZenRayDictate composer",
+      "date" : 814645429.936773,
+      "id" : "9F127C01-D72C-4189-8EF2-B911F6D4C7F0",
+      "inserted" : true,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Refais trois propositions à partir de ce qui existe déjà.",
+      "text" : "Refais trois propositions à partir de ce qui existe déjà."
     }
   ],
   "modes" : [
