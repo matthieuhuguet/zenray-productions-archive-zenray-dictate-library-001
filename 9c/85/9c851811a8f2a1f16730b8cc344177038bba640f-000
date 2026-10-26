@@ -9811,6 +9811,7 @@
       "text" : "Et enfin, des fois dans tes captures, tu prends le tronc de l'arbre ou d'autres assets, mais je t'ai dit focus uniquement sur la voiture, donc arrête de faire des erreurs."
     }
   ],
+  "lastError" : "There was a bad response from the server. Recording saved for retry.",
   "modes" : [
     {
       "applications" : [
