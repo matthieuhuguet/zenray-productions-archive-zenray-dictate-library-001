@@ -11599,6 +11599,66 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Hormis ce son qui est clean, tous les autres sont complètement pétés. Donc comme tout à l'heure, tu arrêtes de faire n'importe quoi et tu me proposes un son clean. Enfin, tu me proposes des variations de son clean et pas des variations complètement pétées. Peut-être que c'est aussi dû à la reproduction qui n'est pas exacte actuellement. Mais j'ai surtout l'impression que t'as fait n'importe quoi. Parce que là, le son grésille complètement.",
       "text" : "Hormis ce son qui est clean, tous les autres sont complètement pétés. Donc comme tout à l'heure, tu arrêtes de faire n'importe quoi et tu me proposes un son clean. Enfin, tu me proposes des variations de son clean et pas des variations complètement pétées. Peut-être que c'est aussi dû à la reproduction qui n'est pas exacte actuellement. Mais j'ai surtout l'impression que t'as fait n'importe quoi. Parce que là, le son grésille complètement."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814732651.280269,
+      "id" : "7519C541-EF49-4636-AD20-0F1BCBB71C83",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est un son SFX qui est vraiment très parlant.",
+      "text" : "C'est un son SFX qui est vraiment très parlant."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814732669.489824,
+      "id" : "7601DF84-33DF-4B04-BCBA-AACDA6A4FF1A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est pas une musique, hein, c'est un SFX du coup. Hein.",
+      "text" : "C'est pas une musique, hein, c'est un SFX du coup. Hein."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814732675.279627,
+      "id" : "13F9C956-E377-413C-BC85-071BC4947C6A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et je suis quasi sûr qu'il est sur YouTube.",
+      "text" : "Et je suis quasi sûr qu'il est sur YouTube."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814732776.140417,
+      "id" : "0B5B480A-3EE4-4753-B2CC-6AA074680B02",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pareil, juste à reprendre les 6 premières secondes en MP3 et à les merge dans, du coup, les 3 premières secondes dans le son que tu viens de créer.",
+      "text" : "Pareil, juste à reprendre les 6 premières secondes en MP3 et à les merge dans, du coup, les 3 premières secondes dans le son que tu viens de créer."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814732790.120901,
+      "id" : "055D3DD8-969C-40CB-AF5C-754C97A12554",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "mais découpe aussi ce propre son en 3 secondes plus 3 secondes plus la version 6 secondes.",
+      "text" : "mais découpe aussi ce propre son en 3 secondes plus 3 secondes plus la version 6 secondes."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814732797.529724,
+      "id" : "98997B0A-EEAF-48CF-8B47-4CB567B13E49",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "avec un léger fade-in de 0,33 secondes.",
+      "text" : "avec un léger fade-in de 0,33 secondes."
     }
   ],
   "modes" : [
