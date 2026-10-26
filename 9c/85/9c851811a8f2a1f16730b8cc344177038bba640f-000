@@ -12109,6 +12109,56 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "C'est ultra fast. Hein. Soit tu as juste à mettre des... comment dire, des bandes noires.",
       "text" : "C'est ultra fast. Hein. Soit tu as juste à mettre des... comment dire, des bandes noires."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814737823.787983,
+      "id" : "58C23BF7-FC17-47C3-AE9E-18D5251D0E50",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il faut que tu refasses le montage de la vidéo par rapport à une musique via YouTube DLP et que tu changes la musique, l'ancienne musique par celle-ci en fait.",
+      "text" : "Il faut que tu refasses le montage de la vidéo par rapport à une musique via YouTube DLP et que tu changes la musique, l'ancienne musique par celle-ci en fait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814737831.167763,
+      "id" : "8E05B054-2055-494F-966E-503E23987B04",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "et tu crées une nouvelle version. Comme ça, j'ai les",
+      "text" : "et tu crées une nouvelle version. Comme ça, j'ai les"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814737838.779151,
+      "id" : "AC798F54-2098-45AA-9C6A-92A96692C42F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je veux hyper rapidement le MP4 avec la nouvelle musique, s'il te plaît.",
+      "text" : "Je veux hyper rapidement le MP4 avec la nouvelle musique, s'il te plaît."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814738029.833802,
+      "id" : "F9EC6D53-27E8-4E06-87E0-E942F9619CAA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Change la musique et je veux celle-là à partir de 2:28, donc 2 minutes 28. Mais par contre, ce que je veux, c'est... s'il n'y a pas assez de temps sur la musique, déjà, c'est que tu boucles la musique. Et je veux que tu commences dès le début, même là où il y a le motion. Parce que sinon, en fait, la musique, il n'y a pas le temps de... Ah, quoique non. Attends que le motion se fasse et ensuite go la",
+      "text" : "Change la musique et je veux celle-là à partir de 2:28, donc 2 minutes 28. Mais par contre, ce que je veux, c'est... s'il n'y a pas assez de temps sur la musique, déjà, c'est que tu boucles la musique. Et je veux que tu commences dès le début, même là où il y a le motion. Parce que sinon, en fait, la musique, il n'y a pas le temps de... Ah, quoique non. Attends que le motion se fasse et ensuite go la"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814738037.720156,
+      "id" : "967E4111-90B9-4AA7-AA73-A8CEEF88ED08",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "remplace d'ailleurs la musique de cascadeur, parce qu'en fait ça me sert à rien d'avoir cette version.",
+      "text" : "remplace d'ailleurs la musique de cascadeur, parce qu'en fait ça me sert à rien d'avoir cette version."
     }
   ],
   "modes" : [
