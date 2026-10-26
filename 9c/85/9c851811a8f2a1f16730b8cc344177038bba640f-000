@@ -9919,6 +9919,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Bon, eh bien, sidebar, passer 12 offres fermées en périmètre.",
       "text" : "Bon, eh bien, sidebar, passer 12 offres fermées en périmètre."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814704766.725679,
+      "id" : "BE489473-9CF3-4B85-8EE3-5F856764AAD1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, mais la vraie question, c'est de savoir, est-ce que au bout de 8 heures désormais, est-ce que Claude va assurer le speech to text ou est-ce que ça va forcément fallback en whisper? Parce que moi, c'est pas ce que je veux. Moi, ce que je veux, c'est utiliser le plus souvent possible Claude en tant que speech to",
+      "text" : "Ok, mais la vraie question, c'est de savoir, est-ce que au bout de 8 heures désormais, est-ce que Claude va assurer le speech to text ou est-ce que ça va forcément fallback en whisper? Parce que moi, c'est pas ce que je veux. Moi, ce que je veux, c'est utiliser le plus souvent possible Claude en tant que speech to"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814704966.091968,
+      "id" : "890ABBD4-CEF8-4CB2-BF90-5899C9E0F485",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "De toute manière, passe l'interface en rouge s'il s'agit de Whisper. Comme ça, par exemple, tu vois, là, actuellement, j'ai une interface plutôt orangée sur le widget de droite et le widget du centre. Et lorsque tu passes sur, sur Whisper, bah, du coup, tu détectes ce chemin et du coup, tu mets l'interface en rouge. Et montre-moi le widget en rouge, comme ça, je valide et on termine.",
+      "text" : "De toute manière, passe l'interface en rouge s'il s'agit de Whisper. Comme ça, par exemple, tu vois, là, actuellement, j'ai une interface plutôt orangée sur le widget de droite et le widget du centre. Et lorsque tu passes sur, sur Whisper, bah, du coup, tu détectes ce chemin et du coup, tu mets l'interface en rouge. Et montre-moi le widget en rouge, comme ça, je valide et on termine."
+    },
+    {
+      "application" : "Unknown",
+      "date" : 814705522.702778,
+      "id" : "E8E83E60-4729-4151-BFB2-7514655CE2DC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Beaucoup mieux du coup.",
+      "text" : "Beaucoup mieux du coup."
     }
   ],
   "modes" : [
