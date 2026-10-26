@@ -10969,6 +10969,96 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Et en plus, sur ZenRay, t'as pas mis bold.",
       "text" : "Et en plus, sur ZenRay, t'as pas mis bold."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814725427.793728,
+      "id" : "C196E7AA-956A-4451-A589-B8825AAB3291",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Par contre, il faudrait que la photo à droite soit alignée avec le fond de... avec le haut de Mathieu Huguet, je pense. Mais qu'elle soit peut-être à la même taille. Ce serait parfait.",
+      "text" : "Par contre, il faudrait que la photo à droite soit alignée avec le fond de... avec le haut de Mathieu Huguet, je pense. Mais qu'elle soit peut-être à la même taille. Ce serait parfait."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814725437.489534,
+      "id" : "4AC2312B-003E-401E-9C45-7A23791539A9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais elle doit rester à droite, attention.",
+      "text" : "Mais elle doit rester à droite, attention."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814725525.567214,
+      "id" : "62356A0D-389C-4900-9935-5DDF0794A791",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pour Louisiana Bayou et pour texturing, faut que tu mettes en... tu mettes la fonte en bold, sinon on la verra pas suffisamment.",
+      "text" : "Pour Louisiana Bayou et pour texturing, faut que tu mettes en... tu mettes la fonte en bold, sinon on la verra pas suffisamment."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814725557.786657,
+      "id" : "35828DC3-DF59-40D0-A7A0-01686EF45F8C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, il faut que ce soit la même interface que les boutons. Même Available for Freelance, je pense que c'est un bouton et que tu peux le mettre en... En GT Ultra... GT Ultra Bold, du coup, je pense. Et tu peux appliquer ça sur tous les boutons qui sont orange. Donc les boutons importants.",
+      "text" : "En fait, il faut que ce soit la même interface que les boutons. Même Available for Freelance, je pense que c'est un bouton et que tu peux le mettre en... En GT Ultra... GT Ultra Bold, du coup, je pense. Et tu peux appliquer ça sur tous les boutons qui sont orange. Donc les boutons importants."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814725643.413335,
+      "id" : "61FA95EA-B290-4768-A184-6E9B5D928A14",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ouais, il faut que tu mettes en place le protocole qui fait que du coup tous les titres seront en JT Ultra et tout le reste sera directement en... un GT standard, je pense.",
+      "text" : "Ouais, il faut que tu mettes en place le protocole qui fait que du coup tous les titres seront en JT Ultra et tout le reste sera directement en... un GT standard, je pense."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814725687.999333,
+      "id" : "8546E020-52F3-4491-BBA7-1D80E92FF6B0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "mets un panneau en mode chantier en construction avec une petite animation juste en dessous du panneau ZenRay Studio où il y a marqué Assets, Collection, Service et Journal.",
+      "text" : "mets un panneau en mode chantier en construction avec une petite animation juste en dessous du panneau ZenRay Studio où il y a marqué Assets, Collection, Service et Journal."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814725713.350221,
+      "id" : "80273087-CD2C-4879-8D2E-4E62255C682E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "avec le protocole d'un site qui serait en construction, etc.",
+      "text" : "avec le protocole d'un site qui serait en construction, etc."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814725820.674716,
+      "id" : "1AF6B2BF-480F-41AB-B1E0-AC29F154F14D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Honnêtement, comme dit plus tôt, je pense que tu devrais pas faire tu devrais faire les feuilles uniquement en dernier en fait. Toute la géométrie d'un arbre, c'est surtout en fait son tronc et ses branches. C'est ça qui va demander le plus de relief et le plus de travail. Encore une fois, les feuilles, c'est vraiment secondaire et ça déforme totalement ce qu'on recherche. Tout à l'heure, tu avais une méthode intéressante qui te permettait de faire ressortir les branches quasi parfaitement. Donc je pense que tu peux continuer d'itérer uniquement que jusque qu'avec ça, tu vois. Et trouver les bonnes formes de courbes parfaites pour les arbres, etc. Tu peux même essayer de consigner un dataset scientifique qui permettrait de savoir quels guides 3D tu as besoin pour faire les courbes des arbres, etc.",
+      "text" : "Honnêtement, comme dit plus tôt, je pense que tu devrais pas faire tu devrais faire les feuilles uniquement en dernier en fait. Toute la géométrie d'un arbre, c'est surtout en fait son tronc et ses branches. C'est ça qui va demander le plus de relief et le plus de travail. Encore une fois, les feuilles, c'est vraiment secondaire et ça déforme totalement ce qu'on recherche. Tout à l'heure, tu avais une méthode intéressante qui te permettait de faire ressortir les branches quasi parfaitement. Donc je pense que tu peux continuer d'itérer uniquement que jusque qu'avec ça, tu vois. Et trouver les bonnes formes de courbes parfaites pour les arbres, etc. Tu peux même essayer de consigner un dataset scientifique qui permettrait de savoir quels guides 3D tu as besoin pour faire les courbes des arbres, etc."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814725840.607342,
+      "id" : "C5AB22D3-514F-46A9-BC0E-02FE71FCC6EC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Le but, c'était d'avoir un relais entre l'arbre et la voiture pour consigner des méthodes dans ZenRay Meshes afin d'améliorer les choses. Mais si tu partages pas les méthodes, on va pas... Déjà, on va pas avancer vite, et de deux, on va stagner sur certains éléments, quoi.",
+      "text" : "Le but, c'était d'avoir un relais entre l'arbre et la voiture pour consigner des méthodes dans ZenRay Meshes afin d'améliorer les choses. Mais si tu partages pas les méthodes, on va pas... Déjà, on va pas avancer vite, et de deux, on va stagner sur certains éléments, quoi."
     }
   ],
   "modes" : [
