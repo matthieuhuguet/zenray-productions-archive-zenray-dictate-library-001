@@ -10329,6 +10329,116 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Ce qui marche à coup sûr, c'est toujours de diviser de manière atomique les tâches afin d'être sûr de pouvoir avancer dans n'importe quel workflow.",
       "text" : "Ce qui marche à coup sûr, c'est toujours de diviser de manière atomique les tâches afin d'être sûr de pouvoir avancer dans n'importe quel workflow."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814715330.506809,
+      "id" : "BC7167CC-C34C-4937-8199-C082B5F6CF8A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "On est bien d'accord que le but, c'est pas de juste reproduire cet arbre en particulier, c'est de reproduire tous les types d'arbres. Et pareil pour la voiture. Et pareil pour tous les mesh hard surface. Et pareil pour tous les mesh organiques. On est bien d'accord qu'on est en train de construire un algo qui permettra d'identifier les bons components et de recréer à la volée n'importe quel type d'asset. C'est important que tu comprennes bien le but de ZenRay Meshes et que tu partes pas dans de la simple reproduction agent.",
+      "text" : "On est bien d'accord que le but, c'est pas de juste reproduire cet arbre en particulier, c'est de reproduire tous les types d'arbres. Et pareil pour la voiture. Et pareil pour tous les mesh hard surface. Et pareil pour tous les mesh organiques. On est bien d'accord qu'on est en train de construire un algo qui permettra d'identifier les bons components et de recréer à la volée n'importe quel type d'asset. C'est important que tu comprennes bien le but de ZenRay Meshes et que tu partes pas dans de la simple reproduction agent."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814715512.355813,
+      "id" : "E65CD5DC-DE1C-4132-8014-226D0EB072CA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, sur mon truc de ZenRay Freelance, il m'avait répondu le 12 octobre. Et du coup, je vois que tu l'as remis dans les annonces du jour pour faire 10 emails. Donc en fait, il faut que tu prennes une autre annonce parce que celle-là, elle avait déjà été faite. Par contre, j'aimerais bien que tu me fasses une page pour par rapport au lot du jour. J'aimerais bien pouvoir trier et pouvoir avoir uniquement les annonces qui sont en France ou alors des studios français, genre, ou alors des studios francophones, tu vois, genre studios suisses, j'en sais rien, tu vois, mais des studios plutôt francophones. Pouvoir trier en fait directement les offres qui sont sur le territoire français. Tu peux faire pareil pour le territoire japonais et pour le territoire américain, s'il te plaît.",
+      "text" : "Du coup, sur mon truc de ZenRay Freelance, il m'avait répondu le 12 octobre. Et du coup, je vois que tu l'as remis dans les annonces du jour pour faire 10 emails. Donc en fait, il faut que tu prennes une autre annonce parce que celle-là, elle avait déjà été faite. Par contre, j'aimerais bien que tu me fasses une page pour par rapport au lot du jour. J'aimerais bien pouvoir trier et pouvoir avoir uniquement les annonces qui sont en France ou alors des studios français, genre, ou alors des studios francophones, tu vois, genre studios suisses, j'en sais rien, tu vois, mais des studios plutôt francophones. Pouvoir trier en fait directement les offres qui sont sur le territoire français. Tu peux faire pareil pour le territoire japonais et pour le territoire américain, s'il te plaît."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814715523.846093,
+      "id" : "8F9D9121-56C8-46DF-9A81-28285764D318",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Voici une réponse que j'ai obtenue le 12 octobre de la part de vos",
+      "text" : "Voici une réponse que j'ai obtenue le 12 octobre de la part de vos"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814715548.404793,
+      "id" : "6C7B7E5C-918F-4898-9D59-5CDB8913EDDD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et là, on reprend du coup ZenRay Freelance et on va avancer. On va faire minimum 10 mails aujourd'hui, idéalement 100 par rapport à ce que je t'ai dit. Genre, si on fait 100 mails par jour et que on le fait pendant 7 jours, bah, j'ai répondu à tout dans une semaine, tu vois.",
+      "text" : "Et là, on reprend du coup ZenRay Freelance et on va avancer. On va faire minimum 10 mails aujourd'hui, idéalement 100 par rapport à ce que je t'ai dit. Genre, si on fait 100 mails par jour et que on le fait pendant 7 jours, bah, j'ai répondu à tout dans une semaine, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814715557.705913,
+      "id" : "445C40C3-F3EC-43C7-A762-E61440EC95E2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc c'est un objectif qui peut être très ambitieux et qui peut à la fois être très très puissant.",
+      "text" : "Donc c'est un objectif qui peut être très ambitieux et qui peut à la fois être très très puissant."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814715687.233535,
+      "id" : "7A29853D-53E7-4860-BFF6-257EB85495A6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Le but, c'est pas forcément d'exclure définitivement les studios déjà contactés ou refusés, c'est plutôt de au moins mettre une limite de 30 jours, voire de 90 jours, et de et d'afficher et de faire en fait une catégorie ou un widget ou une UI qui permette en fait de savoir si j'ai déjà contacté le studio. Notamment via un tool directement dans l'app de ZenRay Freelance, tu vois.",
+      "text" : "Le but, c'est pas forcément d'exclure définitivement les studios déjà contactés ou refusés, c'est plutôt de au moins mettre une limite de 30 jours, voire de 90 jours, et de et d'afficher et de faire en fait une catégorie ou un widget ou une UI qui permette en fait de savoir si j'ai déjà contacté le studio. Notamment via un tool directement dans l'app de ZenRay Freelance, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814715696.399139,
+      "id" : "E484F2D0-B518-459C-AEF5-FBEC983436D7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et un bouton aussi qui me permette de le faire sans passer par Claude, tu vois.",
+      "text" : "Et un bouton aussi qui me permette de le faire sans passer par Claude, tu vois."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814715802.278789,
+      "id" : "62FDA0AD-9EBC-46DC-88C4-F223CC4F2FDE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "D'accord, merci beaucoup Karine. Mais est-ce qu'il vaudrait pas mieux lui proposer de rester 2 jours de plus? Après, elle n'a pas forcément l'opportunité de le faire, mais je sais pas. Parce que en vrai, ça la fatigue de faire les allers-retours, non?",
+      "text" : "D'accord, merci beaucoup Karine. Mais est-ce qu'il vaudrait pas mieux lui proposer de rester 2 jours de plus? Après, elle n'a pas forcément l'opportunité de le faire, mais je sais pas. Parce que en vrai, ça la fatigue de faire les allers-retours, non?"
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814715819.804104,
+      "id" : "7A0D2E39-27CE-490C-A963-F98A9CBBBD2F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah, de toute manière, il faut faire ce qu'elle souhaite le plus.",
+      "text" : "Bah, de toute manière, il faut faire ce qu'elle souhaite le plus."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814715835.786475,
+      "id" : "D3E98F4F-C1EB-4C15-A932-59105C48C3A7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Oui.",
+      "text" : "Oui."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814715941.329634,
+      "id" : "276537CE-3E98-4A3C-AAD2-A8AB053FA135",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Tu oublies de mettre des images au fur et à mesure alors que c'est la base du protocole, tiens. Et par contre, pour l'arbre, t'as pas mal de versions à rattraper, étant donné que là, on est à la version de la car 470 et que j'ai même pas la version de l'arbre, le numéro. Donc t'as pas mal de choses à faire, notamment pour itérer, notamment sur l'arbre.",
+      "text" : "Tu oublies de mettre des images au fur et à mesure alors que c'est la base du protocole, tiens. Et par contre, pour l'arbre, t'as pas mal de versions à rattraper, étant donné que là, on est à la version de la car 470 et que j'ai même pas la version de l'arbre, le numéro. Donc t'as pas mal de choses à faire, notamment pour itérer, notamment sur l'arbre."
     }
   ],
   "modes" : [
