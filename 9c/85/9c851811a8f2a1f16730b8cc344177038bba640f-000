@@ -10089,6 +10089,106 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "J'ai dû mal exprimer, mais en fait, garde le design actuel. Garde vraiment le design actuel. Il ne faut pas que tu changes le design. Ce que je voulais, c'est juste que tu modifies directement depuis le design actuel pixel perfect via les instructions de font et de police que je t'ai demandé. Et ensuite, que tu changes le contraste des petites cases, mais tu changes pas le design qui existe déjà sur le site. Et déjà, tu le reprends à l'identique.",
       "text" : "J'ai dû mal exprimer, mais en fait, garde le design actuel. Garde vraiment le design actuel. Il ne faut pas que tu changes le design. Ce que je voulais, c'est juste que tu modifies directement depuis le design actuel pixel perfect via les instructions de font et de police que je t'ai demandé. Et ensuite, que tu changes le contraste des petites cases, mais tu changes pas le design qui existe déjà sur le site. Et déjà, tu le reprends à l'identique."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814707862.426514,
+      "id" : "AA3F3C33-748B-4F0D-8EF5-BCECBBB45492",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Alors, du coup, il faut cacher la version attachments parce que c'est super moche. Ensuite, le reste, c'est pas trop mal. Ouais, le reste, c'est pas trop mal. Ça marche même plutôt bien. Me faut par contre une version pour valider une fois que je suis dans la note aussi. Parce que là, je peux valider uniquement via le petit pin. Mais il me faudrait un petit pin avec un bouton d'animation qui fasse en sorte que je puisse valider depuis la note à proximité du titre ou à l'intérieur du truc. Ça peut aussi être en bas du widget. Par contre, certains numéros comme les dates ne sont pas vraiment en GT Ultra, donc tu dois vraiment faire en sorte que tous les numéros soient en GT Ultra, chaque occurrence. Sinon, le reste est vraiment bien en soi. Évidemment, le vert clarifié est beaucoup mieux. Et donc, voilà. Donc, y a environ ces deux feedbacks à faire. Essayer de cacher un peu l'attachment pour qu'il n'y ait pas... Enfin, c'est hyper moche, toute la zone de attachment. Je veux vraiment que ce soit beaucoup plus clean. Ensuite, les numéros à fixe. Et peut-être une refonte interne du widget qui s'ouvre. Pour que ce soit beaucoup plus propre, beaucoup plus design, beaucoup plus moderne. Et tu peux essayer de mettre moins d'informations. Et par contre, tu vois, dans... Oui, il y a un problème qu'il faut consigner dans Claude.md global et dans ZenRay Edit. C'est que si tu mets des numéros, par exemple, dans une date... Par exemple, 26 octobre 2026, ben, octobre aussi doit être en GT Ultra, parce que sinon ça fait pas de sens. Et tu dois penser à toutes les occurrences pour qu'il n'y ait jamais ce bug qui réapparaisse. Donc voilà, ça c'est toutes les choses qu'il faut faire.",
+      "text" : "Alors, du coup, il faut cacher la version attachments parce que c'est super moche. Ensuite, le reste, c'est pas trop mal. Ouais, le reste, c'est pas trop mal. Ça marche même plutôt bien. Me faut par contre une version pour valider une fois que je suis dans la note aussi. Parce que là, je peux valider uniquement via le petit pin. Mais il me faudrait un petit pin avec un bouton d'animation qui fasse en sorte que je puisse valider depuis la note à proximité du titre ou à l'intérieur du truc. Ça peut aussi être en bas du widget. Par contre, certains numéros comme les dates ne sont pas vraiment en GT Ultra, donc tu dois vraiment faire en sorte que tous les numéros soient en GT Ultra, chaque occurrence. Sinon, le reste est vraiment bien en soi. Évidemment, le vert clarifié est beaucoup mieux. Et donc, voilà. Donc, y a environ ces deux feedbacks à faire. Essayer de cacher un peu l'attachment pour qu'il n'y ait pas... Enfin, c'est hyper moche, toute la zone de attachment. Je veux vraiment que ce soit beaucoup plus clean. Ensuite, les numéros à fixe. Et peut-être une refonte interne du widget qui s'ouvre. Pour que ce soit beaucoup plus propre, beaucoup plus design, beaucoup plus moderne. Et tu peux essayer de mettre moins d'informations. Et par contre, tu vois, dans... Oui, il y a un problème qu'il faut consigner dans Claude.md global et dans ZenRay Edit. C'est que si tu mets des numéros, par exemple, dans une date... Par exemple, 26 octobre 2026, ben, octobre aussi doit être en GT Ultra, parce que sinon ça fait pas de sens. Et tu dois penser à toutes les occurrences pour qu'il n'y ait jamais ce bug qui réapparaisse. Donc voilà, ça c'est toutes les choses qu'il faut faire."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814707883.632213,
+      "id" : "D656ED72-AC4B-445E-94E4-718493FFCCDA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc n'oublie pas de consigner. N'oublie pas de consigner les choses.",
+      "text" : "Donc n'oublie pas de consigner. N'oublie pas de consigner les choses."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814707919.774689,
+      "id" : "9F975C2C-0688-475E-8316-7715BECFB104",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'aimerais aussi que tu prennes un screen de l'ancien design et que tu le mettes directement dans la section de mon site qui s'appelle Design, donc dans Galerie Design, afin d'avoir l'ancien design qui était du coup sombre et light. J'aimerais juste faire une sauvegarde de ça. Ce sera parfait. Merci beaucoup.",
+      "text" : "J'aimerais aussi que tu prennes un screen de l'ancien design et que tu le mettes directement dans la section de mon site qui s'appelle Design, donc dans Galerie Design, afin d'avoir l'ancien design qui était du coup sombre et light. J'aimerais juste faire une sauvegarde de ça. Ce sera parfait. Merci beaucoup."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814708965.832894,
+      "id" : "F894E6A2-BE16-4D5A-B32A-26D0D136781E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "ça va prendre beaucoup trop de compute et je suis pas sûr que ça fonctionne vraiment. Donc, à la limite, ce que tu peux faire, c'est relancer Haiku en max avec l'analyse des deux vidéos pour avoir un read de chacune des images. Mais encore, je suis pas sûr que ce soit vraiment utile. Mais au pire, fais-le en Haiku max, tandis que toi, tu continues en effort ta boucle pour améliorer les choses. Mais stop l'analyse pour l'instant en Sonnet AI, ça coûte beaucoup trop cher.",
+      "text" : "ça va prendre beaucoup trop de compute et je suis pas sûr que ça fonctionne vraiment. Donc, à la limite, ce que tu peux faire, c'est relancer Haiku en max avec l'analyse des deux vidéos pour avoir un read de chacune des images. Mais encore, je suis pas sûr que ce soit vraiment utile. Mais au pire, fais-le en Haiku max, tandis que toi, tu continues en effort ta boucle pour améliorer les choses. Mais stop l'analyse pour l'instant en Sonnet AI, ça coûte beaucoup trop cher."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814709018.565393,
+      "id" : "9582C627-72CB-484F-B9C1-F7A6D1847C04",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ce qu'il faut, c'est que Haiku 5.5 max lise à peu près chacune des images de la vidéo et qui t'en fasse un compte-rendu et un bilan du storyboard, etc. pour savoir si tu peux tenter une nouvelle approche, une nouvelle méthode sur certains components, notamment pour la caisse de voiture. Mais tu lances pas ça en Sonnet AI parce que c'est un gouffre financier énorme en fait. Et c'est déjà noté dans Claude.md, normalement si tu le relis, normalement t'as pas le droit de lancer des agents trop chers.",
+      "text" : "Ce qu'il faut, c'est que Haiku 5.5 max lise à peu près chacune des images de la vidéo et qui t'en fasse un compte-rendu et un bilan du storyboard, etc. pour savoir si tu peux tenter une nouvelle approche, une nouvelle méthode sur certains components, notamment pour la caisse de voiture. Mais tu lances pas ça en Sonnet AI parce que c'est un gouffre financier énorme en fait. Et c'est déjà noté dans Claude.md, normalement si tu le relis, normalement t'as pas le droit de lancer des agents trop chers."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814709553.553398,
+      "id" : "2E1A1DC5-944C-43C0-B8DD-7E82E2B78645",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, il faut bind les fichiers et du coup, ce qu'on avait fait dans cette discussion, c'est qu'on avait permis à ZenRay Progress, notamment sur la partie ZenRay plan, de changer directement via HTML. Et il faut que tu utilises la partie A vert clarifié afin que l'interface avec son équivalent, du coup. Avec son équivalent sur le thème sombre. Et le but, c'est de mettre à jour du coup notre interface. Il y a juste une partie sur laquelle le document n'a pas proposé de réponse, c'est sur la partie attachment du coup, qui devait être refaite de manière beaucoup plus clean. Et il manque juste la partie toggle sur attachment pour pouvoir déplier et avoir mes anciennes icônes. Mais comme dit plus tôt, notamment dans la conversation que tu dois relire intégralement et lier via ZenRay Assets, en fait, si tu veux, la partie attachment, elle doit être mise certes à droite dans le propre widget qui s'ouvre désormais, mais ça doit être dépliable et la vue mobile doit être parfaite aussi. Bref, normalement, on a tout ce qu'il nous faut dans ces instructions. Il faut surtout que tu relises en entier la conversation de Codex afin d'avoir tous les tenants et les aboutissants. Tu peux aussi déléguer un agent Haiku Max 5.5 afin d'être sûr d'avoir tous les tenants et les aboutissants avant de commencer à coder et de déployer la vue plan nouvelle.",
+      "text" : "Du coup, il faut bind les fichiers et du coup, ce qu'on avait fait dans cette discussion, c'est qu'on avait permis à ZenRay Progress, notamment sur la partie ZenRay plan, de changer directement via HTML. Et il faut que tu utilises la partie A vert clarifié afin que l'interface avec son équivalent, du coup. Avec son équivalent sur le thème sombre. Et le but, c'est de mettre à jour du coup notre interface. Il y a juste une partie sur laquelle le document n'a pas proposé de réponse, c'est sur la partie attachment du coup, qui devait être refaite de manière beaucoup plus clean. Et il manque juste la partie toggle sur attachment pour pouvoir déplier et avoir mes anciennes icônes. Mais comme dit plus tôt, notamment dans la conversation que tu dois relire intégralement et lier via ZenRay Assets, en fait, si tu veux, la partie attachment, elle doit être mise certes à droite dans le propre widget qui s'ouvre désormais, mais ça doit être dépliable et la vue mobile doit être parfaite aussi. Bref, normalement, on a tout ce qu'il nous faut dans ces instructions. Il faut surtout que tu relises en entier la conversation de Codex afin d'avoir tous les tenants et les aboutissants. Tu peux aussi déléguer un agent Haiku Max 5.5 afin d'être sûr d'avoir tous les tenants et les aboutissants avant de commencer à coder et de déployer la vue plan nouvelle."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814709902.035892,
+      "id" : "4F57D633-C752-45D9-87F5-BAB7EF9BE542",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, c'est chiant parce que là, tu vois, j'ai préparé tout un outil ZenRay Freelance qui m'a recensé 700 offres qui correspondent à mon profil de tes cartes et tout. Je veux postuler en tant que freelance pour prendre le contrat et exécuter et faire de l'argent. Mais je sais pas pourquoi, mais juste, j'envoie pas les mails au studio. Et du coup, bah c'est un peu dommage, tu vois. Parce que... parce que en fait, je fais pas d'émission, tu vois. Et plus le temps passe, moins je serai compétitif sur le marché du travail parce que mon effet jeunesse va s'estomper, tu vois. En plus, là, tu vois, j'ai 25 ans, mais il faut vraiment que je puisse cumuler les missions sur le marché du travail pour être bon, quoi. Parce que en fait, le problème, c'est que je développe des outils. Et je me dis, ah ouais, mais quand j'aurai développé l'outil parfait, je postulerai. Mais le truc, c'est que je vais pas faire d'argent en attendant. Et là, ma priorité, c'est vraiment l'argent, quoi. Donc, je sais pas comment faire pour débloquer mon cerveau pour postuler, tu vois. Après, c'est peut-être aussi parce que je postule à des offres qui proposent des jobs de salariés. Et moi, je postule en freelance. Mais normalement, c'est même pas une excuse parce que ça avantage les studios, tu vois. Parce qu'ils auront pas de contrat à me proposer. Donc, je sais pas trop comment faire.",
+      "text" : "En fait, c'est chiant parce que là, tu vois, j'ai préparé tout un outil ZenRay Freelance qui m'a recensé 700 offres qui correspondent à mon profil de tes cartes et tout. Je veux postuler en tant que freelance pour prendre le contrat et exécuter et faire de l'argent. Mais je sais pas pourquoi, mais juste, j'envoie pas les mails au studio. Et du coup, bah c'est un peu dommage, tu vois. Parce que... parce que en fait, je fais pas d'émission, tu vois. Et plus le temps passe, moins je serai compétitif sur le marché du travail parce que mon effet jeunesse va s'estomper, tu vois. En plus, là, tu vois, j'ai 25 ans, mais il faut vraiment que je puisse cumuler les missions sur le marché du travail pour être bon, quoi. Parce que en fait, le problème, c'est que je développe des outils. Et je me dis, ah ouais, mais quand j'aurai développé l'outil parfait, je postulerai. Mais le truc, c'est que je vais pas faire d'argent en attendant. Et là, ma priorité, c'est vraiment l'argent, quoi. Donc, je sais pas comment faire pour débloquer mon cerveau pour postuler, tu vois. Après, c'est peut-être aussi parce que je postule à des offres qui proposent des jobs de salariés. Et moi, je postule en freelance. Mais normalement, c'est même pas une excuse parce que ça avantage les studios, tu vois. Parce qu'ils auront pas de contrat à me proposer. Donc, je sais pas trop comment faire."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814709935.000961,
+      "id" : "315B17C6-6009-4541-BA88-457F626DD6D2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, là, si tu veux, il faut juste me convaincre, me séduire, me faire passer à l'action pour que j'envoie les offres. Parce que j'étais censé le faire à 9h30 jusqu'à 10h30, en envoyer juste 10. Du coup, je me suis dit que j'allais en envoyer 100. Et au final, là, j'en ai envoyé 0, tu vois. Bon, après, j'ai codé tout mon outil qui me permet d'en envoyer plein, tu vois. Et j'ai refait toute l'interface. Mais bon, tu vois, j'ai procrastiné au lieu de passer à l'action.",
+      "text" : "En fait, là, si tu veux, il faut juste me convaincre, me séduire, me faire passer à l'action pour que j'envoie les offres. Parce que j'étais censé le faire à 9h30 jusqu'à 10h30, en envoyer juste 10. Du coup, je me suis dit que j'allais en envoyer 100. Et au final, là, j'en ai envoyé 0, tu vois. Bon, après, j'ai codé tout mon outil qui me permet d'en envoyer plein, tu vois. Et j'ai refait toute l'interface. Mais bon, tu vois, j'ai procrastiné au lieu de passer à l'action."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814710411.618522,
+      "id" : "060AEA19-66A9-4496-866A-E8E74AD0225A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai l'impression que peu après, ça s'est encore arrêté. Cependant, certains projets ont été push, mais en fait, j'ai l'impression qu'à chaque fois qu'il y a un projet à vérifier, bah, ça s'arrête de push. Mais en fait, ce qu'il faudrait, c'est dans la petite icône en haut à droite de mon écran, il faudrait que je puisse traiter la décision via une notification qui s'ouvre directement via un popover. Et comme ça, le Claude peut reprendre. Parce que sinon, en fait, ça va bloquer à chaque fois.",
+      "text" : "J'ai l'impression que peu après, ça s'est encore arrêté. Cependant, certains projets ont été push, mais en fait, j'ai l'impression qu'à chaque fois qu'il y a un projet à vérifier, bah, ça s'arrête de push. Mais en fait, ce qu'il faudrait, c'est dans la petite icône en haut à droite de mon écran, il faudrait que je puisse traiter la décision via une notification qui s'ouvre directement via un popover. Et comme ça, le Claude peut reprendre. Parce que sinon, en fait, ça va bloquer à chaque fois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814710762.310567,
+      "id" : "DD8C48A1-0E24-4CBD-AB07-7049C2685FE8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Peut-être que ce qui peut être utile aussi dans le workflow actuel, c'est aussi de faire en sorte que tu puisses peut-être refaire la sheet des components et comparer components par components, mais à travers la boucle. Tu vois, c'est-à-dire que au début, tu as fait une sheet par rapport aux components de la ref, de la référence, tu vois. Mais ensuite, ce qu'on peut faire, c'est refaire des components sur la voiture qui est en train d'être itérée, donc c'est-à-dire sur notre modèle 3D qui est en train d'être créé, et en comparant components par components, pour savoir qu'est-ce qui est exact et qu'est-ce qui n'est pas encore 100% exact, on peut faire des pourcentages de complétion des components, et ainsi créer les bons outils pour les bons components, et pouvoir directement instancier les bons et aussi consigner dans l'algorithme et dans le skill exactement ce qu'il faut.",
+      "text" : "Peut-être que ce qui peut être utile aussi dans le workflow actuel, c'est aussi de faire en sorte que tu puisses peut-être refaire la sheet des components et comparer components par components, mais à travers la boucle. Tu vois, c'est-à-dire que au début, tu as fait une sheet par rapport aux components de la ref, de la référence, tu vois. Mais ensuite, ce qu'on peut faire, c'est refaire des components sur la voiture qui est en train d'être itérée, donc c'est-à-dire sur notre modèle 3D qui est en train d'être créé, et en comparant components par components, pour savoir qu'est-ce qui est exact et qu'est-ce qui n'est pas encore 100% exact, on peut faire des pourcentages de complétion des components, et ainsi créer les bons outils pour les bons components, et pouvoir directement instancier les bons et aussi consigner dans l'algorithme et dans le skill exactement ce qu'il faut."
     }
   ],
   "modes" : [
