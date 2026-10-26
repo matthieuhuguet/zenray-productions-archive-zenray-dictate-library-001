@@ -10579,6 +10579,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "coder puis proposer le mock-up.",
       "text" : "coder puis proposer le mock-up."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814719436.869837,
+      "id" : "BFBAD483-81B7-47C0-A8CA-2F5587A3196F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai un bug qu'on avait déjà recensé normalement dans Progress et qui est que, je ne sais pas à cause de quelle app ou quel widget, actuellement lorsque je mets en grand écran c'est sans doute ZenRay Dictate ou ZenRay Assets parce que ces derniers jours c'est ce que j'ai modifié récemment. Quand je mets en grand écran une vidéo sur YouTube ou peu importe, n'importe quelle vidéo en grand écran sur mon Chrome browser, eh bien j'ai la petite bande blanche horizontale avec les trois icônes qui permettent de fermer, réduire ou agrandir ou resize la page sur macOS. Donc j'aimerais que tu trouves un fixe pour la faire disparaître et obtenir le vrai mode plein écran. Mais normalement le bug a déjà été consigné dans Progress, donc tu as juste à grep pour le trouver.",
+      "text" : "J'ai un bug qu'on avait déjà recensé normalement dans Progress et qui est que, je ne sais pas à cause de quelle app ou quel widget, actuellement lorsque je mets en grand écran c'est sans doute ZenRay Dictate ou ZenRay Assets parce que ces derniers jours c'est ce que j'ai modifié récemment. Quand je mets en grand écran une vidéo sur YouTube ou peu importe, n'importe quelle vidéo en grand écran sur mon Chrome browser, eh bien j'ai la petite bande blanche horizontale avec les trois icônes qui permettent de fermer, réduire ou agrandir ou resize la page sur macOS. Donc j'aimerais que tu trouves un fixe pour la faire disparaître et obtenir le vrai mode plein écran. Mais normalement le bug a déjà été consigné dans Progress, donc tu as juste à grep pour le trouver."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814719597.492313,
+      "id" : "BC9DBFC6-6FCE-402D-92F7-1D18F62B71EE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "je comprends pas pourquoi tu prends autant de temps et pourquoi tu améliores plus les choses et pourquoi tu mets pas d'image. C'est très bizarre là, t'es passé à un... J'ai l'impression que t'as complètement oublié tout ce qu'on faisait jusqu'à maintenant.",
+      "text" : "je comprends pas pourquoi tu prends autant de temps et pourquoi tu améliores plus les choses et pourquoi tu mets pas d'image. C'est très bizarre là, t'es passé à un... J'ai l'impression que t'as complètement oublié tout ce qu'on faisait jusqu'à maintenant."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814719644.22377,
+      "id" : "40358244-6CEB-4866-B2E0-BBF69DA3ACD6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En soi, tu itères juste sur du modeling, hein. Tu n'as pas besoin de faire autant de rendus, etc. Enfin, ça ne doit pas normalement prendre du temps, en fait. À part si tu es sur une partie optimisation pour la topologie ou les quad mesh, mais normalement, tu n'es pas encore à ce stade puisque tu fais encore. Enfin, normalement, tu es censé avoir appris des trucs. Au pire, relis déjà tout ce que tu as fait. Et comme ça nous permettra d'aller plus vite. Mais là, la méthode organique, elle prend beaucoup trop de temps. Tu peux pas. Je sais pas ce qui prend du temps, mais en fait, j'ai l'impression que c'est parce que tu lances des rendus bizarres. Mais en fait, tu dois pas lancer des rendus, tu dois itérer sur le modeling.",
+      "text" : "En soi, tu itères juste sur du modeling, hein. Tu n'as pas besoin de faire autant de rendus, etc. Enfin, ça ne doit pas normalement prendre du temps, en fait. À part si tu es sur une partie optimisation pour la topologie ou les quad mesh, mais normalement, tu n'es pas encore à ce stade puisque tu fais encore. Enfin, normalement, tu es censé avoir appris des trucs. Au pire, relis déjà tout ce que tu as fait. Et comme ça nous permettra d'aller plus vite. Mais là, la méthode organique, elle prend beaucoup trop de temps. Tu peux pas. Je sais pas ce qui prend du temps, mais en fait, j'ai l'impression que c'est parce que tu lances des rendus bizarres. Mais en fait, tu dois pas lancer des rendus, tu dois itérer sur le modeling."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814719690.3295,
+      "id" : "34C552A7-0FEF-41D9-8740-A2FF94CA02E9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah, tu vois bien que les branches que tu as dessinées, c'est pas du tout les bonnes. Là, tu as fait un contour. Bon, là, il faut que tu rerun la méthodologie. Parce que là, sinon, tu vas pas avancer. Hein.",
+      "text" : "Bah, tu vois bien que les branches que tu as dessinées, c'est pas du tout les bonnes. Là, tu as fait un contour. Bon, là, il faut que tu rerun la méthodologie. Parce que là, sinon, tu vas pas avancer. Hein."
     }
   ],
   "modes" : [
