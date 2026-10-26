@@ -11539,6 +11539,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Bah, du coup, tu vas faire exactement pareil pour avoir l'évolution de l'eucalyptus sans les feuilles, du coup. Merci, fils de pute.",
       "text" : "Bah, du coup, tu vas faire exactement pareil pour avoir l'évolution de l'eucalyptus sans les feuilles, du coup. Merci, fils de pute."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814731777.454145,
+      "id" : "167232EE-507A-431C-BBE5-75503C9CA89E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah, c'est propre, mais essaie de viser plutôt l'effet d'apparition de Sony. Attends, je vais essayer de le trouver sur YouTube. C'est bon, j'ai trouvé. Ok, c'est de 0,10. De 0,10 avec un fade-in du seul. Du coup, c'est de 0,10 secondes avec un fade-in d'une seconde. Et un fade-out d'une seconde aussi. Et juste, tu reproduis le son et après, tu me proposes trois variations. Tu as déjà un outil qui permet de faire ça, du coup.",
+      "text" : "Bah, c'est propre, mais essaie de viser plutôt l'effet d'apparition de Sony. Attends, je vais essayer de le trouver sur YouTube. C'est bon, j'ai trouvé. Ok, c'est de 0,10. De 0,10 avec un fade-in du seul. Du coup, c'est de 0,10 secondes avec un fade-in d'une seconde. Et un fade-out d'une seconde aussi. Et juste, tu reproduis le son et après, tu me proposes trois variations. Tu as déjà un outil qui permet de faire ça, du coup."
     }
   ],
   "modes" : [
