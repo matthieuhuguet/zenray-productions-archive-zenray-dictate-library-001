@@ -12029,6 +12029,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "mais je veux avoir rapidement ma vidéo en MP4 et en .move pour que ce soit compatible avec les réseaux Go.",
       "text" : "mais je veux avoir rapidement ma vidéo en MP4 et en .move pour que ce soit compatible avec les réseaux Go."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814736684.509679,
+      "id" : "A77013D4-9FFD-4BC2-943B-F9652547719E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pour la miniature, pour la miniature, on va simplement prendre la frame V470 et on va marquer modeling car, tu vois, tout simplement, avec le même effet motion que tu as utilisé pour Mathieu, tech artiste. Donc délègue à un agent cette tâche, comme ça tu fais les miniatures format 1.1, 2048 pixels.",
+      "text" : "Pour la miniature, pour la miniature, on va simplement prendre la frame V470 et on va marquer modeling car, tu vois, tout simplement, avec le même effet motion que tu as utilisé pour Mathieu, tech artiste. Donc délègue à un agent cette tâche, comme ça tu fais les miniatures format 1.1, 2048 pixels."
     }
   ],
   "modes" : [
