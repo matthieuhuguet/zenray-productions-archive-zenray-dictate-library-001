@@ -11659,6 +11659,106 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "avec un léger fade-in de 0,33 secondes.",
       "text" : "avec un léger fade-in de 0,33 secondes."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814732946.321784,
+      "id" : "EC3C2BF8-A31E-427B-92CC-DB11D67228F3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "avec du coup les 3 premières secondes de la vidéo que je te demande de télécharger dans ce prompt. Et du coup, pour la deuxième, tu prendras du coup l'extrait PlayStation qui a été découpé et qui fait normalement 3 secondes, et tu le merges parfaitement avec les 3 dernières secondes de la vidéo téléchargée. Et à chaque fois, tu me fais 3 versions, comme ça je suis sûr que tu as bien tout compris.",
+      "text" : "avec du coup les 3 premières secondes de la vidéo que je te demande de télécharger dans ce prompt. Et du coup, pour la deuxième, tu prendras du coup l'extrait PlayStation qui a été découpé et qui fait normalement 3 secondes, et tu le merges parfaitement avec les 3 dernières secondes de la vidéo téléchargée. Et à chaque fois, tu me fais 3 versions, comme ça je suis sûr que tu as bien tout compris."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814732991.696237,
+      "id" : "611CF230-B632-4FC4-AA40-9987D0155D6B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, où est le pass de l'application? Où est la page HTML?",
+      "text" : "Du coup, où est le pass de l'application? Où est la page HTML?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814733109.858741,
+      "id" : "2C2F110B-7A17-43FA-A7EC-8C737AA0D61E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Parfait, désormais ça fonctionne. C'est parfait, on a trouvé une solution. Donc consigne évidemment cette solution dans le skill ZenRay Motion Design. Et ensuite, tu vas me créer une nouvelle version de cet effet où l'effet est sans doute, à mon avis, moins fort. Reste à déterminer combien de fois moins fort. Attends, je regarde l'effet et je vais te donner mon choix. Donc là, tu vois, déjà, j'ai l'impression qu'il reste trop longtemps. Ah ouais, il reste trop longtemps. Il faudrait qu'il dure deux fois moins longtemps et qu'il soit trois fois moins puissant en termes de scaling, en termes de décalage.",
+      "text" : "Parfait, désormais ça fonctionne. C'est parfait, on a trouvé une solution. Donc consigne évidemment cette solution dans le skill ZenRay Motion Design. Et ensuite, tu vas me créer une nouvelle version de cet effet où l'effet est sans doute, à mon avis, moins fort. Reste à déterminer combien de fois moins fort. Attends, je regarde l'effet et je vais te donner mon choix. Donc là, tu vois, déjà, j'ai l'impression qu'il reste trop longtemps. Ah ouais, il reste trop longtemps. Il faudrait qu'il dure deux fois moins longtemps et qu'il soit trois fois moins puissant en termes de scaling, en termes de décalage."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814733129.602675,
+      "id" : "975FCC56-C655-43B4-ACA2-EA8A52B21547",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Trop bien, on a trouvé une solution. Et c'est grâce à moi, en fait. C'est moi qui ai trouvé la solution. Donc, consigne évidemment cette nouvelle solution. Donc, la solution, c'était de te dire de passer en une version HTML.",
+      "text" : "Trop bien, on a trouvé une solution. Et c'est grâce à moi, en fait. C'est moi qui ai trouvé la solution. Donc, consigne évidemment cette nouvelle solution. Donc, la solution, c'était de te dire de passer en une version HTML."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814733137.686251,
+      "id" : "22ED97AC-8DD7-4EE2-8927-113DBCF9B2A4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "On continuera à l'avenir cette solution parce que ça marche très très très très bien.",
+      "text" : "On continuera à l'avenir cette solution parce que ça marche très très très très bien."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814733242.727865,
+      "id" : "6D910507-E908-42A8-96CB-57DF06D9F437",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Les sons que je t'ai demandé de merge sont pas normalisés au même niveau, ce qui fait que le mixage est très bizarre. En fait, t'aurais dû regarder tout. En fait, t'aurais dû normaliser, puis fusionner le mixage. Parce que là, j'ai besoin que tu me redonnes absolument tout de manière propre. Et il y a aussi un problème, c'est que... En fait, c'est que au final... la vidéo que je t'ai demandé de télécharger, donc de 0 à 3 secondes, j'ai surtout besoin de 0 à 2 secondes. Et la vidéo de 3 à 6 secondes... La vidéo de 3 à 6 secondes, par contre, elle est parfaite. Donc c'est surtout la première où tu dois cut sur la troisième seconde. Enfin, tu dois cut avant la troisième seconde. Donc sans doute à 2,5 ou à 2 secondes. Et ensuite, tu dois refaire le mixage en normalisant d'abord.",
+      "text" : "Les sons que je t'ai demandé de merge sont pas normalisés au même niveau, ce qui fait que le mixage est très bizarre. En fait, t'aurais dû regarder tout. En fait, t'aurais dû normaliser, puis fusionner le mixage. Parce que là, j'ai besoin que tu me redonnes absolument tout de manière propre. Et il y a aussi un problème, c'est que... En fait, c'est que au final... la vidéo que je t'ai demandé de télécharger, donc de 0 à 3 secondes, j'ai surtout besoin de 0 à 2 secondes. Et la vidéo de 3 à 6 secondes... La vidéo de 3 à 6 secondes, par contre, elle est parfaite. Donc c'est surtout la première où tu dois cut sur la troisième seconde. Enfin, tu dois cut avant la troisième seconde. Donc sans doute à 2,5 ou à 2 secondes. Et ensuite, tu dois refaire le mixage en normalisant d'abord."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814733337.405004,
+      "id" : "60BC47E9-A25E-4F6E-A5A8-A321A6E3537B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Le problème de l'animation actuelle, c'est que ça fait pas une sur l'aberration chromatique, ça fait pas une transition comme un lerp en fait. C'est comme si ça s'affichait d'un coup sur une frame et que ça disparaissait d'un coup sur une frame. Mais en fait, si tu veux, il faut faire un easing soit linéaire, soit un truc intéressant. Attends, je vais te donner le easing parfait. Ouais, il faut faire un ease out exponentiel à mon avis. En termes d'animation, uniquement sur l'aberration chromatique.",
+      "text" : "Le problème de l'animation actuelle, c'est que ça fait pas une sur l'aberration chromatique, ça fait pas une transition comme un lerp en fait. C'est comme si ça s'affichait d'un coup sur une frame et que ça disparaissait d'un coup sur une frame. Mais en fait, si tu veux, il faut faire un easing soit linéaire, soit un truc intéressant. Attends, je vais te donner le easing parfait. Ouais, il faut faire un ease out exponentiel à mon avis. En termes d'animation, uniquement sur l'aberration chromatique."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814733448.887465,
+      "id" : "5C74EF72-66A3-4933-BB06-4FF694F5DB4F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je vais garder du coup ces deux-là. Je vais garder ces deux-là, et là le but ça va être de les mettre du coup dans mon application ZenRay Motion directement sur l'effet directement dans mon dernier motion. Je vais te donner le titre du motion design et le but ça va être de les caler parfaitement directement dessus de manière très simple.",
+      "text" : "Je vais garder du coup ces deux-là. Je vais garder ces deux-là, et là le but ça va être de les mettre du coup dans mon application ZenRay Motion directement sur l'effet directement dans mon dernier motion. Je vais te donner le titre du motion design et le but ça va être de les caler parfaitement directement dessus de manière très simple."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814733552.965506,
+      "id" : "BB0E8109-6B88-44EE-A704-A0EA76EC3CF2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "faut, attention, il faut vraiment que tu le cales parfaitement par rapport à ben, par rapport au storyboard qui normalement doit te donner les bons timings d'animation. À la limite, tu peux utiliser le, pour être sûr, tu peux utiliser le module de ZenRay Motion Design pour refaire un storyboard et être sûr de pouvoir caler parfaitement ton motion design. Et à la limite, enfin, tu peux coder directement sur ZenRay Motion Design pour que je puisse prendre le son et pouvoir le décaler tandis que j'édite directement. Ça, ce serait le plus simple parce que ce serait comme sur DaVinci Resolve. Et juste, tu mets déjà les deux petites capsules et soit ça valide pas, c'est-à-dire ça save pas mon choix, soit ce qui serait bien, c'est que le dernier choix que j'ai mis se soit validé en termes de code, soit que je puisse te remettre une ligne. En fait, le mieux, ce serait d'avoir tous les choix, tu vois. Je te remets une ligne et tu copies et tu saves. Et sinon, les deux autres choix précédents sont déjà bien, tu vois. Donc le but, ce serait de tout coder, tu vois.",
+      "text" : "faut, attention, il faut vraiment que tu le cales parfaitement par rapport à ben, par rapport au storyboard qui normalement doit te donner les bons timings d'animation. À la limite, tu peux utiliser le, pour être sûr, tu peux utiliser le module de ZenRay Motion Design pour refaire un storyboard et être sûr de pouvoir caler parfaitement ton motion design. Et à la limite, enfin, tu peux coder directement sur ZenRay Motion Design pour que je puisse prendre le son et pouvoir le décaler tandis que j'édite directement. Ça, ce serait le plus simple parce que ce serait comme sur DaVinci Resolve. Et juste, tu mets déjà les deux petites capsules et soit ça valide pas, c'est-à-dire ça save pas mon choix, soit ce qui serait bien, c'est que le dernier choix que j'ai mis se soit validé en termes de code, soit que je puisse te remettre une ligne. En fait, le mieux, ce serait d'avoir tous les choix, tu vois. Je te remets une ligne et tu copies et tu saves. Et sinon, les deux autres choix précédents sont déjà bien, tu vois. Donc le but, ce serait de tout coder, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814733750.433733,
+      "id" : "D5C76F1B-CB30-4740-AFD8-175633BE6030",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu peux me redonner du coup le file de... Comment ça s'appelle? Le file de la voiture.",
+      "text" : "Est-ce que tu peux me redonner du coup le file de... Comment ça s'appelle? Le file de la voiture."
     }
   ],
   "modes" : [
