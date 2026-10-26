@@ -10629,6 +10629,66 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Peut-être que tu peux run Chrome testing et mettre en plein écran et faire des inspect pour peut-être voir. Je suis pas sûr de ce que j'avance, hein, mais faut que tu trouves la cause, quoi.",
       "text" : "Peut-être que tu peux run Chrome testing et mettre en plein écran et faire des inspect pour peut-être voir. Je suis pas sûr de ce que j'avance, hein, mais faut que tu trouves la cause, quoi."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814720071.114911,
+      "id" : "2D539903-3D2B-4AD8-A507-A190C81B280A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc, on va reprendre le code de mon website. Donc, soit tu fais en sorte d'avoir un... tu fais un resume coordinator par rapport à ZenRay Assets, soit, soit directement tu crées le projet et tu bindes toutes les choses qui étaient liées s'il n'y a pas de projet Assets déjà existant pour ce projet. Et donc, ce que j'aimerais faire directement là aujourd'hui, c'est que tu prennes les règles de typographie et que tu les appliques à mon site uniquement pour la page Works pour être sûr que les choses fonctionnent bien. Donc, c'est-à-dire que les titres du coup deviennent GT Ultra. Les titres deviennent GT Ultra. Le corps devient Literata. Et tout le reste de l'UI devient GT Standard L. Donc je te laisse itérer pour que ça fonctionne parfaitement.",
+      "text" : "Donc, on va reprendre le code de mon website. Donc, soit tu fais en sorte d'avoir un... tu fais un resume coordinator par rapport à ZenRay Assets, soit, soit directement tu crées le projet et tu bindes toutes les choses qui étaient liées s'il n'y a pas de projet Assets déjà existant pour ce projet. Et donc, ce que j'aimerais faire directement là aujourd'hui, c'est que tu prennes les règles de typographie et que tu les appliques à mon site uniquement pour la page Works pour être sûr que les choses fonctionnent bien. Donc, c'est-à-dire que les titres du coup deviennent GT Ultra. Les titres deviennent GT Ultra. Le corps devient Literata. Et tout le reste de l'UI devient GT Standard L. Donc je te laisse itérer pour que ça fonctionne parfaitement."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814720159.537364,
+      "id" : "A28EEBA6-5570-4CD0-90A3-658C498EA787",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'aimerais aussi tester un toggle qui mettrait j'étais America ou j'étais standard L. Et ensuite, évidemment, là, tu fais juste un mock-up avec trois propositions via Edit, via ZenRay Edit. Et comment dire? Comment dire? Et voilà, tu peux aussi tester plusieurs. Tu peux aussi tester les titres en Literata ou tester les titres en GT Standard L aussi. Ou alors me proposer un slider ou un menu qui me permet de swap les fontes. Et voilà. Et sinon, il n'y a pas de contenu à changer, c'est vraiment juste sur les fontes du titre. Donc par exemple aussi le ZenRay qui était actuellement en Inter, tu peux le mettre en GT Ultra et me proposer en fait de pouvoir changer mes titres. Mais c'est les seules choses à peu près qui changent sur le site. Go!",
+      "text" : "J'aimerais aussi tester un toggle qui mettrait j'étais America ou j'étais standard L. Et ensuite, évidemment, là, tu fais juste un mock-up avec trois propositions via Edit, via ZenRay Edit. Et comment dire? Comment dire? Et voilà, tu peux aussi tester plusieurs. Tu peux aussi tester les titres en Literata ou tester les titres en GT Standard L aussi. Ou alors me proposer un slider ou un menu qui me permet de swap les fontes. Et voilà. Et sinon, il n'y a pas de contenu à changer, c'est vraiment juste sur les fontes du titre. Donc par exemple aussi le ZenRay qui était actuellement en Inter, tu peux le mettre en GT Ultra et me proposer en fait de pouvoir changer mes titres. Mais c'est les seules choses à peu près qui changent sur le site. Go!"
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814720190.470495,
+      "id" : "E4DFD1E9-F270-4993-BB36-8C241A824799",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc évidemment, il faut bind le projet aussi à via ZenRay Assets, il faut bind le projet website à ces nouveaux mockups du coup. Et tu fais un HTML classiquement du coup.",
+      "text" : "Donc évidemment, il faut bind le projet aussi à via ZenRay Assets, il faut bind le projet website à ces nouveaux mockups du coup. Et tu fais un HTML classiquement du coup."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814720274.148624,
+      "id" : "6D07B07D-EC32-4F12-B3A3-45C9EAEEA61F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ben en fait, je comprends pas pourquoi tu testes pas sur une vidéo, notamment sur YouTube directement, plutôt que de faire un test en HTML. Tu peux même faire. Enfin, ça aurait aucun intérêt de faire un. En fait, ça a aucun intérêt de faire un HTML puisque YouTube existe déjà et que c'est ça qu'on veut tester en fait.",
+      "text" : "Ben en fait, je comprends pas pourquoi tu testes pas sur une vidéo, notamment sur YouTube directement, plutôt que de faire un test en HTML. Tu peux même faire. Enfin, ça aurait aucun intérêt de faire un. En fait, ça a aucun intérêt de faire un HTML puisque YouTube existe déjà et que c'est ça qu'on veut tester en fait."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814720744.73997,
+      "id" : "E6DB1B7D-884F-4F88-B97E-0ADF28A424E2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Alors, le design que tu as fait est vraiment très propre, mais j'aimerais tester deux choses. Déjà, j'aimerais tester tous les titres en GT Ultra toujours, mais faire en sorte que là, pour le coup, le corps, ce soit GT standard ultra. Mais quand même pouvoir avoir un toggle qui me permet de voir de swap soit en GT Ultra, soit en GT standard L, soit en Literata. Donc avoir ce toggle, mais garder tous mes titres en GT Ultra. Voire d'avoir aussi un format avec uniquement GT Ultra et jouer du coup sur. Ouais, non. Non, non, en fait, mauvaise idée. Donc attends, je récapitule. Une vue avec GT Ultra en titre. Un swap qui permet de passer de GT standard L à Literata. Et enfin, le faire dans une quatrième vue avec l'intégration pixel perfect de ce qui existe déjà sur le site et que tu n'as pas encore visiblement mis. Donc c'est ça qui manque et que j'aimerais que tu produises désormais.",
+      "text" : "Alors, le design que tu as fait est vraiment très propre, mais j'aimerais tester deux choses. Déjà, j'aimerais tester tous les titres en GT Ultra toujours, mais faire en sorte que là, pour le coup, le corps, ce soit GT standard ultra. Mais quand même pouvoir avoir un toggle qui me permet de voir de swap soit en GT Ultra, soit en GT standard L, soit en Literata. Donc avoir ce toggle, mais garder tous mes titres en GT Ultra. Voire d'avoir aussi un format avec uniquement GT Ultra et jouer du coup sur. Ouais, non. Non, non, en fait, mauvaise idée. Donc attends, je récapitule. Une vue avec GT Ultra en titre. Un swap qui permet de passer de GT standard L à Literata. Et enfin, le faire dans une quatrième vue avec l'intégration pixel perfect de ce qui existe déjà sur le site et que tu n'as pas encore visiblement mis. Donc c'est ça qui manque et que j'aimerais que tu produises désormais."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814720830.214843,
+      "id" : "26510325-5ABA-4FC9-8A61-054FDA1104FA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, le truc, c'est qu'il manque pas mal de trucs de ce qui existait déjà dans la vue galerie, c'est-à-dire le fait de pouvoir faire des dossiers de projet, le fait d'avoir les titres quand on passe. Alors ça, tu l'as fait, mais tu l'as fait sur la droite en bas. En vrai, c'est bien hein, la manière dont tu l'as fait, donc c'est pas un problème. Et la vue cover est très très bien, donc en fait... Ouais, j'ai juste besoin de que tu me montres avec un peu plus d'exemples de ce qui existait déjà sur le site pour que je me fasse une idée. Sachant que sur le site, tu vois, il n'y avait pas forcément une vue très épurée parce qu'il y avait un truc avec ma sélection, un truc avec les fichiers cloud, mais en soi, c'était pas très bien fait, tu vois. Donc en fait, j'aimerais limite que tu me vires un peu ce qui a déjà été fait dans la vue galerie et que tu me proposes un design. Mais ta vue ultra épurée, tu peux partir de là et me reproposer trois designs à partir de cette vue-là, plus de la vue qui existe déjà, parce que c'est un excellent travail en soi.",
+      "text" : "En fait, le truc, c'est qu'il manque pas mal de trucs de ce qui existait déjà dans la vue galerie, c'est-à-dire le fait de pouvoir faire des dossiers de projet, le fait d'avoir les titres quand on passe. Alors ça, tu l'as fait, mais tu l'as fait sur la droite en bas. En vrai, c'est bien hein, la manière dont tu l'as fait, donc c'est pas un problème. Et la vue cover est très très bien, donc en fait... Ouais, j'ai juste besoin de que tu me montres avec un peu plus d'exemples de ce qui existait déjà sur le site pour que je me fasse une idée. Sachant que sur le site, tu vois, il n'y avait pas forcément une vue très épurée parce qu'il y avait un truc avec ma sélection, un truc avec les fichiers cloud, mais en soi, c'était pas très bien fait, tu vois. Donc en fait, j'aimerais limite que tu me vires un peu ce qui a déjà été fait dans la vue galerie et que tu me proposes un design. Mais ta vue ultra épurée, tu peux partir de là et me reproposer trois designs à partir de cette vue-là, plus de la vue qui existe déjà, parce que c'est un excellent travail en soi."
     }
   ],
   "modes" : [
