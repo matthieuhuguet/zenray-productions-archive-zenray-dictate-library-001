@@ -11079,6 +11079,56 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "À ce stade, j'aimerais que tu délègues à un agent Claude Haiku 5.5 max le fait de reprendre toutes les images qui ont été générées par le workflow et de faire en sorte d'avoir une vue dans un format 1.1, potentiellement upscalé en 2048, ou sinon en 1024 ou en 1080, peu importe. Ouais, en 1024p, ça peut être suffisant. Et donc, au format 1.1, l'évolution de la voiture et l'évolution de l'arbre. Je crois qu'on est à la V44 pour l'arbre, et pour la voiture, on était à la V470. Évidemment, toi, tu continues ton thread, donc tu bouges pas. Tandis que l'agent s'occupe de tout, et c'est Haiku 5.5 max qui me propose du coup deux form factors de vidéo, et chaque frame dure 0,25 secondes afin d'avoir 4 frames par image par rapport à l'évolution. Et du coup ça me crée deux MP4, s'il te plaît.",
       "text" : "À ce stade, j'aimerais que tu délègues à un agent Claude Haiku 5.5 max le fait de reprendre toutes les images qui ont été générées par le workflow et de faire en sorte d'avoir une vue dans un format 1.1, potentiellement upscalé en 2048, ou sinon en 1024 ou en 1080, peu importe. Ouais, en 1024p, ça peut être suffisant. Et donc, au format 1.1, l'évolution de la voiture et l'évolution de l'arbre. Je crois qu'on est à la V44 pour l'arbre, et pour la voiture, on était à la V470. Évidemment, toi, tu continues ton thread, donc tu bouges pas. Tandis que l'agent s'occupe de tout, et c'est Haiku 5.5 max qui me propose du coup deux form factors de vidéo, et chaque frame dure 0,25 secondes afin d'avoir 4 frames par image par rapport à l'évolution. Et du coup ça me crée deux MP4, s'il te plaît."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814727374.20991,
+      "id" : "D008EFDC-EC4A-479A-A638-3E97B5722A9D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "les versions déclinées en 5 couleurs du coup n'ont pas marché, donc garde uniquement la vue bleue. En fait, supprime, je vais te donner des titres et tu vas supprimer les titres.",
+      "text" : "les versions déclinées en 5 couleurs du coup n'ont pas marché, donc garde uniquement la vue bleue. En fait, supprime, je vais te donner des titres et tu vas supprimer les titres."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814727487.663504,
+      "id" : "E6CE48B5-D91D-4A8E-9985-E5DB84A1E619",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Parce que ça n'a pas marché de toute manière dans le logiciel, donc ça sert à rien de perdre du temps. Par contre, une fois que c'est fait, j'ai envie de modifier quelque chose, c'est-à-dire que là, du coup, on avait fait 10 secondes. Je sais pas pourquoi on a une version à 10 secondes et une version à 14 secondes. Du coup, je vais essayer de les analyser pour essayer de comprendre, mais... Mais honnêtement, je ne comprends pas pourquoi on a une version à 10 secondes et une version à 14 secondes. Est-ce que tu peux m'expliquer la différence entre les deux versions? Ah non, en fait, ça c'est encore une autre version à 18 secondes. Donc en fait, ça a toujours duré. Ah oui, c'est parce qu'on a merge les deux. Ok. Dans ce cas-là, à ton avis, un logo pour une vidéo, ça devrait prendre combien de temps? Ça devrait prendre combien de temps, je ne sais pas. Je me demande combien de temps max ça devrait prendre. En fait, le truc, c'est que... Bon. Bref.",
+      "text" : "Parce que ça n'a pas marché de toute manière dans le logiciel, donc ça sert à rien de perdre du temps. Par contre, une fois que c'est fait, j'ai envie de modifier quelque chose, c'est-à-dire que là, du coup, on avait fait 10 secondes. Je sais pas pourquoi on a une version à 10 secondes et une version à 14 secondes. Du coup, je vais essayer de les analyser pour essayer de comprendre, mais... Mais honnêtement, je ne comprends pas pourquoi on a une version à 10 secondes et une version à 14 secondes. Est-ce que tu peux m'expliquer la différence entre les deux versions? Ah non, en fait, ça c'est encore une autre version à 18 secondes. Donc en fait, ça a toujours duré. Ah oui, c'est parce qu'on a merge les deux. Ok. Dans ce cas-là, à ton avis, un logo pour une vidéo, ça devrait prendre combien de temps? Ça devrait prendre combien de temps, je ne sais pas. Je me demande combien de temps max ça devrait prendre. En fait, le truc, c'est que... Bon. Bref."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814727580.905343,
+      "id" : "78F45DA6-3AB3-41B0-8246-ACDCB8CDC9A6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "À la limite, on pourrait tester une nouvelle version qui serait speedée en 5 voire 10 secondes à partir de l'original qui dure 14 secondes. Ouais, ça marcherait pas. Ça marcherait pas parce que le but c'est que. Ouais. Le but c'est qu'il y ait les deux. Après, honnêtement, ouais, la première partie en fait, qui dure environ 6 secondes, on peut grave. On peut au moins la x2 en fait. Comme ça, elle dure que 3 secondes. Et ensuite, la deuxième partie. Qui dure environ 7 secondes du coup. Bah je pense que. En fait, ouais. En fait, les 3 premières secondes, on les joue à cette vitesse. Mais c'est juste qu'on va couper plus tôt, en fait. C'est juste que le logo d'apparition, il va pas rester 3 secondes. C'est juste il fade out au bout de 2 secondes. Enfin, je sais pas, j'arrive pas à déterminer qu'est-ce qui serait bien. Il faudrait peut-être faire plusieurs tests et me proposer plusieurs vidéos.",
+      "text" : "À la limite, on pourrait tester une nouvelle version qui serait speedée en 5 voire 10 secondes à partir de l'original qui dure 14 secondes. Ouais, ça marcherait pas. Ça marcherait pas parce que le but c'est que. Ouais. Le but c'est qu'il y ait les deux. Après, honnêtement, ouais, la première partie en fait, qui dure environ 6 secondes, on peut grave. On peut au moins la x2 en fait. Comme ça, elle dure que 3 secondes. Et ensuite, la deuxième partie. Qui dure environ 7 secondes du coup. Bah je pense que. En fait, ouais. En fait, les 3 premières secondes, on les joue à cette vitesse. Mais c'est juste qu'on va couper plus tôt, en fait. C'est juste que le logo d'apparition, il va pas rester 3 secondes. C'est juste il fade out au bout de 2 secondes. Enfin, je sais pas, j'arrive pas à déterminer qu'est-ce qui serait bien. Il faudrait peut-être faire plusieurs tests et me proposer plusieurs vidéos."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814727628.249581,
+      "id" : "391577D0-09AF-45C9-AD19-3DDD48F6DA82",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais déjà, on peut réduire... Enfin, de toute manière, on crée des nouvelles variations. Donc, on perd rien. Et il y a un dernier truc que j'aimerais faire, c'est une fois que ZenRay est apparu, donc là, je parle à partir de la vidéo qui dure 14 secondes. Donc, c'est à partir de la 11e seconde, il faudrait que pendant 0,5 secondes, il y ait un effet anti-aliasé. Non, c'est pas un effet anti-aliasé, c'est un effet aberration chromatique, donc rouge et bleu, qui apparaissent sur le truc, et ensuite on a un fade-out du logo qui apparaît beaucoup plus tôt. Donc voilà, c'est ça qu'on va faire.",
+      "text" : "Mais déjà, on peut réduire... Enfin, de toute manière, on crée des nouvelles variations. Donc, on perd rien. Et il y a un dernier truc que j'aimerais faire, c'est une fois que ZenRay est apparu, donc là, je parle à partir de la vidéo qui dure 14 secondes. Donc, c'est à partir de la 11e seconde, il faudrait que pendant 0,5 secondes, il y ait un effet anti-aliasé. Non, c'est pas un effet anti-aliasé, c'est un effet aberration chromatique, donc rouge et bleu, qui apparaissent sur le truc, et ensuite on a un fade-out du logo qui apparaît beaucoup plus tôt. Donc voilà, c'est ça qu'on va faire."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814727642.241728,
+      "id" : "EEE956CA-2240-4F91-B6B3-4E303E6A6C7D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Évidemment, tu travailles uniquement sur des nouvelles copies et tu crées un storyboard pour être sûr de valider les choses, etc.",
+      "text" : "Évidemment, tu travailles uniquement sur des nouvelles copies et tu crées un storyboard pour être sûr de valider les choses, etc."
     }
   ],
   "modes" : [
