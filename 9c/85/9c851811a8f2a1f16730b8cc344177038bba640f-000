@@ -10239,6 +10239,96 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "je parle du widget de asset parce que une fois qu'il est ouvert, je suis obligé de recliquer sur sa propre icône pour le fermer, alors qu'en fait, normalement, je devrais juste pouvoir cliquer n'importe où et ça devrait le faire par",
       "text" : "je parle du widget de asset parce que une fois qu'il est ouvert, je suis obligé de recliquer sur sa propre icône pour le fermer, alors qu'en fait, normalement, je devrais juste pouvoir cliquer n'importe où et ça devrait le faire par"
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814711900.440032,
+      "id" : "37B229BA-241B-4E70-90AE-F5ADBE3DC8A1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je t'ai vraiment demandé de faire un simple mock-up, je sais pas ce que tu branles là.",
+      "text" : "Je t'ai vraiment demandé de faire un simple mock-up, je sais pas ce que tu branles là."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814711966.817423,
+      "id" : "6DB28572-0B26-4382-954C-737ECC036B40",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ouais, mais en fait, j'arrive pas à le faire. Ah, voilà. Je sais pas, j'arrive pas à le faire, j'ai un peu le seum.",
+      "text" : "Ouais, mais en fait, j'arrive pas à le faire. Ah, voilà. Je sais pas, j'arrive pas à le faire, j'ai un peu le seum."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814712034.392519,
+      "id" : "22288DE3-9CA5-4781-9277-F8D06DCE1A9A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais what the fuck, qu'est-ce que tu branles? Ça doit être dans un... Putain, mais... C'est quoi ton délire, genre? Ça doit être... Bon, change uniquement le titre. En fait, change uniquement le titre dans ZenRay plan, actuellement dans le code, et mets-le en ZenRay... En GT ultra, c'est la dernière chose que je te demande. T'as une seule ligne de code à changer.",
+      "text" : "Mais what the fuck, qu'est-ce que tu branles? Ça doit être dans un... Putain, mais... C'est quoi ton délire, genre? Ça doit être... Bon, change uniquement le titre. En fait, change uniquement le titre dans ZenRay plan, actuellement dans le code, et mets-le en ZenRay... En GT ultra, c'est la dernière chose que je te demande. T'as une seule ligne de code à changer."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814712703.248497,
+      "id" : "C157DB37-4DD9-47AF-A5B8-4462C816FFF2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "La règle dit, si il y a un numéro dans une date, la règle dit, s'il y a un numéro, alors on utilise GT Ultra. Cependant, si une date, comme par exemple 26 octobre 2026, contient octobre à l'intérieur et qu'octobre est une fonte différente, alors octobre devient GT Ultra. Ce qui est logique en soi.",
+      "text" : "La règle dit, si il y a un numéro dans une date, la règle dit, s'il y a un numéro, alors on utilise GT Ultra. Cependant, si une date, comme par exemple 26 octobre 2026, contient octobre à l'intérieur et qu'octobre est une fonte différente, alors octobre devient GT Ultra. Ce qui est logique en soi."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814712716.512288,
+      "id" : "EA1B3F1E-0B1B-414D-9865-176997D1F9DD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "vérifie d'abord que ce soit bien consigné, puis valide le code pour déployer par rapport à toutes les occurrences qui doivent être corrigées par rapport à GTEL.",
+      "text" : "vérifie d'abord que ce soit bien consigné, puis valide le code pour déployer par rapport à toutes les occurrences qui doivent être corrigées par rapport à GTEL."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814713065.75702,
+      "id" : "D2529A45-56E2-42AB-958D-761BA3498CE3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je pense qu'à partir de maintenant, il faudrait peut-être reprendre la modélisation de l'arbre afin de faire, en fait, de trier toutes les méthodes et tous les outils qu'on a appris. Et en fait, le but, c'est qu'on parte sur deux modélisations différentes. Donc, c'est-à-dire que, par exemple, la voiture, c'est plutôt du hard surface. Et l'arbre, c'était plutôt du très, très organique. Mais en fait, pourquoi est-ce que je pense que c'est une bonne idée de faire les deux en parallèle sur le même thread? C'est que, en fait, lorsqu'on crée une méthode d'apprentissage sur un outil, eh bien, l'autre va nous permettre à l'autre, en fait, d'apprendre aussi à affiner chacun des composants de la chose. En fait, ce dont j'ai peur, c'est que tu crées l'algorithme ZenRay Meshes, donc Z-E-N-R-A-Y-M-E-S-H-E-S, que tu crées cet algorithme uniquement pour les objets hard surface ou au contraire que tu crées uniquement sur les objets organiques, alors qu'en fait, ou alors que tu arrives à reproduire uniquement à l'avenir des voitures, tandis que moi je veux vraiment que tu puisses reproduire à la fois des objets organiques et à la fois des objets hard surface. C'est pourquoi je pense que toutes les méthodes, tous les outils, etc. doivent partager des paramètres communs pour pouvoir créer le deux types d'objets. Cependant, je pense à quelque chose, c'est que si tu oscilles d'une tâche à l'autre, je pense que, pour le coup, un LLM est capable de le faire, mais en revanche, puisqu'on va partager des paramètres communs, etc., je pense, en revanche, que ce qu'on va faire et ce qu'on peut faire, c'est directement... J'ai un peu oublié ce que je voulais dire. Mais ce que je voulais dire, c'est que, du coup, il faut faire en sorte de faire à la fois l'arbre et à la fois la voiture, et de partager des règles et des outils communs afin de les reproduire les plus proches, tu vois. Alors après, si tu penses que c'est un gros problème de méthodologie et que tu penses que, en fait, le fait de reproduire la voiture à l'identique va te permettre ensuite de mieux modéliser des arbres, bah dans ce cas-là, continue uniquement sur la voiture. Mais moi, ce dont j'ai peur, c'est que les méthodes d'apprentissage que tu consignes à chaque fois, elles te permettent pas forcément d'arriver à la version, je sais pas, 1000 de l'arbre et qu'elle soit parfaite, tu vois. En fait, c'est des méthodes de reproduction qui sont très similaires à ZenRay 8, donc ZenRay H-E-I-G-H-T, dans le sens où le but, c'est de reproduire quelque chose à partir d'une référence, tu vois. Sachant qu'on a déjà la référence de l'arbre, tu vois. Et on a déjà la référence de la voiture. Et en fait, au final, on s'est rendu compte que t'arrives, au final, à reproduire une voiture. C'est pas... Le problème, c'est juste que tu dois créer les bons outils pour les bonnes choses. Mais au final, il faut que ça fonctionne pour une voiture et que ça fonctionne aussi pour un arbre. Donc consigne évidemment tout ce que je viens de te dire dans les rules et commence à faire l'itération pour l'arbre et l'itération pour la voiture en parallèle.",
+      "text" : "Je pense qu'à partir de maintenant, il faudrait peut-être reprendre la modélisation de l'arbre afin de faire, en fait, de trier toutes les méthodes et tous les outils qu'on a appris. Et en fait, le but, c'est qu'on parte sur deux modélisations différentes. Donc, c'est-à-dire que, par exemple, la voiture, c'est plutôt du hard surface. Et l'arbre, c'était plutôt du très, très organique. Mais en fait, pourquoi est-ce que je pense que c'est une bonne idée de faire les deux en parallèle sur le même thread? C'est que, en fait, lorsqu'on crée une méthode d'apprentissage sur un outil, eh bien, l'autre va nous permettre à l'autre, en fait, d'apprendre aussi à affiner chacun des composants de la chose. En fait, ce dont j'ai peur, c'est que tu crées l'algorithme ZenRay Meshes, donc Z-E-N-R-A-Y-M-E-S-H-E-S, que tu crées cet algorithme uniquement pour les objets hard surface ou au contraire que tu crées uniquement sur les objets organiques, alors qu'en fait, ou alors que tu arrives à reproduire uniquement à l'avenir des voitures, tandis que moi je veux vraiment que tu puisses reproduire à la fois des objets organiques et à la fois des objets hard surface. C'est pourquoi je pense que toutes les méthodes, tous les outils, etc. doivent partager des paramètres communs pour pouvoir créer le deux types d'objets. Cependant, je pense à quelque chose, c'est que si tu oscilles d'une tâche à l'autre, je pense que, pour le coup, un LLM est capable de le faire, mais en revanche, puisqu'on va partager des paramètres communs, etc., je pense, en revanche, que ce qu'on va faire et ce qu'on peut faire, c'est directement... J'ai un peu oublié ce que je voulais dire. Mais ce que je voulais dire, c'est que, du coup, il faut faire en sorte de faire à la fois l'arbre et à la fois la voiture, et de partager des règles et des outils communs afin de les reproduire les plus proches, tu vois. Alors après, si tu penses que c'est un gros problème de méthodologie et que tu penses que, en fait, le fait de reproduire la voiture à l'identique va te permettre ensuite de mieux modéliser des arbres, bah dans ce cas-là, continue uniquement sur la voiture. Mais moi, ce dont j'ai peur, c'est que les méthodes d'apprentissage que tu consignes à chaque fois, elles te permettent pas forcément d'arriver à la version, je sais pas, 1000 de l'arbre et qu'elle soit parfaite, tu vois. En fait, c'est des méthodes de reproduction qui sont très similaires à ZenRay 8, donc ZenRay H-E-I-G-H-T, dans le sens où le but, c'est de reproduire quelque chose à partir d'une référence, tu vois. Sachant qu'on a déjà la référence de l'arbre, tu vois. Et on a déjà la référence de la voiture. Et en fait, au final, on s'est rendu compte que t'arrives, au final, à reproduire une voiture. C'est pas... Le problème, c'est juste que tu dois créer les bons outils pour les bonnes choses. Mais au final, il faut que ça fonctionne pour une voiture et que ça fonctionne aussi pour un arbre. Donc consigne évidemment tout ce que je viens de te dire dans les rules et commence à faire l'itération pour l'arbre et l'itération pour la voiture en parallèle."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814713074.761802,
+      "id" : "449DFECA-2053-4852-9C30-BA9B4EB4A2E3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais évidemment, tout doit être fait dans le même thread.",
+      "text" : "Mais évidemment, tout doit être fait dans le même thread."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814713114.863452,
+      "id" : "D6B7EDA5-963C-4C5B-BE76-879104B742E8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ainsi, ça permet de débloquer les choses, à mon avis. Mais tu dois aussi reprendre la méthode components sur l'arbre, etc. Tu vois.",
+      "text" : "Ainsi, ça permet de débloquer les choses, à mon avis. Mais tu dois aussi reprendre la méthode components sur l'arbre, etc. Tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814713126.349682,
+      "id" : "EC66F421-57D5-47B9-BE48-BB74C427DDE1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ce qui marche à coup sûr, c'est toujours de diviser de manière atomique les tâches afin d'être sûr de pouvoir avancer dans n'importe quel workflow.",
+      "text" : "Ce qui marche à coup sûr, c'est toujours de diviser de manière atomique les tâches afin d'être sûr de pouvoir avancer dans n'importe quel workflow."
     }
   ],
   "modes" : [
