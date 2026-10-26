@@ -11219,6 +11219,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Merde. Ah, mais en fait, je dis anti-aliasing à chaque fois, mais ce que je veux dire, c'est aberration chromatique bleu et rouge, en fait.",
       "text" : "Merde. Ah, mais en fait, je dis anti-aliasing à chaque fois, mais ce que je veux dire, c'est aberration chromatique bleu et rouge, en fait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814728815.303582,
+      "id" : "7D966E05-B776-4903-8DC2-8ADC1D4DFF54",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah, logiquement, elle doit apparaître de 4 à 5 secondes, mais là, je t'avoue que je la vois toujours pas, en fait.",
+      "text" : "Bah, logiquement, elle doit apparaître de 4 à 5 secondes, mais là, je t'avoue que je la vois toujours pas, en fait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814728842.316634,
+      "id" : "D7DC89D3-CB2B-4518-A3AC-B85032780509",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, c'est comme un pulse d'aberration chromatique, mais là, je le vois pas. Même sur ton storyboard, je pense que c'est pas assez puissant. Et je pense que ça doit apparaître à partir de 4 secondes, voire de 4,5 secondes. Ah, mais en fait, c'est ce que t'as fait. Mais pour le coup, je le vois pas. Hein. Je le vois pas, en fait. Hein. Je trouve qu'on le voit pas. Hein.",
+      "text" : "En fait, c'est comme un pulse d'aberration chromatique, mais là, je le vois pas. Même sur ton storyboard, je pense que c'est pas assez puissant. Et je pense que ça doit apparaître à partir de 4 secondes, voire de 4,5 secondes. Ah, mais en fait, c'est ce que t'as fait. Mais pour le coup, je le vois pas. Hein. Je le vois pas, en fait. Hein. Je trouve qu'on le voit pas. Hein."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814728852.439235,
+      "id" : "ACD4AA27-1AD7-4BC4-8103-878B20D6FF7B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "À moins que tu ne l'aies pas push dans Validate. Parce que je le vois dans le storyboard, mais je ne le vois pas dans la vidéo de Validate.",
+      "text" : "À moins que tu ne l'aies pas push dans Validate. Parce que je le vois dans le storyboard, mais je ne le vois pas dans la vidéo de Validate."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814729038.828512,
+      "id" : "C01C7774-31DB-4DD5-9634-805C7A82581B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah du coup j'ai besoin de ZenRay SFX pour créer du coup ce que j'aimerais créer c'est en fait j'aimerais que ZenRay SFX soit directement lié et bind au projet ZenRay Motion et qu'en fait ZenRay Motion donc c'est ZenRay Motion Design, hein. Et que ZenRay Motion Design et ZenRay SFX soient eux aussi liés à ZenRay Edit, en fait. Le truc, c'est que l'app la plus build actuellement, c'est surtout ZenRay Motion. Donc en fait, ce que j'aimerais, c'est que tu récupères le motion de du rythme D. Donc je te donne le titre. Et en fait que tu fasses en sorte de créer un motion design qui est hyper approprié pour le storyboard qui a été créé. En fait j'aimerais que tu récupères le storyboard parce que le storyboard en fait si tu veux c'est du texte qui décrit seconde par seconde tous les motions qui ont été créés. Donc ça c'est le plus important, c'est ce qui va te donner le plus de contexte pour créer les SFX et pour créer à chaque fois trois versions appropriées et ensuite moi je peux trancher. Et du coup, en fait, il y a deux SFX à créer là pour l'effet qui dure 6 secondes. Il y a le premier qui a cadencé au niveau où la lentille apparaît sur le R. Et ensuite, il y en a un autre à mettre à partir de 3 secondes. Et en fait, c'est un effet de progression comme si... C'est un effet de progression hyper classe, un peu en mode PlayStation et Kojima, sur l'apparition du logo, et comme si ça chargeait dans une autre dimension, tu vois.",
+      "text" : "Bah du coup j'ai besoin de ZenRay SFX pour créer du coup ce que j'aimerais créer c'est en fait j'aimerais que ZenRay SFX soit directement lié et bind au projet ZenRay Motion et qu'en fait ZenRay Motion donc c'est ZenRay Motion Design, hein. Et que ZenRay Motion Design et ZenRay SFX soient eux aussi liés à ZenRay Edit, en fait. Le truc, c'est que l'app la plus build actuellement, c'est surtout ZenRay Motion. Donc en fait, ce que j'aimerais, c'est que tu récupères le motion de du rythme D. Donc je te donne le titre. Et en fait que tu fasses en sorte de créer un motion design qui est hyper approprié pour le storyboard qui a été créé. En fait j'aimerais que tu récupères le storyboard parce que le storyboard en fait si tu veux c'est du texte qui décrit seconde par seconde tous les motions qui ont été créés. Donc ça c'est le plus important, c'est ce qui va te donner le plus de contexte pour créer les SFX et pour créer à chaque fois trois versions appropriées et ensuite moi je peux trancher. Et du coup, en fait, il y a deux SFX à créer là pour l'effet qui dure 6 secondes. Il y a le premier qui a cadencé au niveau où la lentille apparaît sur le R. Et ensuite, il y en a un autre à mettre à partir de 3 secondes. Et en fait, c'est un effet de progression comme si... C'est un effet de progression hyper classe, un peu en mode PlayStation et Kojima, sur l'apparition du logo, et comme si ça chargeait dans une autre dimension, tu vois."
     }
   ],
   "modes" : [
