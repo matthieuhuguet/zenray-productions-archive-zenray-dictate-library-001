@@ -9949,6 +9949,146 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Beaucoup mieux du coup.",
       "text" : "Beaucoup mieux du coup."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814705683.046614,
+      "id" : "E2855448-2A96-4412-AFE6-C5B18A0EAD81",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ta miniature est bizarre parce que je t'ai demandé de consigner tout à l'heure l'iterata et GT standard L. Donc je comprends pas pourquoi tu n'utilises pas ça. Je pense que tu as mal consigné les choses.",
+      "text" : "Ta miniature est bizarre parce que je t'ai demandé de consigner tout à l'heure l'iterata et GT standard L. Donc je comprends pas pourquoi tu n'utilises pas ça. Je pense que tu as mal consigné les choses."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814705721.435038,
+      "id" : "620EDCEE-7D18-48C5-8994-B032DF1D5DAD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Autrement, tu ne te saurais pas tromper. En fait, je t'avais pas dit d'enlever complètement GTS Extra et Anthropic Serif, ni Inter, mais ce que je t'avais dit, c'est de mettre en priorité d'abord, par default, Literata et... comment ça s'appelle, cette fonte, GTS Standard",
+      "text" : "Autrement, tu ne te saurais pas tromper. En fait, je t'avais pas dit d'enlever complètement GTS Extra et Anthropic Serif, ni Inter, mais ce que je t'avais dit, c'est de mettre en priorité d'abord, par default, Literata et... comment ça s'appelle, cette fonte, GTS Standard"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814705778.590962,
+      "id" : "F73512FA-B891-4361-BEFF-484B8DACEDBF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "dans le texte reçu et dans les nombres, enfin pas dans les nombres. Les nombres, tu dois utiliser GT standard L, parce qu'on te l'a déjà dit. Mais par contre, pour le texte reçu, tu dois utiliser littérature.",
+      "text" : "dans le texte reçu et dans les nombres, enfin pas dans les nombres. Les nombres, tu dois utiliser GT standard L, parce qu'on te l'a déjà dit. Mais par contre, pour le texte reçu, tu dois utiliser littérature."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814705795.497623,
+      "id" : "CCF5F52B-22AE-462A-B9A2-745DBEC03EF1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'espère que c'est bien consigné aussi dans les deux skills.",
+      "text" : "J'espère que c'est bien consigné aussi dans les deux skills."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814705933.393925,
+      "id" : "7C8DF2FA-80D7-432E-A464-FDD0DF151842",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et en fait, au final, on va utiliser GT ultra régular pour les titres, sans forcément caps lock, ni sans forcément d'espace. Et tu vas consigner dans les deux skills. Donc, c'est-à-dire dans ZenRay Edit et dans GT, dans Claude.md global, section typographie. Toujours en première priorité pour l'utilisation.",
+      "text" : "Et en fait, au final, on va utiliser GT ultra régular pour les titres, sans forcément caps lock, ni sans forcément d'espace. Et tu vas consigner dans les deux skills. Donc, c'est-à-dire dans ZenRay Edit et dans GT, dans Claude.md global, section typographie. Toujours en première priorité pour l'utilisation."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814705953.963797,
+      "id" : "BF29A9BB-DA39-4F96-9B24-D2D4D08B3A39",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Puis il faut refaire du coup la miniature.",
+      "text" : "Puis il faut refaire du coup la miniature."
+    },
+    {
+      "application" : "Unknown",
+      "date" : 814705994.310869,
+      "id" : "DBB0A95C-1E7A-4AA4-859A-F648FDA66F90",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et les chiffres, du coup, on peut aussi les mettre en GT Ultra. Donc, si je récapitule, on a les titres en GT Ultra. On a les nombres en GT Ultra. On a le corps qui est en literata. Et on a tout le reste de l'UI qui est en GT Standard.",
+      "text" : "Et les chiffres, du coup, on peut aussi les mettre en GT Ultra. Donc, si je récapitule, on a les titres en GT Ultra. On a les nombres en GT Ultra. On a le corps qui est en literata. Et on a tout le reste de l'UI qui est en GT Standard."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814706027.462186,
+      "id" : "54C3A7C3-7E93-4E04-9F01-F52C0817DC30",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ça marche très très bien du coup, je trouve, le l'itérateur.",
+      "text" : "Ça marche très très bien du coup, je trouve, le l'itérateur."
+    },
+    {
+      "application" : "Unknown",
+      "date" : 814706238.759759,
+      "id" : "913423B5-C0B8-42FC-956D-9E3B7393227F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais du coup, ça fonctionne parfaitement. C'est vraiment cool.",
+      "text" : "Mais du coup, ça fonctionne parfaitement. C'est vraiment cool."
+    },
+    {
+      "application" : "Unknown",
+      "date" : 814706431.209176,
+      "id" : "05801576-1ADF-47AC-AE70-96C72AC0BE80",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et là, normalement, ça fonctionne normalement.",
+      "text" : "Et là, normalement, ça fonctionne normalement."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814706620.044008,
+      "id" : "D5E664E1-D798-4D4F-A34B-621712890464",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc maintenant, dans la page calendar sur plan, tu résumes coordinateur sur plan de ZenRay Progress. Je pense que c'est ça. Ok. Et donc, on va faire un nouveau design. Enfin, tu vas me proposer trois nouveaux designs par rapport à, aux nouvelles fontes qu'on a mis aujourd'hui. Donc, c'est-à-dire que normalement, je l'ai déjà consigné dans Claude.md, mais du coup, les nombres et les titres sont en GT Ultra. Le corps est une fonte qui s'appelle Literata, L-I-T-E-R-A-T-A, Literata, et tout le reste de l'interface étant GT standard L. À cela, j'ajouterais qu'il faudrait faire en sorte de réduire en fait l'aspect l'aspect liquid glass pour aller plutôt vers un thème papier qui sera plus simple à lire pour le lecteur par rapport au contraste. Alors ce que tu peux faire au lieu de casser complètement le thème liquid glass, c'est aussi aller sur un blur beaucoup plus élevé du vert, ce qui permet de lire plus simplement les informations. Évidemment, il faut travailler le thème sombre et aussi le thème light.",
+      "text" : "Donc maintenant, dans la page calendar sur plan, tu résumes coordinateur sur plan de ZenRay Progress. Je pense que c'est ça. Ok. Et donc, on va faire un nouveau design. Enfin, tu vas me proposer trois nouveaux designs par rapport à, aux nouvelles fontes qu'on a mis aujourd'hui. Donc, c'est-à-dire que normalement, je l'ai déjà consigné dans Claude.md, mais du coup, les nombres et les titres sont en GT Ultra. Le corps est une fonte qui s'appelle Literata, L-I-T-E-R-A-T-A, Literata, et tout le reste de l'interface étant GT standard L. À cela, j'ajouterais qu'il faudrait faire en sorte de réduire en fait l'aspect l'aspect liquid glass pour aller plutôt vers un thème papier qui sera plus simple à lire pour le lecteur par rapport au contraste. Alors ce que tu peux faire au lieu de casser complètement le thème liquid glass, c'est aussi aller sur un blur beaucoup plus élevé du vert, ce qui permet de lire plus simplement les informations. Évidemment, il faut travailler le thème sombre et aussi le thème light."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814706646.087463,
+      "id" : "CFFB7DD4-14A5-43FA-986D-8402F49D831F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Normalement, tout est déjà consigné dans... Normalement, tout est déjà consigné dans les deux skills ZenRay Edit et Claude.md section typographie.",
+      "text" : "Normalement, tout est déjà consigné dans... Normalement, tout est déjà consigné dans les deux skills ZenRay Edit et Claude.md section typographie."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814706747.446921,
+      "id" : "5A89230D-39DA-409C-BE2E-2CE69B4E4E60",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et un autre truc à fixer, c'est par exemple quand je clique sur une tâche alors que la colonne de la semaine dernière met trop de tâches. Du coup, vu qu'on avait fait un design où ça se mettait dans les capsules des espaces, le design était original. Mais en fait, je pense qu'il faut faire simplement un popover qui part dans l'espace disponible de l'écran, parce que sinon, je suis obligé de remonter la ligne et c'est pas du tout pratique en termes d'user interface. Donc ce que tu vas faire, c'est que tu vas aussi corriger ce design via une animation que je peux tester via un clic. Et tu as un exemple dans une image que je vais te donner pour vraiment comprendre le problème, essayer de l'analyser et proposer une solution en termes de design par rapport notamment aux trois propositions que je te demande.",
+      "text" : "Et un autre truc à fixer, c'est par exemple quand je clique sur une tâche alors que la colonne de la semaine dernière met trop de tâches. Du coup, vu qu'on avait fait un design où ça se mettait dans les capsules des espaces, le design était original. Mais en fait, je pense qu'il faut faire simplement un popover qui part dans l'espace disponible de l'écran, parce que sinon, je suis obligé de remonter la ligne et c'est pas du tout pratique en termes d'user interface. Donc ce que tu vas faire, c'est que tu vas aussi corriger ce design via une animation que je peux tester via un clic. Et tu as un exemple dans une image que je vais te donner pour vraiment comprendre le problème, essayer de l'analyser et proposer une solution en termes de design par rapport notamment aux trois propositions que je te demande."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814707058.203112,
+      "id" : "AFE84101-F47D-4682-9813-DCD84026E5F0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai dû mal exprimer, mais en fait, garde le design actuel. Garde vraiment le design actuel. Il ne faut pas que tu changes le design. Ce que je voulais, c'est juste que tu modifies directement depuis le design actuel pixel perfect via les instructions de font et de police que je t'ai demandé. Et ensuite, que tu changes le contraste des petites cases, mais tu changes pas le design qui existe déjà sur le site. Et déjà, tu le reprends à l'identique.",
+      "text" : "J'ai dû mal exprimer, mais en fait, garde le design actuel. Garde vraiment le design actuel. Il ne faut pas que tu changes le design. Ce que je voulais, c'est juste que tu modifies directement depuis le design actuel pixel perfect via les instructions de font et de police que je t'ai demandé. Et ensuite, que tu changes le contraste des petites cases, mais tu changes pas le design qui existe déjà sur le site. Et déjà, tu le reprends à l'identique."
     }
   ],
   "modes" : [
