@@ -11759,6 +11759,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Est-ce que tu peux me redonner du coup le file de... Comment ça s'appelle? Le file de la voiture.",
       "text" : "Est-ce que tu peux me redonner du coup le file de... Comment ça s'appelle? Le file de la voiture."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814733872.761888,
+      "id" : "C414B4C8-F5B4-4309-A62B-D6D649FD3141",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, il faut faire une transition à 0.33 secondes fade in, fade out, plus... je sais plus. Fade in, fade out, 0.33 secondes, et le cut à la fin, du coup.",
+      "text" : "Du coup, il faut faire une transition à 0.33 secondes fade in, fade out, plus... je sais plus. Fade in, fade out, 0.33 secondes, et le cut à la fin, du coup."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814733906.636219,
+      "id" : "5BF01955-D73E-4549-A759-3D5EA464E96E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu peux surtout te focus sur me donner rapidement mes SFX avec le avec mon motion design et mon son sur la piste F, s'il te plaît, j'en ai besoin maintenant.",
+      "text" : "Est-ce que tu peux surtout te focus sur me donner rapidement mes SFX avec le avec mon motion design et mon son sur la piste F, s'il te plaît, j'en ai besoin maintenant."
     }
   ],
   "modes" : [
