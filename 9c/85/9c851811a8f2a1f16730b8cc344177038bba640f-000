@@ -11329,6 +11329,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Mais je pense que c'est mieux de lancer l'app qui s'appellerait ZenRay Edit, parce que comme ça, ça ne crée pas de confusion dans le sens où là, actuellement, mon app, c'est ZenRay Motion Design, et si je l'ouvre, eh bien c'est bizarre, parce qu'en fait, ça ne fonctionne pas forcément bien. Enfin, non, mais si, ça fonctionne bien, mais c'est pas ça que je veux dire. Je veux dire que j'ai pas accès à mes SFX que j'ai déjà créés, tu vois. Alors qu'en fait, le but, c'est d'append toutes les productions que j'ai déjà faites et de pouvoir faire du montage facilement via un index mapping parfait qui ferait que je dis, bon, ben ça, j'en ai besoin pour mes vidéos, ça, j'en ai besoin, etc., tu vois. Et que l'agent, il comprenne immédiatement et qu'il n'y ait pas d'erreur de toute manière puisque l'index mapping est parfait.",
       "text" : "Mais je pense que c'est mieux de lancer l'app qui s'appellerait ZenRay Edit, parce que comme ça, ça ne crée pas de confusion dans le sens où là, actuellement, mon app, c'est ZenRay Motion Design, et si je l'ouvre, eh bien c'est bizarre, parce qu'en fait, ça ne fonctionne pas forcément bien. Enfin, non, mais si, ça fonctionne bien, mais c'est pas ça que je veux dire. Je veux dire que j'ai pas accès à mes SFX que j'ai déjà créés, tu vois. Alors qu'en fait, le but, c'est d'append toutes les productions que j'ai déjà faites et de pouvoir faire du montage facilement via un index mapping parfait qui ferait que je dis, bon, ben ça, j'en ai besoin pour mes vidéos, ça, j'en ai besoin, etc., tu vois. Et que l'agent, il comprenne immédiatement et qu'il n'y ait pas d'erreur de toute manière puisque l'index mapping est parfait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814729737.082103,
+      "id" : "ABDD2FDD-DCD7-48D6-A969-ED5692F9260B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Alors, la vidéo que tu m'as envoyée, elle, elle fonctionne, mais ça fonctionne toujours pas dans l'app ZenRay Motion Design. Donc, c'est vraiment trop",
+      "text" : "Alors, la vidéo que tu m'as envoyée, elle, elle fonctionne, mais ça fonctionne toujours pas dans l'app ZenRay Motion Design. Donc, c'est vraiment trop"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814729838.397873,
+      "id" : "28AC91BE-1AFF-42DD-9705-E0692EAFCB3C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu peux relancer juste un agent Claude Haiku max 5.5 afin qu'il puisse mettre à jour le conifère avec les dernières images et ensuite voir si ouais, avec les dernières images, tu peux aussi mettre des images où il n'y a pas forcément de feuilles, mais faut que ça fasse V à V actuel. C'est-à-dire V, VX tout VY actuel. Et par contre, j'ai aussi besoin que tu me redonnes le pass de la vidéo de la voiture qui normalement était speedée x2, mais tu as gardé normalement une copie avec la vitesse originale. Et ça, je vais en avoir besoin maintenant.",
+      "text" : "Est-ce que tu peux relancer juste un agent Claude Haiku max 5.5 afin qu'il puisse mettre à jour le conifère avec les dernières images et ensuite voir si ouais, avec les dernières images, tu peux aussi mettre des images où il n'y a pas forcément de feuilles, mais faut que ça fasse V à V actuel. C'est-à-dire V, VX tout VY actuel. Et par contre, j'ai aussi besoin que tu me redonnes le pass de la vidéo de la voiture qui normalement était speedée x2, mais tu as gardé normalement une copie avec la vitesse originale. Et ça, je vais en avoir besoin maintenant."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814729859.652499,
+      "id" : "474667CB-D7D2-4670-AC61-8570CA5D3558",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et il y a aussi un truc qui me manque. Bon, je pense que c'était tout à peu près.",
+      "text" : "Et il y a aussi un truc qui me manque. Bon, je pense que c'était tout à peu près."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814729880.938722,
+      "id" : "861044D8-0937-437D-817F-0AE6C0B4CD91",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "donne tout à faire à cet agent directement. Donne tout le travail à faire directement à l'agent, il va s'en sortir.",
+      "text" : "donne tout à faire à cet agent directement. Donne tout le travail à faire directement à l'agent, il va s'en sortir."
     }
   ],
   "modes" : [
