@@ -11549,6 +11549,56 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Bah, c'est propre, mais essaie de viser plutôt l'effet d'apparition de Sony. Attends, je vais essayer de le trouver sur YouTube. C'est bon, j'ai trouvé. Ok, c'est de 0,10. De 0,10 avec un fade-in du seul. Du coup, c'est de 0,10 secondes avec un fade-in d'une seconde. Et un fade-out d'une seconde aussi. Et juste, tu reproduis le son et après, tu me proposes trois variations. Tu as déjà un outil qui permet de faire ça, du coup.",
       "text" : "Bah, c'est propre, mais essaie de viser plutôt l'effet d'apparition de Sony. Attends, je vais essayer de le trouver sur YouTube. C'est bon, j'ai trouvé. Ok, c'est de 0,10. De 0,10 avec un fade-in du seul. Du coup, c'est de 0,10 secondes avec un fade-in d'une seconde. Et un fade-out d'une seconde aussi. Et juste, tu reproduis le son et après, tu me proposes trois variations. Tu as déjà un outil qui permet de faire ça, du coup."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814732023.09101,
+      "id" : "29E6BE7F-F4FB-4475-BD04-48F1C80EA0AF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Au pire, j'ai une solution qui va marcher à tous les coups. Ce que tu vas faire, c'est que tu vas faire simplement un HTML qui contient uniquement l'onglet... comment ça s'appelle? Bah, l'onglet validate, tu vois. Et en fait, puisque c'est un HTML, je suis sûr que ça marchera. Puisque ça lira directement la vidéo. Est-ce que c'est possible, selon toi, de rendre l'application totalement compatible sur Chrome via un HTML?",
+      "text" : "Au pire, j'ai une solution qui va marcher à tous les coups. Ce que tu vas faire, c'est que tu vas faire simplement un HTML qui contient uniquement l'onglet... comment ça s'appelle? Bah, l'onglet validate, tu vois. Et en fait, puisque c'est un HTML, je suis sûr que ça marchera. Puisque ça lira directement la vidéo. Est-ce que c'est possible, selon toi, de rendre l'application totalement compatible sur Chrome via un HTML?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814732031.463269,
+      "id" : "DAC519FA-A1A7-4F37-B8DA-DA90F1B32036",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Si oui, fais-le immédiatement.",
+      "text" : "Si oui, fais-le immédiatement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814732054.307017,
+      "id" : "5BF323EE-66BA-410F-A78F-7A3C47126210",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et ensuite, si ça marche, tu consignes dans le skill que l'app est deprecated et que tout passe directement dans un HTML maintenant.",
+      "text" : "Et ensuite, si ça marche, tu consignes dans le skill que l'app est deprecated et que tout passe directement dans un HTML maintenant."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814732073.76752,
+      "id" : "B091EA73-E0B5-4611-8E35-A9A5A11F7701",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "pense à toutes les occurrences, à tous les chemins, à l'index mapping, etc. Et aussi au fait de... Enfin bref,",
+      "text" : "pense à toutes les occurrences, à tous les chemins, à l'index mapping, etc. Et aussi au fait de... Enfin bref,"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814732159.351957,
+      "id" : "7F1D4AC6-0E0B-4F9B-B105-0973C2B03B30",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Hormis ce son qui est clean, tous les autres sont complètement pétés. Donc comme tout à l'heure, tu arrêtes de faire n'importe quoi et tu me proposes un son clean. Enfin, tu me proposes des variations de son clean et pas des variations complètement pétées. Peut-être que c'est aussi dû à la reproduction qui n'est pas exacte actuellement. Mais j'ai surtout l'impression que t'as fait n'importe quoi. Parce que là, le son grésille complètement.",
+      "text" : "Hormis ce son qui est clean, tous les autres sont complètement pétés. Donc comme tout à l'heure, tu arrêtes de faire n'importe quoi et tu me proposes un son clean. Enfin, tu me proposes des variations de son clean et pas des variations complètement pétées. Peut-être que c'est aussi dû à la reproduction qui n'est pas exacte actuellement. Mais j'ai surtout l'impression que t'as fait n'importe quoi. Parce que là, le son grésille complètement."
     }
   ],
   "modes" : [
