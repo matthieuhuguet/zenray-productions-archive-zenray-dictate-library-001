@@ -10459,6 +10459,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Mais le but, c'est surtout d'optimiser les performances de la vue web qui est sur Progress de ZenRay Assets. Il n'y a pas grand-chose à faire sur ZenRay Assets dans le code. Il faut surtout faire en sorte que ce soit optimisé sur le site ZenRay Progress.",
       "text" : "Mais le but, c'est surtout d'optimiser les performances de la vue web qui est sur Progress de ZenRay Assets. Il n'y a pas grand-chose à faire sur ZenRay Assets dans le code. Il faut surtout faire en sorte que ce soit optimisé sur le site ZenRay Progress."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814717261.58114,
+      "id" : "9D8F7C19-E42D-459D-BEB4-D207B9EF7A19",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En même temps, j'ai l'impression que tu ne fais pas la vue components sur les arbres, donc je ne vois pas comment tu peux le faire. Faut que tu réfléchisses aussi en mode speed tree pour les arbres, c'est différent. Si tu fais d'abord le tronc, puis les branches, puis les feuilles, tu vois. Faut être logique. J'ai l'impression que tu réfléchis pas du tout là. Parler",
+      "text" : "En même temps, j'ai l'impression que tu ne fais pas la vue components sur les arbres, donc je ne vois pas comment tu peux le faire. Faut que tu réfléchisses aussi en mode speed tree pour les arbres, c'est différent. Si tu fais d'abord le tronc, puis les branches, puis les feuilles, tu vois. Faut être logique. J'ai l'impression que tu réfléchis pas du tout là. Parler"
     }
   ],
   "modes" : [
