@@ -11929,6 +11929,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "J'aimerais tester un nouveau truc. C'est j'aimerais mettre le son de la note Ghibli à 3 secondes exactement. Donc c'est-à-dire, ou pas forcément exactement, mais exactement au moment où le logo apparaît. C'est vers 3 secondes ou vers 3,5 secondes. Il faudrait mettre la note à ce moment-là. Mais me faire trois nouvelles propositions.",
       "text" : "J'aimerais tester un nouveau truc. C'est j'aimerais mettre le son de la note Ghibli à 3 secondes exactement. Donc c'est-à-dire, ou pas forcément exactement, mais exactement au moment où le logo apparaît. C'est vers 3 secondes ou vers 3,5 secondes. Il faudrait mettre la note à ce moment-là. Mais me faire trois nouvelles propositions."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814735524.483297,
+      "id" : "32A4410E-0C14-4ABC-9E17-FD519C1BACFE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, je valide celui-là, mais en fait j'ai envie de garder tous les autres et que toutes les versions soient consignées, etc. Donc c'est ton moment où tu dois faire en sorte de build, du coup, via l'index que je t'ai donné, le rework de la galerie, à la fois le rework de la galerie des SFX et à la fois le rework de la galerie des ZenRay Motion, afin de... tu dois relire aussi le skill ZenRay Motion Design afin de comprendre ce qu'on a changé depuis qu'on a créé du HTML sur l'application. Et du coup, tu dois créer les deux vues galeries, du coup, avec les bonnes fontes, c'est-à-dire GT Ultra et GT Standard L. Et en fait, le but, c'est d'agréger au même endroit les designs, qu'ils soient tous recensés au même endroit. C'est-à-dire qu'une vidéo, tu vois, tu vas pas faire plusieurs exemplaires, tu mets une seule image de case de vidéo, comme si c'était un projet, tu vois. Genre là, tout ce qu'on a fait sur le motion design, pour le trouver, au final, c'est un seul projet. Donc voilà.",
+      "text" : "Ok, je valide celui-là, mais en fait j'ai envie de garder tous les autres et que toutes les versions soient consignées, etc. Donc c'est ton moment où tu dois faire en sorte de build, du coup, via l'index que je t'ai donné, le rework de la galerie, à la fois le rework de la galerie des SFX et à la fois le rework de la galerie des ZenRay Motion, afin de... tu dois relire aussi le skill ZenRay Motion Design afin de comprendre ce qu'on a changé depuis qu'on a créé du HTML sur l'application. Et du coup, tu dois créer les deux vues galeries, du coup, avec les bonnes fontes, c'est-à-dire GT Ultra et GT Standard L. Et en fait, le but, c'est d'agréger au même endroit les designs, qu'ils soient tous recensés au même endroit. C'est-à-dire qu'une vidéo, tu vois, tu vas pas faire plusieurs exemplaires, tu mets une seule image de case de vidéo, comme si c'était un projet, tu vois. Genre là, tout ce qu'on a fait sur le motion design, pour le trouver, au final, c'est un seul projet. Donc voilà."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814735550.24531,
+      "id" : "604D6BB7-D397-4185-B871-110BEEA4D553",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "notamment ce qui restait en backup et qui doit être bilan.",
+      "text" : "notamment ce qui restait en backup et qui doit être bilan."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814735598.66338,
+      "id" : "B7270DAC-06C6-4B65-A2DC-CDD997D62316",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Attends, par contre, j'ai juste une question, c'est est-ce que cette vidéo a été générée en 60 fps? Et sinon, j'ai vraiment besoin que tu le fasses en 60 fps.",
+      "text" : "Attends, par contre, j'ai juste une question, c'est est-ce que cette vidéo a été générée en 60 fps? Et sinon, j'ai vraiment besoin que tu le fasses en 60 fps."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814735622.809261,
+      "id" : "88659036-1AF9-4D3D-93F4-12406021A512",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Tu peux aussi déléguer à Claude Haiku 5.5 max pour qu'il crée la vidéo finale en 60 fps. Et en 2048 pixels, s'il te plaît. Et aussi en format ratio 1:1 en square, s'il te plaît. Sans qu'il y ait de crop,",
+      "text" : "Tu peux aussi déléguer à Claude Haiku 5.5 max pour qu'il crée la vidéo finale en 60 fps. Et en 2048 pixels, s'il te plaît. Et aussi en format ratio 1:1 en square, s'il te plaît. Sans qu'il y ait de crop,"
     }
   ],
   "modes" : [
