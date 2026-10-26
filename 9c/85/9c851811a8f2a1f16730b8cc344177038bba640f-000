@@ -12169,6 +12169,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Moi, ce qui me fume, c'est vraiment juste la souris en plein milieu de l'écran qui ne bouge pas de manière perpétuelle, et ce, dans toutes les vidéos, à chaque fois qu'il est sur son Mac. C'est vraiment du génie.",
       "text" : "Moi, ce qui me fume, c'est vraiment juste la souris en plein milieu de l'écran qui ne bouge pas de manière perpétuelle, et ce, dans toutes les vidéos, à chaque fois qu'il est sur son Mac. C'est vraiment du génie."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814747481.963166,
+      "id" : "DF6230A7-EEC0-4271-9730-83CCD28AF734",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Maintenant, relance le cron toutes les minutes pour itérer sur la voiture jusqu'à ce qu'elle soit parfaite. Il y a beaucoup de travail à faire.",
+      "text" : "Maintenant, relance le cron toutes les minutes pour itérer sur la voiture jusqu'à ce qu'elle soit parfaite. Il y a beaucoup de travail à faire."
     }
   ],
   "modes" : [
