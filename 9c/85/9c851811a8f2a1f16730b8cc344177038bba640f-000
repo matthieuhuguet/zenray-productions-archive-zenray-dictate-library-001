@@ -11889,6 +11889,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "En fait, il faut que tu recommences le mixage parce que la Ghibli note, normalement, elle arrive au début du son, pas à la fin. En fait, elle se mixe au niveau du début. Donc, il faut que tu refasses les trois propositions.",
       "text" : "En fait, il faut que tu recommences le mixage parce que la Ghibli note, normalement, elle arrive au début du son, pas à la fin. En fait, elle se mixe au niveau du début. Donc, il faut que tu refasses les trois propositions."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814734830.377931,
+      "id" : "9996C97D-BD93-433A-91AD-7CE59A994419",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Testons, en fait, j'aimerais tester un autre truc. Testons plutôt dans le son 2, justement, à la fin, tu vois, au moment où on a laissé un espace blanc avec la note Ghibli. Je pense qu'à ce moment-là, ça va bien marcher. Et redonne-moi la vidéo. Par contre, garde l'ancien son pour le son 1.",
+      "text" : "Testons, en fait, j'aimerais tester un autre truc. Testons plutôt dans le son 2, justement, à la fin, tu vois, au moment où on a laissé un espace blanc avec la note Ghibli. Je pense qu'à ce moment-là, ça va bien marcher. Et redonne-moi la vidéo. Par contre, garde l'ancien son pour le son 1."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814734964.047258,
+      "id" : "8DE27DC1-391C-4B1E-A874-B18DE6A47C94",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Alors, on va le refaire. En fait, je sais ce qu'on va faire. On va la proc sur le son 1 plutôt. Et ensuite, on va créer un léger décalage pour le son 1. Donc, c'est-à-dire, on a la Ghibli note, on a un léger décalage, on a le son 1 qui s'exécute normalement, et ensuite, on a le son 2 qui s'exécute normalement. Donc, redonne-moi uniquement la piste sonore de ça, et fais-moi 3 variations avec des micro-décalages pour que je puisse choisir la variation qui me plaît.",
+      "text" : "Alors, on va le refaire. En fait, je sais ce qu'on va faire. On va la proc sur le son 1 plutôt. Et ensuite, on va créer un léger décalage pour le son 1. Donc, c'est-à-dire, on a la Ghibli note, on a un léger décalage, on a le son 1 qui s'exécute normalement, et ensuite, on a le son 2 qui s'exécute normalement. Donc, redonne-moi uniquement la piste sonore de ça, et fais-moi 3 variations avec des micro-décalages pour que je puisse choisir la variation qui me plaît."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814735118.081414,
+      "id" : "57DAEB7A-6567-458B-8012-FAB70C4B7912",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est dur à trancher sans la vidéo. Il me faudra la vidéo pour savoir. Mais en fait, j'ai l'impression que le son de la note Ghibli devrait être moins fort dans tous les cas. Et il faudrait que tu fasses le mixage final parfait pour que tous les sons s'emboîtent parfaitement à l'oreille et que ce soit agréable à écouter. Donc, redonne-moi la vidéo, fais le mixage final pour que ce soit parfait à l'oreille. Et on finalise avec trois vidéos et choisit laquelle. Et comme ça, on a fini.",
+      "text" : "C'est dur à trancher sans la vidéo. Il me faudra la vidéo pour savoir. Mais en fait, j'ai l'impression que le son de la note Ghibli devrait être moins fort dans tous les cas. Et il faudrait que tu fasses le mixage final parfait pour que tous les sons s'emboîtent parfaitement à l'oreille et que ce soit agréable à écouter. Donc, redonne-moi la vidéo, fais le mixage final pour que ce soit parfait à l'oreille. Et on finalise avec trois vidéos et choisit laquelle. Et comme ça, on a fini."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814735184.546819,
+      "id" : "F2D3D043-8068-49A6-9987-66CF402DFA50",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'aimerais tester un nouveau truc. C'est j'aimerais mettre le son de la note Ghibli à 3 secondes exactement. Donc c'est-à-dire, ou pas forcément exactement, mais exactement au moment où le logo apparaît. C'est vers 3 secondes ou vers 3,5 secondes. Il faudrait mettre la note à ce moment-là. Mais me faire trois nouvelles propositions.",
+      "text" : "J'aimerais tester un nouveau truc. C'est j'aimerais mettre le son de la note Ghibli à 3 secondes exactement. Donc c'est-à-dire, ou pas forcément exactement, mais exactement au moment où le logo apparaît. C'est vers 3 secondes ou vers 3,5 secondes. Il faudrait mettre la note à ce moment-là. Mais me faire trois nouvelles propositions."
     }
   ],
   "modes" : [
