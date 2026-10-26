@@ -11369,6 +11369,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "donne tout à faire à cet agent directement. Donne tout le travail à faire directement à l'agent, il va s'en sortir.",
       "text" : "donne tout à faire à cet agent directement. Donne tout le travail à faire directement à l'agent, il va s'en sortir."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814730132.786045,
+      "id" : "BE660CD4-F429-4ED5-8844-35641D01D9F0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, pour la voiture finale, je voulais plutôt que le turnover il soit fait en wireframe directement. Donc en wireframe, c'est-à-dire qu'on voit la topologie finale, quoi.",
+      "text" : "En fait, pour la voiture finale, je voulais plutôt que le turnover il soit fait en wireframe directement. Donc en wireframe, c'est-à-dire qu'on voit la topologie finale, quoi."
     }
   ],
   "modes" : [
