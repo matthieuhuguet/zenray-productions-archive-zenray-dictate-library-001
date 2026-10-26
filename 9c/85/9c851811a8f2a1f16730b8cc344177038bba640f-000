@@ -10939,6 +10939,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Surtout que si j'en envoie que 100 et que au final c'est à partir de la 300e offre que j'aurais eu quelque chose d'intéressant qui fit par rapport à mes standards, bah c'est juste dommage, je me tire une balle dans le pied, tu vois. Mais en même temps, un studio, il peut pas savoir que j'existe si je lui envoie pas de mail, tu vois.",
       "text" : "Surtout que si j'en envoie que 100 et que au final c'est à partir de la 300e offre que j'aurais eu quelque chose d'intéressant qui fit par rapport à mes standards, bah c'est juste dommage, je me tire une balle dans le pied, tu vois. Mais en même temps, un studio, il peut pas savoir que j'existe si je lui envoie pas de mail, tu vois."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814724420.319298,
+      "id" : "69092103-BA0D-4877-8AB9-660CF8A8E5E2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je crois que tu as fait une régression dans le code parce que la photo actuellement c'est pas la bonne.",
+      "text" : "Je crois que tu as fait une régression dans le code parce que la photo actuellement c'est pas la bonne."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814724438.536489,
+      "id" : "EA4E31C2-62C6-4784-BCF8-CAA7B6A84D1B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Fais attention aux anciennes branches et publie correctement.",
+      "text" : "Fais attention aux anciennes branches et publie correctement."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814724468.890466,
+      "id" : "A746E0E4-8491-4DDD-AED8-39AB0DD04933",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et en plus, sur ZenRay, t'as pas mis bold.",
+      "text" : "Et en plus, sur ZenRay, t'as pas mis bold."
     }
   ],
   "modes" : [
