@@ -11509,6 +11509,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "À mon avis, c'était en plus, c'était le même problème sur le problème d'aberration chromatique. À la limite, je sais ce que tu vas faire. Tu vas rebuild l'application de zéro. Enfin, avec tout le code existant. Et à la limite, c'est peut-être un problème de Swift ou j'en sais rien, tu vois. Tu builds l'application dans un langage qui fonctionne, j'en sais rien.",
       "text" : "À mon avis, c'était en plus, c'était le même problème sur le problème d'aberration chromatique. À la limite, je sais ce que tu vas faire. Tu vas rebuild l'application de zéro. Enfin, avec tout le code existant. Et à la limite, c'est peut-être un problème de Swift ou j'en sais rien, tu vois. Tu builds l'application dans un langage qui fonctionne, j'en sais rien."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814731474.181419,
+      "id" : "B850EC30-A81A-4CAE-B75B-BC50DE73020E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non mais tous les effets que t'as produits là, ils sont dégueulasses. Enfin, c'est pas du tout soft, ni chic, ni Kojima, ni PlayStation. C'est juste dégueulasse, on dirait les enfers de Dark Souls là. Tu te fous de ma gueule. Tu sais pas ce que ça veut dire en fait. Tu es nul. Tu commences à me faire chier. Hein.",
+      "text" : "Non mais tous les effets que t'as produits là, ils sont dégueulasses. Enfin, c'est pas du tout soft, ni chic, ni Kojima, ni PlayStation. C'est juste dégueulasse, on dirait les enfers de Dark Souls là. Tu te fous de ma gueule. Tu sais pas ce que ça veut dire en fait. Tu es nul. Tu commences à me faire chier. Hein."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814731528.496273,
+      "id" : "BE232D99-A5B5-45CC-B8EB-D397CE529005",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais de quoi tu parles? Pourquoi tu parles de l'évolution d'un conifère alors que c'est putain de l'évolution de l'arbre qui était un eucalyptus? Tu l'as pas supprimé quand même, espèce de fils de pute? Tu commences à me faire très peur. Réponds-moi en une ligne.",
+      "text" : "Mais de quoi tu parles? Pourquoi tu parles de l'évolution d'un conifère alors que c'est putain de l'évolution de l'arbre qui était un eucalyptus? Tu l'as pas supprimé quand même, espèce de fils de pute? Tu commences à me faire très peur. Réponds-moi en une ligne."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814731563.751167,
+      "id" : "D24CC468-0D54-4397-9215-D59419C82138",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah, du coup, tu vas faire exactement pareil pour avoir l'évolution de l'eucalyptus sans les feuilles, du coup. Merci, fils de pute.",
+      "text" : "Bah, du coup, tu vas faire exactement pareil pour avoir l'évolution de l'eucalyptus sans les feuilles, du coup. Merci, fils de pute."
     }
   ],
   "modes" : [
