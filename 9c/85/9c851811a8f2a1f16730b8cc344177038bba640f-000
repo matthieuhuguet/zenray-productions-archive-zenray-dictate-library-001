@@ -11399,6 +11399,86 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Quasi tous les sons que tu m'as donnés sont vraiment nuls. Donc en fait, tu vas réutiliser les sons de Death Stranding qui sont déjà bien et tu vas essayer de les fit pour me faire une proposition pour le deuxième son. Mais en tout cas, pour le SFX 1, le B est quasi bien, mais il est bien que pendant une seule seconde. Donc en fait, tu vas essayer d'itérer sur la première seconde pour me refaire des propositions.",
       "text" : "Quasi tous les sons que tu m'as donnés sont vraiment nuls. Donc en fait, tu vas réutiliser les sons de Death Stranding qui sont déjà bien et tu vas essayer de les fit pour me faire une proposition pour le deuxième son. Mais en tout cas, pour le SFX 1, le B est quasi bien, mais il est bien que pendant une seule seconde. Donc en fait, tu vas essayer d'itérer sur la première seconde pour me refaire des propositions."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814730801.81551,
+      "id" : "F5358509-82E9-4873-902E-90DF77B59339",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "faut pas être un génie pour aller à 4,5 secondes et voir qu'il n'y a toujours pas de truc dans l'application. Donc je comprends pas. Enfin, en une ligne, il faut que tu trouves le problème. Enfin, arrête de te foutre de ma gueule, genre.",
+      "text" : "faut pas être un génie pour aller à 4,5 secondes et voir qu'il n'y a toujours pas de truc dans l'application. Donc je comprends pas. Enfin, en une ligne, il faut que tu trouves le problème. Enfin, arrête de te foutre de ma gueule, genre."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814730911.175739,
+      "id" : "E1CCA010-F1F9-49CF-8913-0E96B6BB9150",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Arrête de faire un gros claque, finis-le doucement. Genre tu le montes doucement, tu fais un tout petit impact un peu sourd, un peu à la contrôle résonante ou à la contrôle de Remedy. Tu t'inspires d'une web search ou j'en sais rien, mais normalement dans ton paramétric knowledge, tu sais ce que c'est contrôle, hein, tu vois. Et tu fermes discrètement le son, tu vois. Et tu fais",
+      "text" : "Arrête de faire un gros claque, finis-le doucement. Genre tu le montes doucement, tu fais un tout petit impact un peu sourd, un peu à la contrôle résonante ou à la contrôle de Remedy. Tu t'inspires d'une web search ou j'en sais rien, mais normalement dans ton paramétric knowledge, tu sais ce que c'est contrôle, hein, tu vois. Et tu fermes discrètement le son, tu vois. Et tu fais"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814730969.15821,
+      "id" : "ACE82228-5069-4F01-BEBB-A99BF003B11D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "identifie simplement pourquoi ta propre vue du WebKit View, elle fonctionne, tandis que la mienne, elle fonctionne pas. Ça doit être un problème, je sais pas, de mémoire, ou de transfert, ou d'index, ou de push, ou de build, ou de commit, tu",
+      "text" : "identifie simplement pourquoi ta propre vue du WebKit View, elle fonctionne, tandis que la mienne, elle fonctionne pas. Ça doit être un problème, je sais pas, de mémoire, ou de transfert, ou d'index, ou de push, ou de build, ou de commit, tu"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814730980.791349,
+      "id" : "3E67DD59-3AB8-4970-919A-2F962648CE63",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "À mon avis, c'est un problème simple que t'as pas vu, hein. Donc au lieu de faire tous ces tests, tu devrais finir proprement les choses.",
+      "text" : "À mon avis, c'est un problème simple que t'as pas vu, hein. Donc au lieu de faire tous ces tests, tu devrais finir proprement les choses."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814731037.337388,
+      "id" : "BE3F5F2A-8029-49AE-849B-EFE76F1C27B8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, et maintenant le deuxième son. Donc le son, je t'ai déjà donné la description tout à l'heure. Mais à la limite, tu utilises simplement un son de Death Stranding, sans le modifier.",
+      "text" : "Ok, et maintenant le deuxième son. Donc le son, je t'ai déjà donné la description tout à l'heure. Mais à la limite, tu utilises simplement un son de Death Stranding, sans le modifier."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814731130.497731,
+      "id" : "D7E9B779-E487-4D5E-AC1B-B2951B93400D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ensuite, je l'ai ouverte et j'ai toujours le même problème en fait.",
+      "text" : "Ensuite, je l'ai ouverte et j'ai toujours le même problème en fait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814731175.249493,
+      "id" : "B38F0003-8666-404D-8449-3301666AB512",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "il faut itérer 3 propositions à partir de celui-là. Mais comme tout à l'heure, tu vois, il faut faire un truc très classe et très doux, tu vois. En mode vraiment soft, soft, soft. Un peu à la PlayStation et Hideo Kojima. Utilise le paramétrique knowledge pour comprendre ce que je",
+      "text" : "il faut itérer 3 propositions à partir de celui-là. Mais comme tout à l'heure, tu vois, il faut faire un truc très classe et très doux, tu vois. En mode vraiment soft, soft, soft. Un peu à la PlayStation et Hideo Kojima. Utilise le paramétrique knowledge pour comprendre ce que je"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814731183.817288,
+      "id" : "A35C4E0C-A449-428C-9CA6-9DFBBBB5DCC3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Voire, tu sais quoi, tu vas faire 9 itérations directement parce que ça prend trop de temps si",
+      "text" : "Voire, tu sais quoi, tu vas faire 9 itérations directement parce que ça prend trop de temps si"
     }
   ],
   "modes" : [
