@@ -10789,6 +10789,76 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Go, là, t'as rien changé. Je peux toujours pas modifier les trucs des corps, etc. Dépêche-toi.",
       "text" : "Go, là, t'as rien changé. Je peux toujours pas modifier les trucs des corps, etc. Dépêche-toi."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814721974.429672,
+      "id" : "25DE679B-BCF1-4240-B3EF-EF3F651AE8D1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que ce qu'on appelle les tanuki au Japon, c'est des vrais tanuki ou bien pas forcément? Et je me pose la question, qu'est-ce qu'ils mangent en règle générale? Parce qu'en fait, je croyais que les chiens vivrains, c'était pas exactement des tanuki au Japon, et qu'en fait, le tanuki, ça désigne vraiment le dieu. Mais qu'est-ce qui est vrai du faux?",
+      "text" : "Est-ce que ce qu'on appelle les tanuki au Japon, c'est des vrais tanuki ou bien pas forcément? Et je me pose la question, qu'est-ce qu'ils mangent en règle générale? Parce qu'en fait, je croyais que les chiens vivrains, c'était pas exactement des tanuki au Japon, et qu'en fait, le tanuki, ça désigne vraiment le dieu. Mais qu'est-ce qui est vrai du faux?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814722337.498259,
+      "id" : "2FF6C68D-60EF-4EAB-8213-DC4C4CBB3456",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Tu as sûrement des choses à apprendre de la voiture, notamment quand tu regardes l'évolution jusqu'à la version 470. Enfin, je sais plus si la dernière version de la voiture était la version 470, mais normalement tu l'as consignée quelque part.",
+      "text" : "Tu as sûrement des choses à apprendre de la voiture, notamment quand tu regardes l'évolution jusqu'à la version 470. Enfin, je sais plus si la dernière version de la voiture était la version 470, mais normalement tu l'as consignée quelque part."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814722656.29851,
+      "id" : "FBC4801A-C3C5-428D-9911-495AF3F9C6D6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Faut que tu me clean up du coup sur le vrai site, le haut de la page, parce que là c'est hyper moche et c'est pas du tout une vue épurée. Utilise des toggles au maximum pour cacher les choses, et même il y a certains éléments dont on n'avait pas besoin. La seule chose dont on a vraiment besoin, j'ai l'impression que c'est... Enfin, en soi on a peut-être besoin de tout, mais le truc c'est que c'est pas lui que j'ai choisi, étant donné que tu peux cacher les choses, donc cache les choses s'il te plaît.",
+      "text" : "Faut que tu me clean up du coup sur le vrai site, le haut de la page, parce que là c'est hyper moche et c'est pas du tout une vue épurée. Utilise des toggles au maximum pour cacher les choses, et même il y a certains éléments dont on n'avait pas besoin. La seule chose dont on a vraiment besoin, j'ai l'impression que c'est... Enfin, en soi on a peut-être besoin de tout, mais le truc c'est que c'est pas lui que j'ai choisi, étant donné que tu peux cacher les choses, donc cache les choses s'il te plaît."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814722671.13599,
+      "id" : "5D44FAF6-19B0-483A-AEA2-2AA6150CE981",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Puis tu peux faire une boucle une fois que tu es déployé pour être sûr que les choses sont propres en prenant un screen et en comparant les deux.",
+      "text" : "Puis tu peux faire une boucle une fois que tu es déployé pour être sûr que les choses sont propres en prenant un screen et en comparant les deux."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814723115.087766,
+      "id" : "2ED12AFD-A973-484C-B87D-C6DC26D8AC88",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, pour l'instant, tu peux quasi tout mettre en GT Ultra. En revanche, je vais te dire les choses qu'il faut modifier. Donc les trucs là, par exemple, sur les boutons Louisiana Bayou et Texturing, ça n'a pas mis GT Ultra. Donc mes GT Ultra aussi. Pour le ZenRay, donc le truc qui est à côté de la brand, mets-le en bold. Pour Core et Workflows, Automation et Tooling, vérifie que ce soit bien espacé par rapport aux icônes. Et enfin, pour les icônes... enfin, c'est pas des icônes, mais pour la galerie 3D et pour la galerie des images, en règle générale, il faut que t'enlèves, en fait... En fait, des fois, il y a marqué Houdini et Unreal, ou Houdini, Copernicus. En fait, ça crée une galerie, alors qu'en fait, il n'y a pas besoin. Il y a juste besoin du titre. Et le titre, il est déjà bien, et il est en GT Ultra, du coup. Donc voilà, tu peux push sur le tu peux push sur tout ça. Et en fait, au final, ouais, ça marche bien de tout mettre en GT Ultra.",
+      "text" : "En fait, pour l'instant, tu peux quasi tout mettre en GT Ultra. En revanche, je vais te dire les choses qu'il faut modifier. Donc les trucs là, par exemple, sur les boutons Louisiana Bayou et Texturing, ça n'a pas mis GT Ultra. Donc mes GT Ultra aussi. Pour le ZenRay, donc le truc qui est à côté de la brand, mets-le en bold. Pour Core et Workflows, Automation et Tooling, vérifie que ce soit bien espacé par rapport aux icônes. Et enfin, pour les icônes... enfin, c'est pas des icônes, mais pour la galerie 3D et pour la galerie des images, en règle générale, il faut que t'enlèves, en fait... En fait, des fois, il y a marqué Houdini et Unreal, ou Houdini, Copernicus. En fait, ça crée une galerie, alors qu'en fait, il n'y a pas besoin. Il y a juste besoin du titre. Et le titre, il est déjà bien, et il est en GT Ultra, du coup. Donc voilà, tu peux push sur le tu peux push sur tout ça. Et en fait, au final, ouais, ça marche bien de tout mettre en GT Ultra."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814723315.755305,
+      "id" : "C0706C61-51A5-4427-9EC8-4642E6162BCD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, enlève l'icône de GitHub. Non, pas celle de GitHub. Enlève l'icône de curseur. Et en fait, mets dans un tableau les 6 icônes comme si elles appartenaient à un tableau. Mais fais en sorte que le tableau soit très très beau, design et élégant. Et surtout qu'il soit aligné par rapport à core et workflows, automation et tooling. Parce que du coup, ça fait 3 icônes et 3 icônes. Et en soi, je pense qu'on... Je pense qu'on peut enlever workflows et automation et on peut juste mettre le tools, T-O-O-L-S. Et comme ça, on remplace et on met à la même taille de fonte, etc.",
+      "text" : "En fait, enlève l'icône de GitHub. Non, pas celle de GitHub. Enlève l'icône de curseur. Et en fait, mets dans un tableau les 6 icônes comme si elles appartenaient à un tableau. Mais fais en sorte que le tableau soit très très beau, design et élégant. Et surtout qu'il soit aligné par rapport à core et workflows, automation et tooling. Parce que du coup, ça fait 3 icônes et 3 icônes. Et en soi, je pense qu'on... Je pense qu'on peut enlever workflows et automation et on peut juste mettre le tools, T-O-O-L-S. Et comme ça, on remplace et on met à la même taille de fonte, etc."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814723376.446286,
+      "id" : "7BC0D9B9-879D-4571-8AF8-251A83403DC5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Le seul truc que je vais garder en GT standard L, c'est ce passage. Et ce que je vais faire, c'est que le @ZenRay, donc qui est écrit en petit, ben lui, je le mets en GT ultra.",
+      "text" : "Le seul truc que je vais garder en GT standard L, c'est ce passage. Et ce que je vais faire, c'est que le @ZenRay, donc qui est écrit en petit, ben lui, je le mets en GT ultra."
     }
   ],
   "modes" : [
