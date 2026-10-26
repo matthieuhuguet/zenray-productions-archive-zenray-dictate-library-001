@@ -10189,6 +10189,56 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Peut-être que ce qui peut être utile aussi dans le workflow actuel, c'est aussi de faire en sorte que tu puisses peut-être refaire la sheet des components et comparer components par components, mais à travers la boucle. Tu vois, c'est-à-dire que au début, tu as fait une sheet par rapport aux components de la ref, de la référence, tu vois. Mais ensuite, ce qu'on peut faire, c'est refaire des components sur la voiture qui est en train d'être itérée, donc c'est-à-dire sur notre modèle 3D qui est en train d'être créé, et en comparant components par components, pour savoir qu'est-ce qui est exact et qu'est-ce qui n'est pas encore 100% exact, on peut faire des pourcentages de complétion des components, et ainsi créer les bons outils pour les bons components, et pouvoir directement instancier les bons et aussi consigner dans l'algorithme et dans le skill exactement ce qu'il faut.",
       "text" : "Peut-être que ce qui peut être utile aussi dans le workflow actuel, c'est aussi de faire en sorte que tu puisses peut-être refaire la sheet des components et comparer components par components, mais à travers la boucle. Tu vois, c'est-à-dire que au début, tu as fait une sheet par rapport aux components de la ref, de la référence, tu vois. Mais ensuite, ce qu'on peut faire, c'est refaire des components sur la voiture qui est en train d'être itérée, donc c'est-à-dire sur notre modèle 3D qui est en train d'être créé, et en comparant components par components, pour savoir qu'est-ce qui est exact et qu'est-ce qui n'est pas encore 100% exact, on peut faire des pourcentages de complétion des components, et ainsi créer les bons outils pour les bons components, et pouvoir directement instancier les bons et aussi consigner dans l'algorithme et dans le skill exactement ce qu'il faut."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814710957.430692,
+      "id" : "FA412877-6BD9-414C-993F-582E053DF598",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ce que j'aimerais que tu fasses du coup, c'est que tu me proposes un nouveau design par rapport aux skills Claude.md typographie et ZenRay Edit qui normalement doivent te faire changer uniquement, je veux uniquement que tu changes les fontes à partir du pixel perfect de ce qu'on a actuellement. Donc c'est-à-dire, par exemple, le ZenRay Freelance, là tu vois, il va falloir que tu mettes GT Ultra. Donc tu as trois occurrences de fontes à mettre, c'est-à-dire GT Ultra, Literata et GT Standard L.",
+      "text" : "Ce que j'aimerais que tu fasses du coup, c'est que tu me proposes un nouveau design par rapport aux skills Claude.md typographie et ZenRay Edit qui normalement doivent te faire changer uniquement, je veux uniquement que tu changes les fontes à partir du pixel perfect de ce qu'on a actuellement. Donc c'est-à-dire, par exemple, le ZenRay Freelance, là tu vois, il va falloir que tu mettes GT Ultra. Donc tu as trois occurrences de fontes à mettre, c'est-à-dire GT Ultra, Literata et GT Standard L."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814711267.484265,
+      "id" : "2FE0D388-D9C1-4DA8-9EAB-750E947B5F70",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que ça fonctionne du coup?",
+      "text" : "Est-ce que ça fonctionne du coup?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814711619.70013,
+      "id" : "688BD0A4-EA78-412E-B4EE-50F4D9285971",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il y a juste un truc qui me chiffonne, c'est que je comprends pas du coup pourquoi tu n'utilises pas des badges de 1900 MO pour push les trucs, parce qu'on a update les politiques de GitHub par rapport à assets et par rapport à progress aussi. Donc, je comprends pas pourquoi le upload est aussi lent.",
+      "text" : "Il y a juste un truc qui me chiffonne, c'est que je comprends pas du coup pourquoi tu n'utilises pas des badges de 1900 MO pour push les trucs, parce qu'on a update les politiques de GitHub par rapport à assets et par rapport à progress aussi. Donc, je comprends pas pourquoi le upload est aussi lent."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814711661.367706,
+      "id" : "5824FE11-7AB5-416B-9079-8B4103214CC9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et par contre, quand je clique à côté, il faut absolument que le widget parte. En fait,",
+      "text" : "Et par contre, quand je clique à côté, il faut absolument que le widget parte. En fait,"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814711695.737211,
+      "id" : "9CF4EAE7-6C80-4AF6-AC85-B7F64C2868BD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "je parle du widget de asset parce que une fois qu'il est ouvert, je suis obligé de recliquer sur sa propre icône pour le fermer, alors qu'en fait, normalement, je devrais juste pouvoir cliquer n'importe où et ça devrait le faire par",
+      "text" : "je parle du widget de asset parce que une fois qu'il est ouvert, je suis obligé de recliquer sur sa propre icône pour le fermer, alors qu'en fait, normalement, je devrais juste pouvoir cliquer n'importe où et ça devrait le faire par"
     }
   ],
   "modes" : [
