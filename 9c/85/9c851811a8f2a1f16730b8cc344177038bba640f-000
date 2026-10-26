@@ -12089,6 +12089,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "avec un titre et un sous-titre.",
       "text" : "avec un titre et un sous-titre."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814737519.858608,
+      "id" : "83208AB0-38A7-4A65-973A-864CA524BA8A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Convertis ma miniature en 9\/16, s'il te plaît, pour format YouTube Shorts.",
+      "text" : "Convertis ma miniature en 9\/16, s'il te plaît, pour format YouTube Shorts."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814737553.107497,
+      "id" : "FE33FFCE-6604-4B8C-8040-0D16A19A8FB1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est ultra fast. Hein. Soit tu as juste à mettre des... comment dire, des bandes noires.",
+      "text" : "C'est ultra fast. Hein. Soit tu as juste à mettre des... comment dire, des bandes noires."
     }
   ],
   "modes" : [
