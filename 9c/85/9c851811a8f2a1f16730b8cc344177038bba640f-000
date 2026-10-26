@@ -11129,6 +11129,96 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Évidemment, tu travailles uniquement sur des nouvelles copies et tu crées un storyboard pour être sûr de valider les choses, etc.",
       "text" : "Évidemment, tu travailles uniquement sur des nouvelles copies et tu crées un storyboard pour être sûr de valider les choses, etc."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814728355.05123,
+      "id" : "ACD87C16-66E4-43B0-A8F2-8DD4075B7336",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "À la limite, est-ce que tu peux le réenvoyer dans la conversation d'avant? Comme ça, c'est parfait.",
+      "text" : "À la limite, est-ce que tu peux le réenvoyer dans la conversation d'avant? Comme ça, c'est parfait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814728384.640579,
+      "id" : "9C59E2C3-C050-4D4F-BDBC-4F916AA88E87",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'aimerais aussi que tu me x2 la vidéo actuelle. Donc on passerait à 0.125 par image, du coup.",
+      "text" : "J'aimerais aussi que tu me x2 la vidéo actuelle. Donc on passerait à 0.125 par image, du coup."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814728394.119296,
+      "id" : "2159A672-8D98-4457-91A7-5F196A3F7A34",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je parle uniquement pour la car, hein. J'ai pas encore vu la vidéo tri.",
+      "text" : "Je parle uniquement pour la car, hein. J'ai pas encore vu la vidéo tri."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814728430.664313,
+      "id" : "74452112-F332-4111-923B-A2600A17EDC1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Depuis Houdini MCP, je pense que tu peux setup une caméra et simplement render les frames très rapidement. Tu me rends uniquement 24 frames, ça me suffit, j'ai juste besoin de faire un turnover complet avec une vue 3 quarts de la caméra qui pivote et qui fait un 360 degrés autour de la voiture en son sens.",
+      "text" : "Depuis Houdini MCP, je pense que tu peux setup une caméra et simplement render les frames très rapidement. Tu me rends uniquement 24 frames, ça me suffit, j'ai juste besoin de faire un turnover complet avec une vue 3 quarts de la caméra qui pivote et qui fait un 360 degrés autour de la voiture en son sens."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814728446.381625,
+      "id" : "47C0AA71-6C3D-4BA3-B7C4-70193ABD039F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "via subagent Haiku max.",
+      "text" : "via subagent Haiku max."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814728572.629058,
+      "id" : "6CB33AC6-5561-491C-AFF1-F21678376DFC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "On va travailler sur la vidéo qui dure 5,5 secondes. En fait, on va passer la vidéo qui dure 5,5 secondes à 6 secondes. Et en fait, il faut que l'aliasing dure au moins une seconde, sinon on n'a pas le temps de le voir.",
+      "text" : "On va travailler sur la vidéo qui dure 5,5 secondes. En fait, on va passer la vidéo qui dure 5,5 secondes à 6 secondes. Et en fait, il faut que l'aliasing dure au moins une seconde, sinon on n'a pas le temps de le voir."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814728579.250359,
+      "id" : "D3C1CD32-25BB-4229-B667-E07CF7737A86",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "directement sur la même vidéo.",
+      "text" : "directement sur la même vidéo."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814728586.126636,
+      "id" : "F08C460B-7868-47B5-AB0A-B20B8D18E229",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Blablabla, bla bla, je parlais, c'est intéressant ce que je...",
+      "text" : "Blablabla, bla bla, je parlais, c'est intéressant ce que je..."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814728627.444255,
+      "id" : "2BBE97BD-F9CA-444C-BB55-32C17CBFF71F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Merde. Ah, mais en fait, je dis anti-aliasing à chaque fois, mais ce que je veux dire, c'est aberration chromatique bleu et rouge, en fait.",
+      "text" : "Merde. Ah, mais en fait, je dis anti-aliasing à chaque fois, mais ce que je veux dire, c'est aberration chromatique bleu et rouge, en fait."
     }
   ],
   "modes" : [
