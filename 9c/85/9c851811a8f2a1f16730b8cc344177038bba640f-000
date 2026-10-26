@@ -10519,6 +10519,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Prends de 16:43 à 16:46 3 secondes de en un MP4, mais tu dois vérifier que c'est toujours enfin que la première frame et la dernière frame sont toujours sur la même image, parce que mon but c'est de faire un MP4 et un GIF à la plus grosse résolution possible.",
       "text" : "Prends de 16:43 à 16:46 3 secondes de en un MP4, mais tu dois vérifier que c'est toujours enfin que la première frame et la dernière frame sont toujours sur la même image, parce que mon but c'est de faire un MP4 et un GIF à la plus grosse résolution possible."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814718822.403887,
+      "id" : "FAE2DD3F-E873-4F04-9672-1274F39CF4F3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc tu crées un projet normal, quoi.",
+      "text" : "Donc tu crées un projet normal, quoi."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814718846.344262,
+      "id" : "034863DD-F711-407B-8E9B-AC34C7C643D5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "harmonise et normalise le titre pour qu'il soit plus propre, notamment dans un projet qui va commencer par temp.",
+      "text" : "harmonise et normalise le titre pour qu'il soit plus propre, notamment dans un projet qui va commencer par temp."
     }
   ],
   "modes" : [
