@@ -11969,6 +11969,66 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Tu peux aussi déléguer à Claude Haiku 5.5 max pour qu'il crée la vidéo finale en 60 fps. Et en 2048 pixels, s'il te plaît. Et aussi en format ratio 1:1 en square, s'il te plaît. Sans qu'il y ait de crop,",
       "text" : "Tu peux aussi déléguer à Claude Haiku 5.5 max pour qu'il crée la vidéo finale en 60 fps. Et en 2048 pixels, s'il te plaît. Et aussi en format ratio 1:1 en square, s'il te plaît. Sans qu'il y ait de crop,"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814735999.097846,
+      "id" : "6325F220-9ECD-470A-95BA-24A21D3A5821",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "sauf que tu changes le texte et tu écris Mathieu Huguet 3D Tech Artist.",
+      "text" : "sauf que tu changes le texte et tu écris Mathieu Huguet 3D Tech Artist."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814736047.664207,
+      "id" : "DF1D5755-7E4E-4FF1-A2DF-2A038E145E7D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "aucun crop ne sera accepté.",
+      "text" : "aucun crop ne sera accepté."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814736066.19946,
+      "id" : "16198555-83A3-48EA-9032-1621706E5729",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ça peut aller dans le projet TMP ZenRay Meshes directement en termes de montage, etc.",
+      "text" : "Ça peut aller dans le projet TMP ZenRay Meshes directement en termes de montage, etc."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814736093.834346,
+      "id" : "8262343E-946E-4A17-AD42-A3D3BC3AC510",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "tu montes directement via ZenRay Edit, et si tu apprends des choses pendant le workflow, tu les consignes directement dans le skill, dans la section montage et ou autre. Et ZenRay Edit doit pouvoir comprendre comment fonctionne ZenRay SFX et ZenRay Motion Design. Normalement, c'est déjà consigné dans le skill, mais si jamais ça ne l'est pas, bah, tu dois le consigner directement.",
+      "text" : "tu montes directement via ZenRay Edit, et si tu apprends des choses pendant le workflow, tu les consignes directement dans le skill, dans la section montage et ou autre. Et ZenRay Edit doit pouvoir comprendre comment fonctionne ZenRay SFX et ZenRay Motion Design. Normalement, c'est déjà consigné dans le skill, mais si jamais ça ne l'est pas, bah, tu dois le consigner directement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814736185.580895,
+      "id" : "938A0B5D-8529-4DD5-ACA3-2E16A18ED1AB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "ne fais aucune erreur, fais un fichier de montage et de séquence, et à la fin, donc un .md, pour avoir un index mapping de tous les fichiers, etc. Et une fois que tu as fini, tu pushes directement dans ZenRay Assets tous les fichiers du coup qui seront index mappés à ZenRay Assets, et du coup tout ce montage va dans le projet ZenRay Meshes.",
+      "text" : "ne fais aucune erreur, fais un fichier de montage et de séquence, et à la fin, donc un .md, pour avoir un index mapping de tous les fichiers, etc. Et une fois que tu as fini, tu pushes directement dans ZenRay Assets tous les fichiers du coup qui seront index mappés à ZenRay Assets, et du coup tout ce montage va dans le projet ZenRay Meshes."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814736197.403674,
+      "id" : "BEC8C811-B976-467D-8D7E-7A57C92146E4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "mais je veux avoir rapidement ma vidéo en MP4 et en .move pour que ce soit compatible avec les réseaux Go.",
+      "text" : "mais je veux avoir rapidement ma vidéo en MP4 et en .move pour que ce soit compatible avec les réseaux Go."
     }
   ],
   "modes" : [
