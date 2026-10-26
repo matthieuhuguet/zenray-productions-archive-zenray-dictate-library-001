@@ -11479,6 +11479,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Voire, tu sais quoi, tu vas faire 9 itérations directement parce que ça prend trop de temps si",
       "text" : "Voire, tu sais quoi, tu vas faire 9 itérations directement parce que ça prend trop de temps si"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814731369.226299,
+      "id" : "B63004E0-2C99-40B5-9885-E9F284BD777E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu penses pas que c'est simplement un problème de build? Est-ce que tu es sûr que tu as build le code? Est-ce que par exemple, il y a un... Enfin, je sais pas, mais... Pourquoi il n'y a pas ma vidéo? Putain, tu me casses les couilles.",
+      "text" : "Est-ce que tu penses pas que c'est simplement un problème de build? Est-ce que tu es sûr que tu as build le code? Est-ce que par exemple, il y a un... Enfin, je sais pas, mais... Pourquoi il n'y a pas ma vidéo? Putain, tu me casses les couilles."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814731386.281375,
+      "id" : "7E591625-3A46-4E5F-9004-26D9F3469145",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il n'y a toujours pas un putain d'effet d'aberration chromatique. Je suis sûr que c'est un problème de build ou un problème tout con, mais je ne comprends pas pourquoi tu bugs autant, t'es trop con.",
+      "text" : "Il n'y a toujours pas un putain d'effet d'aberration chromatique. Je suis sûr que c'est un problème de build ou un problème tout con, mais je ne comprends pas pourquoi tu bugs autant, t'es trop con."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814731412.825723,
+      "id" : "A65EFBF0-04F2-4A6C-BDA9-BBD549EB6AE2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "À mon avis, c'était en plus, c'était le même problème sur le problème d'aberration chromatique. À la limite, je sais ce que tu vas faire. Tu vas rebuild l'application de zéro. Enfin, avec tout le code existant. Et à la limite, c'est peut-être un problème de Swift ou j'en sais rien, tu vois. Tu builds l'application dans un langage qui fonctionne, j'en sais rien.",
+      "text" : "À mon avis, c'était en plus, c'était le même problème sur le problème d'aberration chromatique. À la limite, je sais ce que tu vas faire. Tu vas rebuild l'application de zéro. Enfin, avec tout le code existant. Et à la limite, c'est peut-être un problème de Swift ou j'en sais rien, tu vois. Tu builds l'application dans un langage qui fonctionne, j'en sais rien."
     }
   ],
   "modes" : [
