@@ -11069,6 +11069,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Mais honnêtement, en fait, j'ai l'impression que je vais pas réussir. Hein. Parce que, en fait, tu vois, genre, tout à l'heure, je suis allé sur mon outil ZenRay Freelance. J'ai regardé quel studio. Je vois Crystal Dynamics 2 fois. Ubisoft 2 fois. Ubisoft 3 fois, ça me fait bugger. Je sais pas si c'est pas les mêmes offres. Il y a aussi des appels d'offres. Franchement, je comprends rien. J'en peux plus, en fait. J'ai l'impression que je vais pas réussir, en fait. J'ai l'impression que je vais vraiment pas réussir.",
       "text" : "Mais honnêtement, en fait, j'ai l'impression que je vais pas réussir. Hein. Parce que, en fait, tu vois, genre, tout à l'heure, je suis allé sur mon outil ZenRay Freelance. J'ai regardé quel studio. Je vois Crystal Dynamics 2 fois. Ubisoft 2 fois. Ubisoft 3 fois, ça me fait bugger. Je sais pas si c'est pas les mêmes offres. Il y a aussi des appels d'offres. Franchement, je comprends rien. J'en peux plus, en fait. J'ai l'impression que je vais pas réussir, en fait. J'ai l'impression que je vais vraiment pas réussir."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814727180.848871,
+      "id" : "94B232AE-5865-4F3B-BA68-A7D827FD904B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "À ce stade, j'aimerais que tu délègues à un agent Claude Haiku 5.5 max le fait de reprendre toutes les images qui ont été générées par le workflow et de faire en sorte d'avoir une vue dans un format 1.1, potentiellement upscalé en 2048, ou sinon en 1024 ou en 1080, peu importe. Ouais, en 1024p, ça peut être suffisant. Et donc, au format 1.1, l'évolution de la voiture et l'évolution de l'arbre. Je crois qu'on est à la V44 pour l'arbre, et pour la voiture, on était à la V470. Évidemment, toi, tu continues ton thread, donc tu bouges pas. Tandis que l'agent s'occupe de tout, et c'est Haiku 5.5 max qui me propose du coup deux form factors de vidéo, et chaque frame dure 0,25 secondes afin d'avoir 4 frames par image par rapport à l'évolution. Et du coup ça me crée deux MP4, s'il te plaît.",
+      "text" : "À ce stade, j'aimerais que tu délègues à un agent Claude Haiku 5.5 max le fait de reprendre toutes les images qui ont été générées par le workflow et de faire en sorte d'avoir une vue dans un format 1.1, potentiellement upscalé en 2048, ou sinon en 1024 ou en 1080, peu importe. Ouais, en 1024p, ça peut être suffisant. Et donc, au format 1.1, l'évolution de la voiture et l'évolution de l'arbre. Je crois qu'on est à la V44 pour l'arbre, et pour la voiture, on était à la V470. Évidemment, toi, tu continues ton thread, donc tu bouges pas. Tandis que l'agent s'occupe de tout, et c'est Haiku 5.5 max qui me propose du coup deux form factors de vidéo, et chaque frame dure 0,25 secondes afin d'avoir 4 frames par image par rapport à l'évolution. Et du coup ça me crée deux MP4, s'il te plaît."
     }
   ],
   "modes" : [
