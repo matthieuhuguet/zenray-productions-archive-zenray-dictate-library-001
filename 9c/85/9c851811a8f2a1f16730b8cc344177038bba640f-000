@@ -12039,6 +12039,56 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Pour la miniature, pour la miniature, on va simplement prendre la frame V470 et on va marquer modeling car, tu vois, tout simplement, avec le même effet motion que tu as utilisé pour Mathieu, tech artiste. Donc délègue à un agent cette tâche, comme ça tu fais les miniatures format 1.1, 2048 pixels.",
       "text" : "Pour la miniature, pour la miniature, on va simplement prendre la frame V470 et on va marquer modeling car, tu vois, tout simplement, avec le même effet motion que tu as utilisé pour Mathieu, tech artiste. Donc délègue à un agent cette tâche, comme ça tu fais les miniatures format 1.1, 2048 pixels."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814737107.376478,
+      "id" : "920AD39D-9248-418B-8B5C-21B399BCB665",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Fais un bon titre pour les réseaux sociaux qui donne de l'impact en soi.",
+      "text" : "Fais un bon titre pour les réseaux sociaux qui donne de l'impact en soi."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814737160.033307,
+      "id" : "585E10C1-0B3D-45A5-8B37-4AC0EF3F66AC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, mais un peu plus, genre moins storytelling. Enfin, ça peut être storytelling, mais c'est surtout, on veut que ce soit stylé, en fait. Enfin, on veut pas que ce soit stylé, on veut juste que ce soit un titre un peu normal, tu vois, sans prétention.",
+      "text" : "Non, mais un peu plus, genre moins storytelling. Enfin, ça peut être storytelling, mais c'est surtout, on veut que ce soit stylé, en fait. Enfin, on veut pas que ce soit stylé, on veut juste que ce soit un titre un peu normal, tu vois, sans prétention."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814737238.355097,
+      "id" : "32FF796C-55C6-4E4A-9D93-783E1828EF30",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et tu comprends rien, c'est pas learning the best methodology, c'est trying to learn best methodology. En fait, tu comprends pas ce que je veux dire ou quoi?",
+      "text" : "Et tu comprends rien, c'est pas learning the best methodology, c'est trying to learn best methodology. En fait, tu comprends pas ce que je veux dire ou quoi?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814737257.938215,
+      "id" : "EA373E68-2AFE-4A13-AF12-1E07619B481E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, maintenant t'as compris, maintenant fais un titre court ou alors mets un espace, tu vois.",
+      "text" : "Ok, maintenant t'as compris, maintenant fais un titre court ou alors mets un espace, tu vois."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814737262.539304,
+      "id" : "0D7848C7-3389-4B55-B022-5D0F54A898BE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "avec un titre et un sous-titre.",
+      "text" : "avec un titre et un sous-titre."
     }
   ],
   "modes" : [
