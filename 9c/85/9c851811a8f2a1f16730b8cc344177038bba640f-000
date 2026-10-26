@@ -11779,6 +11779,116 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Est-ce que tu peux surtout te focus sur me donner rapidement mes SFX avec le avec mon motion design et mon son sur la piste F, s'il te plaît, j'en ai besoin maintenant.",
       "text" : "Est-ce que tu peux surtout te focus sur me donner rapidement mes SFX avec le avec mon motion design et mon son sur la piste F, s'il te plaît, j'en ai besoin maintenant."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814734044.977112,
+      "id" : "9F6B5B0A-759C-41B3-BB88-4C75F4E55631",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, pareil, pour ce son, en fait, pour le son de la vidéo, il aurait fallu couper à 5 secondes. En fait, il aurait fallu couper la dernière seconde et faire un fade out pour être sûr de ne pas entendre la dernière note, et puis remixer, et puis me redonner le son. De toute manière, tu vas faire un panel dans ZenRay Motion Design où tu vas mettre tous les sons qu'on a déjà générés, tu vois. Comme ça, à l'avenir, ce sera plus simple à savoir. Et tu vas me faire des descriptions par rapport au contexte du projet dans lequel le SFX a été généré.",
+      "text" : "En fait, pareil, pour ce son, en fait, pour le son de la vidéo, il aurait fallu couper à 5 secondes. En fait, il aurait fallu couper la dernière seconde et faire un fade out pour être sûr de ne pas entendre la dernière note, et puis remixer, et puis me redonner le son. De toute manière, tu vas faire un panel dans ZenRay Motion Design où tu vas mettre tous les sons qu'on a déjà générés, tu vois. Comme ça, à l'avenir, ce sera plus simple à savoir. Et tu vas me faire des descriptions par rapport au contexte du projet dans lequel le SFX a été généré."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814734085.046122,
+      "id" : "918755E2-91E2-44A0-816A-DA60C57B7D03",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "tu utiliseras Galerie Rework avec la vue 0.3 épurée Studio. Comme ça, tu l'intègres directement dans ZenRay Motion Design.",
+      "text" : "tu utiliseras Galerie Rework avec la vue 0.3 épurée Studio. Comme ça, tu l'intègres directement dans ZenRay Motion Design."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814734095.451904,
+      "id" : "73BD3357-5E56-4BDC-A341-2200954D6FFF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais ça, tu le prompt stack et tu le feras après parce que là, pour l'instant, tu me redonnes surtout ma vidéo MP4.",
+      "text" : "Mais ça, tu le prompt stack et tu le feras après parce que là, pour l'instant, tu me redonnes surtout ma vidéo MP4."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814734185.884815,
+      "id" : "1C07F6E2-1148-4E2C-A850-0F3E492D4233",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Miyazaki et le héron.",
+      "text" : "Miyazaki et le héron."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814734447.982821,
+      "id" : "383BDFD5-1E7D-473D-BB85-6B91960ACE25",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'aimerais rajouter un son, et c'est celui de cette vidéo, et en fait c'est un son qui part de 0,2 secondes, alors ça part de 1,5 secondes, à 3 secondes.",
+      "text" : "J'aimerais rajouter un son, et c'est celui de cette vidéo, et en fait c'est un son qui part de 0,2 secondes, alors ça part de 1,5 secondes, à 3 secondes."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814734463.102309,
+      "id" : "B12A1221-A2DC-4B89-ADEE-6FF5FD1D780F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et il faut que je vérifie que le voice-over de la parole ne commence pas. Et le son, c'est Ghibli Note.",
+      "text" : "Et il faut que je vérifie que le voice-over de la parole ne commence pas. Et le son, c'est Ghibli Note."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814734497.731662,
+      "id" : "43604055-8258-40BD-AC41-7D4443B48A28",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et ça apparaît du coup dans le mixage sonore. Donc il faut que tu me refasses trois mixages sonores du coup, parce qu'il y a trois sons qui vont se superposer sur le premier son. Donc sur le premier son, je veux juste que tu me redonnes un MP3 ou un point wave par rapport au mixage désormais où on ajoute la note et on ajoute les deux anciens effets.",
+      "text" : "Et ça apparaît du coup dans le mixage sonore. Donc il faut que tu me refasses trois mixages sonores du coup, parce qu'il y a trois sons qui vont se superposer sur le premier son. Donc sur le premier son, je veux juste que tu me redonnes un MP3 ou un point wave par rapport au mixage désormais où on ajoute la note et on ajoute les deux anciens effets."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814734519.021975,
+      "id" : "F3D44820-3E48-45DC-BB88-575F85244EB4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et je préfère avoir trois propositions parce que ça me permet de choisir parfaitement le son que je veux. Et ensuite, on itérera uniquement sur F, sur la vidéo F. Mais ça, c'est après ma validation du nouveau",
+      "text" : "Et je préfère avoir trois propositions parce que ça me permet de choisir parfaitement le son que je veux. Et ensuite, on itérera uniquement sur F, sur la vidéo F. Mais ça, c'est après ma validation du nouveau"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814734618.159028,
+      "id" : "2B2B7816-0C44-463A-87F5-682AC1F187DD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais non, mais non, mais tu fais n'importe quoi. Je voulais juste le son de 1,5 à 3 secondes et vérifier qu'il n'y a pas de parole. T'as pas besoin de transcribe les 20 premières secondes. Qu'est-ce que tu manges?",
+      "text" : "Mais non, mais non, mais tu fais n'importe quoi. Je voulais juste le son de 1,5 à 3 secondes et vérifier qu'il n'y a pas de parole. T'as pas besoin de transcribe les 20 premières secondes. Qu'est-ce que tu manges?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814734711.893541,
+      "id" : "D118C8E8-A9C3-4218-9664-DE7F54F7067C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et de toute manière, je vais vérifier avec mon oreille. Donc, t'as même pas besoin de vérifier toi. Mais déjà, rien que là.",
+      "text" : "Et de toute manière, je vais vérifier avec mon oreille. Donc, t'as même pas besoin de vérifier toi. Mais déjà, rien que là."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814734728.098596,
+      "id" : "8A7D1731-D49D-4B85-8E35-2DE2E3B6D5C2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, il faut que tu recommences le mixage parce que la Ghibli note, normalement, elle arrive au début du son, pas à la fin. En fait, elle se mixe au niveau du début. Donc, il faut que tu refasses les trois propositions.",
+      "text" : "En fait, il faut que tu recommences le mixage parce que la Ghibli note, normalement, elle arrive au début du son, pas à la fin. En fait, elle se mixe au niveau du début. Donc, il faut que tu refasses les trois propositions."
     }
   ],
   "modes" : [
