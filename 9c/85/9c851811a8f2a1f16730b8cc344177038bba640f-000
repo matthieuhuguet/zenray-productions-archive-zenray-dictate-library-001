@@ -10539,6 +10539,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "harmonise et normalise le titre pour qu'il soit plus propre, notamment dans un projet qui va commencer par temp.",
       "text" : "harmonise et normalise le titre pour qu'il soit plus propre, notamment dans un projet qui va commencer par temp."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814719061.14836,
+      "id" : "0E6B6C68-1756-4BC0-AA5E-443361D1D3C4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "me faire 3 propositions de design par rapport à un rework complet de la vue galerie, notamment via les nouvelles politiques, de GT standard L et de GT ultra et de Literata.",
+      "text" : "me faire 3 propositions de design par rapport à un rework complet de la vue galerie, notamment via les nouvelles politiques, de GT standard L et de GT ultra et de Literata."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814719111.307891,
+      "id" : "53B773FF-0B24-4FC9-912F-D937DFAD8CD1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "notamment par rapport à l'existant, mais aussi via un nouveau design plus propre. Parce que là, toutes mes images, elles sont fit avec des bandes noires, et je trouve ça très moche au final. Mais j'aurais quand même voulu garder une vue alignée, peut-être avec 4 cases, ou enfin me proposer des sliders pour que je puisse modifier l'UI, mais essayer de faire l'UI la plus simple possible. Et faire une UI via les trois propositions, faire une UI ultra simple, la plus simple possible, faire une deuxième UI qui reprend l'existant, et faire une troisième version, et une proposition originale et d'innovation design.",
+      "text" : "notamment par rapport à l'existant, mais aussi via un nouveau design plus propre. Parce que là, toutes mes images, elles sont fit avec des bandes noires, et je trouve ça très moche au final. Mais j'aurais quand même voulu garder une vue alignée, peut-être avec 4 cases, ou enfin me proposer des sliders pour que je puisse modifier l'UI, mais essayer de faire l'UI la plus simple possible. Et faire une UI via les trois propositions, faire une UI ultra simple, la plus simple possible, faire une deuxième UI qui reprend l'existant, et faire une troisième version, et une proposition originale et d'innovation design."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814719146.605196,
+      "id" : "C4707B33-C03A-45F0-8C34-D32C7CF0C7D3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "À l'image du code validate dans ZenRay Motion, qui existe déjà dans une app, je veux que quand je passe sur le GIF ou sur le MP4, la vidéo se lise automatiquement. C'est une fonctionnalité que je trouve très pratique.",
+      "text" : "À l'image du code validate dans ZenRay Motion, qui existe déjà dans une app, je veux que quand je passe sur le GIF ou sur le MP4, la vidéo se lise automatiquement. C'est une fonctionnalité que je trouve très pratique."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814719166.107335,
+      "id" : "CB8CE728-7BA5-4B5B-9A60-B6E9C2B2CA5F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "coder puis proposer le mock-up.",
+      "text" : "coder puis proposer le mock-up."
     }
   ],
   "modes" : [
