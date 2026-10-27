@@ -13059,6 +13059,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "C'est juste que le texte est un petit peu trop pas assez zoomé.",
       "text" : "C'est juste que le texte est un petit peu trop pas assez zoomé."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814807883.11859,
+      "id" : "E0D55FB0-1835-4BD1-B5F0-DDE2BA1A8308",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non mais arrête tes conneries, à chaque fois que tu dis que c'est fermé, mais je postule en tant que freelance. Ah, tu me casses les couilles. C'est pas ce que je te demande. De toute manière, je t'ai demandé. C'est pas ce que je t'ai demandé. Enfin, bon, bref. Enfin. En fait, t'es trop pessimiste, tu vois. Tu dis tout le temps alerte bloquant. À la limite, il faudrait que t'enlèves. Après, c'est vrai que. Vu qu'ils recherchent un stagiaire, c'est pas exactement ça, mais bon. En fait, si tu veux, en tant que freelance, tu dois changer de posture en mode je postule et je m'adapte à eux, en mode je propose des services pour l'industrie du jeu vidéo, tu vois. C'est ça qui est différent, tu vois. C'est comme ça qu'on va faire de l'argent, tu vois. T'es pas assez businessman, hein. T'es vraiment trop con. Hein. Genre, un businessman, ça se ferme pas sur une lettre. C'est lui qui propose le business, tu vois. C'est lui qui propose le commerce. Moi, ce que je cherche, c'est des budgets, c'est de l'argent, tu vois. On cherche l'argent. L'argent, c'est la priorité numéro 1. Je te l'ai copié dans le chat. Donc, raisonne comme ça, s'il te plaît.",
+      "text" : "Non mais arrête tes conneries, à chaque fois que tu dis que c'est fermé, mais je postule en tant que freelance. Ah, tu me casses les couilles. C'est pas ce que je te demande. De toute manière, je t'ai demandé. C'est pas ce que je t'ai demandé. Enfin, bon, bref. Enfin. En fait, t'es trop pessimiste, tu vois. Tu dis tout le temps alerte bloquant. À la limite, il faudrait que t'enlèves. Après, c'est vrai que. Vu qu'ils recherchent un stagiaire, c'est pas exactement ça, mais bon. En fait, si tu veux, en tant que freelance, tu dois changer de posture en mode je postule et je m'adapte à eux, en mode je propose des services pour l'industrie du jeu vidéo, tu vois. C'est ça qui est différent, tu vois. C'est comme ça qu'on va faire de l'argent, tu vois. T'es pas assez businessman, hein. T'es vraiment trop con. Hein. Genre, un businessman, ça se ferme pas sur une lettre. C'est lui qui propose le business, tu vois. C'est lui qui propose le commerce. Moi, ce que je cherche, c'est des budgets, c'est de l'argent, tu vois. On cherche l'argent. L'argent, c'est la priorité numéro 1. Je te l'ai copié dans le chat. Donc, raisonne comme ça, s'il te plaît."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814808040.691267,
+      "id" : "A9AB1D9E-081E-4F13-98E6-D8E2B772319B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il y a un problème sur le téléchargement, ça me télécharge pas exactement. Ça me télécharge pas exactement le truc que je veux en fait. Enfin, ça me télécharge pas avec le style et la fonte dernière déjà sélectionnée. Ça me sélectionne l'ancien style. Donc il faut que tu corriges ce bug. Tu scannes le bouton de téléchargement PDF et que tu fasses pas d'erreur avec le petit bouton AI qui débloque un truc vs un autre truc. Donc code-moi ça.",
+      "text" : "Il y a un problème sur le téléchargement, ça me télécharge pas exactement. Ça me télécharge pas exactement le truc que je veux en fait. Enfin, ça me télécharge pas avec le style et la fonte dernière déjà sélectionnée. Ça me sélectionne l'ancien style. Donc il faut que tu corriges ce bug. Tu scannes le bouton de téléchargement PDF et que tu fasses pas d'erreur avec le petit bouton AI qui débloque un truc vs un autre truc. Donc code-moi ça."
     }
   ],
   "modes" : [
