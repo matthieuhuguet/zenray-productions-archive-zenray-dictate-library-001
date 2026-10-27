@@ -13869,6 +13869,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Et comme ça, j'obtiens une vidéo qui dure... Ah oui, c'est 0,125 secondes par image. Ou alors, tu peux mettre 0,1 seconde par image. Et du coup, ça fait 10 images par... 10 images par seconde où je vois l'évolution de la voiture et de l'itération. Go. Mais tu me le fais en format 2048. 2048 pixels au format 1.1. On a déjà fait une vidéo comme ça. Et tu me fais un index mapping. Et normalement, il y a déjà dans ZenRay Edit, au sub-agent que tu délègues pour faire la vidéo, normalement, il y a déjà des méthodologies qui permettent de produire une vidéo. Et tu me l'inscris évidemment dans le, bah, dans le même projet, c'est-à-dire le TMP de ZenRay Meshes.",
       "text" : "Et comme ça, j'obtiens une vidéo qui dure... Ah oui, c'est 0,125 secondes par image. Ou alors, tu peux mettre 0,1 seconde par image. Et du coup, ça fait 10 images par... 10 images par seconde où je vois l'évolution de la voiture et de l'itération. Go. Mais tu me le fais en format 2048. 2048 pixels au format 1.1. On a déjà fait une vidéo comme ça. Et tu me fais un index mapping. Et normalement, il y a déjà dans ZenRay Edit, au sub-agent que tu délègues pour faire la vidéo, normalement, il y a déjà des méthodologies qui permettent de produire une vidéo. Et tu me l'inscris évidemment dans le, bah, dans le même projet, c'est-à-dire le TMP de ZenRay Meshes."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814832398.649201,
+      "id" : "042D7DC3-10CF-4E6A-8593-525E1FBE7510",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai une question du coup, c'est pourquoi est-ce que t'as pas enregistré la dernière vidéo? Puisque la dernière vidéo était la galerie F, elle aurait dû être enregistrée dans Motion Design. Pourtant, quand je vais dans ZenRay Motion Design, sur l'app directement, et je vais dans Galerie Motion, bizarrement, je retrouve pas le motion qu'on avait, qui était censé être validé. Donc c'est bizarre. Normalement, parce que en fait ZenRay Sony plus PlayStation, t'aurais dû enregistrer le motion, mais tu l'as pas fait. Je comprends pas pourquoi. Après, j'aime bien ta vue actuellement de la galerie motion. En revanche, je pense que pour la pour le reste de l'interface, on devrait mettre plutôt l'iterata en fonte. C'est-à-dire les titres, on laisse en GT Ultra, mais pour tout le reste de l'interface, on met en literata, en regular. Et par contre, tout ce qui est dans les boutons, etc., tout ce qui est de l'UI ou des titres, etc., on met en GT Ultra. Mais par contre, ma vraie question, c'est pourquoi est-ce que il n'y a pas Sony F? Tu vois, il y a A, B, C, D, E, E, mais il n'y a pas le dernier qu'on a sauvegardé, donc c'est vraiment bizarre. Donc je sais pas pourquoi l'index tracking n'a pas suivi le fichier. Il faut absolument le résoudre.",
+      "text" : "J'ai une question du coup, c'est pourquoi est-ce que t'as pas enregistré la dernière vidéo? Puisque la dernière vidéo était la galerie F, elle aurait dû être enregistrée dans Motion Design. Pourtant, quand je vais dans ZenRay Motion Design, sur l'app directement, et je vais dans Galerie Motion, bizarrement, je retrouve pas le motion qu'on avait, qui était censé être validé. Donc c'est bizarre. Normalement, parce que en fait ZenRay Sony plus PlayStation, t'aurais dû enregistrer le motion, mais tu l'as pas fait. Je comprends pas pourquoi. Après, j'aime bien ta vue actuellement de la galerie motion. En revanche, je pense que pour la pour le reste de l'interface, on devrait mettre plutôt l'iterata en fonte. C'est-à-dire les titres, on laisse en GT Ultra, mais pour tout le reste de l'interface, on met en literata, en regular. Et par contre, tout ce qui est dans les boutons, etc., tout ce qui est de l'UI ou des titres, etc., on met en GT Ultra. Mais par contre, ma vraie question, c'est pourquoi est-ce que il n'y a pas Sony F? Tu vois, il y a A, B, C, D, E, E, mais il n'y a pas le dernier qu'on a sauvegardé, donc c'est vraiment bizarre. Donc je sais pas pourquoi l'index tracking n'a pas suivi le fichier. Il faut absolument le résoudre."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814832422.083492,
+      "id" : "AD41B01F-C9D0-4A44-9B0C-B3E7405C5ADC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En plus, on l'a validé plusieurs fois. Mais moi, ce que je veux dans l'application ZenRay Motion, c'est le code, hein, c'est pas forcément le tracking des vidéos MP4. C'est surtout le code qui permet d'afficher les assets et tous les motions, tu vois.",
+      "text" : "En plus, on l'a validé plusieurs fois. Mais moi, ce que je veux dans l'application ZenRay Motion, c'est le code, hein, c'est pas forcément le tracking des vidéos MP4. C'est surtout le code qui permet d'afficher les assets et tous les motions, tu vois."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814832923.610136,
+      "id" : "80A27905-D834-40B7-BBA6-75052871D506",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que pour la vidéo, tu peux simplement refaire, recompute la vidéo, mais je veux enlever toute l'UI, l'interface, je veux juste garder le truc en bas à gauche où ça met ZenRay car plus la version actuelle. Mais sinon, je veux supprimer tout le reste de l'interface que tu as créée qui sert à rien.",
+      "text" : "Est-ce que pour la vidéo, tu peux simplement refaire, recompute la vidéo, mais je veux enlever toute l'UI, l'interface, je veux juste garder le truc en bas à gauche où ça met ZenRay car plus la version actuelle. Mais sinon, je veux supprimer tout le reste de l'interface que tu as créée qui sert à rien."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814832957.334418,
+      "id" : "E6DCB48E-3E0B-4AB0-8D18-AA25261B3E52",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et par contre, à la fin, la frame de fin, donc je crois que c'est V586, elle reste pendant plusieurs secondes du coup. Elle reste pendant environ 2 secondes.",
+      "text" : "Et par contre, à la fin, la frame de fin, donc je crois que c'est V586, elle reste pendant plusieurs secondes du coup. Elle reste pendant environ 2 secondes."
     }
   ],
   "modes" : [
