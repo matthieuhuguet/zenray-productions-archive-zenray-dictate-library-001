@@ -12919,6 +12919,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Bon, anyway, de toute manière, on va envoyer la lettre. Il vaut mieux l'envoyer et ne rien recevoir plutôt que perdre un engagement. Donc, on va quand même l'envoyer. De toute façon, c'est pas toi qui prends les décisions, c'est moi. Et ça va le faire. Ça va le faire.",
       "text" : "Bon, anyway, de toute manière, on va envoyer la lettre. Il vaut mieux l'envoyer et ne rien recevoir plutôt que perdre un engagement. Donc, on va quand même l'envoyer. De toute façon, c'est pas toi qui prends les décisions, c'est moi. Et ça va le faire. Ça va le faire."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814806198.386068,
+      "id" : "D244DA8E-55F4-4700-8DD8-66AE1EABD5DA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "tout ce qui est dans une capsule carrée, tu mets en GT Ultra. Par contre, du coup, tous les titres, genre Unreal Engine, Houdini, etc., tu mets en Literata, donc en Literata Bold, à mon avis. En fait, tu mets quasi tout en Literata, sauf tout ce qui est dans un petit carré, ça tu mets en GT Ultra. Enfin, dans un petit carré ou dans une petite capsule, ça tu mets en GT Ultra. Les titres des projets, tu laisses en GT Ultra, mais tu passes en GT Ultra Bold. Et pareil, en fait, expérience, technical artist, etc. Ça, tout le reste, tu mets en Literata. Et du coup, en bold pour avoir la différence. En fait, au final, la seule chose qui sera en GT Ultra, c'est Mathieu Huguet au tout début. Tu peux mettre le passage Technical Artist Specializing in Houdini en GT Ultra. Et tout le reste sera en Literata, à part les petites capsules qui seront du coup en GT Ultra. Donc go, je vais te donner les trucs, le passage à mettre en GT Ultra.",
+      "text" : "tout ce qui est dans une capsule carrée, tu mets en GT Ultra. Par contre, du coup, tous les titres, genre Unreal Engine, Houdini, etc., tu mets en Literata, donc en Literata Bold, à mon avis. En fait, tu mets quasi tout en Literata, sauf tout ce qui est dans un petit carré, ça tu mets en GT Ultra. Enfin, dans un petit carré ou dans une petite capsule, ça tu mets en GT Ultra. Les titres des projets, tu laisses en GT Ultra, mais tu passes en GT Ultra Bold. Et pareil, en fait, expérience, technical artist, etc. Ça, tout le reste, tu mets en Literata. Et du coup, en bold pour avoir la différence. En fait, au final, la seule chose qui sera en GT Ultra, c'est Mathieu Huguet au tout début. Tu peux mettre le passage Technical Artist Specializing in Houdini en GT Ultra. Et tout le reste sera en Literata, à part les petites capsules qui seront du coup en GT Ultra. Donc go, je vais te donner les trucs, le passage à mettre en GT Ultra."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814806213.145603,
+      "id" : "072794AD-D71D-454F-A56F-0EBD754F3E89",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "N'oublie pas de mettre l'iterata en bold là où il faut pour que ce soit propre à lire.",
+      "text" : "N'oublie pas de mettre l'iterata en bold là où il faut pour que ce soit propre à lire."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814806267.861223,
+      "id" : "76C0E264-9AFC-441F-84CD-7CD731D9A81E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ne fais aucune erreur du coup. Ne fais vraiment aucune erreur, s'il te plaît.",
+      "text" : "Ne fais aucune erreur du coup. Ne fais vraiment aucune erreur, s'il te plaît."
     }
   ],
   "modes" : [
