@@ -13189,6 +13189,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "La scène n'est pas propre dans Houdini et aucun moyen de voir que tu avances vraiment. Donc s'il te plaît, continue de mettre des screens. Mais avance quoi, j'ai l'impression que tu fous rien depuis tout à l'heure.",
       "text" : "La scène n'est pas propre dans Houdini et aucun moyen de voir que tu avances vraiment. Donc s'il te plaît, continue de mettre des screens. Mais avance quoi, j'ai l'impression que tu fous rien depuis tout à l'heure."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814811710.473679,
+      "id" : "C08E2805-A883-4AB6-9C96-AD7D535FC701",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "relie les règles de ZenRay Meshes et relance une boucle propre pour avancer vraiment sur les formes et par rapport à une topologie propre. Tu as déjà suffisamment de méthodes pour faire proprement les choses et pour avancer radicalement jusqu'à 99,9% en fonction de la référence.",
+      "text" : "relie les règles de ZenRay Meshes et relance une boucle propre pour avancer vraiment sur les formes et par rapport à une topologie propre. Tu as déjà suffisamment de méthodes pour faire proprement les choses et pour avancer radicalement jusqu'à 99,9% en fonction de la référence."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814811791.798095,
+      "id" : "42AE8655-4312-4224-991E-4E6B3CFC1DC6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "à l'avenir, je veux pas que ça reprenne 5 minutes à chaque fois que je crée une cover letter. Là, tu as pris très exactement 4 minutes pour créer un PDF, alors que le skill ZenRay Edit devrait te permettre de le créer ultra vite, immédiatement. Donc, crée tous les fichiers et tous les scripts dans ZenRay Edit et consigne la règle afin que tu refasses plus jamais l'erreur, jamais. Je veux que la prochaine fois que je te demande de faire un PDF, et même que je te demande de faire quoi que ce soit que peut faire le skill ZenRay Edit, je veux que tu pré-génères tous les scripts qui font qu'il les génère en une seconde, tu vois, via des templates. C'était le but de ZenRay Edit. Donc, lance une délégation d'agent sur toutes les fonctionnalités de ZenRay Edit pour qu'il puisse les faire immédiatement, intégralement, et que tout soit rangé dans le skill en lui-même, sans à chaque fois recréer, réinventer la roue. Mais pour ça, il faut que le script soit impeccable et que ce soit la priorité numéro 1 du skill.",
+      "text" : "à l'avenir, je veux pas que ça reprenne 5 minutes à chaque fois que je crée une cover letter. Là, tu as pris très exactement 4 minutes pour créer un PDF, alors que le skill ZenRay Edit devrait te permettre de le créer ultra vite, immédiatement. Donc, crée tous les fichiers et tous les scripts dans ZenRay Edit et consigne la règle afin que tu refasses plus jamais l'erreur, jamais. Je veux que la prochaine fois que je te demande de faire un PDF, et même que je te demande de faire quoi que ce soit que peut faire le skill ZenRay Edit, je veux que tu pré-génères tous les scripts qui font qu'il les génère en une seconde, tu vois, via des templates. C'était le but de ZenRay Edit. Donc, lance une délégation d'agent sur toutes les fonctionnalités de ZenRay Edit pour qu'il puisse les faire immédiatement, intégralement, et que tout soit rangé dans le skill en lui-même, sans à chaque fois recréer, réinventer la roue. Mais pour ça, il faut que le script soit impeccable et que ce soit la priorité numéro 1 du skill."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814811838.40073,
+      "id" : "92D7026E-30E3-4923-91D5-C897FCE640BC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "délégation d'agent N par sub-agent en fonction du nombre de features. Mais ne lance pas non plus 50 sub-agents, parce que sinon ça, le budget en token va exploser, mais tu peux lancer des tokens par feature intelligente, tu vois. En mode, la feature PDF, la feature créer un HTML, la feature refaire un design, tu vois. Mais il y a énormément de choses. La feature, le motion design, la feature SFX, etc., etc., tu vois. Vérifiez aussi que ZenRay Edit prend bien en compte désormais les motion design et les SFX.",
+      "text" : "délégation d'agent N par sub-agent en fonction du nombre de features. Mais ne lance pas non plus 50 sub-agents, parce que sinon ça, le budget en token va exploser, mais tu peux lancer des tokens par feature intelligente, tu vois. En mode, la feature PDF, la feature créer un HTML, la feature refaire un design, tu vois. Mais il y a énormément de choses. La feature, le motion design, la feature SFX, etc., etc., tu vois. Vérifiez aussi que ZenRay Edit prend bien en compte désormais les motion design et les SFX."
     }
   ],
   "modes" : [
