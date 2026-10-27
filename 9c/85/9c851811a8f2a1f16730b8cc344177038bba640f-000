@@ -12809,6 +12809,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Ils ont peut-être besoin de quelqu'un qui postule en tant que freelance,",
       "text" : "Ils ont peut-être besoin de quelqu'un qui postule en tant que freelance,"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814804025.7857,
+      "id" : "F31D12CE-BCE4-4DF5-B0DA-B8DF1012FC60",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Attends, je vais donner ma lettre, et en fait, enfin, la lettre c'est juste un template, mais c'est juste qu'au lieu de me donner ligne de job comme ça, en fait tu m'écris directement le texte par rapport au truc, tu vois, comme ça on perd pas un temps fou.",
+      "text" : "Attends, je vais donner ma lettre, et en fait, enfin, la lettre c'est juste un template, mais c'est juste qu'au lieu de me donner ligne de job comme ça, en fait tu m'écris directement le texte par rapport au truc, tu vois, comme ça on perd pas un temps fou."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814804060.407936,
+      "id" : "B54D125C-E5BA-441C-A17B-27FE973F6BCB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais non, j'ai pas besoin que t'écrives toute la lettre, j'ai juste besoin que t'écrives juste la ligne. T'as rien compris. T'es complètement con.",
+      "text" : "Mais non, j'ai pas besoin que t'écrives toute la lettre, j'ai juste besoin que t'écrives juste la ligne. T'as rien compris. T'es complètement con."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814804072.679984,
+      "id" : "9DE425A3-5641-4DA3-947A-528D47F060C6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est juste une ligne qui est déjà écrite par rapport à leur contexte, et ensuite tu me dis qu'est-ce que fait le studio. Allez, concentre-toi s'il te plaît.",
+      "text" : "C'est juste une ligne qui est déjà écrite par rapport à leur contexte, et ensuite tu me dis qu'est-ce que fait le studio. Allez, concentre-toi s'il te plaît."
     }
   ],
   "modes" : [
