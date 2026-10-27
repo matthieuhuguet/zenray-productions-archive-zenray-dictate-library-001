@@ -12179,6 +12179,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Maintenant, relance le cron toutes les minutes pour itérer sur la voiture jusqu'à ce qu'elle soit parfaite. Il y a beaucoup de travail à faire.",
       "text" : "Maintenant, relance le cron toutes les minutes pour itérer sur la voiture jusqu'à ce qu'elle soit parfaite. Il y a beaucoup de travail à faire."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814752056.108675,
+      "id" : "C03334A3-1B14-4756-99F1-5BBD104966F0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je me posais la question par rapport à l'Afrique. On dit souvent que c'est un des plus gros territoires au monde et qui révèle le plus de ressources. Mais est-ce que c'est vrai? Et au-delà de ça, finalement, si tu voulais commencer un business en Afrique, dû aux tensions politiques, finalement, est-ce que ce serait pas plus dangereux que faire un business, par exemple, en Europe ou aux États-Unis? Parfois, la figure de l'entrepreneur, elle va un petit peu regarder les cartes, mais en 2026, pour un créateur technologique, donc qui maîtrise la 3D et tous les aspects du game development, où est-ce que tu axerais ton portfolio et ton arsenal de compétences pour faire vraiment de l'argent, on va dire de 2026 à 2030, d'une manière très intelligente et de manière très stratège, sans non plus te fatiguer énormément chaque jour. Enfin, tu peux te fatiguer d'un point de vue intellectuel, jamais physique, parce que sinon tu atteins ton corps. Et tu réfléchis aussi à un mode de vie qui est globalement sain, tu vois. En mode du sport, une bonne alimentation, du sommeil et des relations sociales. Même si moi, j'ai pas forcément besoin de beaucoup de relations sociales, c'est mon quatrième pilier, tu vois. Mais c'est pas le plus important. Le plus important pour moi, je dirais, c'est trouver du sens dans mon travail. Mais c'est surtout, enfin, en deuxième, je dirais, c'est l'aspect santé, tu vois. Mais bon, moi, je résume souvent ça en mode sport, alimentation, sommeil, relationnel. Et le numéro un, on va dire que ce serait l'aspect culturel et le fait de trouver du sens dans son travail. Je pense que c'est pas mal utile, ça.",
+      "text" : "Je me posais la question par rapport à l'Afrique. On dit souvent que c'est un des plus gros territoires au monde et qui révèle le plus de ressources. Mais est-ce que c'est vrai? Et au-delà de ça, finalement, si tu voulais commencer un business en Afrique, dû aux tensions politiques, finalement, est-ce que ce serait pas plus dangereux que faire un business, par exemple, en Europe ou aux États-Unis? Parfois, la figure de l'entrepreneur, elle va un petit peu regarder les cartes, mais en 2026, pour un créateur technologique, donc qui maîtrise la 3D et tous les aspects du game development, où est-ce que tu axerais ton portfolio et ton arsenal de compétences pour faire vraiment de l'argent, on va dire de 2026 à 2030, d'une manière très intelligente et de manière très stratège, sans non plus te fatiguer énormément chaque jour. Enfin, tu peux te fatiguer d'un point de vue intellectuel, jamais physique, parce que sinon tu atteins ton corps. Et tu réfléchis aussi à un mode de vie qui est globalement sain, tu vois. En mode du sport, une bonne alimentation, du sommeil et des relations sociales. Même si moi, j'ai pas forcément besoin de beaucoup de relations sociales, c'est mon quatrième pilier, tu vois. Mais c'est pas le plus important. Le plus important pour moi, je dirais, c'est trouver du sens dans mon travail. Mais c'est surtout, enfin, en deuxième, je dirais, c'est l'aspect santé, tu vois. Mais bon, moi, je résume souvent ça en mode sport, alimentation, sommeil, relationnel. Et le numéro un, on va dire que ce serait l'aspect culturel et le fait de trouver du sens dans son travail. Je pense que c'est pas mal utile, ça."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814752068.667935,
+      "id" : "C4FA50F7-7079-4A94-9AAA-9357ACCD4A43",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donne-moi 3 paragraphes max.",
+      "text" : "Donne-moi 3 paragraphes max."
     }
   ],
   "modes" : [
