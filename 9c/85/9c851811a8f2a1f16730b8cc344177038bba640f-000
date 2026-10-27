@@ -12949,6 +12949,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Ne fais aucune erreur du coup. Ne fais vraiment aucune erreur, s'il te plaît.",
       "text" : "Ne fais aucune erreur du coup. Ne fais vraiment aucune erreur, s'il te plaît."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814806696.807951,
+      "id" : "690021CB-8344-4DC6-8058-475CA6586043",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, parce qu'en fait, toutes les littératas que tu as mises, elles sont à 700, donc je sais pas, ça doit être un bold, mais en fait, c'était plutôt un médium qu'il aurait fallu mettre, tu vois. Voire un régular. Un régular aurait été bien déjà, mais je pense que tu peux mettre médium. Essaie de tester d'abord littérata médium et ensuite on verra. Mais là, en tout cas, le bold est très très moche. D'ailleurs, pareil sur le Mathieu Huguet en bold. À mon avis, tu vas pas mettre un bold, hein, tu vas plutôt mettre un médium.",
+      "text" : "Non, parce qu'en fait, toutes les littératas que tu as mises, elles sont à 700, donc je sais pas, ça doit être un bold, mais en fait, c'était plutôt un médium qu'il aurait fallu mettre, tu vois. Voire un régular. Un régular aurait été bien déjà, mais je pense que tu peux mettre médium. Essaie de tester d'abord littérata médium et ensuite on verra. Mais là, en tout cas, le bold est très très moche. D'ailleurs, pareil sur le Mathieu Huguet en bold. À mon avis, tu vas pas mettre un bold, hein, tu vas plutôt mettre un médium."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814806818.759505,
+      "id" : "0DC06E0F-0BAF-4E6C-A8DC-BB1E2A959BA8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Là, je pense que ce qu'il faudrait focus, c'est vraiment l'avant du capot tout en maintenant le cron. Mais compare vraiment les références et tout. Parce que j'ai l'impression qu'en termes de components, t'as pas exactement compris. Et t'as aussi à... Comment dire ? Au fur et à mesure, en fait, t'as supprimé des vues dans l'éditeur pour que la modélisation s'affine, en fait. Du coup, en fait, il y a encore des couches ou sous-couches qui se parallélisent. Enfin, qui se... Comment dire ? Dont les overlaps se touchent parce que t'as pas supprimé certaines faces. Et en fait, t'as besoin de supprimer certaines faces au fur et à mesure.",
+      "text" : "Là, je pense que ce qu'il faudrait focus, c'est vraiment l'avant du capot tout en maintenant le cron. Mais compare vraiment les références et tout. Parce que j'ai l'impression qu'en termes de components, t'as pas exactement compris. Et t'as aussi à... Comment dire ? Au fur et à mesure, en fait, t'as supprimé des vues dans l'éditeur pour que la modélisation s'affine, en fait. Du coup, en fait, il y a encore des couches ou sous-couches qui se parallélisent. Enfin, qui se... Comment dire ? Dont les overlaps se touchent parce que t'as pas supprimé certaines faces. Et en fait, t'as besoin de supprimer certaines faces au fur et à mesure."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814806984.48574,
+      "id" : "00F86AAB-B511-42C8-B31E-251C944F08C5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Probablement qu'on pourrait zoomer un tout petit peu plus cette page sur le site web en vue 100%. En termes de largeur notamment, je pense qu'on peut augmenter de 1,25 voire 1,33 la largeur actuelle, tout en maintenant les choses de manière très propre. Il y a juste une seule chose qui me dérange, c'est l'affichage des projets en termes de, en termes de bold. En fait, tu as mis font weight 700, alors qu'en fait, encore une fois, c'était 500 max. Et applique-le aussi à Mathieu Huguet, parce que à mon avis, Mathieu Huguet est un peu trop gros. Ah non, en fait, Mathieu Huguet, ça va, parce que je vois qu'il est actuellement en GT ultra régular à 400 en termes de weight. Donc, en fait, ça va, c'est très bien. Par contre, entre Aix-en-Provence Remote et Open ton contract and freelance, il n'y a pas le même espace que en dessous avec la ligne Technical Artist Specializing in Houdini. Donc en fait, j'aurais aimé que tu, que tu gardes le même espace pour toutes ces informations. En fait, chaque information doit être vraiment bien espacée. Pareil pour Unreal Engine. Et en dessous, les petites pastilles, tu vois, il n'y a plus un espace vraiment parfait. Il faut vraiment que chaque espace soit... Il y ait vraiment de l'espace, en fait, et que ce soit très millimétré et très, très, très bien fait. Enfin, en termes de UI impeccable. Donc voilà ce qu'il reste à faire par rapport à tous mes feedbacks.",
+      "text" : "Probablement qu'on pourrait zoomer un tout petit peu plus cette page sur le site web en vue 100%. En termes de largeur notamment, je pense qu'on peut augmenter de 1,25 voire 1,33 la largeur actuelle, tout en maintenant les choses de manière très propre. Il y a juste une seule chose qui me dérange, c'est l'affichage des projets en termes de, en termes de bold. En fait, tu as mis font weight 700, alors qu'en fait, encore une fois, c'était 500 max. Et applique-le aussi à Mathieu Huguet, parce que à mon avis, Mathieu Huguet est un peu trop gros. Ah non, en fait, Mathieu Huguet, ça va, parce que je vois qu'il est actuellement en GT ultra régular à 400 en termes de weight. Donc, en fait, ça va, c'est très bien. Par contre, entre Aix-en-Provence Remote et Open ton contract and freelance, il n'y a pas le même espace que en dessous avec la ligne Technical Artist Specializing in Houdini. Donc en fait, j'aurais aimé que tu, que tu gardes le même espace pour toutes ces informations. En fait, chaque information doit être vraiment bien espacée. Pareil pour Unreal Engine. Et en dessous, les petites pastilles, tu vois, il n'y a plus un espace vraiment parfait. Il faut vraiment que chaque espace soit... Il y ait vraiment de l'espace, en fait, et que ce soit très millimétré et très, très, très bien fait. Enfin, en termes de UI impeccable. Donc voilà ce qu'il reste à faire par rapport à tous mes feedbacks."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814807166.61477,
+      "id" : "C35CDA03-5A33-46E2-86C8-FC6DFC8DC410",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais du coup, je comprends pas. Qu'est-ce que je dois faire? Qu'est-ce que je dois faire en fait? Je réponds non à toutes les questions en fait. Attends, je vais te donner toutes les futures questions, tu vas y répondre dans l'ordre. Ah putain. Attends. En fait, j'ai du mal à répondre à partir de income expectations.",
+      "text" : "Mais du coup, je comprends pas. Qu'est-ce que je dois faire? Qu'est-ce que je dois faire en fait? Je réponds non à toutes les questions en fait. Attends, je vais te donner toutes les futures questions, tu vas y répondre dans l'ordre. Ah putain. Attends. En fait, j'ai du mal à répondre à partir de income expectations."
     }
   ],
   "modes" : [
