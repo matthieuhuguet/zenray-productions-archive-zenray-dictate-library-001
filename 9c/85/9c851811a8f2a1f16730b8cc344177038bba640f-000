@@ -12899,6 +12899,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Le problème, c'est qu'actuellement, tu l'as pas dit dans la lettre 1, tu vois. Ou alors, tu l'as dit, et dans ce cas-là, stop et arrête-toi, mais... Mais il manque vraiment ce genre de ligne, tu vois, dans les lettres.",
       "text" : "Le problème, c'est qu'actuellement, tu l'as pas dit dans la lettre 1, tu vois. Ou alors, tu l'as dit, et dans ce cas-là, stop et arrête-toi, mais... Mais il manque vraiment ce genre de ligne, tu vois, dans les lettres."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814805517.052011,
+      "id" : "06529302-643F-48CD-A9A6-13972FD6FDC6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "À ton avis, du coup, il faut pas dire comment dire. À ton avis, est-ce qu'il faut dire je recherche parce que là, en fait, le problème c'est qu'à chaque fois ils vont chercher quelqu'un avec 5 ans minimum, tu vois. Donc dans ce cas-là, je postule pas, tu vois. C'est plus une candidature spontanée, tu vois. Enfin, ça devient une candidature spontanée par rapport. Ah, je sais pas, c'est compliqué.",
+      "text" : "À ton avis, du coup, il faut pas dire comment dire. À ton avis, est-ce qu'il faut dire je recherche parce que là, en fait, le problème c'est qu'à chaque fois ils vont chercher quelqu'un avec 5 ans minimum, tu vois. Donc dans ce cas-là, je postule pas, tu vois. C'est plus une candidature spontanée, tu vois. Enfin, ça devient une candidature spontanée par rapport. Ah, je sais pas, c'est compliqué."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814805539.477657,
+      "id" : "10C4D081-1E5B-4DC8-9D2B-1568B48C6310",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bon, anyway, de toute manière, on va envoyer la lettre. Il vaut mieux l'envoyer et ne rien recevoir plutôt que perdre un engagement. Donc, on va quand même l'envoyer. De toute façon, c'est pas toi qui prends les décisions, c'est moi. Et ça va le faire. Ça va le faire.",
+      "text" : "Bon, anyway, de toute manière, on va envoyer la lettre. Il vaut mieux l'envoyer et ne rien recevoir plutôt que perdre un engagement. Donc, on va quand même l'envoyer. De toute façon, c'est pas toi qui prends les décisions, c'est moi. Et ça va le faire. Ça va le faire."
     }
   ],
   "modes" : [
