@@ -13779,6 +13779,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Et toi, tu continues de consigner du coup dans le skill tous les outils que tu développes et toutes les choses et tout. N'hésite pas à réutiliser les choses qui sont déjà existantes aussi et à améliorer les outils internes.",
       "text" : "Et toi, tu continues de consigner du coup dans le skill tous les outils que tu développes et toutes les choses et tout. N'hésite pas à réutiliser les choses qui sont déjà existantes aussi et à améliorer les outils internes."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814826411.679462,
+      "id" : "437C4961-B6BB-46B5-97A6-1648B00BBE6C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Attends, du coup, est-ce que je pourrais pas te donner un fil un fil de fer, par exemple, blanc, rouge à la limite, ou jaune. Oui. Bref, on s'en fout, parce qu'on pourrait faire un masque dessus. Et ça a pris toute sa place, elle s'est éloignée de ses amis. Et comme ça, ça crée une nouvelle méthode de méthodologie où tu peux reproduire à 0,99 la méthodologie, le wireframe actuel depuis l'image. Et puis,",
+      "text" : "Attends, du coup, est-ce que je pourrais pas te donner un fil un fil de fer, par exemple, blanc, rouge à la limite, ou jaune. Oui. Bref, on s'en fout, parce qu'on pourrait faire un masque dessus. Et ça a pris toute sa place, elle s'est éloignée de ses amis. Et comme ça, ça crée une nouvelle méthode de méthodologie où tu peux reproduire à 0,99 la méthodologie, le wireframe actuel depuis l'image. Et puis,"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814826555.744053,
+      "id" : "BDE887B4-6AF8-4E70-8361-86A5E9216767",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai une idée simplement sur la ligne d'ajout pour la topologie. En fait, il faudrait simplement dire un truc du genre wireframe fin qui symbolise la topologie, mais par contre, tous les wireframes seraient en rouge vif, comme ça, ça permet... comme ça, ça permet directement de faire une méthodologie sur l'outil ZenRay Meshes qui permettrait de reproduire avec une précision mathématique l'effet wireframe. Mais en soi, j'ai vraiment juste à dire, par exemple, fais une topologie parfaite comme l'aurait fait un texte artiste senior et l'IA, y a pas trop de différence dans le prompting. De la topologie en soi.",
+      "text" : "J'ai une idée simplement sur la ligne d'ajout pour la topologie. En fait, il faudrait simplement dire un truc du genre wireframe fin qui symbolise la topologie, mais par contre, tous les wireframes seraient en rouge vif, comme ça, ça permet... comme ça, ça permet directement de faire une méthodologie sur l'outil ZenRay Meshes qui permettrait de reproduire avec une précision mathématique l'effet wireframe. Mais en soi, j'ai vraiment juste à dire, par exemple, fais une topologie parfaite comme l'aurait fait un texte artiste senior et l'IA, y a pas trop de différence dans le prompting. De la topologie en soi."
     }
   ],
   "modes" : [
