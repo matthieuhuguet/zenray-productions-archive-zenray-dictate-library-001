@@ -12989,6 +12989,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Mais du coup, je comprends pas. Qu'est-ce que je dois faire? Qu'est-ce que je dois faire en fait? Je réponds non à toutes les questions en fait. Attends, je vais te donner toutes les futures questions, tu vas y répondre dans l'ordre. Ah putain. Attends. En fait, j'ai du mal à répondre à partir de income expectations.",
       "text" : "Mais du coup, je comprends pas. Qu'est-ce que je dois faire? Qu'est-ce que je dois faire en fait? Je réponds non à toutes les questions en fait. Attends, je vais te donner toutes les futures questions, tu vas y répondre dans l'ordre. Ah putain. Attends. En fait, j'ai du mal à répondre à partir de income expectations."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814807455.054068,
+      "id" : "A325AA0C-4929-4BB3-9282-58B466308451",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Tu peux aller chercher les trois jeux que j'ai. Et c'est chiant, putain. Ça me prend un temps fou. Mais non, mais c'est pas normal que ça prenne un temps de temps. Enfin, les mecs sont fous, hein. Non. De toute façon, ok, bon allez. Hop, vas-y. C'est bon. C'est pareil, Dieu. Ah, adapt to new split view. Ok, bah c'est bon. Marqué comme envoyé.",
+      "text" : "Tu peux aller chercher les trois jeux que j'ai. Et c'est chiant, putain. Ça me prend un temps fou. Mais non, mais c'est pas normal que ça prenne un temps de temps. Enfin, les mecs sont fous, hein. Non. De toute façon, ok, bon allez. Hop, vas-y. C'est bon. C'est pareil, Dieu. Ah, adapt to new split view. Ok, bah c'est bon. Marqué comme envoyé."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814807554.725026,
+      "id" : "2FDCE569-92DE-4A40-97DA-A95FB0979850",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'avais déjà postulé il y a... Donc vas-y, donne-moi le template des... du truc. Mais j'avais déjà postulé il y a 45 jours, peut-être le noter dans ma lettre, et ensuite noter le truc de freelance, systématiquement, plus le truc de... Donc la phrase de freelance systématiquement, plus... plus la ligne du studio, mais ça normalement tu l'as déjà.",
+      "text" : "J'avais déjà postulé il y a... Donc vas-y, donne-moi le template des... du truc. Mais j'avais déjà postulé il y a 45 jours, peut-être le noter dans ma lettre, et ensuite noter le truc de freelance, systématiquement, plus le truc de... Donc la phrase de freelance systématiquement, plus... plus la ligne du studio, mais ça normalement tu l'as déjà."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814807559.235707,
+      "id" : "00C794BC-4850-497D-AE2D-629E8FAAC27A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bref, il faut être clair, quoi.",
+      "text" : "Bref, il faut être clair, quoi."
     }
   ],
   "modes" : [
