@@ -13179,6 +13179,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "j'ai besoin d'une cover letter, dans le même style que mon CV. Fais-la hyper rapidement au format PDF.",
       "text" : "j'ai besoin d'une cover letter, dans le même style que mon CV. Fais-la hyper rapidement au format PDF."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814811537.193688,
+      "id" : "E5765B27-593C-4E4A-A200-025090AD387E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "La scène n'est pas propre dans Houdini et aucun moyen de voir que tu avances vraiment. Donc s'il te plaît, continue de mettre des screens. Mais avance quoi, j'ai l'impression que tu fous rien depuis tout à l'heure.",
+      "text" : "La scène n'est pas propre dans Houdini et aucun moyen de voir que tu avances vraiment. Donc s'il te plaît, continue de mettre des screens. Mais avance quoi, j'ai l'impression que tu fous rien depuis tout à l'heure."
     }
   ],
   "modes" : [
