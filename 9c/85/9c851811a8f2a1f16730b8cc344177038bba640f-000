@@ -13159,6 +13159,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Je crois juste qu'au niveau des lettres, t'as pas régénéré le moment où... je te l'ai dit tout à l'heure dans la conversation, mais j'ai oublié depuis. J'essaie de grepper exactement mon prompt. Mais je t'avais dit justement de... Bah de mettre dans la lettre une ligne où tu dis uniquement que tu travailles en tant que freelance, tiens. C'est juste une ligne à rajouter dans toutes les lettres, du coup, s'il te plaît. Parce que, en fait... Ouais, en fait, j'ai pas la preuve que t'as vraiment effectué mon prompt. Dans les lettres, je vois pas vraiment de mention qui disent que je suis freelance.",
       "text" : "Je crois juste qu'au niveau des lettres, t'as pas régénéré le moment où... je te l'ai dit tout à l'heure dans la conversation, mais j'ai oublié depuis. J'essaie de grepper exactement mon prompt. Mais je t'avais dit justement de... Bah de mettre dans la lettre une ligne où tu dis uniquement que tu travailles en tant que freelance, tiens. C'est juste une ligne à rajouter dans toutes les lettres, du coup, s'il te plaît. Parce que, en fait... Ouais, en fait, j'ai pas la preuve que t'as vraiment effectué mon prompt. Dans les lettres, je vois pas vraiment de mention qui disent que je suis freelance."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814810987.283609,
+      "id" : "AA0E84D3-9FF6-4A52-B233-5160AD9EAFB8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "À mon avis, il faut changer le... le line for my letter. Il faut vraiment axer en mode what about you, tu vois. En mode vraiment focus sur eux, ce qu'ils attendent. J'imagine que c'est déjà ce que tu as écrit, mais en fait, il faut passer d'une lettre où on parle de nous-mêmes, surtout à ce que le studio a et qu'est-ce qu'on peut lui apporter. Tu vois. Faut pas penser à soi, faut penser aux autres.",
+      "text" : "À mon avis, il faut changer le... le line for my letter. Il faut vraiment axer en mode what about you, tu vois. En mode vraiment focus sur eux, ce qu'ils attendent. J'imagine que c'est déjà ce que tu as écrit, mais en fait, il faut passer d'une lettre où on parle de nous-mêmes, surtout à ce que le studio a et qu'est-ce qu'on peut lui apporter. Tu vois. Faut pas penser à soi, faut penser aux autres."
     }
   ],
   "modes" : [
