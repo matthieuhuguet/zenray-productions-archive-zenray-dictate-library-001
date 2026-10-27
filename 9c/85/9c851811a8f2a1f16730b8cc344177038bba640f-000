@@ -13229,6 +13229,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Bah relance le cron. Qu'est-ce que tu attends?",
       "text" : "Bah relance le cron. Qu'est-ce que tu attends?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814812237.663524,
+      "id" : "E3C6BED0-805E-49FC-887C-AB421606337D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je sais pas, je suis pas convaincu depuis quelques temps par ce que tu me proposes. En fait, j'ai l'impression que je comprends rien à ce que tu racontes. Et puis tes phrases, elles sont un peu trop longues. Est-ce que tu pourrais simplifier Enfin, après, je comprends ce que tu dis, mais c'est un peu générique, quoi. Surtout que tu... En fait, faudrait plutôt que la ligne pour la lettre, elle allie la vue d'ensemble du studio et ce qu'il cherche, tu vois, ce serait plus intelligent. Et tout en ayant une espèce de forme de simplicité sur l'élégance et le fait de bien choisir les mots, tu vois, pour les convaincre ou les séduire.",
+      "text" : "Je sais pas, je suis pas convaincu depuis quelques temps par ce que tu me proposes. En fait, j'ai l'impression que je comprends rien à ce que tu racontes. Et puis tes phrases, elles sont un peu trop longues. Est-ce que tu pourrais simplifier Enfin, après, je comprends ce que tu dis, mais c'est un peu générique, quoi. Surtout que tu... En fait, faudrait plutôt que la ligne pour la lettre, elle allie la vue d'ensemble du studio et ce qu'il cherche, tu vois, ce serait plus intelligent. Et tout en ayant une espèce de forme de simplicité sur l'élégance et le fait de bien choisir les mots, tu vois, pour les convaincre ou les séduire."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814812400.180064,
+      "id" : "AB9163E4-3ED7-4308-882E-4E1F01879267",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Maintenant, réponds aux questions.",
+      "text" : "Maintenant, réponds aux questions."
     }
   ],
   "modes" : [
