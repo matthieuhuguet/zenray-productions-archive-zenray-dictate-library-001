@@ -12869,6 +12869,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Et n'hésite pas à faire des web search hein, pour ne pas te tromper.",
       "text" : "Et n'hésite pas à faire des web search hein, pour ne pas te tromper."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814805220.105926,
+      "id" : "3A58B584-F575-43F7-BA55-85E85761C183",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ouais, mais je pense que t'es trop catégorique. C'est-à-dire que, en fait, ce qu'il faudrait juste ajouter, c'est que c'est est-ce que actuellement ma lettre, elle parle du fait que je peux intervenir en tant que freelance? Et si c'est pas le cas, eh ben il faut être très clair sur le fait de d'ajouter cette ligne. En fait, je suis quasi sûr que je vais pouvoir débloquer des budgets si j'arrive en mode bonjour, je recherche du travail en tant que freelance. Et comme ça, ils auront beaucoup moins de démarches à faire. Donc, c'est comme ça qu'on va faire.",
+      "text" : "Ouais, mais je pense que t'es trop catégorique. C'est-à-dire que, en fait, ce qu'il faudrait juste ajouter, c'est que c'est est-ce que actuellement ma lettre, elle parle du fait que je peux intervenir en tant que freelance? Et si c'est pas le cas, eh ben il faut être très clair sur le fait de d'ajouter cette ligne. En fait, je suis quasi sûr que je vais pouvoir débloquer des budgets si j'arrive en mode bonjour, je recherche du travail en tant que freelance. Et comme ça, ils auront beaucoup moins de démarches à faire. Donc, c'est comme ça qu'on va faire."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814805315.622668,
+      "id" : "90FEBE33-4377-4E2F-B801-15338E677BC1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Maintenant, revenons à la lettre. Et je pense qu'on va ajouter une ligne dans ce style. On va ajouter une ligne dans ce style parce que ça peut débloquer pas mal de choses en termes de contrat. Peut-être dire je peux gérer les missions à partir de ma propre structure ou je sais pas trop exactement quoi dire, mais en fait faut ajouter ça à la lettre 1 du coup qu'on a validé tout à l'heure, qui était du coup parfaite. Mais du coup le problème c'est qu'il faut que tu régénères toutes les lettres et que tu déploies directement sur ZenRay Freelance. Donc vas-y go, fais-moi ça, sans te tromper et sans créer de la merde.",
+      "text" : "Maintenant, revenons à la lettre. Et je pense qu'on va ajouter une ligne dans ce style. On va ajouter une ligne dans ce style parce que ça peut débloquer pas mal de choses en termes de contrat. Peut-être dire je peux gérer les missions à partir de ma propre structure ou je sais pas trop exactement quoi dire, mais en fait faut ajouter ça à la lettre 1 du coup qu'on a validé tout à l'heure, qui était du coup parfaite. Mais du coup le problème c'est qu'il faut que tu régénères toutes les lettres et que tu déploies directement sur ZenRay Freelance. Donc vas-y go, fais-moi ça, sans te tromper et sans créer de la merde."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814805332.373045,
+      "id" : "F0D799F8-6080-49C9-B694-D9B5929BEF0F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Le problème, c'est qu'actuellement, tu l'as pas dit dans la lettre 1, tu vois. Ou alors, tu l'as dit, et dans ce cas-là, stop et arrête-toi, mais... Mais il manque vraiment ce genre de ligne, tu vois, dans les lettres.",
+      "text" : "Le problème, c'est qu'actuellement, tu l'as pas dit dans la lettre 1, tu vois. Ou alors, tu l'as dit, et dans ce cas-là, stop et arrête-toi, mais... Mais il manque vraiment ce genre de ligne, tu vois, dans les lettres."
     }
   ],
   "modes" : [
