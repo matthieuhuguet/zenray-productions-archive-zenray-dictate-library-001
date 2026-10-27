@@ -12799,6 +12799,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Faut changer du coup, mettre tout, tous les titres en GT Ultra et tout le reste de lui en GT Standard L.",
       "text" : "Faut changer du coup, mettre tout, tous les titres en GT Ultra et tout le reste de lui en GT Standard L."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814803808.810715,
+      "id" : "48D93303-9377-4651-BD26-D42DCCD0B31B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ils ont peut-être besoin de quelqu'un qui postule en tant que freelance,",
+      "text" : "Ils ont peut-être besoin de quelqu'un qui postule en tant que freelance,"
     }
   ],
   "modes" : [
