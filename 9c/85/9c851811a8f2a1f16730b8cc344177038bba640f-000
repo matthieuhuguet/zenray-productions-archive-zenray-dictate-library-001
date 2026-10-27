@@ -12719,6 +12719,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Est-ce que tu appliques la logique Transformers et Lego pour tous les components? J'ai l'impression que là, tu recrées des components, que la topologie n'est même pas forcément meilleure. Et que, ouais, en fait, là, on est dans un cadre où il faut découper tous les components de la voiture par rapport à une sheet qui aurait été refaite et itérer parfaitement sur chaque component. Parce que là, je sais pas, j'ai l'impression que tu fais de la merde, en fait.",
       "text" : "Est-ce que tu appliques la logique Transformers et Lego pour tous les components? J'ai l'impression que là, tu recrées des components, que la topologie n'est même pas forcément meilleure. Et que, ouais, en fait, là, on est dans un cadre où il faut découper tous les components de la voiture par rapport à une sheet qui aurait été refaite et itérer parfaitement sur chaque component. Parce que là, je sais pas, j'ai l'impression que tu fais de la merde, en fait."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814800965.218486,
+      "id" : "48E31B86-1AA7-4863-A609-32D568B3C990",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Tu n'attends aucun arbitrage de ma part. Tu fais tous tes choix en autonomie, hein, par contre.",
+      "text" : "Tu n'attends aucun arbitrage de ma part. Tu fais tous tes choix en autonomie, hein, par contre."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814801012.654067,
+      "id" : "0FA4B6DD-6A66-4E47-BA90-BF8F76F1394E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "De toute manière, le constat est simple, c'est simplement... Mais qu'est-ce que tu racontes par rapport au prompt? Tu te dis de la merde. C'est pas du tout ce que je t'ai demandé. C'est juste demander de reconstruire la voiture. Directement dans Houdini. C'est le but de ZenRay Mesh et tu consignes tous tes trucs. Ça n'a aucun rapport. Genre, le prompt, d'où tu sors que je t'ai demandé un prompt? Tu racontes n'importe quoi. C'était pas dans le cadre d'un prompt, c'était dans le cadre de ZenRay Mesh que je t'ai parlé de Transformer et de Lego.",
+      "text" : "De toute manière, le constat est simple, c'est simplement... Mais qu'est-ce que tu racontes par rapport au prompt? Tu te dis de la merde. C'est pas du tout ce que je t'ai demandé. C'est juste demander de reconstruire la voiture. Directement dans Houdini. C'est le but de ZenRay Mesh et tu consignes tous tes trucs. Ça n'a aucun rapport. Genre, le prompt, d'où tu sors que je t'ai demandé un prompt? Tu racontes n'importe quoi. C'était pas dans le cadre d'un prompt, c'était dans le cadre de ZenRay Mesh que je t'ai parlé de Transformer et de Lego."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814801200.560752,
+      "id" : "EF87CCC5-F1C6-4EFD-9C5B-8200E90D39A7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je te crois que je sais pourquoi j'envoie pas les CV. C'est parce qu'en fait, je me dis... En fait, mon cerveau est trop intelligent. Et du coup, en fait, je me dis... Ah, mais de toute manière, personne va me répondre parce qu'à l'ère de l'IA, soit je suis pas un profil assez intéressant, soit les gens, ils ont plus besoin d'humains, tu vois. Et en soi, c'est un constat lucide sur le monde. Hein. Mais du coup... Face à ce constat-là, je sais pas du tout comment faire pour gagner de l'argent, tu vois. Sachant que j'ai pas vraiment essayé non plus, mais je me dis, en vrai, ouais, maintenant, personne va me répondre, et de toute manière, à 25 ans, j'ai pas forcément assez d'expérience pour retrouver un job, tu vois. Donc, en fait, et puis même, de toute manière, je suis même pas hyper motivé par le fait de faire du job, tu vois. Après, le fait de faire du job en tant que freelance et gagner de des thunes, pourquoi pas, mais... Je sais pas, j'ai l'impression que tout le monde doit devenir indépendant. Mais que, ton argent, comment tu fais pour aller chercher ton argent, je sais pas, ça me casse les couilles.",
+      "text" : "Je te crois que je sais pourquoi j'envoie pas les CV. C'est parce qu'en fait, je me dis... En fait, mon cerveau est trop intelligent. Et du coup, en fait, je me dis... Ah, mais de toute manière, personne va me répondre parce qu'à l'ère de l'IA, soit je suis pas un profil assez intéressant, soit les gens, ils ont plus besoin d'humains, tu vois. Et en soi, c'est un constat lucide sur le monde. Hein. Mais du coup... Face à ce constat-là, je sais pas du tout comment faire pour gagner de l'argent, tu vois. Sachant que j'ai pas vraiment essayé non plus, mais je me dis, en vrai, ouais, maintenant, personne va me répondre, et de toute manière, à 25 ans, j'ai pas forcément assez d'expérience pour retrouver un job, tu vois. Donc, en fait, et puis même, de toute manière, je suis même pas hyper motivé par le fait de faire du job, tu vois. Après, le fait de faire du job en tant que freelance et gagner de des thunes, pourquoi pas, mais... Je sais pas, j'ai l'impression que tout le monde doit devenir indépendant. Mais que, ton argent, comment tu fais pour aller chercher ton argent, je sais pas, ça me casse les couilles."
     }
   ],
   "modes" : [
