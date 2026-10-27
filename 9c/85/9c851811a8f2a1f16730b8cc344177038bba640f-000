@@ -12219,6 +12219,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "À quel moment j'en ai parlé?",
       "text" : "À quel moment j'en ai parlé?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814755363.191474,
+      "id" : "64E4DC24-652D-4217-8CAE-2FAA1C680521",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Omar Sy, vrai nom.",
+      "text" : "Omar Sy, vrai nom."
     }
   ],
   "modes" : [
