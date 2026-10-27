@@ -13019,6 +13019,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Bref, il faut être clair, quoi.",
       "text" : "Bref, il faut être clair, quoi."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814807702.576639,
+      "id" : "E5BD92D3-47E2-40E8-A255-EEB6258FEE63",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pareil pour le texte, je zoomerai un tout petit peu de 1.2 environ, je dirais. 1.15 peut-être. Je sais pas exactement.",
+      "text" : "Pareil pour le texte, je zoomerai un tout petit peu de 1.2 environ, je dirais. 1.15 peut-être. Je sais pas exactement."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814807749.086093,
+      "id" : "314B1621-D219-4A85-ACD0-CA1269200F64",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Essaie peut-être de mettre les fontes. En fait, j'ai pas envie de casser l'harmonie globale, mais il faudrait que les fontes aient un petit peu plus de pixels, tu vois. Donc ajoute peut-être plus un de pixels sans casser l'harmonie et les espaces que tu as su retrouver actuellement.",
+      "text" : "Essaie peut-être de mettre les fontes. En fait, j'ai pas envie de casser l'harmonie globale, mais il faudrait que les fontes aient un petit peu plus de pixels, tu vois. Donc ajoute peut-être plus un de pixels sans casser l'harmonie et les espaces que tu as su retrouver actuellement."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814807754.755354,
+      "id" : "00565C53-1E58-4245-9A76-CAF6174E6A9C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "On est quasi parfait en termes d'harmonie.",
+      "text" : "On est quasi parfait en termes d'harmonie."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814807761.461679,
+      "id" : "BBB00BC4-6276-4D27-96D5-D69F32E127FE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est juste que le texte est un petit peu trop pas assez zoomé.",
+      "text" : "C'est juste que le texte est un petit peu trop pas assez zoomé."
     }
   ],
   "modes" : [
