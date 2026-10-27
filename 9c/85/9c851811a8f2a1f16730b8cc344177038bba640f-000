@@ -13459,6 +13459,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Résume l'article de The New Copilot et qu'est-ce que ça change, et si le titre est un peu mensonger par rapport au fait que ce serait genre par exemple moins impressionnant que Claude Opus 5.5 ou autre.",
       "text" : "Résume l'article de The New Copilot et qu'est-ce que ça change, et si le titre est un peu mensonger par rapport au fait que ce serait genre par exemple moins impressionnant que Claude Opus 5.5 ou autre."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814815624.894878,
+      "id" : "049BF309-9770-4CB1-9EF2-DC0F0E25453C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais du coup, c'est quoi l'IA de Microsoft? Du coup, ils utilisent quoi en back-end? Ils utilisent ChatGPT toujours? Parce qu'à l'époque, ils utilisaient ChatGPT 4o. Et du coup, là, ils passent leur IA en mode agentique. Ce qui est bizarre, c'est qu'ils le font maintenant par rapport au fait qu'ils ont déjà viré plein de personnes. Mais bon, passons. Surtout, ma question, c'est. Bref.",
+      "text" : "Mais du coup, c'est quoi l'IA de Microsoft? Du coup, ils utilisent quoi en back-end? Ils utilisent ChatGPT toujours? Parce qu'à l'époque, ils utilisaient ChatGPT 4o. Et du coup, là, ils passent leur IA en mode agentique. Ce qui est bizarre, c'est qu'ils le font maintenant par rapport au fait qu'ils ont déjà viré plein de personnes. Mais bon, passons. Surtout, ma question, c'est. Bref."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814815681.605398,
+      "id" : "3FC78E05-154B-4ED8-B244-BA75C87472A5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais ça coûte combien",
+      "text" : "Mais ça coûte combien"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814815703.322036,
+      "id" : "E20F1897-0F20-412D-96B4-C1042248F75A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais ça coûte combien et est-ce que c'est vraiment intéressant par rapport à d'autres offres comme, je sais pas, comme Claude, comme ChatGPT, comme Antigravity ou bien comme Cursor par exemple? Parce que j'ai l'impression qu'il y a des solutions agentiques qui aujourd'hui coûtent beaucoup moins cher. Même les solutions chinoises, même si très peu de gens les utilisent vraiment.",
+      "text" : "Mais ça coûte combien et est-ce que c'est vraiment intéressant par rapport à d'autres offres comme, je sais pas, comme Claude, comme ChatGPT, comme Antigravity ou bien comme Cursor par exemple? Parce que j'ai l'impression qu'il y a des solutions agentiques qui aujourd'hui coûtent beaucoup moins cher. Même les solutions chinoises, même si très peu de gens les utilisent vraiment."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814815719.491855,
+      "id" : "E584348E-BAC9-4B87-B17C-3A2E5CA30E05",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'imagine que ce qui se fait de plus aujourd'hui en entreprise et même pour les particuliers, c'est surtout d'utiliser des abonnements qui permettent d'avoir un nombre de tokens plus élevé par mois que de payer directement via l'API.",
+      "text" : "J'imagine que ce qui se fait de plus aujourd'hui en entreprise et même pour les particuliers, c'est surtout d'utiliser des abonnements qui permettent d'avoir un nombre de tokens plus élevé par mois que de payer directement via l'API."
     }
   ],
   "modes" : [
