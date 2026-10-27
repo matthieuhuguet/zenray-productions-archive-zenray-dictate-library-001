@@ -12599,6 +12599,66 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Donc là, dans ma ligne de... Donc là, dans ma ligne de job, en fait, ce qu'on va dire, c'est que... On va être honnête sur le fait que j'ai pas les 3 ans d'expérience, mais que l'aspect optimisation des maillages, c'est un travail que je fais que je fais vraiment très fréquemment. Comme ça, ils comprendront que j'ai lu leur annonce. Allez, go!",
       "text" : "Donc là, dans ma ligne de... Donc là, dans ma ligne de job, en fait, ce qu'on va dire, c'est que... On va être honnête sur le fait que j'ai pas les 3 ans d'expérience, mais que l'aspect optimisation des maillages, c'est un travail que je fais que je fais vraiment très fréquemment. Comme ça, ils comprendront que j'ai lu leur annonce. Allez, go!"
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814800058.351422,
+      "id" : "66760418-1EE5-4D0D-BBBC-30D1DDC5B971",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai besoin aussi d'un interface widget où je peux copier mon expérience, donc mon titre, la compagnie, office location et description, from to. Et tu mets environ 2 ans. Enfin, tu essaies de trouver la vraie data. Et ensuite, ouais, tu mets environ 2 ans chez Mercat Studio, quoi.",
+      "text" : "J'ai besoin aussi d'un interface widget où je peux copier mon expérience, donc mon titre, la compagnie, office location et description, from to. Et tu mets environ 2 ans. Enfin, tu essaies de trouver la vraie data. Et ensuite, ouais, tu mets environ 2 ans chez Mercat Studio, quoi."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814800089.884818,
+      "id" : "73B29EDA-A04F-49C0-8392-6C5B466B0E4A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "déjà tout ce que j'ai listé. Tu peux mettre à partir de janvier 2024. Jusqu'à juin 2026 environ.",
+      "text" : "déjà tout ce que j'ai listé. Tu peux mettre à partir de janvier 2024. Jusqu'à juin 2026 environ."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814800096.91555,
+      "id" : "2F03204A-742B-4415-BFE8-472028D40358",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais ouais.",
+      "text" : "Mais ouais."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814800173.738638,
+      "id" : "438DDB85-ADE8-4D3E-9A5C-A14704B31F9B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je comprends pas pourquoi tu t'arrêtes.",
+      "text" : "Je comprends pas pourquoi tu t'arrêtes."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814800259.236746,
+      "id" : "CF927402-1FA9-45B4-A07B-958F8F45DC4A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, en fait, ce que tu vas faire, c'est que tu vas faire les deux instructions en même temps. C'est-à-dire que tu vas me proposer une ligne de job par rapport au studio et tu vas me résumer le studio. Donc pour toutes les futures annonces. Donc je t'ai déjà en fait donné les consignes tout à l'heure.",
+      "text" : "Ok, en fait, ce que tu vas faire, c'est que tu vas faire les deux instructions en même temps. C'est-à-dire que tu vas me proposer une ligne de job par rapport au studio et tu vas me résumer le studio. Donc pour toutes les futures annonces. Donc je t'ai déjà en fait donné les consignes tout à l'heure."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814800370.125866,
+      "id" : "7DDEE1B5-5B65-4D60-853A-CC8D20FE112E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, attends, il me faudrait un bouton qui vérifie, un bouton manuel qui vérifie pour mon app ZenRay Freelance qui dit du coup aucun mail doit partir pour celle-ci. Mais comment on dirait? On dirait une catégorie abandonnée?",
+      "text" : "Du coup, attends, il me faudrait un bouton qui vérifie, un bouton manuel qui vérifie pour mon app ZenRay Freelance qui dit du coup aucun mail doit partir pour celle-ci. Mais comment on dirait? On dirait une catégorie abandonnée?"
     }
   ],
   "modes" : [
