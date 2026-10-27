@@ -13529,6 +13529,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Please, mais qu'est-ce que tu branles, genre?",
       "text" : "Please, mais qu'est-ce que tu branles, genre?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814816838.901379,
+      "id" : "051280D3-17CF-43D5-8C40-09972A239B19",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je peux vous proposer 490 euros maximum. Et je suis actuellement dans la région. Aix-en-Provence. Donc si vous êtes intéressé par mon offre, merci de me contacter. En revanche, mon budget ne sera pas forcément extensible.",
+      "text" : "Je peux vous proposer 490 euros maximum. Et je suis actuellement dans la région. Aix-en-Provence. Donc si vous êtes intéressé par mon offre, merci de me contacter. En revanche, mon budget ne sera pas forcément extensible."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814816851.792165,
+      "id" : "885F7D29-36D8-4C8D-861E-F6235070B723",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai un profil avec beaucoup d'avis positifs, donc pour la livraison, il n'y a aucun problème.",
+      "text" : "J'ai un profil avec beaucoup d'avis positifs, donc pour la livraison, il n'y a aucun problème."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814816875.441055,
+      "id" : "2D53E10B-C03B-424E-8F56-01A43199A539",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Enfin, c'est en fonction de si vous êtes intéressé par mon offre et si vous êtes disposé à faire la livraison aussi. Je m'en remets à vous. Ce sera possible de négocier, mais pas énormément.",
+      "text" : "Enfin, c'est en fonction de si vous êtes intéressé par mon offre et si vous êtes disposé à faire la livraison aussi. Je m'en remets à vous. Ce sera possible de négocier, mais pas énormément."
     }
   ],
   "modes" : [
