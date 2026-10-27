@@ -12199,6 +12199,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Donne-moi 3 paragraphes max.",
       "text" : "Donne-moi 3 paragraphes max."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814752516.06795,
+      "id" : "8EC11BCA-56F7-4B1B-B75B-9C5AE15AB681",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je comprends pas comment tu peux avoir le knowledge du fait que j'ai fait une voiture en 3D aujourd'hui, alors que je l'ai fait dans un module local de Claude Code, et tandis que toi, tu es en Claude Cloud. Donc je comprends pas comment tu fais pour le savoir.",
+      "text" : "Je comprends pas comment tu peux avoir le knowledge du fait que j'ai fait une voiture en 3D aujourd'hui, alors que je l'ai fait dans un module local de Claude Code, et tandis que toi, tu es en Claude Cloud. Donc je comprends pas comment tu fais pour le savoir."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814752529.143662,
+      "id" : "246F2B1E-74A2-44C8-BBF9-B99FFBDD0747",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "À quel moment j'en ai parlé?",
+      "text" : "À quel moment j'en ai parlé?"
     }
   ],
   "modes" : [
