@@ -13139,6 +13139,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "l'UI du compteur doit être simple en fait.",
       "text" : "l'UI du compteur doit être simple en fait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814810326.969862,
+      "id" : "C255E793-8F29-465F-AA3D-AF629407B7E3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je veux que tu sois en autonomie complète. N'attends rien de ma part, en fait. Tu travailles en full autonomie et tu avances jusqu'au résultat final. Mais à mon avis, tu vas pas arriver au résultat final avant très très longtemps. Donc, go, continue d'itérer.",
+      "text" : "Je veux que tu sois en autonomie complète. N'attends rien de ma part, en fait. Tu travailles en full autonomie et tu avances jusqu'au résultat final. Mais à mon avis, tu vas pas arriver au résultat final avant très très longtemps. Donc, go, continue d'itérer."
     }
   ],
   "modes" : [
