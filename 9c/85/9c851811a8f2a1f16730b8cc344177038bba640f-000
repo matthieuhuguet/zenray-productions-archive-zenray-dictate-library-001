@@ -13629,6 +13629,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Le but actuel, c'est vraiment d'aller reproduire le modèle à 99,9% sans t'arrêter par rapport à l'amélioration des choses.",
       "text" : "Le but actuel, c'est vraiment d'aller reproduire le modèle à 99,9% sans t'arrêter par rapport à l'amélioration des choses."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814821586.453141,
+      "id" : "D88B0CB0-D359-4E5A-BB09-008CF1A9ADEB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais non, mais pas du tout, mais de toute manière, il faut que tu consignes. Mais de toute manière, tu vois bien dans le workflow et dans la scène que c'est pas du tout bon. On est très très loin du résultat final. Là. Il faut que tous les components soient propres et parfaits en fait. Que la topologie soit soudée. Là je vois encore qu'il y a des trous entre les éléments. Que tout soit démontable en termes de pivot, etc. Qu'il n'y ait plus aucun problème de jonction. Bref, il y a encore énormément de taf. Il faut que la topologie, tu la regardes en mode wireframe et qu'elle soit parfaite, en fait. Elle est parfaite, ça t'aide pas vraiment, mais par exemple, n'importe quelle voiture, tu tapes carte 3D topologie sur Google, tu vas voir à quoi ça ressemble. Normalement, c'est hyper propre. Normalement, c'est hyper propre, et du coup, bah, là, c'est ce qu'il faut faire, en fait. Il faut faire une topologie parfaite. Après, j'ai pas forcément la topologie pour le modèle en question. Mais, en tout cas, il faut que la topologie soit parfaite. Avec des quads, etc., que ça suive les Z-flows de la voiture. Et en tout cas, de toute manière, on n'est pas encore au niveau proche de... Au niveau proche de... Comment ça s'appelle? On n'est pas encore au niveau en termes de... De forme, ne serait-ce que globalement. Donc, tous les components... De toute manière, tu reprends la sheet et tu compares tous les components, etc. Et de toute manière, le skill ZenRay Meshes doit te... Enfin, tout doit être consigné dans l'algorithme, quoi. Donc, tu vois bien qu'on n'est pas du tout arrivé au SED. De toute manière, tu relances la boucle à l'infini.",
+      "text" : "Mais non, mais pas du tout, mais de toute manière, il faut que tu consignes. Mais de toute manière, tu vois bien dans le workflow et dans la scène que c'est pas du tout bon. On est très très loin du résultat final. Là. Il faut que tous les components soient propres et parfaits en fait. Que la topologie soit soudée. Là je vois encore qu'il y a des trous entre les éléments. Que tout soit démontable en termes de pivot, etc. Qu'il n'y ait plus aucun problème de jonction. Bref, il y a encore énormément de taf. Il faut que la topologie, tu la regardes en mode wireframe et qu'elle soit parfaite, en fait. Elle est parfaite, ça t'aide pas vraiment, mais par exemple, n'importe quelle voiture, tu tapes carte 3D topologie sur Google, tu vas voir à quoi ça ressemble. Normalement, c'est hyper propre. Normalement, c'est hyper propre, et du coup, bah, là, c'est ce qu'il faut faire, en fait. Il faut faire une topologie parfaite. Après, j'ai pas forcément la topologie pour le modèle en question. Mais, en tout cas, il faut que la topologie soit parfaite. Avec des quads, etc., que ça suive les Z-flows de la voiture. Et en tout cas, de toute manière, on n'est pas encore au niveau proche de... Au niveau proche de... Comment ça s'appelle? On n'est pas encore au niveau en termes de... De forme, ne serait-ce que globalement. Donc, tous les components... De toute manière, tu reprends la sheet et tu compares tous les components, etc. Et de toute manière, le skill ZenRay Meshes doit te... Enfin, tout doit être consigné dans l'algorithme, quoi. Donc, tu vois bien qu'on n'est pas du tout arrivé au SED. De toute manière, tu relances la boucle à l'infini."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814821609.379808,
+      "id" : "6B16BD60-596A-496E-A09A-BFCC8FFA5D7F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "car on peut toujours améliorer les choses. De toute manière, il faut améliorer les choses.",
+      "text" : "car on peut toujours améliorer les choses. De toute manière, il faut améliorer les choses."
     }
   ],
   "modes" : [
