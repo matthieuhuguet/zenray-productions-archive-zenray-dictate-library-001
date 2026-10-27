@@ -13149,6 +13149,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Je veux que tu sois en autonomie complète. N'attends rien de ma part, en fait. Tu travailles en full autonomie et tu avances jusqu'au résultat final. Mais à mon avis, tu vas pas arriver au résultat final avant très très longtemps. Donc, go, continue d'itérer.",
       "text" : "Je veux que tu sois en autonomie complète. N'attends rien de ma part, en fait. Tu travailles en full autonomie et tu avances jusqu'au résultat final. Mais à mon avis, tu vas pas arriver au résultat final avant très très longtemps. Donc, go, continue d'itérer."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814810642.63714,
+      "id" : "65A6F97A-CB9D-4BC9-8761-900C5A976C8D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je crois juste qu'au niveau des lettres, t'as pas régénéré le moment où... je te l'ai dit tout à l'heure dans la conversation, mais j'ai oublié depuis. J'essaie de grepper exactement mon prompt. Mais je t'avais dit justement de... Bah de mettre dans la lettre une ligne où tu dis uniquement que tu travailles en tant que freelance, tiens. C'est juste une ligne à rajouter dans toutes les lettres, du coup, s'il te plaît. Parce que, en fait... Ouais, en fait, j'ai pas la preuve que t'as vraiment effectué mon prompt. Dans les lettres, je vois pas vraiment de mention qui disent que je suis freelance.",
+      "text" : "Je crois juste qu'au niveau des lettres, t'as pas régénéré le moment où... je te l'ai dit tout à l'heure dans la conversation, mais j'ai oublié depuis. J'essaie de grepper exactement mon prompt. Mais je t'avais dit justement de... Bah de mettre dans la lettre une ligne où tu dis uniquement que tu travailles en tant que freelance, tiens. C'est juste une ligne à rajouter dans toutes les lettres, du coup, s'il te plaît. Parce que, en fait... Ouais, en fait, j'ai pas la preuve que t'as vraiment effectué mon prompt. Dans les lettres, je vois pas vraiment de mention qui disent que je suis freelance."
     }
   ],
   "modes" : [
