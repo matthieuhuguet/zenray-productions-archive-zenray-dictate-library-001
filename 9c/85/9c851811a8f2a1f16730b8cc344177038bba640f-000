@@ -13749,6 +13749,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Depuis, l'image produit une topologie parfaite pour le mesh.",
       "text" : "Depuis, l'image produit une topologie parfaite pour le mesh."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814825852.653462,
+      "id" : "1FC4F461-8927-47F7-97B6-10E945E1E6A7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc tu peux mettre du coup cette nouvelle image en termes de ref pour la topologie. Mais attention, tu dois quand même noter qu'il s'agit d'une image AI. Donc il se peut que la topologie ne soit pas parfaite selon les attentes d'un tech artiste. Et de toute manière, tu continues de développer les outils et tu continues de consigner tandis que tu améliores la référence jusqu'à arriver au résultat final. Ouh.",
+      "text" : "Donc tu peux mettre du coup cette nouvelle image en termes de ref pour la topologie. Mais attention, tu dois quand même noter qu'il s'agit d'une image AI. Donc il se peut que la topologie ne soit pas parfaite selon les attentes d'un tech artiste. Et de toute manière, tu continues de développer les outils et tu continues de consigner tandis que tu améliores la référence jusqu'à arriver au résultat final. Ouh."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814825896.805843,
+      "id" : "D67ADCCB-D66A-4FF4-8D0D-7145321ED268",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je veux pouvoir passer au texturing de ma voiture très rapidement. Enfin, pas très rapidement, mais je veux que lors de la prochaine étape, vers 8h demain matin, la voiture soit vraiment finie et tout, et qu'il n'y ait plus aucune erreur.",
+      "text" : "Je veux pouvoir passer au texturing de ma voiture très rapidement. Enfin, pas très rapidement, mais je veux que lors de la prochaine étape, vers 8h demain matin, la voiture soit vraiment finie et tout, et qu'il n'y ait plus aucune erreur."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814825913.115096,
+      "id" : "3E4BB7A8-E9A8-4134-A16E-24CCA3DD4568",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et toi, tu continues de consigner du coup dans le skill tous les outils que tu développes et toutes les choses et tout. N'hésite pas à réutiliser les choses qui sont déjà existantes aussi et à améliorer les outils internes.",
+      "text" : "Et toi, tu continues de consigner du coup dans le skill tous les outils que tu développes et toutes les choses et tout. N'hésite pas à réutiliser les choses qui sont déjà existantes aussi et à améliorer les outils internes."
     }
   ],
   "modes" : [
