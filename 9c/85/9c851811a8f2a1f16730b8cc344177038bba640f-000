@@ -13219,6 +13219,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "délégation d'agent N par sub-agent en fonction du nombre de features. Mais ne lance pas non plus 50 sub-agents, parce que sinon ça, le budget en token va exploser, mais tu peux lancer des tokens par feature intelligente, tu vois. En mode, la feature PDF, la feature créer un HTML, la feature refaire un design, tu vois. Mais il y a énormément de choses. La feature, le motion design, la feature SFX, etc., etc., tu vois. Vérifiez aussi que ZenRay Edit prend bien en compte désormais les motion design et les SFX.",
       "text" : "délégation d'agent N par sub-agent en fonction du nombre de features. Mais ne lance pas non plus 50 sub-agents, parce que sinon ça, le budget en token va exploser, mais tu peux lancer des tokens par feature intelligente, tu vois. En mode, la feature PDF, la feature créer un HTML, la feature refaire un design, tu vois. Mais il y a énormément de choses. La feature, le motion design, la feature SFX, etc., etc., tu vois. Vérifiez aussi que ZenRay Edit prend bien en compte désormais les motion design et les SFX."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814811913.482401,
+      "id" : "2BA1859E-819D-451E-9B82-F61B972BC570",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah relance le cron. Qu'est-ce que tu attends?",
+      "text" : "Bah relance le cron. Qu'est-ce que tu attends?"
     }
   ],
   "modes" : [
