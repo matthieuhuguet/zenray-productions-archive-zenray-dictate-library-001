@@ -13399,6 +13399,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Et évidemment, la cover letter, la data de la cover letter sur une annonce, une fois qu'elle est convertie en PDF quand je clique sur automatiser, évidemment, c'est la même que je vérifie dans la candidature et quand je clique sur copier la lettre. Évidemment, ce sera la même, tu vois. C'est juste qu'elle est personnalisée par rapport à l'annonce de l'offre complète qui est faite par le studio. Mais tu dois bien comprendre que je postule en tant que freelance. Donc c'est là où tu ne dois pas faire d'erreur.",
       "text" : "Et évidemment, la cover letter, la data de la cover letter sur une annonce, une fois qu'elle est convertie en PDF quand je clique sur automatiser, évidemment, c'est la même que je vérifie dans la candidature et quand je clique sur copier la lettre. Évidemment, ce sera la même, tu vois. C'est juste qu'elle est personnalisée par rapport à l'annonce de l'offre complète qui est faite par le studio. Mais tu dois bien comprendre que je postule en tant que freelance. Donc c'est là où tu ne dois pas faire d'erreur."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814814762.824189,
+      "id" : "7F75F919-AE91-4C2C-B931-E7EFC9808FCA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Reprends la dernière conversation, notamment par rapport à l'horaire, pour être sûr que tu prends bien la conversation de tout ce qui a été fait par la dernière version N de l'agent, et t'essaies de grep pour savoir quel agent a travaillé sur quoi, et où on en est au niveau de la voiture. Et ensuite, tu itères normalement pour avancer sur la modélisation de la voiture par rapport aux méthodologies et par rapport à ZenRay Meshes pour avancer et continuer la voiture via un cron toutes les minutes.",
+      "text" : "Reprends la dernière conversation, notamment par rapport à l'horaire, pour être sûr que tu prends bien la conversation de tout ce qui a été fait par la dernière version N de l'agent, et t'essaies de grep pour savoir quel agent a travaillé sur quoi, et où on en est au niveau de la voiture. Et ensuite, tu itères normalement pour avancer sur la modélisation de la voiture par rapport aux méthodologies et par rapport à ZenRay Meshes pour avancer et continuer la voiture via un cron toutes les minutes."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814814779.46065,
+      "id" : "6B8AD5AD-171A-4E30-9F73-9DB7FE010794",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "la voiture doit ressembler à 99,9% par rapport à la référence. Et tant que tu n'as pas fini, bah, tu testes soit une nouvelle méthodologie, soit tu avances par rapport à une méthodologie pour arriver à la fin.",
+      "text" : "la voiture doit ressembler à 99,9% par rapport à la référence. Et tant que tu n'as pas fini, bah, tu testes soit une nouvelle méthodologie, soit tu avances par rapport à une méthodologie pour arriver à la fin."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814814795.214525,
+      "id" : "8AE1B9DA-E254-4425-8979-330A44115FBA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et évidemment, tu continues de consigner et ou de créer les bons outils qui te permettront d'avancer. La topologie doit être parfaite, comme si elle avait été faite par un tech artist senior 3D animator.",
+      "text" : "Et évidemment, tu continues de consigner et ou de créer les bons outils qui te permettront d'avancer. La topologie doit être parfaite, comme si elle avait été faite par un tech artist senior 3D animator."
     }
   ],
   "modes" : [
