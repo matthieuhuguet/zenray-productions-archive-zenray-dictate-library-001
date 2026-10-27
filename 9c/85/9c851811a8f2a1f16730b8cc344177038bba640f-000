@@ -14089,6 +14089,166 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "fais toutes ces actions le plus rapidement possible.",
       "text" : "fais toutes ces actions le plus rapidement possible."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814834965.721777,
+      "id" : "22A96019-D9F8-4B6D-8F06-D64221C7394F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais non, mais il y a deux problèmes dans ce que tu fais. C'est que la vue Houdini MCP me donne une image qui est étirée. Et en plus, c'était la vue wireframe, ghost wireframe que je voulais.",
+      "text" : "Mais non, mais il y a deux problèmes dans ce que tu fais. C'est que la vue Houdini MCP me donne une image qui est étirée. Et en plus, c'était la vue wireframe, ghost wireframe que je voulais."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814835017.379184,
+      "id" : "395FFED8-32AE-4A81-A6DE-7DCD5FB59E30",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah c'est bon, là, l'image que tu fais ne semble pas déformée. Donc c'est très bien. Mais par contre, il me manque la partie... comment ça s'appelle? Il me manque tout le reste de mon prompt, en fait, à faire. C'est-à-dire le motion, la variation, une seconde, ZenRay Modeling Car, le fait d'assembler les deux images, etc.",
+      "text" : "Bah c'est bon, là, l'image que tu fais ne semble pas déformée. Donc c'est très bien. Mais par contre, il me manque la partie... comment ça s'appelle? Il me manque tout le reste de mon prompt, en fait, à faire. C'est-à-dire le motion, la variation, une seconde, ZenRay Modeling Car, le fait d'assembler les deux images, etc."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814835063.4782,
+      "id" : "EDFAF02C-6C51-47DF-9D89-9123D273DBA1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, regarde ta version modeling car la fonte est complètement pétée. Et en plus, tu ajoutes l'icône League of Legends 25 et l'autre S1.",
+      "text" : "Non, regarde ta version modeling car la fonte est complètement pétée. Et en plus, tu ajoutes l'icône League of Legends 25 et l'autre S1."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814835240.112147,
+      "id" : "47AEF3F3-88F0-46D5-8236-DF3CBD2809E4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ça marche pas du tout. Le screen de la voiture est pas assez gros. Il faudrait qu'il englobe tout le truc et tu vois bien qu'il y a un problème d'éclairage sur la voiture qui fait que le wireframe est pas propre posé une fois sur la grille. Et enfin pour la fonte, en fait, je suis pas vraiment convaincu. Je suis pas forcément convaincu par ce modeling car partout. J'ai l'impression que c'est pas exactement la fonte de Sombre Complot qu'on avait utilisé. Donc essayez de le garder peut-être en une seule ligne, mais avec un effet un peu plus rapproché sur la fonte. Vraiment similaire à Modeling Car. Et la voiture, il faut vraiment qu'elle soit bien. Et partout, par contre, c'est en chiffres romains, en fait.",
+      "text" : "Ça marche pas du tout. Le screen de la voiture est pas assez gros. Il faudrait qu'il englobe tout le truc et tu vois bien qu'il y a un problème d'éclairage sur la voiture qui fait que le wireframe est pas propre posé une fois sur la grille. Et enfin pour la fonte, en fait, je suis pas vraiment convaincu. Je suis pas forcément convaincu par ce modeling car partout. J'ai l'impression que c'est pas exactement la fonte de Sombre Complot qu'on avait utilisé. Donc essayez de le garder peut-être en une seule ligne, mais avec un effet un peu plus rapproché sur la fonte. Vraiment similaire à Modeling Car. Et la voiture, il faut vraiment qu'elle soit bien. Et partout, par contre, c'est en chiffres romains, en fait."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814835461.301274,
+      "id" : "391DBACF-1543-4679-B8DC-3C53050A1592",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "prends une vue directement via mon Mac de la voiture en format 1.1, de l'aspect arrière, et ensuite de l'aspect avant. Par rapport au screenshot que je t'envoie.",
+      "text" : "prends une vue directement via mon Mac de la voiture en format 1.1, de l'aspect arrière, et ensuite de l'aspect avant. Par rapport au screenshot que je t'envoie."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814835492.388911,
+      "id" : "9AB746AD-6B6E-41E0-A77A-BE6FE64A3BC4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et ensuite, mets un slash au milieu de l'image pour découper l'image, c'est-à-dire avoir à la fois la partie avant et la partie arrière. Mais directement depuis ma vue Houdini en wireframe ghost, ce qui permet d'avoir une vue clean.",
+      "text" : "Et ensuite, mets un slash au milieu de l'image pour découper l'image, c'est-à-dire avoir à la fois la partie avant et la partie arrière. Mais directement depuis ma vue Houdini en wireframe ghost, ce qui permet d'avoir une vue clean."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814835692.265634,
+      "id" : "1F8FEE48-0E65-465F-99AA-2DE96F02431F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et ensuite... Ensuite, ouais, pour le titre, je sais pas trop comment faire. Ouais, pour le titre, je sais pas trop comment faire. Parce que en fait, j'ai l'impression que c'est pas du tout la fonte procédurale de Sombre Complot. Sombre Complot, il était vraiment super bien fait. Sombre Complot, il était vraiment super bien fait. Donc j'ai vraiment le seum que Sombre Complot, il se soit pas la bonne fonte. Parce que ça aurait été parfait. Mais vu que ça marche pas, tu sais quoi, on va pas... On va prendre plutôt Inox Tag Collection 01 3 apparitions. Quoique non, on va itérer sur League of Legends Cinématique 01 3 apparitions. Tu vas vraiment essayer de me faire parfaitement. Attends, on dirait qu'il y a deux mots dans l'espace qui est indiqué. Donc, soit il n'y avait pas encore la fonte procédurale, mais je suis sûr qu'il y avait la fonte procédurale. Attends, je vais l'ouvrir dans l'éditeur. Si je marque... Ah mais non, ok, je sais, je vois le problème. En fait, Sombre Complot, ça n'a pas été fait, ça n'a pas été recopié en termes de fonte procédurale. Il faut que tu runnes, depuis le skill Motion Design. Il y a une section qui parle de la fonte procédurale et depuis, depuis cette fonte... en fait, tu dois créer une fonte procédurale à partir du texte Sombre Complot et ensuite, tu pourras créer Modeling Car. Part 2, mais ce sera Modeling Car en haut de l'image et Part 2 en bas de l'image. Donc c'est bon, on a tout ce qu'il nous faut maintenant. Maintenant, divise les tâches pour être sûr de les réussir.",
+      "text" : "Et ensuite... Ensuite, ouais, pour le titre, je sais pas trop comment faire. Ouais, pour le titre, je sais pas trop comment faire. Parce que en fait, j'ai l'impression que c'est pas du tout la fonte procédurale de Sombre Complot. Sombre Complot, il était vraiment super bien fait. Sombre Complot, il était vraiment super bien fait. Donc j'ai vraiment le seum que Sombre Complot, il se soit pas la bonne fonte. Parce que ça aurait été parfait. Mais vu que ça marche pas, tu sais quoi, on va pas... On va prendre plutôt Inox Tag Collection 01 3 apparitions. Quoique non, on va itérer sur League of Legends Cinématique 01 3 apparitions. Tu vas vraiment essayer de me faire parfaitement. Attends, on dirait qu'il y a deux mots dans l'espace qui est indiqué. Donc, soit il n'y avait pas encore la fonte procédurale, mais je suis sûr qu'il y avait la fonte procédurale. Attends, je vais l'ouvrir dans l'éditeur. Si je marque... Ah mais non, ok, je sais, je vois le problème. En fait, Sombre Complot, ça n'a pas été fait, ça n'a pas été recopié en termes de fonte procédurale. Il faut que tu runnes, depuis le skill Motion Design. Il y a une section qui parle de la fonte procédurale et depuis, depuis cette fonte... en fait, tu dois créer une fonte procédurale à partir du texte Sombre Complot et ensuite, tu pourras créer Modeling Car. Part 2, mais ce sera Modeling Car en haut de l'image et Part 2 en bas de l'image. Donc c'est bon, on a tout ce qu'il nous faut maintenant. Maintenant, divise les tâches pour être sûr de les réussir."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814835705.357336,
+      "id" : "D277E1E6-A64B-4F21-B804-D84BFA28AFC7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Attention, c'est pas pareil que le wireframe normal. Tu bugs souvent quand je te dis ça, donc consigne-le dans Houdini, dans ZenRay Houdini, le scale.",
+      "text" : "Attention, c'est pas pareil que le wireframe normal. Tu bugs souvent quand je te dis ça, donc consigne-le dans Houdini, dans ZenRay Houdini, le scale."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814835833.723913,
+      "id" : "7DFE8684-A4C6-4D13-B375-19CC7BD964A1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais va jusqu'à la fin alors, tu te fous de ma gueule.",
+      "text" : "Mais va jusqu'à la fin alors, tu te fous de ma gueule."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814835855.007135,
+      "id" : "FB170975-A13D-4323-95E2-33FAF2370DDD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et d'ailleurs, l'image que tu as prise tout à l'heure, en fait, c'est pas exactement l'image que je t'ai demandé, parce que moi, je veux vraiment l'image du derrière de la voiture et vraiment l'image du devant. En fait, tu dois focus le pivot de la caméra par rapport au capot et ensuite par rapport à l'arrière, genre vraiment l'arrière, quoi.",
+      "text" : "Et d'ailleurs, l'image que tu as prise tout à l'heure, en fait, c'est pas exactement l'image que je t'ai demandé, parce que moi, je veux vraiment l'image du derrière de la voiture et vraiment l'image du devant. En fait, tu dois focus le pivot de la caméra par rapport au capot et ensuite par rapport à l'arrière, genre vraiment l'arrière, quoi."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814835863.39497,
+      "id" : "B2C9BACE-A17E-491C-A648-CD3071330101",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et ensuite, il manque la fonte sur le haut de l'image et sur le bas.",
+      "text" : "Et ensuite, il manque la fonte sur le haut de l'image et sur le bas."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814836016.497731,
+      "id" : "64F926D5-D0C7-436F-B48F-B6CFE6D257B8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "c'est pas mal du tout, mais rehausse un tout petit peu l'image du haut et baisse un peu l'image du bas. Comme ça, on peut... Comme ça, tu vois que l'image a laissé un bord gris. En fait, t'as carrément... tu peux coller le fond... bah le haut de l'image doit coller en haut et l'autre image doit coller en bas. Comme ça fait pas un petit liseré gris bizarre.",
+      "text" : "c'est pas mal du tout, mais rehausse un tout petit peu l'image du haut et baisse un peu l'image du bas. Comme ça, on peut... Comme ça, tu vois que l'image a laissé un bord gris. En fait, t'as carrément... tu peux coller le fond... bah le haut de l'image doit coller en haut et l'autre image doit coller en bas. Comme ça fait pas un petit liseré gris bizarre."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814836025.876243,
+      "id" : "69686C77-1552-40EA-BF93-AB1A41A4EBF7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et enfin, tu dois ajouter un drop shadow élégant sur modeling car et part 2.",
+      "text" : "Et enfin, tu dois ajouter un drop shadow élégant sur modeling car et part 2."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814836061.647492,
+      "id" : "78D0D1FD-E829-43AE-B864-1A2FA8A0FB6F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Parfait, maintenant range cette image dans le dossier là où il y a la vidéo et crée-moi aussi une version 9\/16 pour YouTube.",
+      "text" : "Parfait, maintenant range cette image dans le dossier là où il y a la vidéo et crée-moi aussi une version 9\/16 pour YouTube."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814836079.457488,
+      "id" : "AF5A654B-CF30-4308-BBAA-401866030692",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "avec des bandes qui reprennent le gris du fond du viewport. Je te donne la couleur. La couleur est la suivante. Hop.",
+      "text" : "avec des bandes qui reprennent le gris du fond du viewport. Je te donne la couleur. La couleur est la suivante. Hop."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814836902.12575,
+      "id" : "49259BF6-A9A6-4951-B98A-557C481B9DDA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Là, il faut surtout que tu commences à te préoccuper du travail de finition, en fait. Surtout la finition qui va être importante. Parce que la forme est plus ou moins la bonne, sauf sur le capot. On dirait que tu n'arrives pas à modéliser proprement le module. Enfin, sur le capot inférieur, tu vois. Donc la bouche de la voiture, on dirait que tu n'arrives pas à la modéliser proprement. Mais en soi, toute la voiture jusqu'à demain 8 h du matin, en fait, il faut vraiment que tu te concentres sur ce qu'on va appeler les finitions, en fait. Donc, consigner aussi dans le skill comment dépasser. Peut aussi rechercher de nouvelles méthodologies, mais à mon avis, créer les outils dont tu as besoin, mais il faut surtout, à mon avis, créer des finitions, créer des soudures, créer des joints, finir proprement la topologie, bref, créer les outils dont tu as besoin pour finir.",
+      "text" : "Là, il faut surtout que tu commences à te préoccuper du travail de finition, en fait. Surtout la finition qui va être importante. Parce que la forme est plus ou moins la bonne, sauf sur le capot. On dirait que tu n'arrives pas à modéliser proprement le module. Enfin, sur le capot inférieur, tu vois. Donc la bouche de la voiture, on dirait que tu n'arrives pas à la modéliser proprement. Mais en soi, toute la voiture jusqu'à demain 8 h du matin, en fait, il faut vraiment que tu te concentres sur ce qu'on va appeler les finitions, en fait. Donc, consigner aussi dans le skill comment dépasser. Peut aussi rechercher de nouvelles méthodologies, mais à mon avis, créer les outils dont tu as besoin, mais il faut surtout, à mon avis, créer des finitions, créer des soudures, créer des joints, finir proprement la topologie, bref, créer les outils dont tu as besoin pour finir."
     }
   ],
   "modes" : [
