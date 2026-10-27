@@ -13799,6 +13799,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "J'ai une idée simplement sur la ligne d'ajout pour la topologie. En fait, il faudrait simplement dire un truc du genre wireframe fin qui symbolise la topologie, mais par contre, tous les wireframes seraient en rouge vif, comme ça, ça permet... comme ça, ça permet directement de faire une méthodologie sur l'outil ZenRay Meshes qui permettrait de reproduire avec une précision mathématique l'effet wireframe. Mais en soi, j'ai vraiment juste à dire, par exemple, fais une topologie parfaite comme l'aurait fait un texte artiste senior et l'IA, y a pas trop de différence dans le prompting. De la topologie en soi.",
       "text" : "J'ai une idée simplement sur la ligne d'ajout pour la topologie. En fait, il faudrait simplement dire un truc du genre wireframe fin qui symbolise la topologie, mais par contre, tous les wireframes seraient en rouge vif, comme ça, ça permet... comme ça, ça permet directement de faire une méthodologie sur l'outil ZenRay Meshes qui permettrait de reproduire avec une précision mathématique l'effet wireframe. Mais en soi, j'ai vraiment juste à dire, par exemple, fais une topologie parfaite comme l'aurait fait un texte artiste senior et l'IA, y a pas trop de différence dans le prompting. De la topologie en soi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814826855.053484,
+      "id" : "21440154-73F0-48F6-8D66-8A91D346ECB6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "dans la section parfait, ajoute du coup cette ligne dans la section prompt, tu ajoutes la ligne sur la topologie et tu ajoutes aussi l'ajout de l'ajout avec les vues front, back, left, right, top, bottom. Et si tu vois qu'il y a une ah oui. Et si tu vois qu'il y a une différence dans le prompt par rapport au nombre de vues, si tu dis que c'était 3D perspective, bah tu laisses afficher les deux possibilités dans le prompt et je trancherai lorsque je balancerai le prompt. Donc voilà.",
+      "text" : "dans la section parfait, ajoute du coup cette ligne dans la section prompt, tu ajoutes la ligne sur la topologie et tu ajoutes aussi l'ajout de l'ajout avec les vues front, back, left, right, top, bottom. Et si tu vois qu'il y a une ah oui. Et si tu vois qu'il y a une différence dans le prompt par rapport au nombre de vues, si tu dis que c'était 3D perspective, bah tu laisses afficher les deux possibilités dans le prompt et je trancherai lorsque je balancerai le prompt. Donc voilà."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814826863.492198,
+      "id" : "1464DA42-7023-4B64-9EBA-2949A82048B5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "à consigner dans la section prompt de ZenRay Houdini.",
+      "text" : "à consigner dans la section prompt de ZenRay Houdini."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814826947.53474,
+      "id" : "CE900D89-BA1F-402C-B526-BB29D73E1AC4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Voici l'image que j'ai faite avec un wireframe de type rouge. Donc maintenant, à toi de recréer parfaitement la topologie. En fait, ce qui pourrait être intéressant, c'est que, à la limite, chacun des points de la vue soit parfaitement filaire, enfin par rapport à la ref et la reproduction de l'asset. Donc cet asset va vraiment t'aider dans la reproduction de la topologie que je souhaite faire. Et on pourra noter la méthode et évidemment consigner toutes les méthodes, notamment dans l'algorithme. L'algorithme doit comprendre plein de choses maintenant.",
+      "text" : "Voici l'image que j'ai faite avec un wireframe de type rouge. Donc maintenant, à toi de recréer parfaitement la topologie. En fait, ce qui pourrait être intéressant, c'est que, à la limite, chacun des points de la vue soit parfaitement filaire, enfin par rapport à la ref et la reproduction de l'asset. Donc cet asset va vraiment t'aider dans la reproduction de la topologie que je souhaite faire. Et on pourra noter la méthode et évidemment consigner toutes les méthodes, notamment dans l'algorithme. L'algorithme doit comprendre plein de choses maintenant."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814827052.994642,
+      "id" : "27162D4D-87BB-408B-98B9-FDD5EADC62BA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et je viens de penser à une autre méthode via le screen que je t'ai envoyé de la ref avec le wireframe rouge. C'est qu'en fait, on pourrait noter en termes d'abscisse et d'ordonnée chacun des points de la matrice des NURBS curves, notamment sur les contours extérieurs de la voiture, ce qui permettrait d'être sûr et certain, avant de générer la géométrie 3D, d'affiner les points. Parce qu'en fait, si tous les points, on détermine entre eux une matrice d'un point donné, et bien ensuite on peut relier les points par rapport à un loft ou ce genre de choses. Donc ce que je veux dire, c'est que si on note chacun des points du wireframe par rapport à un point d'abscisse depuis une ref à 6 vues, et bien en fait on peut pré-générer les points, et ensuite c'est plus qu'un travail de découpe comme un comme un couturier, tu vois, pour savoir quelles sont les components et limite mettre des couleurs différentes sur chaque asset. Donc franchement, je pense que tu devrais noter cette méthode. Sachant que la méthode dernière était très intelligente mathématiquement aussi. Mais en fait, il faut réussir mathématiquement à faire tout ça.",
+      "text" : "Et je viens de penser à une autre méthode via le screen que je t'ai envoyé de la ref avec le wireframe rouge. C'est qu'en fait, on pourrait noter en termes d'abscisse et d'ordonnée chacun des points de la matrice des NURBS curves, notamment sur les contours extérieurs de la voiture, ce qui permettrait d'être sûr et certain, avant de générer la géométrie 3D, d'affiner les points. Parce qu'en fait, si tous les points, on détermine entre eux une matrice d'un point donné, et bien ensuite on peut relier les points par rapport à un loft ou ce genre de choses. Donc ce que je veux dire, c'est que si on note chacun des points du wireframe par rapport à un point d'abscisse depuis une ref à 6 vues, et bien en fait on peut pré-générer les points, et ensuite c'est plus qu'un travail de découpe comme un comme un couturier, tu vois, pour savoir quelles sont les components et limite mettre des couleurs différentes sur chaque asset. Donc franchement, je pense que tu devrais noter cette méthode. Sachant que la méthode dernière était très intelligente mathématiquement aussi. Mais en fait, il faut réussir mathématiquement à faire tout ça."
     }
   ],
   "modes" : [
