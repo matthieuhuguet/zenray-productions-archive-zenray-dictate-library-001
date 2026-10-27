@@ -12659,6 +12659,66 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Du coup, attends, il me faudrait un bouton qui vérifie, un bouton manuel qui vérifie pour mon app ZenRay Freelance qui dit du coup aucun mail doit partir pour celle-ci. Mais comment on dirait? On dirait une catégorie abandonnée?",
       "text" : "Du coup, attends, il me faudrait un bouton qui vérifie, un bouton manuel qui vérifie pour mon app ZenRay Freelance qui dit du coup aucun mail doit partir pour celle-ci. Mais comment on dirait? On dirait une catégorie abandonnée?"
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814800465.182832,
+      "id" : "DB15CF06-D90E-495F-9D61-52E6E31B81A1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "sur la page ZenRay Freelance et du coup sur avant, enfin en fait il me faut deux trucs, il me faut à deux endroits, Crystal Dynamics tu vois par exemple, leur offre est fermée parce que ils prennent que des candidats US et ils demandent une semaine sur place. Donc en fait là par exemple il me faudrait directement sur les cartes un bouton qui fait hors cible en mode bah, cette offre elle a été prise par mon agent mais en fait elle est impossible à contacter, donc il me faut un bouton qui dise non tu peux pas le contacter tu vois.",
+      "text" : "sur la page ZenRay Freelance et du coup sur avant, enfin en fait il me faut deux trucs, il me faut à deux endroits, Crystal Dynamics tu vois par exemple, leur offre est fermée parce que ils prennent que des candidats US et ils demandent une semaine sur place. Donc en fait là par exemple il me faudrait directement sur les cartes un bouton qui fait hors cible en mode bah, cette offre elle a été prise par mon agent mais en fait elle est impossible à contacter, donc il me faut un bouton qui dise non tu peux pas le contacter tu vois."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814800480.26132,
+      "id" : "13B65231-AB2D-4BE7-9296-A6AC4F344E25",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "à la fois sur directement les cartes et à la fois dans l'offre. Il me faudrait à deux moments le bouton.",
+      "text" : "à la fois sur directement les cartes et à la fois dans l'offre. Il me faudrait à deux moments le bouton."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814800490.898934,
+      "id" : "AF7A1F28-C7F7-4328-A1BD-1BFEE20526D1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "puis il faut déployer. Mais il faut que ce bouton il soit disponible sur toutes les offres, attention.",
+      "text" : "puis il faut déployer. Mais il faut que ce bouton il soit disponible sur toutes les offres, attention."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814800520.580175,
+      "id" : "29C27841-2490-48C0-93E1-137EFC559567",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et à l'avenir, il faudrait aussi vérifier que les offres trouvées possèdent. Comment dire ? Possèdent. Oh, je sais plus ce que je veux dire. Bah, possède pas ce problème, mais en fait, le truc, c'est que ça va jamais marcher, donc je préfère vérifier manuellement.",
+      "text" : "Et à l'avenir, il faudrait aussi vérifier que les offres trouvées possèdent. Comment dire ? Possèdent. Oh, je sais plus ce que je veux dire. Bah, possède pas ce problème, mais en fait, le truc, c'est que ça va jamais marcher, donc je préfère vérifier manuellement."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814800545.681302,
+      "id" : "572AA4B6-9F8F-4976-83CC-F7EB555DFD4A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "On pourrait l'automatiser à terme et faire un module de code qui permet d'éviter ce genre de problème et d'éviter de recenser des offres qui ne sont pas sur le même territoire, mais ça voudrait dire qu'il faudrait analyser chaque offre très particulièrement, ou alors mettre des systèmes de filtres, etc. Mais ce serait trop long à coder, et là, c'est pas ce qu'on veut, parce qu'aujourd'hui, on veut envoyer au moins 100 mails, quoi.",
+      "text" : "On pourrait l'automatiser à terme et faire un module de code qui permet d'éviter ce genre de problème et d'éviter de recenser des offres qui ne sont pas sur le même territoire, mais ça voudrait dire qu'il faudrait analyser chaque offre très particulièrement, ou alors mettre des systèmes de filtres, etc. Mais ce serait trop long à coder, et là, c'est pas ce qu'on veut, parce qu'aujourd'hui, on veut envoyer au moins 100 mails, quoi."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814800646.596477,
+      "id" : "7A3D1F49-7806-48A9-ABC2-567C9E789171",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu appliques la logique Transformers et Lego pour tous les components? J'ai l'impression que là, tu recrées des components, que la topologie n'est même pas forcément meilleure. Et que, ouais, en fait, là, on est dans un cadre où il faut découper tous les components de la voiture par rapport à une sheet qui aurait été refaite et itérer parfaitement sur chaque component. Parce que là, je sais pas, j'ai l'impression que tu fais de la merde, en fait.",
+      "text" : "Est-ce que tu appliques la logique Transformers et Lego pour tous les components? J'ai l'impression que là, tu recrées des components, que la topologie n'est même pas forcément meilleure. Et que, ouais, en fait, là, on est dans un cadre où il faut découper tous les components de la voiture par rapport à une sheet qui aurait été refaite et itérer parfaitement sur chaque component. Parce que là, je sais pas, j'ai l'impression que tu fais de la merde, en fait."
     }
   ],
   "modes" : [
