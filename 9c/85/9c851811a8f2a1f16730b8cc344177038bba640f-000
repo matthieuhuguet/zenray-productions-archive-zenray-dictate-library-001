@@ -12849,6 +12849,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Honnêtement, c'est devenu plus dur à lire que tout à l'heure. J'ai l'impression que tu as baissé un petit peu la fonte. À moins que... Ouais, non, j'ai l'impression que les fontes sont un peu moins grandes que tout à l'heure. Donc ce que tu vas faire, c'est que tu vas garder les titres en GT Ultra, mais par contre, tout le reste, tu vas le mettre en... en Literata, en fait.",
       "text" : "Honnêtement, c'est devenu plus dur à lire que tout à l'heure. J'ai l'impression que tu as baissé un petit peu la fonte. À moins que... Ouais, non, j'ai l'impression que les fontes sont un peu moins grandes que tout à l'heure. Donc ce que tu vas faire, c'est que tu vas garder les titres en GT Ultra, mais par contre, tout le reste, tu vas le mettre en... en Literata, en fait."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814804911.937445,
+      "id" : "467E7B36-A8BF-4C31-82C0-EEEE80116EFC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, j'aimerais juste que tu me fasses un résumé. En fait, tu me fais résumé de ce qu'attend le studio par rapport à l'offre, la ligne que je dois ajouter, non, la ligne en premier, et ensuite, le studio, qu'est-ce qu'il a fait jusqu'à maintenant, et alerte, notification, contexte par rapport à moi et le studio. Donc, alerte.",
+      "text" : "En fait, j'aimerais juste que tu me fasses un résumé. En fait, tu me fais résumé de ce qu'attend le studio par rapport à l'offre, la ligne que je dois ajouter, non, la ligne en premier, et ensuite, le studio, qu'est-ce qu'il a fait jusqu'à maintenant, et alerte, notification, contexte par rapport à moi et le studio. Donc, alerte."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814804923.793146,
+      "id" : "A60AE3A2-6B6F-46AA-A581-D75837B0CB24",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et n'hésite pas à faire des web search hein, pour ne pas te tromper.",
+      "text" : "Et n'hésite pas à faire des web search hein, pour ne pas te tromper."
     }
   ],
   "modes" : [
