@@ -13079,6 +13079,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Il y a un problème sur le téléchargement, ça me télécharge pas exactement. Ça me télécharge pas exactement le truc que je veux en fait. Enfin, ça me télécharge pas avec le style et la fonte dernière déjà sélectionnée. Ça me sélectionne l'ancien style. Donc il faut que tu corriges ce bug. Tu scannes le bouton de téléchargement PDF et que tu fasses pas d'erreur avec le petit bouton AI qui débloque un truc vs un autre truc. Donc code-moi ça.",
       "text" : "Il y a un problème sur le téléchargement, ça me télécharge pas exactement. Ça me télécharge pas exactement le truc que je veux en fait. Enfin, ça me télécharge pas avec le style et la fonte dernière déjà sélectionnée. Ça me sélectionne l'ancien style. Donc il faut que tu corriges ce bug. Tu scannes le bouton de téléchargement PDF et que tu fasses pas d'erreur avec le petit bouton AI qui débloque un truc vs un autre truc. Donc code-moi ça."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814808218.470925,
+      "id" : "73D1F2A1-D132-4181-B010-10CC89C3D04C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, du coup, réadapte par rapport à ces nouvelles consignes sur, sur ce que je te demande à chaque fois, c'est-à-dire le template à 4 unités.",
+      "text" : "Du coup, du coup, réadapte par rapport à ces nouvelles consignes sur, sur ce que je te demande à chaque fois, c'est-à-dire le template à 4 unités."
     }
   ],
   "modes" : [
