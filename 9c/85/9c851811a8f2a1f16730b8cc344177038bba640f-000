@@ -12769,6 +12769,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Parce que le but après, c'est de créer directement dans la partie ZenRay Freelance sur les cartes, la partie Education. Et que ce soit indexé par rapport à, bah, du coup, par rapport à la data de... par rapport à la data du CV qui est en ligne sur Mathieu CV. MathieuHuguet.com\/CV.",
       "text" : "Parce que le but après, c'est de créer directement dans la partie ZenRay Freelance sur les cartes, la partie Education. Et que ce soit indexé par rapport à, bah, du coup, par rapport à la data de... par rapport à la data du CV qui est en ligne sur Mathieu CV. MathieuHuguet.com\/CV."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814802408.336085,
+      "id" : "4231F798-6510-487F-A833-06383EDC46A5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je vois pas le toggle IA sur mon site, pourquoi?",
+      "text" : "Je vois pas le toggle IA sur mon site, pourquoi?"
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814802413.294533,
+      "id" : "0CC62E50-FECB-4355-81D8-4F081816D093",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu es sûr que tu as redéployé le site?",
+      "text" : "Est-ce que tu es sûr que tu as redéployé le site?"
     }
   ],
   "modes" : [
