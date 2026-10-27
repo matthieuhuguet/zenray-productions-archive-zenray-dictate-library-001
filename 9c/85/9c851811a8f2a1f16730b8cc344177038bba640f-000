@@ -13669,6 +13669,76 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Je ne sais plus si c'est ici que je t'ai posé la question par rapport à la décompilation des jeux, mais...",
       "text" : "Je ne sais plus si c'est ici que je t'ai posé la question par rapport à la décompilation des jeux, mais..."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814824758.269321,
+      "id" : "769B30CC-7657-4E01-B552-2218F4C40FE3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non mais d'accord, mais du coup, continue la boucle. En fait, t'arrêtes pas la boucle jusqu'à 8 h demain matin. Et par contre, du coup, certes, je t'avais demandé de faire les components en mode Transformers et Lego via des mathématiques parfaites, mais est-ce que ces règles ont été consignées dans le truc? Et surtout, tant que ça ressemble pas au format 1 pour 1 de la voiture, ref à. En fait, ce que je pourrais faire aussi, c'est la topologie parfaite. Attends, c'est ça que je vais faire. Du coup, puisque je vais obtenir une topologie parfaite via la ref, bah, je te donnerai une nouvelle référence, du coup. Donc, je vais reprendre mon fichier. Je vais reprendre mon fichier. Et le but, ce sera du coup d'obtenir une topologie parfaite. Enfin, je vais obtenir une topologie parfaite via l'IA. Et ensuite, bah, toi, tu auras juste à reproduire à 99,9% avec des joints soudés, etc. pour toute la voiture. Donc ça va être parfait.",
+      "text" : "Non mais d'accord, mais du coup, continue la boucle. En fait, t'arrêtes pas la boucle jusqu'à 8 h demain matin. Et par contre, du coup, certes, je t'avais demandé de faire les components en mode Transformers et Lego via des mathématiques parfaites, mais est-ce que ces règles ont été consignées dans le truc? Et surtout, tant que ça ressemble pas au format 1 pour 1 de la voiture, ref à. En fait, ce que je pourrais faire aussi, c'est la topologie parfaite. Attends, c'est ça que je vais faire. Du coup, puisque je vais obtenir une topologie parfaite via la ref, bah, je te donnerai une nouvelle référence, du coup. Donc, je vais reprendre mon fichier. Je vais reprendre mon fichier. Et le but, ce sera du coup d'obtenir une topologie parfaite. Enfin, je vais obtenir une topologie parfaite via l'IA. Et ensuite, bah, toi, tu auras juste à reproduire à 99,9% avec des joints soudés, etc. pour toute la voiture. Donc ça va être parfait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814824793.711265,
+      "id" : "37E714A7-0FFB-46C4-A377-9B3A3F467DE7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et c'était quoi le prompt originel qui m'a permis d'obtenir les 6 views? Redonne-le-moi aussi, s'il te plaît, en entier.",
+      "text" : "Et c'était quoi le prompt originel qui m'a permis d'obtenir les 6 views? Redonne-le-moi aussi, s'il te plaît, en entier."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814824802.755944,
+      "id" : "7C8842D3-4286-4FDE-95BB-8D2D54C5C2CE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je sais plus si le prompt était dans ZenRay Houdini ou bien dans ZenRay Meshes.",
+      "text" : "Je sais plus si le prompt était dans ZenRay Houdini ou bien dans ZenRay Meshes."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814824904.24003,
+      "id" : "2CF25F37-931D-4EDB-9C27-919FAFEE5496",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Parfait. Mais là, dans le chat, j'aimerais que tu me redonnes une version avec justement une topologie parfaite attendue pour une voiture, donc pour un mesh hard surface qui respecte les edge flows et qui serait une version attendue par un tech artiste 3D senior en 2026 en respectant toutes les méthodologies de retopologie, etc. Attention, je veux vraiment que la ligne ajoutée ne soit que d'une ligne.",
+      "text" : "Parfait. Mais là, dans le chat, j'aimerais que tu me redonnes une version avec justement une topologie parfaite attendue pour une voiture, donc pour un mesh hard surface qui respecte les edge flows et qui serait une version attendue par un tech artiste 3D senior en 2026 en respectant toutes les méthodologies de retopologie, etc. Attention, je veux vraiment que la ligne ajoutée ne soit que d'une ligne."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814824928.931202,
+      "id" : "45A7E118-BD0A-4A07-B96B-24C71BD6C0D6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pour l'instant, tu notes pas dans ZenRay Houdini ce nouveau prompt qui parle de la topologie. Et normalement, dans ZenRay Meshes, je t'ai déjà donné toutes les règles de topologie que je voulais. Tu peux aussi les relire et me les confirmer, et ensuite me redonner le prompt complet.",
+      "text" : "Pour l'instant, tu notes pas dans ZenRay Houdini ce nouveau prompt qui parle de la topologie. Et normalement, dans ZenRay Meshes, je t'ai déjà donné toutes les règles de topologie que je voulais. Tu peux aussi les relire et me les confirmer, et ensuite me redonner le prompt complet."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814825072.065194,
+      "id" : "AD3E55EF-4FFB-4DEC-B97B-60B41018AE62",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est pas ça du tout le vrai prompt. Le vrai prompt six views. Tu dois te tromper, ou alors il est faux dans ZenRay Houdini, mais le vrai prompt, c'est comme les faces d'un cube. C'est les six views d'un comme les faces d'un cube. Donc c'est-à-dire qu'il y a front, back, left, right, top et down.",
+      "text" : "C'est pas ça du tout le vrai prompt. Le vrai prompt six views. Tu dois te tromper, ou alors il est faux dans ZenRay Houdini, mais le vrai prompt, c'est comme les faces d'un cube. C'est les six views d'un comme les faces d'un cube. Donc c'est-à-dire qu'il y a front, back, left, right, top et down."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814825100.74329,
+      "id" : "FDA7ADEF-1029-421F-9440-5DD65E6861CE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "donne-moi le vrai prompt, et ensuite donne-moi l'ajout que tu proposes pour la topologie.",
+      "text" : "donne-moi le vrai prompt, et ensuite donne-moi l'ajout que tu proposes pour la topologie."
     }
   ],
   "modes" : [
