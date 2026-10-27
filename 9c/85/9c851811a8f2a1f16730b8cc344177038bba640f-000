@@ -13559,6 +13559,76 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Enfin, c'est en fonction de si vous êtes intéressé par mon offre et si vous êtes disposé à faire la livraison aussi. Je m'en remets à vous. Ce sera possible de négocier, mais pas énormément.",
       "text" : "Enfin, c'est en fonction de si vous êtes intéressé par mon offre et si vous êtes disposé à faire la livraison aussi. Je m'en remets à vous. Ce sera possible de négocier, mais pas énormément."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814818115.753355,
+      "id" : "81C553DF-AD98-4D8E-90EE-B44EE895B0E9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que dans le monde de mes arrière-grands-parents, il n'y avait pas d'électricité et il n'y avait pas l'eau courante? C'est vrai que ça me dit quelque chose. Mais l'électricité en France est apparue à partir de quelle année de manière commoditisée, et ce, dans tous les foyers?",
+      "text" : "Est-ce que dans le monde de mes arrière-grands-parents, il n'y avait pas d'électricité et il n'y avait pas l'eau courante? C'est vrai que ça me dit quelque chose. Mais l'électricité en France est apparue à partir de quelle année de manière commoditisée, et ce, dans tous les foyers?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814818195.948757,
+      "id" : "250F7FD0-7665-4057-974B-61DD8637CE21",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais comment les humains survivaient? En fait, au final, si on prend une échelle de l'humanité, on vit sans doute dans la meilleure période. Parce qu'aujourd'hui, on peut faire vraiment ce qu'on veut.",
+      "text" : "Mais comment les humains survivaient? En fait, au final, si on prend une échelle de l'humanité, on vit sans doute dans la meilleure période. Parce qu'aujourd'hui, on peut faire vraiment ce qu'on veut."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814818297.945473,
+      "id" : "EF197E17-6744-4D40-BBB9-06BEDD9600FD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Si tu devais définir les pays dans lesquels on a le plus de chances de vivre et surtout à la naissance, tu définirais quel pays en premier et sur quels critères? Je veux que ton argumentation repose sur le fait que, peu importe la manière dont on pose la question, le classement de sortie ne changera pas. Donc, quels seraient les pays que tu choisirais?",
+      "text" : "Si tu devais définir les pays dans lesquels on a le plus de chances de vivre et surtout à la naissance, tu définirais quel pays en premier et sur quels critères? Je veux que ton argumentation repose sur le fait que, peu importe la manière dont on pose la question, le classement de sortie ne changera pas. Donc, quels seraient les pays que tu choisirais?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814818304.51323,
+      "id" : "31B4313C-743F-4F2D-BF52-724F7F3730D3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "en termes de chance à la naissance.",
+      "text" : "en termes de chance à la naissance."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814818400.24773,
+      "id" : "46638925-8597-4C7C-B769-ED87DDD1CB12",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "reprend la boucle depuis la nouvelle version N, essaie de prendre en compte tous les changements qui ont été faits en relisant le skill ZenRay Mesh, et continue la boucle pour affiner le modèle jusqu'à la perfection.",
+      "text" : "reprend la boucle depuis la nouvelle version N, essaie de prendre en compte tous les changements qui ont été faits en relisant le skill ZenRay Mesh, et continue la boucle pour affiner le modèle jusqu'à la perfection."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814818454.909384,
+      "id" : "25CB2438-D55C-4C99-AE13-43619020AF76",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Attention, un agent a travaillé en parallèle depuis, depuis ton dernier résultat. Donc essaie de, via coordinateur, de relire le transcript de la dernière description via l'heure. D'ailleurs, dans Resume coordinateur, ce que tu peux faire d'intelligence, c'est de toujours prendre le dernier transcript par rapport à l'horaire actuel au moment où tu lis la question. Ainsi, ça te permet, ça te permet directement de savoir à quel moment les choses ont été créées et tout. Parce que là, par exemple, je te demande d'aller lire le transcript de ChatGPT qui a bossé sur le modèle. Mais du coup, toi, ça te permet directement de continuer la boucle.",
+      "text" : "Attention, un agent a travaillé en parallèle depuis, depuis ton dernier résultat. Donc essaie de, via coordinateur, de relire le transcript de la dernière description via l'heure. D'ailleurs, dans Resume coordinateur, ce que tu peux faire d'intelligence, c'est de toujours prendre le dernier transcript par rapport à l'horaire actuel au moment où tu lis la question. Ainsi, ça te permet, ça te permet directement de savoir à quel moment les choses ont été créées et tout. Parce que là, par exemple, je te demande d'aller lire le transcript de ChatGPT qui a bossé sur le modèle. Mais du coup, toi, ça te permet directement de continuer la boucle."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814818469.971236,
+      "id" : "20354456-82CE-485E-8CDB-F1E99BCBDE6E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Le but actuel, c'est vraiment d'aller reproduire le modèle à 99,9% sans t'arrêter par rapport à l'amélioration des choses.",
+      "text" : "Le but actuel, c'est vraiment d'aller reproduire le modèle à 99,9% sans t'arrêter par rapport à l'amélioration des choses."
     }
   ],
   "modes" : [
