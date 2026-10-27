@@ -13499,6 +13499,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "J'imagine que ce qui se fait de plus aujourd'hui en entreprise et même pour les particuliers, c'est surtout d'utiliser des abonnements qui permettent d'avoir un nombre de tokens plus élevé par mois que de payer directement via l'API.",
       "text" : "J'imagine que ce qui se fait de plus aujourd'hui en entreprise et même pour les particuliers, c'est surtout d'utiliser des abonnements qui permettent d'avoir un nombre de tokens plus élevé par mois que de payer directement via l'API."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814815945.165029,
+      "id" : "38567834-DEA5-4D60-AA88-4A304EAF9FF4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est trop bizarre la manière dont tu fonctionnes avec le cron actuellement, parce que tu devrais itérer de manière à faire avancer le résultat pour augmenter la forme et le résultat par rapport à la référence. Mais là, tu t'arrêtes toutes les 3 secondes. Genre, tu fais 2 commandes et tu t'arrêtes de travailler. C'est pas du tout ce qu'on souhaite. Donc, peut-être enlève le cron et continue de travailler en séquentiel jusqu'à ce que la voiture atteigne 99,9%. Et en défaut de ça, tu ajoutes un cron. Mais c'est pas le cron qui joue sur le résultat. C'est ton travail agentique. Parce que sinon, c'est toi qui travailles. C'est pas les autres agents, là. Hein.",
+      "text" : "C'est trop bizarre la manière dont tu fonctionnes avec le cron actuellement, parce que tu devrais itérer de manière à faire avancer le résultat pour augmenter la forme et le résultat par rapport à la référence. Mais là, tu t'arrêtes toutes les 3 secondes. Genre, tu fais 2 commandes et tu t'arrêtes de travailler. C'est pas du tout ce qu'on souhaite. Donc, peut-être enlève le cron et continue de travailler en séquentiel jusqu'à ce que la voiture atteigne 99,9%. Et en défaut de ça, tu ajoutes un cron. Mais c'est pas le cron qui joue sur le résultat. C'est ton travail agentique. Parce que sinon, c'est toi qui travailles. C'est pas les autres agents, là. Hein."
     }
   ],
   "modes" : [
