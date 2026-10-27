@@ -13909,6 +13909,186 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Et par contre, à la fin, la frame de fin, donc je crois que c'est V586, elle reste pendant plusieurs secondes du coup. Elle reste pendant environ 2 secondes.",
       "text" : "Et par contre, à la fin, la frame de fin, donc je crois que c'est V586, elle reste pendant plusieurs secondes du coup. Elle reste pendant environ 2 secondes."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814833100.678197,
+      "id" : "59AEEFFF-F3CE-4C49-A1E3-15D606633E9C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu peux quitter tous les programmes sauf... J'aimerais que tu fermes tous les image viewers de Houdini, le license administrateur, Epic Games, Preview, Fontbook, Voice Memo, Google Chrome for testing, pas le Google Chrome de base, WhatsApp, ZenRay Cloud, et c'est tout.",
+      "text" : "Est-ce que tu peux quitter tous les programmes sauf... J'aimerais que tu fermes tous les image viewers de Houdini, le license administrateur, Epic Games, Preview, Fontbook, Voice Memo, Google Chrome for testing, pas le Google Chrome de base, WhatsApp, ZenRay Cloud, et c'est tout."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814833267.688572,
+      "id" : "BC517B26-CFF7-4A67-8AAA-7C71F05E3970",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je viens de capter qu'il y a un autre problème, c'est qu'il n'y a pas plusieurs pistes sonores. En fait, pour chaque motion de son, il faut que tu ajoutes une nouvelle piste sonore de manière à pouvoir mettre des sons de manière asynchrone. Et dans F, je t'avais dit au milieu du coup de mettre le son du coup de la cloche que je retrouve pas dans Motion. Donc en fait, n'importe quel montage que je te dis, c'est à mettre dans Motion évidemment. Et c'est ce qui nous a permis d'avoir le Motion F. Tu te rappelles, il y avait un son au milieu, c'était le son de la note Ghibli, et là je le retrouve pas. Mais je pense qu'il faut changer l'interface de... l'interface de Motion, et en plus j'aimerais avoir une autre grille dans le temps qui me permettrait de voir la frame et pas uniquement de voir le temps en seconde. En fait j'aimerais avoir les deux, voir le temps en seconde et voir le temps en frame aussi. Et en plus avoir plusieurs pistes sonores pour pouvoir mettre plusieurs effets sonores. Go.",
+      "text" : "Je viens de capter qu'il y a un autre problème, c'est qu'il n'y a pas plusieurs pistes sonores. En fait, pour chaque motion de son, il faut que tu ajoutes une nouvelle piste sonore de manière à pouvoir mettre des sons de manière asynchrone. Et dans F, je t'avais dit au milieu du coup de mettre le son du coup de la cloche que je retrouve pas dans Motion. Donc en fait, n'importe quel montage que je te dis, c'est à mettre dans Motion évidemment. Et c'est ce qui nous a permis d'avoir le Motion F. Tu te rappelles, il y avait un son au milieu, c'était le son de la note Ghibli, et là je le retrouve pas. Mais je pense qu'il faut changer l'interface de... l'interface de Motion, et en plus j'aimerais avoir une autre grille dans le temps qui me permettrait de voir la frame et pas uniquement de voir le temps en seconde. En fait j'aimerais avoir les deux, voir le temps en seconde et voir le temps en frame aussi. Et en plus avoir plusieurs pistes sonores pour pouvoir mettre plusieurs effets sonores. Go."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814833285.198779,
+      "id" : "0BB38B72-5F0B-4B56-92DA-95098029E4EC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et enfin, avoir mon vrai motion F, c'est-à-dire celui où il y avait le son il y avait le son bien positionné qui était Ghibli Note, du coup.",
+      "text" : "Et enfin, avoir mon vrai motion F, c'est-à-dire celui où il y avait le son il y avait le son bien positionné qui était Ghibli Note, du coup."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814833323.633035,
+      "id" : "04C45E9D-8E42-46E1-B1AE-0996191D2474",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donne-moi le pass de la vidéo parce que je crois que tu l'as mal faite en fait.",
+      "text" : "Donne-moi le pass de la vidéo parce que je crois que tu l'as mal faite en fait."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814833363.862339,
+      "id" : "3FDB0F02-0554-4415-9F14-9A58599566C2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ah oui, parce que ça me semblait bizarre, parce qu'actuellement, il n'y a que deux images dans la vidéo. Donc c'est très chelou.",
+      "text" : "Ah oui, parce que ça me semblait bizarre, parce qu'actuellement, il n'y a que deux images dans la vidéo. Donc c'est très chelou."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814833735.870546,
+      "id" : "DB4410F4-DCC4-42E6-939E-5342BD6D7338",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "YouTube DLP, tu startes la musique là avec un fade in à 0.1 seconde.",
+      "text" : "YouTube DLP, tu startes la musique là avec un fade in à 0.1 seconde."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814833747.975072,
+      "id" : "44D1CC28-B081-4D5F-8AAA-A398AF54941B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "tu vas me faire du montage vidéo.",
+      "text" : "tu vas me faire du montage vidéo."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814833919.654958,
+      "id" : "F522A0F3-6386-4190-87D2-941CD1AADE99",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc dans le projet Motion, tu me récupères lui comme vidéo au début.",
+      "text" : "Donc dans le projet Motion, tu me récupères lui comme vidéo au début."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814833936.964041,
+      "id" : "78AE19DB-A6FB-4BEB-974F-346C1B3CA5AC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Merde. Attends. Hop. Et tu me mets cette musique. Et tu me mets...",
+      "text" : "Merde. Attends. Hop. Et tu me mets cette musique. Et tu me mets..."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814833949.994158,
+      "id" : "BCFEFC20-29BA-4DC2-A8B9-C33D1A3BED19",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et du coup, tu mets la musique que je t'ai indiquée en premier. La musique start uniquement à la fin du motion design.",
+      "text" : "Et du coup, tu mets la musique que je t'ai indiquée en premier. La musique start uniquement à la fin du motion design."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814834004.976224,
+      "id" : "923446BB-7D32-4E6F-BD61-5466B29464F8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, ça vient après le motion design.",
+      "text" : "Du coup, ça vient après le motion design."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814834229.604438,
+      "id" : "C60CB4A0-708A-4560-9E48-BFD432D7F6F7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "à la fin, tu utilises ce motion que tu mets à 3 secondes. À 3 secondes, du coup. Et tu utilises ce motion pour celui-là. Mais ce que tu vas dire, c'est... évidemment, tu consignes tous les nouveaux motion et toutes les nouvelles variations dans Gallery Motion. Mais, ah oui, tu changes la fonte, et la fonte, tu la mets en... tu la mets en... comment ça s'appelle? Tu la mets, évidemment, en... la fonte. Tu la mets en... Merde. Tu la mets en GT Ultra, pardon.",
+      "text" : "à la fin, tu utilises ce motion que tu mets à 3 secondes. À 3 secondes, du coup. Et tu utilises ce motion pour celui-là. Mais ce que tu vas dire, c'est... évidemment, tu consignes tous les nouveaux motion et toutes les nouvelles variations dans Gallery Motion. Mais, ah oui, tu changes la fonte, et la fonte, tu la mets en... tu la mets en... comment ça s'appelle? Tu la mets, évidemment, en... la fonte. Tu la mets en... Merde. Tu la mets en GT Ultra, pardon."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814834293.965073,
+      "id" : "944A68E6-0D2C-4510-BA76-B2C40A8AC221",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc je récap, du coup il y a trois vidéos à assembler. À chaque fois le format c'est 1:1 et 2048 pixels. Évidemment il n'y a aucun crop et tu fais aucune erreur et tu montes la vidéo via le skill ZenRay Edit. Et j'ai juste une chose à vérifier, c'est que normalement je sais plus si le... Je sais plus, et j'avais un concept de pour faire mes shorts YouTube, et je sais plus si je l'ai noté dans ZenRay Houdini, ou bien si je l'ai noté dans ZenRay Edit. Et si je l'ai noté dans ZenRay Houdini, en fait j'aimerais que tu déplaces toute la partie du skill de ZenRay Houdini vers ZenRay... comment ça s'appelle ? ZenRay Edit, parce qu'en fait c'est ZenRay Edit qui va me permettre de faire tous mes shorts à l'avenir, etc. Donc go.",
+      "text" : "Donc je récap, du coup il y a trois vidéos à assembler. À chaque fois le format c'est 1:1 et 2048 pixels. Évidemment il n'y a aucun crop et tu fais aucune erreur et tu montes la vidéo via le skill ZenRay Edit. Et j'ai juste une chose à vérifier, c'est que normalement je sais plus si le... Je sais plus, et j'avais un concept de pour faire mes shorts YouTube, et je sais plus si je l'ai noté dans ZenRay Houdini, ou bien si je l'ai noté dans ZenRay Edit. Et si je l'ai noté dans ZenRay Houdini, en fait j'aimerais que tu déplaces toute la partie du skill de ZenRay Houdini vers ZenRay... comment ça s'appelle ? ZenRay Edit, parce qu'en fait c'est ZenRay Edit qui va me permettre de faire tous mes shorts à l'avenir, etc. Donc go."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814834314.570857,
+      "id" : "A2CADAA2-0FFC-4DE3-8B41-38BD8A7E6E52",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Tu peux déléguer carrément un agent, un sub-agent en GPT 6.1 Teralite pour cette section. Parce que c'est une tâche différente.",
+      "text" : "Tu peux déléguer carrément un agent, un sub-agent en GPT 6.1 Teralite pour cette section. Parce que c'est une tâche différente."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814834834.290343,
+      "id" : "F7446EDC-C162-4B95-84FA-B595B60ED698",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il me manque juste une miniature, mais du coup, tu peux le faire via ZenRay Edit. Et c'est juste... comment dire? Il me faut juste la dernière frame de la vidéo, justement celle qui est restée 2 secondes à la fin. Et tu édites via un motion. Du coup, je vais te donner le bon motion. Ah oui, ça va être... Voilà, ça va être... tu prends juste, tu crées une variation à partir de sombre complot. Donc attends, sombre complot, du coup c'est ce motion là, je vais te donner le titre exact, c'est League of Legends Cinematic 01, 3 apparitions. Et du coup ce, ce dont on a besoin c'est juste d'une seule frame. D'une seule frame, donc tu t'en fiches des secondes, et au lieu d'écrire sombre complot, je veux écrire modeling car, retour à la ligne, part 2. Avec la même fonte procédurale utilisée. Et du coup, avec la frame de la vidéo qui affiche, du coup, vu que c'est la deuxième frame de la deuxième partie de la vidéo, ça doit être la version 500V588. Voilà, donc c'est ça qu'il faut mettre, quoique, attends, quoique, parce que là j'ai des nouvelles versions, j'ai la version V591 qui est encore plus propre, donc ce qu'on va faire c'est que tu vas prendre une vue, voilà c'est ça, tu vas prendre une vue depuis la vue Houdini, avec une vue 3\/4 actuelle de la voiture, et ça va être la frame selected depuis Houdini MCP, voilà, et ensuite ZenRay modeling car avec le motion que je t'ai mis, et tu fais une nouvelle variation qui dure 1 seconde pour que j'ai bien mon animation, s'il te plaît, donc go.",
+      "text" : "Il me manque juste une miniature, mais du coup, tu peux le faire via ZenRay Edit. Et c'est juste... comment dire? Il me faut juste la dernière frame de la vidéo, justement celle qui est restée 2 secondes à la fin. Et tu édites via un motion. Du coup, je vais te donner le bon motion. Ah oui, ça va être... Voilà, ça va être... tu prends juste, tu crées une variation à partir de sombre complot. Donc attends, sombre complot, du coup c'est ce motion là, je vais te donner le titre exact, c'est League of Legends Cinematic 01, 3 apparitions. Et du coup ce, ce dont on a besoin c'est juste d'une seule frame. D'une seule frame, donc tu t'en fiches des secondes, et au lieu d'écrire sombre complot, je veux écrire modeling car, retour à la ligne, part 2. Avec la même fonte procédurale utilisée. Et du coup, avec la frame de la vidéo qui affiche, du coup, vu que c'est la deuxième frame de la deuxième partie de la vidéo, ça doit être la version 500V588. Voilà, donc c'est ça qu'il faut mettre, quoique, attends, quoique, parce que là j'ai des nouvelles versions, j'ai la version V591 qui est encore plus propre, donc ce qu'on va faire c'est que tu vas prendre une vue, voilà c'est ça, tu vas prendre une vue depuis la vue Houdini, avec une vue 3\/4 actuelle de la voiture, et ça va être la frame selected depuis Houdini MCP, voilà, et ensuite ZenRay modeling car avec le motion que je t'ai mis, et tu fais une nouvelle variation qui dure 1 seconde pour que j'ai bien mon animation, s'il te plaît, donc go."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814834843.623926,
+      "id" : "C3A4E14F-8F9C-475F-A7D5-DC605E7A0F95",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc là, on veut juste la thumbnail qui va être au même endroit.",
+      "text" : "Donc là, on veut juste la thumbnail qui va être au même endroit."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814834850.082467,
+      "id" : "FB195609-4043-48AF-A2E7-B38C0235E295",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "On est à la version 591 là.",
+      "text" : "On est à la version 591 là."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814834862.742918,
+      "id" : "F7BAC140-AFFB-4046-90AC-10B995AB11AE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "fais toutes ces actions le plus rapidement possible.",
+      "text" : "fais toutes ces actions le plus rapidement possible."
     }
   ],
   "modes" : [
