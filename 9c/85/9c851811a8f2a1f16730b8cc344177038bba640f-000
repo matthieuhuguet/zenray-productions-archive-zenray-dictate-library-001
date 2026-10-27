@@ -13519,6 +13519,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Bah, tu t'es encore arrêté, je sais plus quoi faire.",
       "text" : "Bah, tu t'es encore arrêté, je sais plus quoi faire."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814816533.756898,
+      "id" : "D4A28E20-58A9-477F-A66A-94A57DDC60DC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Please, mais qu'est-ce que tu branles, genre?",
+      "text" : "Please, mais qu'est-ce que tu branles, genre?"
     }
   ],
   "modes" : [
