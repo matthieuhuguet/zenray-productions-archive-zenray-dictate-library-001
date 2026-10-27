@@ -13659,6 +13659,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Note dans Claude.md la différence entre être un homme orchestre, c'est-à-dire savoir jouer de tous les instruments, et être un chef d'orchestre, c'est-à-dire savoir organiser tous les instruments. Et c'est exactement ce à terme à quoi doit ressembler mon Claude.md et toutes mes organisations via Claude, dans le sens de mon entreprise ZenRay. Dans le sens où ce qu'il faut, c'est construire à chaque fois les outils et les systèmes qui permettent ensuite d'être libre, sans pour autant réexécuter les tâches tout le temps. C'est comme ça qu'on va scale à terme. Donc tu me le mets à côté de la priorité argent avec cet exemple.",
       "text" : "Note dans Claude.md la différence entre être un homme orchestre, c'est-à-dire savoir jouer de tous les instruments, et être un chef d'orchestre, c'est-à-dire savoir organiser tous les instruments. Et c'est exactement ce à terme à quoi doit ressembler mon Claude.md et toutes mes organisations via Claude, dans le sens de mon entreprise ZenRay. Dans le sens où ce qu'il faut, c'est construire à chaque fois les outils et les systèmes qui permettent ensuite d'être libre, sans pour autant réexécuter les tâches tout le temps. C'est comme ça qu'on va scale à terme. Donc tu me le mets à côté de la priorité argent avec cet exemple."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814824569.581545,
+      "id" : "6B851507-5C97-4C12-BC84-3DCD70D58D1B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je ne sais plus si c'est ici que je t'ai posé la question par rapport à la décompilation des jeux, mais...",
+      "text" : "Je ne sais plus si c'est ici que je t'ai posé la question par rapport à la décompilation des jeux, mais..."
     }
   ],
   "modes" : [
