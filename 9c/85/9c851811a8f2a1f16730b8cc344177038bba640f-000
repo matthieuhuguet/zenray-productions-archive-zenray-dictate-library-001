@@ -13169,6 +13169,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "À mon avis, il faut changer le... le line for my letter. Il faut vraiment axer en mode what about you, tu vois. En mode vraiment focus sur eux, ce qu'ils attendent. J'imagine que c'est déjà ce que tu as écrit, mais en fait, il faut passer d'une lettre où on parle de nous-mêmes, surtout à ce que le studio a et qu'est-ce qu'on peut lui apporter. Tu vois. Faut pas penser à soi, faut penser aux autres.",
       "text" : "À mon avis, il faut changer le... le line for my letter. Il faut vraiment axer en mode what about you, tu vois. En mode vraiment focus sur eux, ce qu'ils attendent. J'imagine que c'est déjà ce que tu as écrit, mais en fait, il faut passer d'une lettre où on parle de nous-mêmes, surtout à ce que le studio a et qu'est-ce qu'on peut lui apporter. Tu vois. Faut pas penser à soi, faut penser aux autres."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814811379.283341,
+      "id" : "29BC53B5-E9E8-48B9-B075-803D638CD157",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "j'ai besoin d'une cover letter, dans le même style que mon CV. Fais-la hyper rapidement au format PDF.",
+      "text" : "j'ai besoin d'une cover letter, dans le même style que mon CV. Fais-la hyper rapidement au format PDF."
     }
   ],
   "modes" : [
