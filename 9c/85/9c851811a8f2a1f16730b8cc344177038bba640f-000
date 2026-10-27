@@ -13249,6 +13249,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Maintenant, réponds aux questions.",
       "text" : "Maintenant, réponds aux questions."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814812578.085122,
+      "id" : "3F9CA1D8-3AC5-41A3-9316-CFC01A60FD47",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, maintenant, je me pose une autre question, maintenant que j'en ai envoyé 10. C'est est-ce que finalement, en tant que freelance, c'est vraiment intelligent ce que je fais? Parce que là, actuellement, je contacte tous les studios de jeux vidéo qui existent et je leur dis « Yo les gars, je suis en train de rechercher du taf, mais en tant que freelance. Et je sais pas si c'est vraiment intelligent, en fait. Mais en plus, c'est méga long. Enfin, genre, je vais jamais m'en sortir. C'est-à-dire que je peux commencer à automatiser certains trucs, mais il y a forcément un truc à faire, parce que là, je m'en sors jamais, quoi.",
+      "text" : "En fait, maintenant, je me pose une autre question, maintenant que j'en ai envoyé 10. C'est est-ce que finalement, en tant que freelance, c'est vraiment intelligent ce que je fais? Parce que là, actuellement, je contacte tous les studios de jeux vidéo qui existent et je leur dis « Yo les gars, je suis en train de rechercher du taf, mais en tant que freelance. Et je sais pas si c'est vraiment intelligent, en fait. Mais en plus, c'est méga long. Enfin, genre, je vais jamais m'en sortir. C'est-à-dire que je peux commencer à automatiser certains trucs, mais il y a forcément un truc à faire, parce que là, je m'en sors jamais, quoi."
     }
   ],
   "modes" : [
