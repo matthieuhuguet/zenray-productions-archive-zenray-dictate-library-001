@@ -13649,6 +13649,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "car on peut toujours améliorer les choses. De toute manière, il faut améliorer les choses.",
       "text" : "car on peut toujours améliorer les choses. De toute manière, il faut améliorer les choses."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814823839.188517,
+      "id" : "EF961F58-772C-4C6E-95A2-52564BB38447",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Note dans Claude.md la différence entre être un homme orchestre, c'est-à-dire savoir jouer de tous les instruments, et être un chef d'orchestre, c'est-à-dire savoir organiser tous les instruments. Et c'est exactement ce à terme à quoi doit ressembler mon Claude.md et toutes mes organisations via Claude, dans le sens de mon entreprise ZenRay. Dans le sens où ce qu'il faut, c'est construire à chaque fois les outils et les systèmes qui permettent ensuite d'être libre, sans pour autant réexécuter les tâches tout le temps. C'est comme ça qu'on va scale à terme. Donc tu me le mets à côté de la priorité argent avec cet exemple.",
+      "text" : "Note dans Claude.md la différence entre être un homme orchestre, c'est-à-dire savoir jouer de tous les instruments, et être un chef d'orchestre, c'est-à-dire savoir organiser tous les instruments. Et c'est exactement ce à terme à quoi doit ressembler mon Claude.md et toutes mes organisations via Claude, dans le sens de mon entreprise ZenRay. Dans le sens où ce qu'il faut, c'est construire à chaque fois les outils et les systèmes qui permettent ensuite d'être libre, sans pour autant réexécuter les tâches tout le temps. C'est comme ça qu'on va scale à terme. Donc tu me le mets à côté de la priorité argent avec cet exemple."
     }
   ],
   "modes" : [
