@@ -12789,6 +12789,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Est-ce que tu es sûr que tu as redéployé le site?",
       "text" : "Est-ce que tu es sûr que tu as redéployé le site?"
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814803512.006538,
+      "id" : "36697E54-523F-4913-9D81-189673D6BA9A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Faut changer du coup, mettre tout, tous les titres en GT Ultra et tout le reste de lui en GT Standard L.",
+      "text" : "Faut changer du coup, mettre tout, tous les titres en GT Ultra et tout le reste de lui en GT Standard L."
     }
   ],
   "modes" : [
