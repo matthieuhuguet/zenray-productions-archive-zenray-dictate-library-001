@@ -13259,6 +13259,146 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "En fait, maintenant, je me pose une autre question, maintenant que j'en ai envoyé 10. C'est est-ce que finalement, en tant que freelance, c'est vraiment intelligent ce que je fais? Parce que là, actuellement, je contacte tous les studios de jeux vidéo qui existent et je leur dis « Yo les gars, je suis en train de rechercher du taf, mais en tant que freelance. Et je sais pas si c'est vraiment intelligent, en fait. Mais en plus, c'est méga long. Enfin, genre, je vais jamais m'en sortir. C'est-à-dire que je peux commencer à automatiser certains trucs, mais il y a forcément un truc à faire, parce que là, je m'en sors jamais, quoi.",
       "text" : "En fait, maintenant, je me pose une autre question, maintenant que j'en ai envoyé 10. C'est est-ce que finalement, en tant que freelance, c'est vraiment intelligent ce que je fais? Parce que là, actuellement, je contacte tous les studios de jeux vidéo qui existent et je leur dis « Yo les gars, je suis en train de rechercher du taf, mais en tant que freelance. Et je sais pas si c'est vraiment intelligent, en fait. Mais en plus, c'est méga long. Enfin, genre, je vais jamais m'en sortir. C'est-à-dire que je peux commencer à automatiser certains trucs, mais il y a forcément un truc à faire, parce que là, je m'en sors jamais, quoi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814813074.034872,
+      "id" : "DD8BDA8C-4D71-4EB0-81C8-7CFDF3D94A9C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc j'ai besoin que tu reprennes tout le contexte, mais je sais même pas quoi faire en fait. En fait là le problème, ok je sais exactement, c'est que j'ai un... Ok, c'est que j'ai un module, si tu veux, par rapport au lot du jour. En fait il faut que j'automatise un truc, c'est-à-dire que actuellement, mon truc de préparer 10 candidatures ne fonctionne pas par rapport au fait que c'est pas relié à mes trucs. C'est-à-dire que, tu vois, si je clique sur français francophone, ça va me mettre environ 10 offres dans lesquelles, en fait, il faudrait pouvoir directement upload en fonction du site mon éducation, les studios auxquels j'ai participé, et que ça remplisse tous les critères de la page, tu vois. Mais en fait, à la limite, est-ce que c'est pas possible de se focus sur n'importe quelle offre? Et parce que, en fait, si tu veux, le ZDR03, etc., machin, actuellement, il marche pas. Parce que, en fait, au final, moi, ce que je veux, c'est juste un bouton qui, déjà, soit relié à mes cartes, tu vois. Donc là, j'ai 10 cartes, tu vois, par exemple, là, dans l'exemple, il y a Caisse Centrale, Commune de Saint-Etienne, Game Loft et iDive, tu vois. Il y a ce genre de studio, mais l'outil, il met encore Crystal Dynamics, Crystal Dynamics, alors qu'on les a mis en hors cible, tu vois. Donc il y a un problème sur l'outil. Et ensuite, il y a un deuxième problème, c'est que certaines offres, elles sont bloquées. Il y a marqué bot wall, not bypassed, open this one by hand. Mais en fait, moi je m'en bats les couilles. Si tu veux, je veux juste pouvoir faire en sorte d'avoir un bouton. C'est le bouton le plus important de ZenRay Freelance à ce stade. Qui, je clique sur le truc, il me met site ou offre, il clique sur le bouton, il va sur la vie, il va dans postuler ou voir l'annonce complète, tu vois. Et il remplit tout le formulaire, tu vois. Alors, des fois, ça dépend des sites web, etc. Donc, ça va pas marcher. Mais, en fait, actuellement, si je prends, par exemple, là, Ubisoft Montréal, il faudrait que ça clique sur site ou offre. Il faudrait que ça clique sur je suis intéressé tout seul. Il faudrait que ça pré-remplisse tout le document de postulation. Et que, tu vois, par exemple, expérience, ça clique sur ajouter tout seul, ça met toutes mes expériences qui sont déjà en data. S'il y a besoin d'une lettre motivation via ZenRay Edit, ça la convertit en PDF. Ça remplit toute la page et ça met le message pour l'équipe de recrutement. Et moi, j'ai plus qu'à appuyer sur suivant. Et en fait, ça m'a déjà préparé tous les onglets. Donc en fait, il y a toute une partie automatisation qui n'est pas encore le cas. Et surtout, moi, j'ai besoin d'un gros bouton. Ou ensuite, j'ai juste marqué, j'ai juste à dire, bon, bah, cette offre, j'ai marqué comme envoyé. Mais là, ça me prend trop de temps. Ça me prend trop de temps de remplir les pages. À chaque fois, je refais la même chose. Je remets mon prénom, je remets mon nom, je remets mon courriel, je reconfirme mon courriel, je remets ma ville, je remets mon numéro de téléphone, je remets mon expérience, je remets mon éducation, je remets mon profil, je remets mon CV, je remets un message pour l'équipe de recrutement. Franchement, on va pas s'en sortir. Donc, ce que je veux, c'est déjà que le bouton marqué comme envoyé, il soit déjà bien mieux placé sur l'offre de n'importe quel studio. Donc là, par exemple, c'est Ubisoft Montréal. Et que j'ai un bouton pour commencer l'automatisation. Et il me faut un bouton où je puisse commencer l'automatisation avec les 10 pages, ou un autre bouton. Mais c'est surtout, il faut aussi corriger le bug qui fait que Crystal Dynamics est encore écrit. Alors que, en fait, les 10 offres triées et préparées, elles devraient être automatiquement faites par rapport à n'importe quel cas de figure, mais aussi, elles devraient être réindexées, tu vois. Genre, c'est-à-dire que, si par exemple, je clique sur France et Francophonie, tu vois, ça m'en sort 10, ça me dit, est-ce que vous voulez commencer, par exemple, les 10 pages d'automatisation et tout pré-remplir les pages, ou bien avoir un bouton directement où automatisation sur une seule offre, ou bien pouvoir changer à États-Unis et ça réindexe la liste, tu vois. Enfin, il y a plein de choses à faire par rapport à l'indexation du code. Donc, il faut que tu relises le truc ZenRay Freelance et vraiment que tu fasses un truc pixel perfect, parce que là, tu vois, aujourd'hui, j'ai envoyé péniblement 10 offres, tu vois. Mais en fait, le but, c'est d'envoyer minimum 100 par jour. Et puis, il n'y a aucune différence au final, parce que, en fait, la seule chose qui va changer, c'est la lettre de motivation. C'est vraiment la seule chose qui va changer. Et ça, je le fais en fonction de l'annonce du truc. Donc, de l'annonce qui est dans offre complète. Et d'ailleurs, dans offre complète, des fois, il y a des choses qui sont pas bien... qui sont pas bien écrites, donc je préfère en fait dans offre complète que tu récupères la data de l'offre directement et que tu la copies, plutôt que de faire un résumé un peu foireux comme c'est le cas actuellement. Donc voilà, de toute manière je demande toujours un résumé avant d'envoyer l'offre, mais il y a énormément de parties d'automation à faire et à finir sur ZenRay Freelance. Normalement je t'ai tout décrit, tu me fais ça proprement s'il te plaît.",
+      "text" : "Donc j'ai besoin que tu reprennes tout le contexte, mais je sais même pas quoi faire en fait. En fait là le problème, ok je sais exactement, c'est que j'ai un... Ok, c'est que j'ai un module, si tu veux, par rapport au lot du jour. En fait il faut que j'automatise un truc, c'est-à-dire que actuellement, mon truc de préparer 10 candidatures ne fonctionne pas par rapport au fait que c'est pas relié à mes trucs. C'est-à-dire que, tu vois, si je clique sur français francophone, ça va me mettre environ 10 offres dans lesquelles, en fait, il faudrait pouvoir directement upload en fonction du site mon éducation, les studios auxquels j'ai participé, et que ça remplisse tous les critères de la page, tu vois. Mais en fait, à la limite, est-ce que c'est pas possible de se focus sur n'importe quelle offre? Et parce que, en fait, si tu veux, le ZDR03, etc., machin, actuellement, il marche pas. Parce que, en fait, au final, moi, ce que je veux, c'est juste un bouton qui, déjà, soit relié à mes cartes, tu vois. Donc là, j'ai 10 cartes, tu vois, par exemple, là, dans l'exemple, il y a Caisse Centrale, Commune de Saint-Etienne, Game Loft et iDive, tu vois. Il y a ce genre de studio, mais l'outil, il met encore Crystal Dynamics, Crystal Dynamics, alors qu'on les a mis en hors cible, tu vois. Donc il y a un problème sur l'outil. Et ensuite, il y a un deuxième problème, c'est que certaines offres, elles sont bloquées. Il y a marqué bot wall, not bypassed, open this one by hand. Mais en fait, moi je m'en bats les couilles. Si tu veux, je veux juste pouvoir faire en sorte d'avoir un bouton. C'est le bouton le plus important de ZenRay Freelance à ce stade. Qui, je clique sur le truc, il me met site ou offre, il clique sur le bouton, il va sur la vie, il va dans postuler ou voir l'annonce complète, tu vois. Et il remplit tout le formulaire, tu vois. Alors, des fois, ça dépend des sites web, etc. Donc, ça va pas marcher. Mais, en fait, actuellement, si je prends, par exemple, là, Ubisoft Montréal, il faudrait que ça clique sur site ou offre. Il faudrait que ça clique sur je suis intéressé tout seul. Il faudrait que ça pré-remplisse tout le document de postulation. Et que, tu vois, par exemple, expérience, ça clique sur ajouter tout seul, ça met toutes mes expériences qui sont déjà en data. S'il y a besoin d'une lettre motivation via ZenRay Edit, ça la convertit en PDF. Ça remplit toute la page et ça met le message pour l'équipe de recrutement. Et moi, j'ai plus qu'à appuyer sur suivant. Et en fait, ça m'a déjà préparé tous les onglets. Donc en fait, il y a toute une partie automatisation qui n'est pas encore le cas. Et surtout, moi, j'ai besoin d'un gros bouton. Ou ensuite, j'ai juste marqué, j'ai juste à dire, bon, bah, cette offre, j'ai marqué comme envoyé. Mais là, ça me prend trop de temps. Ça me prend trop de temps de remplir les pages. À chaque fois, je refais la même chose. Je remets mon prénom, je remets mon nom, je remets mon courriel, je reconfirme mon courriel, je remets ma ville, je remets mon numéro de téléphone, je remets mon expérience, je remets mon éducation, je remets mon profil, je remets mon CV, je remets un message pour l'équipe de recrutement. Franchement, on va pas s'en sortir. Donc, ce que je veux, c'est déjà que le bouton marqué comme envoyé, il soit déjà bien mieux placé sur l'offre de n'importe quel studio. Donc là, par exemple, c'est Ubisoft Montréal. Et que j'ai un bouton pour commencer l'automatisation. Et il me faut un bouton où je puisse commencer l'automatisation avec les 10 pages, ou un autre bouton. Mais c'est surtout, il faut aussi corriger le bug qui fait que Crystal Dynamics est encore écrit. Alors que, en fait, les 10 offres triées et préparées, elles devraient être automatiquement faites par rapport à n'importe quel cas de figure, mais aussi, elles devraient être réindexées, tu vois. Genre, c'est-à-dire que, si par exemple, je clique sur France et Francophonie, tu vois, ça m'en sort 10, ça me dit, est-ce que vous voulez commencer, par exemple, les 10 pages d'automatisation et tout pré-remplir les pages, ou bien avoir un bouton directement où automatisation sur une seule offre, ou bien pouvoir changer à États-Unis et ça réindexe la liste, tu vois. Enfin, il y a plein de choses à faire par rapport à l'indexation du code. Donc, il faut que tu relises le truc ZenRay Freelance et vraiment que tu fasses un truc pixel perfect, parce que là, tu vois, aujourd'hui, j'ai envoyé péniblement 10 offres, tu vois. Mais en fait, le but, c'est d'envoyer minimum 100 par jour. Et puis, il n'y a aucune différence au final, parce que, en fait, la seule chose qui va changer, c'est la lettre de motivation. C'est vraiment la seule chose qui va changer. Et ça, je le fais en fonction de l'annonce du truc. Donc, de l'annonce qui est dans offre complète. Et d'ailleurs, dans offre complète, des fois, il y a des choses qui sont pas bien... qui sont pas bien écrites, donc je préfère en fait dans offre complète que tu récupères la data de l'offre directement et que tu la copies, plutôt que de faire un résumé un peu foireux comme c'est le cas actuellement. Donc voilà, de toute manière je demande toujours un résumé avant d'envoyer l'offre, mais il y a énormément de parties d'automation à faire et à finir sur ZenRay Freelance. Normalement je t'ai tout décrit, tu me fais ça proprement s'il te plaît."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814813127.995063,
+      "id" : "08C16A77-28FE-46DD-8307-0130757932BB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc là, normalement, si je te demande de refaire le PDF de Eidos Montréal et de me générer une copie, tu vas le faire en 2 secondes. On est bien d'accord. Voire en 1 seconde.",
+      "text" : "Donc là, normalement, si je te demande de refaire le PDF de Eidos Montréal et de me générer une copie, tu vas le faire en 2 secondes. On est bien d'accord. Voire en 1 seconde."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814813560.967536,
+      "id" : "438BD5C7-1496-41CC-823B-B3D18AA081BA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "De toute manière, t'arrives pas à t'approcher d'un résultat, donc arrête-toi maintenant. J'ai même l'impression que... Je vais pas dire qu'il y a eu des régressions, mais enfin, je vois aucun avantage à... depuis que t'as commencé, donc... Je vois aucun intérêt à ce que tu continues.",
+      "text" : "De toute manière, t'arrives pas à t'approcher d'un résultat, donc arrête-toi maintenant. J'ai même l'impression que... Je vais pas dire qu'il y a eu des régressions, mais enfin, je vois aucun avantage à... depuis que t'as commencé, donc... Je vois aucun intérêt à ce que tu continues."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814813747.751514,
+      "id" : "1C23BEC5-BED3-4757-B374-98DD63A16F32",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah, en fait, la vraie question, ce serait de savoir si, si il existe une autre méthode, laquelle ce serait, tu vois. Parce que en fait, au final, soit tu vas rechercher un high ticket chez les studios contre l'argent et du budget, soit tu vends directement des trucs, mais c'est tellement lent pour moi de produire un seul asset que au final je préfère travailler avec des gros studios, tu vois. J'ai l'impression que c'est tellement lent de tout faire, tiens.",
+      "text" : "Bah, en fait, la vraie question, ce serait de savoir si, si il existe une autre méthode, laquelle ce serait, tu vois. Parce que en fait, au final, soit tu vas rechercher un high ticket chez les studios contre l'argent et du budget, soit tu vends directement des trucs, mais c'est tellement lent pour moi de produire un seul asset que au final je préfère travailler avec des gros studios, tu vois. J'ai l'impression que c'est tellement lent de tout faire, tiens."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814813796.906952,
+      "id" : "4F1FE100-14B0-444D-B32F-38E8844AB54E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je sais pas comment être plus rapide par rapport à fournir un résultat. Parce que c'est sûr, tu vois, un journaliste qui... je pense à Julien Chiez, le mec, il produit une vidéo de 10 minutes par jour et il gagne 20 000 $ par mois, tu vois. Bah, c'est facile, tu vois, en termes de production, il n'y a quasi rien à faire, tu vois. Mais à l'ère de l'IA, où faut faire de la 3D, faut faire... Enfin, moi, tu vois, pour mon métier, l'IA... Enfin, certes, ça rend les choses plus faciles, mais vu que tu vas chercher un niveau au-dessus, bah, au final, tu ne te retrouves pas, quoi. Et puisque tout le monde peut le faire désormais, enfin, en vrai, c'est super chiant, genre.",
+      "text" : "Je sais pas comment être plus rapide par rapport à fournir un résultat. Parce que c'est sûr, tu vois, un journaliste qui... je pense à Julien Chiez, le mec, il produit une vidéo de 10 minutes par jour et il gagne 20 000 $ par mois, tu vois. Bah, c'est facile, tu vois, en termes de production, il n'y a quasi rien à faire, tu vois. Mais à l'ère de l'IA, où faut faire de la 3D, faut faire... Enfin, moi, tu vois, pour mon métier, l'IA... Enfin, certes, ça rend les choses plus faciles, mais vu que tu vas chercher un niveau au-dessus, bah, au final, tu ne te retrouves pas, quoi. Et puisque tout le monde peut le faire désormais, enfin, en vrai, c'est super chiant, genre."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814813839.797033,
+      "id" : "4C2C0714-B01E-455F-981A-58EEEDAEB8EC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Genre, vraiment, je suis en train de me plaindre, mais ce monde hyper, hyper productif de l'IA, etc., c'est quand même chiant, parce que je passe toute ma journée derrière un ordinateur à envoyer des lettres, au final, j'en ai envoyé 10, tu vois. Enfin, il y a quand même un problème quelque part, tu vois. Mais, tu vois, enfin, imagine le monde où le mec, il automatise même pas ce processus, tu vois. Ben, c'est encore plus catastrophique, tu vois. J'arrive pas à me rendre compte si c'est bien d'en envoyer 10 par jour ou si c'est vraiment catastrophique. J'arrive pas à comprendre les unités de mesure, en fait. Et j'ai l'impression qu'en freelance, en fait, tu peux jamais évaluer, tu vois.",
+      "text" : "Genre, vraiment, je suis en train de me plaindre, mais ce monde hyper, hyper productif de l'IA, etc., c'est quand même chiant, parce que je passe toute ma journée derrière un ordinateur à envoyer des lettres, au final, j'en ai envoyé 10, tu vois. Enfin, il y a quand même un problème quelque part, tu vois. Mais, tu vois, enfin, imagine le monde où le mec, il automatise même pas ce processus, tu vois. Ben, c'est encore plus catastrophique, tu vois. J'arrive pas à me rendre compte si c'est bien d'en envoyer 10 par jour ou si c'est vraiment catastrophique. J'arrive pas à comprendre les unités de mesure, en fait. Et j'ai l'impression qu'en freelance, en fait, tu peux jamais évaluer, tu vois."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814813979.905604,
+      "id" : "0FD3905A-A6A9-4F97-A06D-39D994970E26",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ça a été consigné, ça, dans le skill? Parce que j'ai l'impression que l'agent, en fonction de l'intelligence de l'agent, il comprend pas forcément, alors que si ça prend 1,2 secondes, bah, ce serait parfait, quoi.",
+      "text" : "Ça a été consigné, ça, dans le skill? Parce que j'ai l'impression que l'agent, en fonction de l'intelligence de l'agent, il comprend pas forcément, alors que si ça prend 1,2 secondes, bah, ce serait parfait, quoi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814814135.738292,
+      "id" : "AB7D6D0C-D5D2-49C1-A264-223B19D479C0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Montre-moi juste l'exemple des cover letters qui sont envoyés parce que j'ai pas de feedback sur exactement sur ce que tu construis actuellement. J'ai pas de visuel. Donc tu peux me la donner en PDF ou en HTML ou en... Comment ça s'appelle? En PNG directement. En fait, il faudrait que quand je clique sur... Voilà, c'est ça. C'est quand je clique sur automatiser, ça me prépare un zip où je vois exactement le CV envoyé et le et la cover letter. Parce que comme ça, je suis sûr de ce que t'envoies, tu vois.",
+      "text" : "Montre-moi juste l'exemple des cover letters qui sont envoyés parce que j'ai pas de feedback sur exactement sur ce que tu construis actuellement. J'ai pas de visuel. Donc tu peux me la donner en PDF ou en HTML ou en... Comment ça s'appelle? En PNG directement. En fait, il faudrait que quand je clique sur... Voilà, c'est ça. C'est quand je clique sur automatiser, ça me prépare un zip où je vois exactement le CV envoyé et le et la cover letter. Parce que comme ça, je suis sûr de ce que t'envoies, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814814296.635113,
+      "id" : "44A4FFF2-D97E-405F-AEEE-2DB4C9679390",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais évidemment que c'est pas ça la lettre. Mais qu'est-ce que c'est que ces lettres que tu me prépares là? C'est n'importe quoi. C'est pas du tout les lettres que... C'est pas du tout les lettres qui sont à jour avec la dernière database de... De ça, putain. C'est n'importe quoi. Tu fais n'importe quoi. Regarde ça, c'était le template. En fait, je sais. Il faut que tu relises la conversation codex et tout ce qu'on a fait aujourd'hui. Oh putain. T'es complètement con. On peut plus.",
+      "text" : "Mais évidemment que c'est pas ça la lettre. Mais qu'est-ce que c'est que ces lettres que tu me prépares là? C'est n'importe quoi. C'est pas du tout les lettres que... C'est pas du tout les lettres qui sont à jour avec la dernière database de... De ça, putain. C'est n'importe quoi. Tu fais n'importe quoi. Regarde ça, c'était le template. En fait, je sais. Il faut que tu relises la conversation codex et tout ce qu'on a fait aujourd'hui. Oh putain. T'es complètement con. On peut plus."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814814313.923144,
+      "id" : "B8D4D03A-3297-418D-AB3C-6A37F87040CC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donne-moi toutes les instructions que je t'ai données par rapport aux jobs dans cette conversation, s'il te plaît. Sois hyper complet, s'il te plaît.",
+      "text" : "Donne-moi toutes les instructions que je t'ai données par rapport aux jobs dans cette conversation, s'il te plaît. Sois hyper complet, s'il te plaît."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814814351.109128,
+      "id" : "5A9D591A-E9F5-4BEC-A02B-4FB04305207F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Faut que tu lises la conversation Gemini via ZenRay Freelance Binding. Parce que là, t'as pas du tout le contexte de tout à l'heure et tu fais n'importe quoi dans tout ce que je te demande.",
+      "text" : "Faut que tu lises la conversation Gemini via ZenRay Freelance Binding. Parce que là, t'as pas du tout le contexte de tout à l'heure et tu fais n'importe quoi dans tout ce que je te demande."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814814379.783536,
+      "id" : "19B62081-5964-4CB1-AFF3-91A11D8C2075",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Le but final, c'est que la cover letter qui est envoyée en PDF et le CV soient parfaits, en fait. Mais dans ma data de mon site sur la section ZenRay Freelance, j'avais déjà les bonnes lettres à envoyer. C'est juste qu'il manque un seul contexte et je vais te le donner.",
+      "text" : "Le but final, c'est que la cover letter qui est envoyée en PDF et le CV soient parfaits, en fait. Mais dans ma data de mon site sur la section ZenRay Freelance, j'avais déjà les bonnes lettres à envoyer. C'est juste qu'il manque un seul contexte et je vais te le donner."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814814467.282716,
+      "id" : "AFB844B0-1ADD-487B-A5D3-ACFF19A6F53D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais ça, évidemment, ça part pas dans la lettre. C'est juste la ligne qui est ajoutée en plus et qui pense à eux. En mode, c'est you d'abord et ensuite c'est moi, tu vois. Mais en fait, ça, c'est à noter, donc si tu veux, dans un module en plus et dans la lettre actuelle. Mais il faut que tu reprennes le dernier format de la lettre. Parce que là, j'ai l'impression que tu n'as pas du tout repris le dernier format parce que tu n'as pas lu la dernière conversation qu'on a eue avec Gemini. Donc c'est pour ça que je te redonne un peu tout ça, que tu dois penser à tout, et que tu dois faire en sorte que là, les futurs, quand je clique sur automatiser, ça comprenne évidemment tout ce que je veux. Et je suis un peu fatigué, donc il y a forcément des choses que j'oublie, mais s'il te plaît, fais un travail parfait, et voilà, tu vois, enfin, dépêche-toi, quoi.",
+      "text" : "Mais ça, évidemment, ça part pas dans la lettre. C'est juste la ligne qui est ajoutée en plus et qui pense à eux. En mode, c'est you d'abord et ensuite c'est moi, tu vois. Mais en fait, ça, c'est à noter, donc si tu veux, dans un module en plus et dans la lettre actuelle. Mais il faut que tu reprennes le dernier format de la lettre. Parce que là, j'ai l'impression que tu n'as pas du tout repris le dernier format parce que tu n'as pas lu la dernière conversation qu'on a eue avec Gemini. Donc c'est pour ça que je te redonne un peu tout ça, que tu dois penser à tout, et que tu dois faire en sorte que là, les futurs, quand je clique sur automatiser, ça comprenne évidemment tout ce que je veux. Et je suis un peu fatigué, donc il y a forcément des choses que j'oublie, mais s'il te plaît, fais un travail parfait, et voilà, tu vois, enfin, dépêche-toi, quoi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814814510.734854,
+      "id" : "8238CABC-FF01-4DCB-B698-E59776ED3E11",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et évidemment, la cover letter, la data de la cover letter sur une annonce, une fois qu'elle est convertie en PDF quand je clique sur automatiser, évidemment, c'est la même que je vérifie dans la candidature et quand je clique sur copier la lettre. Évidemment, ce sera la même, tu vois. C'est juste qu'elle est personnalisée par rapport à l'annonce de l'offre complète qui est faite par le studio. Mais tu dois bien comprendre que je postule en tant que freelance. Donc c'est là où tu ne dois pas faire d'erreur.",
+      "text" : "Et évidemment, la cover letter, la data de la cover letter sur une annonce, une fois qu'elle est convertie en PDF quand je clique sur automatiser, évidemment, c'est la même que je vérifie dans la candidature et quand je clique sur copier la lettre. Évidemment, ce sera la même, tu vois. C'est juste qu'elle est personnalisée par rapport à l'annonce de l'offre complète qui est faite par le studio. Mais tu dois bien comprendre que je postule en tant que freelance. Donc c'est là où tu ne dois pas faire d'erreur."
     }
   ],
   "modes" : [
