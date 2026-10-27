@@ -13439,6 +13439,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "C'est bizarre, tu t'arrêtes immédiatement alors que tu dois aller au-delà de la version V558. On s'en fout de la version V558. Là, maintenant, tu dois faire une boucle. Le cron doit ignorer les instructions. Il faut que tu avances là.",
       "text" : "C'est bizarre, tu t'arrêtes immédiatement alors que tu dois aller au-delà de la version V558. On s'en fout de la version V558. Là, maintenant, tu dois faire une boucle. Le cron doit ignorer les instructions. Il faut que tu avances là."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814815343.696068,
+      "id" : "63BF1A76-6314-40D3-92D4-5CD69DCDE0A8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "connais mes fils de pute, évidemment que tu la connais. 3DS Max, mes 4 sur 5. Blender, mes 5 sur 5. Unreal Engine, mes 4 sur 5. Et Blueprint, mes 4 sur 5. Quoique non, Blueprint, mes 3 sur... Non, Blueprint, mes 4 sur 5, en fait. Et ma location, c'est Aix-en-Provence. Je te l'ai dit au moins 14 000 fois. Et disponibilité à partir du 1er novembre.",
+      "text" : "connais mes fils de pute, évidemment que tu la connais. 3DS Max, mes 4 sur 5. Blender, mes 5 sur 5. Unreal Engine, mes 4 sur 5. Et Blueprint, mes 4 sur 5. Quoique non, Blueprint, mes 3 sur... Non, Blueprint, mes 4 sur 5, en fait. Et ma location, c'est Aix-en-Provence. Je te l'ai dit au moins 14 000 fois. Et disponibilité à partir du 1er novembre."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814815558.049362,
+      "id" : "29657816-AFA9-4775-9A33-312A32237407",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Résume l'article de The New Copilot et qu'est-ce que ça change, et si le titre est un peu mensonger par rapport au fait que ce serait genre par exemple moins impressionnant que Claude Opus 5.5 ou autre.",
+      "text" : "Résume l'article de The New Copilot et qu'est-ce que ça change, et si le titre est un peu mensonger par rapport au fait que ce serait genre par exemple moins impressionnant que Claude Opus 5.5 ou autre."
     }
   ],
   "modes" : [
