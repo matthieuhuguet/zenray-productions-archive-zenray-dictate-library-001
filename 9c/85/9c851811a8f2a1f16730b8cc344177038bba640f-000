@@ -12229,6 +12229,376 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Omar Sy, vrai nom.",
       "text" : "Omar Sy, vrai nom."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814791684.461468,
+      "id" : "1404DAF9-C746-432F-B536-058749E551D0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je me pose juste une question par rapport à ZenRay Freelance. Est-ce que tu as ajouté, par exemple, toutes les agences de com, de motion, etc. Parce que puisque je fais du ZenRay Houdini, ou même les agences d'architecture, voire d'automobile, afin de les ajouter directement dans les offres. Parce que là, tu vois, j'ai 784 offres dans le jeu vidéo, mais j'aimerais aussi pouvoir trier par autre industrie, mais que ce soit un peu plus précis qu'actuellement. Dans le sens où j'aimerais que tu ajoutes des sources. Je crois qu'on a 36 sources actuellement. En fait, ce qu'il faudrait, c'est pouvoir trier les autres industries, mais globalement par rapport à mon CV. Donc, lis d'abord mon CV, ou lis mathieu1.md pour savoir exactement ce que je fais. Je fais surtout de la 3D, du tech art, du procédural via Houdini. Mais du coup, je pense que ces compétences, elles peuvent s'appliquer dans l'industrie, par exemple, automobile, dans l'industrie ingénierie, dans l'industrie de la com, de la communication, etc. Comme ça, là, aujourd'hui, je vais envoyer pas mal d'offres et tout. On avait déjà recensé quelques appels d'offres, mais parfois, je comprends pas très bien les trucs. Donc, ah oui, et ce que j'aimerais que tu fasses aussi, c'est via l'API et Claude Haiku Max. Normalement, j'ai déjà une clé API. Sinon, en fait, tu le fais juste pour les offres qui existent déjà, et à l'avenir, tu... Ouais, mais je sais pas comment faire, parce qu'en fait, ce qu'il faudrait, c'est plug un agent AI qui lit la bio, la description, et qui résume uniquement les mots-clés. Après, on peut aussi faire un petit algorithme en Python qui prend uniquement les mots les plus importants pour que je comprenne et que je lise en diagonale une offre pour comprendre immédiatement de quoi ça parle. Mais... au-delà de ça, c'est pas le plus important. Là, le plus important, c'est surtout de pouvoir trier par recensement d'industrie via une étiquette. Donc, vas-y, fais-moi ça, s'il te plaît. Et par contre, j'aimerais que les boutons soient carrés et arrondis, et pas arrondis à 999 sur ma page freelance. Donc ça, c'est du design. Donc voilà. Donc juste en dessous de ZenRay Freelance, juste en dessous du titre, je veux que tu mettes les différentes industries auxquelles je peux appliquer. Mais pense vraiment à toutes les industries, ensuite je valide, et ensuite tu rajoutes les sources, et ensuite tu me fais une petite pastille de récap uniquement sur les mots importants. Pour l'instant tu le fais en Python, et plus tard on branchera une API genre Claude Haiku 5.5 en effort max pour ne serait-ce que déjà... analyser notre database existante de 784 offres. Et à terme, voilà.",
+      "text" : "Je me pose juste une question par rapport à ZenRay Freelance. Est-ce que tu as ajouté, par exemple, toutes les agences de com, de motion, etc. Parce que puisque je fais du ZenRay Houdini, ou même les agences d'architecture, voire d'automobile, afin de les ajouter directement dans les offres. Parce que là, tu vois, j'ai 784 offres dans le jeu vidéo, mais j'aimerais aussi pouvoir trier par autre industrie, mais que ce soit un peu plus précis qu'actuellement. Dans le sens où j'aimerais que tu ajoutes des sources. Je crois qu'on a 36 sources actuellement. En fait, ce qu'il faudrait, c'est pouvoir trier les autres industries, mais globalement par rapport à mon CV. Donc, lis d'abord mon CV, ou lis mathieu1.md pour savoir exactement ce que je fais. Je fais surtout de la 3D, du tech art, du procédural via Houdini. Mais du coup, je pense que ces compétences, elles peuvent s'appliquer dans l'industrie, par exemple, automobile, dans l'industrie ingénierie, dans l'industrie de la com, de la communication, etc. Comme ça, là, aujourd'hui, je vais envoyer pas mal d'offres et tout. On avait déjà recensé quelques appels d'offres, mais parfois, je comprends pas très bien les trucs. Donc, ah oui, et ce que j'aimerais que tu fasses aussi, c'est via l'API et Claude Haiku Max. Normalement, j'ai déjà une clé API. Sinon, en fait, tu le fais juste pour les offres qui existent déjà, et à l'avenir, tu... Ouais, mais je sais pas comment faire, parce qu'en fait, ce qu'il faudrait, c'est plug un agent AI qui lit la bio, la description, et qui résume uniquement les mots-clés. Après, on peut aussi faire un petit algorithme en Python qui prend uniquement les mots les plus importants pour que je comprenne et que je lise en diagonale une offre pour comprendre immédiatement de quoi ça parle. Mais... au-delà de ça, c'est pas le plus important. Là, le plus important, c'est surtout de pouvoir trier par recensement d'industrie via une étiquette. Donc, vas-y, fais-moi ça, s'il te plaît. Et par contre, j'aimerais que les boutons soient carrés et arrondis, et pas arrondis à 999 sur ma page freelance. Donc ça, c'est du design. Donc voilà. Donc juste en dessous de ZenRay Freelance, juste en dessous du titre, je veux que tu mettes les différentes industries auxquelles je peux appliquer. Mais pense vraiment à toutes les industries, ensuite je valide, et ensuite tu rajoutes les sources, et ensuite tu me fais une petite pastille de récap uniquement sur les mots importants. Pour l'instant tu le fais en Python, et plus tard on branchera une API genre Claude Haiku 5.5 en effort max pour ne serait-ce que déjà... analyser notre database existante de 784 offres. Et à terme, voilà."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814791837.168803,
+      "id" : "9721E81D-AE2E-4619-B58C-C22A2261F84E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu peux reprendre",
+      "text" : "Est-ce que tu peux reprendre"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814792085.298592,
+      "id" : "F41E0883-791E-46CC-B3F9-65685EE3DBF9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Continue, mais ce que j'aimerais que tu fasses, c'est qu'aujourd'hui, tu divises en fait par components. C'est-à-dire, en fait, tous les components de la voiture doivent être séparés, un peu comme à la manière de Transformers, tu vois. Le but, c'est que ensuite, on puisse extraire des parties internes comme la porte, la vitre, le capot, les roues. En fait, il faut arrêter de penser en termes de blocs unis et il faut plutôt penser une logique de Transformers, donc Transformers le film, où la voiture pourrait s'assembler et se désassembler et avec des mesures précises mathématiques qui feraient qu'en fait tout viendrait se coller de manière propre, un peu comme des Lego, tu vois. Et ça, c'est une règle absolument cruciale à consigner dans ZenRay mes chaises, donc continue ce que tu faisais déjà, mais ajoute maintenant cette logique où on va essayer de, à partir de la référence, vraiment aller identifier toutes les parties divisibles des components, comme si en fait tu reproduisais un seul component à la fois. Là, je vois que tu travailles sur la topologie pour faire en sorte que les quad mesh soient propres. C'est une bonne méthode en soi. Mais je pense que tu pourrais travailler sur des components individuellement, voire faire les NURBS, faire des guides 3D à partir des contours 3D évidemment, pas simplement 2D, mais à partir d'un six views sur n'importe quel asset, tu peux tracer des lignes curves et ensuite tu peux faire des lofts et des. Je ne sais plus exactement comment ça s'appelle dans Maya et dans Houdini, la manière de relier deux courbes 3D pour faire une plane qui suit les courbes. Mais en soi, l'exercice de créer une voiture, c'est surtout créer des guides 3D parfaits par rapport à un contour. Et ensuite, la topologie, en fait, et les edge flows, tu vois, ils suivent plus ou moins les NURBS parfaites que tu as déjà faites, tu vois. Donc c'est surtout ce travail qu'il faut faire. Et donc consigne absolument tout ce que je viens de te dire dans les instructions de ZenRay Rules et dans l'algo et dans le skill.",
+      "text" : "Continue, mais ce que j'aimerais que tu fasses, c'est qu'aujourd'hui, tu divises en fait par components. C'est-à-dire, en fait, tous les components de la voiture doivent être séparés, un peu comme à la manière de Transformers, tu vois. Le but, c'est que ensuite, on puisse extraire des parties internes comme la porte, la vitre, le capot, les roues. En fait, il faut arrêter de penser en termes de blocs unis et il faut plutôt penser une logique de Transformers, donc Transformers le film, où la voiture pourrait s'assembler et se désassembler et avec des mesures précises mathématiques qui feraient qu'en fait tout viendrait se coller de manière propre, un peu comme des Lego, tu vois. Et ça, c'est une règle absolument cruciale à consigner dans ZenRay mes chaises, donc continue ce que tu faisais déjà, mais ajoute maintenant cette logique où on va essayer de, à partir de la référence, vraiment aller identifier toutes les parties divisibles des components, comme si en fait tu reproduisais un seul component à la fois. Là, je vois que tu travailles sur la topologie pour faire en sorte que les quad mesh soient propres. C'est une bonne méthode en soi. Mais je pense que tu pourrais travailler sur des components individuellement, voire faire les NURBS, faire des guides 3D à partir des contours 3D évidemment, pas simplement 2D, mais à partir d'un six views sur n'importe quel asset, tu peux tracer des lignes curves et ensuite tu peux faire des lofts et des. Je ne sais plus exactement comment ça s'appelle dans Maya et dans Houdini, la manière de relier deux courbes 3D pour faire une plane qui suit les courbes. Mais en soi, l'exercice de créer une voiture, c'est surtout créer des guides 3D parfaits par rapport à un contour. Et ensuite, la topologie, en fait, et les edge flows, tu vois, ils suivent plus ou moins les NURBS parfaites que tu as déjà faites, tu vois. Donc c'est surtout ce travail qu'il faut faire. Et donc consigne absolument tout ce que je viens de te dire dans les instructions de ZenRay Rules et dans l'algo et dans le skill."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814792291.927493,
+      "id" : "557D0375-B458-4A12-84F6-EB1B66AEB0B4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ouais, je pense que les industries sont valides, mais par contre, je pense que il y a une industrie que t'as pas forcément mise, c'est l'industrie du tourisme ou du voyage. Je pense que, mais je sais pas trop comment faire. Par exemple, ou l'industrie culturelle, tu vois, en mode, par exemple, imagine le Japon a besoin de mettre en avant une préfecture, et toi tu proposes tes services de 3D. Mais je sais pas, c'est pas comme un vlogueur, tu vois. Donc, mais moi j'aimerais bien travailler dans ce genre d'industrie si je vois des contrats. Donc je sais pas trop comment faire pour, bah, pour créer une demande. Mais déjà ajoute toutes les autres industries que tu as trouvées, c'est déjà très bien. Par contre, il faut pas trop flood les boutons sur la page principale. Donc comment dire? Enfin. Mêlé quand même en petit, tu vois. Enfin, tu gardes un seul mot, tu vois. Par exemple, jeu vidéo, on comprend tout de suite, tu vois. Alors que si tu commences à mettre. Si tu commences à mettre défense, simulation et formation, tu vois, bah là, c'est beaucoup trop gros, tu vois. Donc, il faut mettre un seul mot par un seul mot dans les tags et les étiquettes qui sont juste en dessous du coup du bandeau ZenRay Freelance, qui est le titre du programme.",
+      "text" : "Ouais, je pense que les industries sont valides, mais par contre, je pense que il y a une industrie que t'as pas forcément mise, c'est l'industrie du tourisme ou du voyage. Je pense que, mais je sais pas trop comment faire. Par exemple, ou l'industrie culturelle, tu vois, en mode, par exemple, imagine le Japon a besoin de mettre en avant une préfecture, et toi tu proposes tes services de 3D. Mais je sais pas, c'est pas comme un vlogueur, tu vois. Donc, mais moi j'aimerais bien travailler dans ce genre d'industrie si je vois des contrats. Donc je sais pas trop comment faire pour, bah, pour créer une demande. Mais déjà ajoute toutes les autres industries que tu as trouvées, c'est déjà très bien. Par contre, il faut pas trop flood les boutons sur la page principale. Donc comment dire? Enfin. Mêlé quand même en petit, tu vois. Enfin, tu gardes un seul mot, tu vois. Par exemple, jeu vidéo, on comprend tout de suite, tu vois. Alors que si tu commences à mettre. Si tu commences à mettre défense, simulation et formation, tu vois, bah là, c'est beaucoup trop gros, tu vois. Donc, il faut mettre un seul mot par un seul mot dans les tags et les étiquettes qui sont juste en dessous du coup du bandeau ZenRay Freelance, qui est le titre du programme."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814792385.057156,
+      "id" : "0CE668E6-1585-4E27-8604-624865929C7F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "je viens de relancer Houdini, il faut absolument que tu travailles toujours avec la scène ouverte. Essaie de privilégier le MCP plutôt que de travailler en Python en éditeur fermé. Je préfère que l'éditeur soit ouvert en fait. Et si ça crache, bah, tu le relances. C'est des règles à consigner, ça.",
+      "text" : "je viens de relancer Houdini, il faut absolument que tu travailles toujours avec la scène ouverte. Essaie de privilégier le MCP plutôt que de travailler en Python en éditeur fermé. Je préfère que l'éditeur soit ouvert en fait. Et si ça crache, bah, tu le relances. C'est des règles à consigner, ça."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814792399.708303,
+      "id" : "8D71CE45-D6AA-4688-B4E5-252838E3DB88",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il peut y avoir un problème de licence, dans ce cas-là, tu as juste à aller dans License Administrator, utiliser Computer Use et cliquer sur Refresh, sur le bouton Refresh, et normalement ça remarche.",
+      "text" : "Il peut y avoir un problème de licence, dans ce cas-là, tu as juste à aller dans License Administrator, utiliser Computer Use et cliquer sur Refresh, sur le bouton Refresh, et normalement ça remarche."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814793199.493186,
+      "id" : "642B4499-A68E-4E97-9646-B981ACF1652F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc mon template actuel, c'est à peu près ça, mais en fait, je me pose vraiment la question de si le message est vraiment le bon par rapport à tout mon contexte, en fait. Je sais pas si c'est vraiment la chose la plus intéressante que je dis, et surtout par rapport à toutes les choses que j'ai créées, tu vois. Peut-être que je sais pas me vendre, peut-être qu'il y a un problème de syndrome de l'imposteur, et peut-être qu'en fait, au final, le plus important, c'est pas le message, c'est ce que je vais dire après, tu vois. Donc en fait, je me pose la question de si ce message est vraiment si bon que ça, tu vois. Je sais pas. J'ai l'impression qu'en fait, je leur donne un message classique en mode « Bonjour, je m'appelle X, j'ai fait des trucs classiques », alors qu'en fait, tu le sais, dans ma base de données, je suis un profil extraordinaire, tu vois. Donc en fait, faut peut-être changer un peu le message en mode « I am the best », tu vois, tout en gardant de l'humilité par rapport à mes vraies compétences, tu vois. Mais en même temps, ce qui va me manquer là, c'est surtout de l'expérience, tu vois. Donc je sais pas trop comment faire. Essaye de lire Mathieu contexte, essaye de lire Claude, et essaye de lire... En fait, délègue à des agents la lecture de toute mémoire à un agent Haiku max 5.5, en effort max, pour te transmettre un rapport sur toute ma mémoire. Et tu délègues chaque partie à un agent différent sur les fichiers memory. Mais puisqu'il y a beaucoup de fichiers memory, je ne sais pas forcément lesquels seraient les plus pertinents. En tout cas, il y a déjà les trois que je t'ai dit. Attends, je regarde Claude. Ouais, ben, il y a le fichier Claude qui route. C'est peut-être dans Rules. Ouais, ça doit être dans Rules. Ok. Donc il y a le fichier Claude, il y a ce qui est mis dans Rules et il y a ce qui est mis dans Memory 1. Et comme ça, je pense. Mais le truc, c'est qu'il y a pas mal de choses. Il y avait le plan Japon aussi, il y avait japonais. Bref, il y a vraiment beaucoup de choses. Mais je pense le plus important, c'est surtout... Ouais, je pense le plus important, en fait, finalement, c'est Mathieu Contexte. C'est ce qu'il y a dans Claude. C'est ce qu'il y a dans Memory, dans Japonais et dans Mathieu Contexte. Et c'est ce qu'il y a dans les skills, en règle générale. Donc si tu lis ça, si tu envoies une délégation de plusieurs agents qui lisent chaque fichier individuellement en effort max, je pense que ça peut être... on peut rapidement trouver une amélioration de la lettre. Donc le but, c'est déjà que tu aies tout le contexte. Et avec ce contexte, tu transmets une amélioration de la lettre. Point par point, et tu déconstruis.",
+      "text" : "Donc mon template actuel, c'est à peu près ça, mais en fait, je me pose vraiment la question de si le message est vraiment le bon par rapport à tout mon contexte, en fait. Je sais pas si c'est vraiment la chose la plus intéressante que je dis, et surtout par rapport à toutes les choses que j'ai créées, tu vois. Peut-être que je sais pas me vendre, peut-être qu'il y a un problème de syndrome de l'imposteur, et peut-être qu'en fait, au final, le plus important, c'est pas le message, c'est ce que je vais dire après, tu vois. Donc en fait, je me pose la question de si ce message est vraiment si bon que ça, tu vois. Je sais pas. J'ai l'impression qu'en fait, je leur donne un message classique en mode « Bonjour, je m'appelle X, j'ai fait des trucs classiques », alors qu'en fait, tu le sais, dans ma base de données, je suis un profil extraordinaire, tu vois. Donc en fait, faut peut-être changer un peu le message en mode « I am the best », tu vois, tout en gardant de l'humilité par rapport à mes vraies compétences, tu vois. Mais en même temps, ce qui va me manquer là, c'est surtout de l'expérience, tu vois. Donc je sais pas trop comment faire. Essaye de lire Mathieu contexte, essaye de lire Claude, et essaye de lire... En fait, délègue à des agents la lecture de toute mémoire à un agent Haiku max 5.5, en effort max, pour te transmettre un rapport sur toute ma mémoire. Et tu délègues chaque partie à un agent différent sur les fichiers memory. Mais puisqu'il y a beaucoup de fichiers memory, je ne sais pas forcément lesquels seraient les plus pertinents. En tout cas, il y a déjà les trois que je t'ai dit. Attends, je regarde Claude. Ouais, ben, il y a le fichier Claude qui route. C'est peut-être dans Rules. Ouais, ça doit être dans Rules. Ok. Donc il y a le fichier Claude, il y a ce qui est mis dans Rules et il y a ce qui est mis dans Memory 1. Et comme ça, je pense. Mais le truc, c'est qu'il y a pas mal de choses. Il y avait le plan Japon aussi, il y avait japonais. Bref, il y a vraiment beaucoup de choses. Mais je pense le plus important, c'est surtout... Ouais, je pense le plus important, en fait, finalement, c'est Mathieu Contexte. C'est ce qu'il y a dans Claude. C'est ce qu'il y a dans Memory, dans Japonais et dans Mathieu Contexte. Et c'est ce qu'il y a dans les skills, en règle générale. Donc si tu lis ça, si tu envoies une délégation de plusieurs agents qui lisent chaque fichier individuellement en effort max, je pense que ça peut être... on peut rapidement trouver une amélioration de la lettre. Donc le but, c'est déjà que tu aies tout le contexte. Et avec ce contexte, tu transmets une amélioration de la lettre. Point par point, et tu déconstruis."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814793232.289558,
+      "id" : "2C9E302F-A1DD-4BE2-A1E6-1C42965900AB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "déterminer nombre n de fichiers à lire avant de lancer l'agent. Enfin, avant de lancer les agents.",
+      "text" : "déterminer nombre n de fichiers à lire avant de lancer l'agent. Enfin, avant de lancer les agents."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814793705.226011,
+      "id" : "B271E1E5-E28F-4918-9DFE-37AC85D92C1F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Dans Galerie, par rapport aux références et aux dossiers de Create, tu vas me créer en fait directement, sans te tromper dans le code, tu vas me créer en fait une galerie d'éléments que je vais te demander. C'est-à-dire qu'en fait dans Galerie, en dessous de Design et avant Characters, tu vas m'ajouter un dossier Games. Et dans ce dossier Games, tu vas prendre tous les games qui sont dans Référence Games. Je vais te donner le chemin. Je vais te copier le chemin. Il ne faut absolument pas que tu inventes le dossier. Hein. Et en fait, dans ce dossier, il y a déjà plein de jeux. Le tout, c'est que je veux afficher uniquement quelques jeux qui me serviront de référence. Donc je vais te lister les jeux, mais faut pas que tu les affiches tous, tu vois. Il faut que me permettes d'afficher uniquement... En fait, tout le code existe déjà, hein. C'est juste que je veux les référencer directement dans les galeries et avoir un, comment dire, un pointeur qui redirige vers ces dossiers rapidement. Mais qui redirige pas vers les dossiers, en fait, qui utilise la vue galerie pour montrer les images. Et donc voilà, je vais te donner les noms, les jeux dont j'ai besoin. Donc il y a A Plague Tale Innocence, Alan Wake 2, Ark Raiders, Baldur's Gate 3, Black Myth Wukong, Bloodborne, Contrôle, Dark Souls 3, Dark Souls Remastered, Death Stranding, Demon's Souls, Disco Elysium, Dishonored 1 et Dishonored 2, Elden Ring, Expédition 33, Final Fantasy XV, Final Fantasy XVI, Final Fantasy VII Rebirth et Final Fantasy VII Remake, Ghost of Tsushima, God of War Ragnarok, Hearthstone, il y a peut-être aussi League of Legends, mais je suis pas sûr. Nier Automata, Ni no Kuni 2, Revenant Kingdom, Ni no Kuni 2, il y a deux dossiers, à merge dans le dossier Ni no Kuni 2. Nier Replicant, Red Dead Redemption 2, Persona 5 Royal, Plague Tale Requiem, Slay the Spire, Tales of Arise, Last of Us 2 et Last of Us 1, The Witcher 3, Triangle Strategy, What Remains of Edith Finch, et normalement là, et Zelda Theoteka. Donc là, il y a tous les jeux. Normalement, là, je t'ai donné tous les jeux. Il faut que tous ces jeux existent déjà dans Games, mais ce que je veux, c'est juste une redirection dans la vue galerie, du coup. Donc, la vue galerie, elle afficherait Games. Quand je clique sur Games, ça m'affiche tous mes jeux, et ensuite, je clique sur un jeu en particulier, et ça me permet d'aller directement dans le bon dossier. Alors, s'il y a plusieurs images dans un dossier, je pense qu'on affiche simplement la première. Ou alors, ce qu'on peut faire, c'est afficher une vue quadrillée de quatre images, les quatre premières images. Ça me semble bien. Sachant que dans le fichier design mockup de référence de la galerie, dans Claude, il y a un... Donc dans mon dossier .claude, normalement, tu vas voir un dossier qui s'appelle TMP. Galerie Rework. Dans celui-ci, tu pourras voir directement le design de... comment ça s'appelle ? Tu pourras voir le design des vues quadrillées, des vues design. Par contre, il ne faut pas que tu inventes des choses bizarres. Hein. Il faut que tu prennes depuis une source de vérité. Donc voilà tout ce qu'il faut que tu fasses.",
+      "text" : "Dans Galerie, par rapport aux références et aux dossiers de Create, tu vas me créer en fait directement, sans te tromper dans le code, tu vas me créer en fait une galerie d'éléments que je vais te demander. C'est-à-dire qu'en fait dans Galerie, en dessous de Design et avant Characters, tu vas m'ajouter un dossier Games. Et dans ce dossier Games, tu vas prendre tous les games qui sont dans Référence Games. Je vais te donner le chemin. Je vais te copier le chemin. Il ne faut absolument pas que tu inventes le dossier. Hein. Et en fait, dans ce dossier, il y a déjà plein de jeux. Le tout, c'est que je veux afficher uniquement quelques jeux qui me serviront de référence. Donc je vais te lister les jeux, mais faut pas que tu les affiches tous, tu vois. Il faut que me permettes d'afficher uniquement... En fait, tout le code existe déjà, hein. C'est juste que je veux les référencer directement dans les galeries et avoir un, comment dire, un pointeur qui redirige vers ces dossiers rapidement. Mais qui redirige pas vers les dossiers, en fait, qui utilise la vue galerie pour montrer les images. Et donc voilà, je vais te donner les noms, les jeux dont j'ai besoin. Donc il y a A Plague Tale Innocence, Alan Wake 2, Ark Raiders, Baldur's Gate 3, Black Myth Wukong, Bloodborne, Contrôle, Dark Souls 3, Dark Souls Remastered, Death Stranding, Demon's Souls, Disco Elysium, Dishonored 1 et Dishonored 2, Elden Ring, Expédition 33, Final Fantasy XV, Final Fantasy XVI, Final Fantasy VII Rebirth et Final Fantasy VII Remake, Ghost of Tsushima, God of War Ragnarok, Hearthstone, il y a peut-être aussi League of Legends, mais je suis pas sûr. Nier Automata, Ni no Kuni 2, Revenant Kingdom, Ni no Kuni 2, il y a deux dossiers, à merge dans le dossier Ni no Kuni 2. Nier Replicant, Red Dead Redemption 2, Persona 5 Royal, Plague Tale Requiem, Slay the Spire, Tales of Arise, Last of Us 2 et Last of Us 1, The Witcher 3, Triangle Strategy, What Remains of Edith Finch, et normalement là, et Zelda Theoteka. Donc là, il y a tous les jeux. Normalement, là, je t'ai donné tous les jeux. Il faut que tous ces jeux existent déjà dans Games, mais ce que je veux, c'est juste une redirection dans la vue galerie, du coup. Donc, la vue galerie, elle afficherait Games. Quand je clique sur Games, ça m'affiche tous mes jeux, et ensuite, je clique sur un jeu en particulier, et ça me permet d'aller directement dans le bon dossier. Alors, s'il y a plusieurs images dans un dossier, je pense qu'on affiche simplement la première. Ou alors, ce qu'on peut faire, c'est afficher une vue quadrillée de quatre images, les quatre premières images. Ça me semble bien. Sachant que dans le fichier design mockup de référence de la galerie, dans Claude, il y a un... Donc dans mon dossier .claude, normalement, tu vas voir un dossier qui s'appelle TMP. Galerie Rework. Dans celui-ci, tu pourras voir directement le design de... comment ça s'appelle ? Tu pourras voir le design des vues quadrillées, des vues design. Par contre, il ne faut pas que tu inventes des choses bizarres. Hein. Il faut que tu prennes depuis une source de vérité. Donc voilà tout ce qu'il faut que tu fasses."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814793719.367769,
+      "id" : "E34C3792-0394-4026-8ACC-36F6ABBF0C5B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Tous ces jeux existent déjà. Si tu as un problème, tu arrêtes la boucle et tu me dis exactement quel est le problème.",
+      "text" : "Tous ces jeux existent déjà. Si tu as un problème, tu arrêtes la boucle et tu me dis exactement quel est le problème."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814793753.07095,
+      "id" : "5187A43A-F35D-412F-AC7F-154D96D7F337",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que dans ce skill, tu pourrais rajouter un cron d'une minute qui relance la tâche si la tâche n'est pas finie? En fait, c'est juste un surveillant ou un watcher qui dit, tant que la tâche elle n'est pas terminée, bah, tu relances la boucle et tu l'ajoutes en append only à ce skill.",
+      "text" : "Est-ce que dans ce skill, tu pourrais rajouter un cron d'une minute qui relance la tâche si la tâche n'est pas finie? En fait, c'est juste un surveillant ou un watcher qui dit, tant que la tâche elle n'est pas terminée, bah, tu relances la boucle et tu l'ajoutes en append only à ce skill."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814793858.958291,
+      "id" : "62263762-DADD-4A50-AFBC-CD5D989EEEE1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu peux reprendre tout le contexte de... Est-ce que tu peux reprendre tout le contexte exactement de... Mais c'était des agents de merde.",
+      "text" : "Est-ce que tu peux reprendre tout le contexte de... Est-ce que tu peux reprendre tout le contexte exactement de... Mais c'était des agents de merde."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814795301.949002,
+      "id" : "47D951DF-C387-4CAF-9EFC-5F7F11CEB15F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "prends en compte tout le contexte de ZenRay Meshes et continue d'améliorer le logiciel, l'algorithme et le skill via déjà l'ancienne conversation bind de Claude. Tu prends la dernière conversation et tu essaies de déléguer un agent déjà pour ne serait-ce qu'avoir le contexte de la conversation. Et ensuite, tu reprends la boucle pour améliorer la carrosserie de la voiture et tu avances de manière agentique. Go.",
+      "text" : "prends en compte tout le contexte de ZenRay Meshes et continue d'améliorer le logiciel, l'algorithme et le skill via déjà l'ancienne conversation bind de Claude. Tu prends la dernière conversation et tu essaies de déléguer un agent déjà pour ne serait-ce qu'avoir le contexte de la conversation. Et ensuite, tu reprends la boucle pour améliorer la carrosserie de la voiture et tu avances de manière agentique. Go."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814795312.660599,
+      "id" : "836A4731-E244-46C7-BF3A-128014A7030B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "évidemment, tu prends des screens tandis que la boucle continue.",
+      "text" : "évidemment, tu prends des screens tandis que la boucle continue."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814795345.476786,
+      "id" : "F459C2FB-EA42-40C8-BEF2-AD94642F2BDD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Normalement, tout est déjà indiqué dans le skill. Tu as juste à reprendre la conversation de Claude et là où l'agent s'est arrêté, notamment sur la voiture. On en était, je te donne le dernier arrêt propre et essaie de le faire correspondre à la conversation.",
+      "text" : "Normalement, tout est déjà indiqué dans le skill. Tu as juste à reprendre la conversation de Claude et là où l'agent s'est arrêté, notamment sur la voiture. On en était, je te donne le dernier arrêt propre et essaie de le faire correspondre à la conversation."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814795355.784889,
+      "id" : "C9A956E9-E0DA-40A0-8DF1-28A388CE3E51",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Normalement, tu as juste à grep les conversations et le skill resume coordinator va te permettre d'avoir tout le contexte.",
+      "text" : "Normalement, tu as juste à grep les conversations et le skill resume coordinator va te permettre d'avoir tout le contexte."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814795864.235833,
+      "id" : "0CB65279-BFC2-458F-B1B9-12E5B3DA342F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Grève la conversation du coup où je t'ai demandé de faire ça, parce que l'agent Claude n'a pas réussi à le faire. Donc toi, ce que tu vas faire, c'est que tu vas continuer de faire ça, du coup, et tu vas analyser tout et tu vas me proposer une nouvelle lettre, du coup.",
+      "text" : "Grève la conversation du coup où je t'ai demandé de faire ça, parce que l'agent Claude n'a pas réussi à le faire. Donc toi, ce que tu vas faire, c'est que tu vas continuer de faire ça, du coup, et tu vas analyser tout et tu vas me proposer une nouvelle lettre, du coup."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814795896.102057,
+      "id" : "E0EBD066-CCFD-49AA-916F-DDF2A494175D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "reprend aussi le contexte de l'ancienne conversation Claude. Je veux absolument que tu la lises.",
+      "text" : "reprend aussi le contexte de l'ancienne conversation Claude. Je veux absolument que tu la lises."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814796924.554824,
+      "id" : "C39114A3-DF6B-4E7F-9640-FDC3F12323E5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Putain, la lettre est parfaite. Fais-la maintenant passer dans tous les... dans toutes les... dans la database de... dans la database de freelance. Mais le constat était totalement lucide. Il faut aussi noter dans... dans Mathieu1.md, je pense, donc dans Memory, le fait qu'on a changé la lettre et qu'on propose maintenant cette version parce qu'elle est beaucoup, beaucoup plus intelligente en soi. Il faut que tu notes la date aussi. Et surtout, il faut que tu mettes sur ZenRay Freelance toutes les lettres qui étaient déjà préparées avec ce nouveau template. Et je vais juste te proposer quelques edits, mais en soi, c'est très, très, très, très bien.",
+      "text" : "Putain, la lettre est parfaite. Fais-la maintenant passer dans tous les... dans toutes les... dans la database de... dans la database de freelance. Mais le constat était totalement lucide. Il faut aussi noter dans... dans Mathieu1.md, je pense, donc dans Memory, le fait qu'on a changé la lettre et qu'on propose maintenant cette version parce qu'elle est beaucoup, beaucoup plus intelligente en soi. Il faut que tu notes la date aussi. Et surtout, il faut que tu mettes sur ZenRay Freelance toutes les lettres qui étaient déjà préparées avec ce nouveau template. Et je vais juste te proposer quelques edits, mais en soi, c'est très, très, très, très bien."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814797015.443517,
+      "id" : "811761E9-9BD1-4E06-B045-9174765595EA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "faut peut-être clarifier simplement cette phrase juste avant, en mode c'est 3D plus code, c'est-à-dire faut vraiment dire je comprends à la fois comment pense un designer, à la fois comment pense un 3D game artiste et à la fois comment pense un codeur, tu vois. C'est ça qu'il faut apporter, tu vois. Même si ça va paraître très orgueilleux, on s'en bat les couilles, tu vois.",
+      "text" : "faut peut-être clarifier simplement cette phrase juste avant, en mode c'est 3D plus code, c'est-à-dire faut vraiment dire je comprends à la fois comment pense un designer, à la fois comment pense un 3D game artiste et à la fois comment pense un codeur, tu vois. C'est ça qu'il faut apporter, tu vois. Même si ça va paraître très orgueilleux, on s'en bat les couilles, tu vois."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814797077.304783,
+      "id" : "00C418F2-0FC3-4BBC-AA81-373651D5A55E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ben là, faut dire aussi, sans que ce soit trop long. Faut aussi dire création des assets 3D, texturing et documentation et développement des features de gameplay en mode gameplay programmeur. En fait, c'est game design, gameplay programmeur et tech artiste. Ça manque actuellement dans ton truc, tu vois. En fait, faut dire que j'ai toujours une approche de rigueur et de polyvalence, tu vois.",
+      "text" : "Ben là, faut dire aussi, sans que ce soit trop long. Faut aussi dire création des assets 3D, texturing et documentation et développement des features de gameplay en mode gameplay programmeur. En fait, c'est game design, gameplay programmeur et tech artiste. Ça manque actuellement dans ton truc, tu vois. En fait, faut dire que j'ai toujours une approche de rigueur et de polyvalence, tu vois."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814797113.390079,
+      "id" : "5E211932-3261-4361-9DD9-4B48A26434D2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Là, il faut dire que c'est de l'architecture. Donc, architecture pour clients privés qui souhaitent faire des rénovations ou mettre sur site web des photos de leur maison pour des agences immobilières en soi.",
+      "text" : "Là, il faut dire que c'est de l'architecture. Donc, architecture pour clients privés qui souhaitent faire des rénovations ou mettre sur site web des photos de leur maison pour des agences immobilières en soi."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814797205.450212,
+      "id" : "B7572944-613A-418A-9123-5EA3598E1503",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, aujourd'hui, c'est pas aussi ça. Hein. C'est surtout aussi développement d'outils AI et coordination d'agents et d'orchestration. Mais le problème, c'est que l'industrie, elle va péter un câble, tu vois, si j'écris ça. Donc, parce que, en fait, au quotidien, tu vois, je développe des outils comme ZenRay 8, comme ZenRay UV et comme ZenRay Meshes, qui permettront l'automatisation et la création d'environnements AAA à une cadence relativement élevée, tu vois. Et avec une approche visuelle, AAA est vraiment très très aboutie. Mais le truc, c'est que, à date, tu vois, je trouverais ça bête de construire un HDA, alors qu'en une seule ligne agentique, tu peux modifier le truc. Donc en fait, faut peut-être dire des HDA, mais à l'ère agentique, tu vois. Enfin, c'est, faut pas non plus être absurdement con, tu vois. Le problème, c'est que ça, dans ma lettre, je vais dire que j'utilise l'IA, même s'il faudrait dire que j'utilise l'IA comme un outil, mais les gens vont péter un câble. Donc, je sais pas. Peut-être que tu me proposes une lettre avec ta phrase qui parle de ça et une lettre qui me parle sans, tu vois.",
+      "text" : "En fait, aujourd'hui, c'est pas aussi ça. Hein. C'est surtout aussi développement d'outils AI et coordination d'agents et d'orchestration. Mais le problème, c'est que l'industrie, elle va péter un câble, tu vois, si j'écris ça. Donc, parce que, en fait, au quotidien, tu vois, je développe des outils comme ZenRay 8, comme ZenRay UV et comme ZenRay Meshes, qui permettront l'automatisation et la création d'environnements AAA à une cadence relativement élevée, tu vois. Et avec une approche visuelle, AAA est vraiment très très aboutie. Mais le truc, c'est que, à date, tu vois, je trouverais ça bête de construire un HDA, alors qu'en une seule ligne agentique, tu peux modifier le truc. Donc en fait, faut peut-être dire des HDA, mais à l'ère agentique, tu vois. Enfin, c'est, faut pas non plus être absurdement con, tu vois. Le problème, c'est que ça, dans ma lettre, je vais dire que j'utilise l'IA, même s'il faudrait dire que j'utilise l'IA comme un outil, mais les gens vont péter un câble. Donc, je sais pas. Peut-être que tu me proposes une lettre avec ta phrase qui parle de ça et une lettre qui me parle sans, tu vois."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814797240.681065,
+      "id" : "C66D24FA-1FC7-4CE3-ADE6-1E2D6DBB8903",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "quelques modifications à faire. D'abord, on passe sur les modifications de la lettre. Ensuite, on passe à l'intégration dans le module ZenRay Freelance directement sur le site Progress.",
+      "text" : "quelques modifications à faire. D'abord, on passe sur les modifications de la lettre. Ensuite, on passe à l'intégration dans le module ZenRay Freelance directement sur le site Progress."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814797510.915659,
+      "id" : "F2CAFB27-2856-487A-B104-2D79D2BD007F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je pense que tu devrais focus surtout sur les components qui sont les plus importants, notamment dans la forme de la voiture. Après, je trouve que ta méthodologie est pas trop mal. C'est que tu as commencé à découper et à faire des components plutôt bien. Mais en soi, je pense que quand on arrive sur un niveau good enough, il faudrait passer à un autre composant, tu vois. Plutôt que de le faire parfaitement d'un coup, il faudrait tout harmoniser pour qu'il y ait un truc qui soit good enough et on passe au suivant, tu vois. Genre par exemple, les jantes que tu as faites et même les roues, elles sont assez good enough. La porte, elle est assez good enough. Au lieu de continuer de mettre beaucoup de compute dessus, je pense que tu devrais plutôt focus sur les éléments les plus visibles, comme par exemple, ou les plus gros, tu vois. Genre par exemple, le capot, ou le pare-brise, ou le toit, ou l'arrière du véhicule, ou le... Enfin déjà, tu vois, tu focus plutôt sur... ou les contours extérieurs avant et les contours extérieurs arrière de la voiture, tu vois. Qu'en fait, il faut quand même que tu focuses et que tu passes à un autre élément plutôt que de faire plus ou moins tout le temps la même chose, tu vois.",
+      "text" : "Je pense que tu devrais focus surtout sur les components qui sont les plus importants, notamment dans la forme de la voiture. Après, je trouve que ta méthodologie est pas trop mal. C'est que tu as commencé à découper et à faire des components plutôt bien. Mais en soi, je pense que quand on arrive sur un niveau good enough, il faudrait passer à un autre composant, tu vois. Plutôt que de le faire parfaitement d'un coup, il faudrait tout harmoniser pour qu'il y ait un truc qui soit good enough et on passe au suivant, tu vois. Genre par exemple, les jantes que tu as faites et même les roues, elles sont assez good enough. La porte, elle est assez good enough. Au lieu de continuer de mettre beaucoup de compute dessus, je pense que tu devrais plutôt focus sur les éléments les plus visibles, comme par exemple, ou les plus gros, tu vois. Genre par exemple, le capot, ou le pare-brise, ou le toit, ou l'arrière du véhicule, ou le... Enfin déjà, tu vois, tu focus plutôt sur... ou les contours extérieurs avant et les contours extérieurs arrière de la voiture, tu vois. Qu'en fait, il faut quand même que tu focuses et que tu passes à un autre élément plutôt que de faire plus ou moins tout le temps la même chose, tu vois."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814797520.239652,
+      "id" : "44D5EF10-7DEE-44A2-AEA1-ACFE82083BA3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "ce qu'il faut, c'est quand même avancer à une cadence élevée, tu vois. Être efficient, tu vois, être efficace.",
+      "text" : "ce qu'il faut, c'est quand même avancer à une cadence élevée, tu vois. Être efficient, tu vois, être efficace."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814797860.07186,
+      "id" : "23669713-5A71-49E0-A9AF-1E376F459C34",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, je sais pas pourquoi tu fais de la merde au niveau du capot et l'avant de la voiture, mais en fait, si tu regardes bien les images de référence, il faut limite tout refaire parce que, en fait, tu fais un semi-capot et tu fais un. C'est bizarre en fait. Ce qu'il faut, c'est faire que la pièce soit juste, tu vois. Regarde bien les références, tu vas voir que les components déclarés sont sans doute pas les bons, et à la limite, il faudrait refaire la sheet de bench, la sheet de components.",
+      "text" : "En fait, je sais pas pourquoi tu fais de la merde au niveau du capot et l'avant de la voiture, mais en fait, si tu regardes bien les images de référence, il faut limite tout refaire parce que, en fait, tu fais un semi-capot et tu fais un. C'est bizarre en fait. Ce qu'il faut, c'est faire que la pièce soit juste, tu vois. Regarde bien les références, tu vas voir que les components déclarés sont sans doute pas les bons, et à la limite, il faudrait refaire la sheet de bench, la sheet de components."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814797870.654522,
+      "id" : "5EBFB7BE-6123-45C9-BFDB-EF682618967A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je t'avais dit d'ailleurs dans les rules que la sheet des components doit évoluer à mesure que la voiture se rapproche de la référence, tu vois.",
+      "text" : "Je t'avais dit d'ailleurs dans les rules que la sheet des components doit évoluer à mesure que la voiture se rapproche de la référence, tu vois."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814798074.932954,
+      "id" : "815672FA-E4B2-4B87-A147-47F131EDC1A7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ta nouvelle version est vraiment nulle. Tu commences pour en disant un truc genre pour être clair dès le départ et c'était pas dans la lettre d'avant et en vrai on dirait quelqu'un de très arrogant. Ensuite tu mets plein de trucs qui étaient pas dans la lettre de tout à l'heure. Franchement ta nouvelle lettre c'est de la merde. En fait j'aurais aimé que tu prennes juste la nouvelle lettre de tout à l'heure, donc la version optimisée. Parce qu'en plus, elle était bien parce qu'elle était relativement courte, tu vois. Alors que là, tu mets plein de trucs, c'est hyper chiant à lire. Et en plus, c'est faux, enfin, c'est... Tu vois, à un moment, tu dis, j'aborde la production avec une triple compréhension opérationnelle, je comprends comme un game designer, artiste 3D, raisonne comme un programmeur, enfin, c'est n'importe quoi. Alors, la première lettre était beaucoup mieux, je t'avais juste demandé de faire quelques modifications. Donc c'est vraiment dommage. Reviens à l'étape d'avant. Il y a 26 minutes, tu m'as proposé une lettre qui était pas mal du tout. Je t'ai demandé de faire quelques modifications. Fais uniquement ces petites modifications à partir de l'existant et on va réussir, tu vois. Mais sinon, ça va être compliqué. Tu peux aussi déléguer à des agents, à des sub-agents, de modifier, de diviser par tâche. Comme ça, tu modifies uniquement les phrases et comme ça, ça va plus vite. Tu délègues au nombre d'agents N déterminé par le nombre de modifications que je t'ai demandé. Et comme ça, tu vas plus vite.",
+      "text" : "Ta nouvelle version est vraiment nulle. Tu commences pour en disant un truc genre pour être clair dès le départ et c'était pas dans la lettre d'avant et en vrai on dirait quelqu'un de très arrogant. Ensuite tu mets plein de trucs qui étaient pas dans la lettre de tout à l'heure. Franchement ta nouvelle lettre c'est de la merde. En fait j'aurais aimé que tu prennes juste la nouvelle lettre de tout à l'heure, donc la version optimisée. Parce qu'en plus, elle était bien parce qu'elle était relativement courte, tu vois. Alors que là, tu mets plein de trucs, c'est hyper chiant à lire. Et en plus, c'est faux, enfin, c'est... Tu vois, à un moment, tu dis, j'aborde la production avec une triple compréhension opérationnelle, je comprends comme un game designer, artiste 3D, raisonne comme un programmeur, enfin, c'est n'importe quoi. Alors, la première lettre était beaucoup mieux, je t'avais juste demandé de faire quelques modifications. Donc c'est vraiment dommage. Reviens à l'étape d'avant. Il y a 26 minutes, tu m'as proposé une lettre qui était pas mal du tout. Je t'ai demandé de faire quelques modifications. Fais uniquement ces petites modifications à partir de l'existant et on va réussir, tu vois. Mais sinon, ça va être compliqué. Tu peux aussi déléguer à des agents, à des sub-agents, de modifier, de diviser par tâche. Comme ça, tu modifies uniquement les phrases et comme ça, ça va plus vite. Tu délègues au nombre d'agents N déterminé par le nombre de modifications que je t'ai demandé. Et comme ça, tu vas plus vite."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814798201.935233,
+      "id" : "95E6AF28-ABF7-41F8-958B-D1690C04F37C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "relis la fin de cette conversation et relis évidemment tous les prompts que j'ai envoyés à l'agent pour les consigner dans les rules de ZenRay Meshes si elles ne sont pas consignées. Donc tu reprends la version N dernière de actuellement Houdini et tu continues la boucle d'itération tout en apprenant des méthodes, etc. à mesure que tu avances pour créer la 3D.",
+      "text" : "relis la fin de cette conversation et relis évidemment tous les prompts que j'ai envoyés à l'agent pour les consigner dans les rules de ZenRay Meshes si elles ne sont pas consignées. Donc tu reprends la version N dernière de actuellement Houdini et tu continues la boucle d'itération tout en apprenant des méthodes, etc. à mesure que tu avances pour créer la 3D."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814798214.928671,
+      "id" : "A99BAF2A-BB11-4C1F-A6F0-A8B31B4281E9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et évidemment, tu n'oublies pas de consigner tout à chaque fois.",
+      "text" : "Et évidemment, tu n'oublies pas de consigner tout à chaque fois."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814798229.146665,
+      "id" : "4ACDC3E1-9CCC-4F8F-90E1-4D16B6C501EE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "et utilise Houdini MCP et je veux que ce soit dans la scène. Normalement, tu as juste à relire les rules, mais sait-on jamais. Continue d'avancer et continue d'apprendre.",
+      "text" : "et utilise Houdini MCP et je veux que ce soit dans la scène. Normalement, tu as juste à relire les rules, mais sait-on jamais. Continue d'avancer et continue d'apprendre."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814798888.850272,
+      "id" : "CE616FE8-B7C9-40FD-AAD6-24CFF49BB390",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, parmi toutes les propositions, la meilleure lettre à lire, individuellement, je trouve que c'est celle-là, en fait. Donc c'était la première que tu as proposée. Mais en fait, j'arrive pas à déterminer pourquoi, malgré tout ce que je t'ai demandé après, t'as pas réussi à faire une meilleure lettre, en fait. Donc en fait, j'aimerais pas que tu recrées une nouvelle lettre, mais que tu analyses pourquoi précisément et que tu compares chaque ligne. Pourquoi est-ce que cette lettre, au final, c'est celle qui est la plus simple à lire et la plus agréable? Parce qu'au final, les autres lettres, le gros défaut, c'est que... bah, c'est chiant, en fait. Enfin, c'est pas intéressant. Donc après, peut-être c'est parce que je me dévalorise, mais je trouve que celle-là, au moins, elle allait à l'essentiel. Et de toute manière, là, le but, c'est d'envoyer 100 lettres, donc on va pas y passer 4 ans, hein, tu vois. Mais j'aimerais vraiment juste que tu argumentes très rapidement, très simplement, et que tu comprennes pourquoi cette lettre, c'était la meilleure. Et s'il y aurait des améliorations possibles par rapport à ce que tu as proposé, pourquoi il faudrait les mettre? Et il faut que tu argumentes, en fait. Le problème, c'est que tu oublies d'argumenter. Tu changes du texte sans jamais argumenter. Mais en fait, ce qu'il faut que tu comprennes, et ça d'ailleurs, tu pourrais le noter dans Claude.md quand je te demande d'écrire un texte à l'avenir, c'est que dans n'importe quel texte que tu écris, il faut créer une histoire, tu vois. Il faut pas juste créer du texte pour créer du texte, ça on s'en bat les couilles, tu vois, c'est de la merde. Ce qu'il faut, c'est raconter une histoire, faire des choix logiques, dire il y a des choses qui... Enfin, c'est comme du storytelling, tu vois, vraiment. Donc, pour l'instant, je reste sur cette base, mais n'hésite pas à argumenter de pourquoi ça manquerait des choses et qu'est-ce qu'il faudrait rajouter ou au contraire enlever, tu vois. Il faut vraiment être intelligent, en fait.",
+      "text" : "En fait, parmi toutes les propositions, la meilleure lettre à lire, individuellement, je trouve que c'est celle-là, en fait. Donc c'était la première que tu as proposée. Mais en fait, j'arrive pas à déterminer pourquoi, malgré tout ce que je t'ai demandé après, t'as pas réussi à faire une meilleure lettre, en fait. Donc en fait, j'aimerais pas que tu recrées une nouvelle lettre, mais que tu analyses pourquoi précisément et que tu compares chaque ligne. Pourquoi est-ce que cette lettre, au final, c'est celle qui est la plus simple à lire et la plus agréable? Parce qu'au final, les autres lettres, le gros défaut, c'est que... bah, c'est chiant, en fait. Enfin, c'est pas intéressant. Donc après, peut-être c'est parce que je me dévalorise, mais je trouve que celle-là, au moins, elle allait à l'essentiel. Et de toute manière, là, le but, c'est d'envoyer 100 lettres, donc on va pas y passer 4 ans, hein, tu vois. Mais j'aimerais vraiment juste que tu argumentes très rapidement, très simplement, et que tu comprennes pourquoi cette lettre, c'était la meilleure. Et s'il y aurait des améliorations possibles par rapport à ce que tu as proposé, pourquoi il faudrait les mettre? Et il faut que tu argumentes, en fait. Le problème, c'est que tu oublies d'argumenter. Tu changes du texte sans jamais argumenter. Mais en fait, ce qu'il faut que tu comprennes, et ça d'ailleurs, tu pourrais le noter dans Claude.md quand je te demande d'écrire un texte à l'avenir, c'est que dans n'importe quel texte que tu écris, il faut créer une histoire, tu vois. Il faut pas juste créer du texte pour créer du texte, ça on s'en bat les couilles, tu vois, c'est de la merde. Ce qu'il faut, c'est raconter une histoire, faire des choix logiques, dire il y a des choses qui... Enfin, c'est comme du storytelling, tu vois, vraiment. Donc, pour l'instant, je reste sur cette base, mais n'hésite pas à argumenter de pourquoi ça manquerait des choses et qu'est-ce qu'il faudrait rajouter ou au contraire enlever, tu vois. Il faut vraiment être intelligent, en fait."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814798907.285516,
+      "id" : "E1DDF86E-8442-4528-8F44-4592848CB754",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "N'argumente, ne refais pas une boucle pendant des heures, hein. Je veux vraiment que tu me proposes ton résultat rapidement.",
+      "text" : "N'argumente, ne refais pas une boucle pendant des heures, hein. Je veux vraiment que tu me proposes ton résultat rapidement."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814799310.691783,
+      "id" : "953BE564-D032-4ADA-A66A-D5AE7025B138",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Les lettres des 813 offres n'ont pas été update par rapport à cette nouvelle règle. Donc il faut que tu update tout ZenRay Freelance, s'il te plaît.",
+      "text" : "Les lettres des 813 offres n'ont pas été update par rapport à cette nouvelle règle. Donc il faut que tu update tout ZenRay Freelance, s'il te plaît."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814799616.592611,
+      "id" : "75FB04F3-A9BC-4A14-B8AD-8B031AB030CB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc pour chaque offre que je vais te donner, tu vas simplement, je vais donner à chaque prompt, je vais te donner une offre. Et en fait, tu vas me la résumer en un paragraphe. Qu'est-ce que ça dit l'offre? À quoi elle sert? Tu me la résumes hyper rapidement. Et c'est quoi leur jeu marquant? Et voilà. Donc pour toutes les futures questions, tu fais en sorte que tout soit bien propre, quoi. Donc, go. J'ai l'impression que je pense pas à tout, mais en fait là, je suis en train d'envoyer des offres de machin. J'ai juste besoin de comprendre le studio en un paragraphe, tu vois. Le paragraphe peut être plus ou moins long, mais vu que je vais t'envoyer 700 offres dans la journée, il vaut mieux que ce soit rapide. Allez, go.",
+      "text" : "Donc pour chaque offre que je vais te donner, tu vas simplement, je vais donner à chaque prompt, je vais te donner une offre. Et en fait, tu vas me la résumer en un paragraphe. Qu'est-ce que ça dit l'offre? À quoi elle sert? Tu me la résumes hyper rapidement. Et c'est quoi leur jeu marquant? Et voilà. Donc pour toutes les futures questions, tu fais en sorte que tout soit bien propre, quoi. Donc, go. J'ai l'impression que je pense pas à tout, mais en fait là, je suis en train d'envoyer des offres de machin. J'ai juste besoin de comprendre le studio en un paragraphe, tu vois. Le paragraphe peut être plus ou moins long, mais vu que je vais t'envoyer 700 offres dans la journée, il vaut mieux que ce soit rapide. Allez, go."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814799694.573827,
+      "id" : "A45C63E8-B96F-445C-BFBD-6798DED3F307",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc là, dans ma ligne de... Donc là, dans ma ligne de job, en fait, ce qu'on va dire, c'est que... On va être honnête sur le fait que j'ai pas les 3 ans d'expérience, mais que l'aspect optimisation des maillages, c'est un travail que je fais que je fais vraiment très fréquemment. Comme ça, ils comprendront que j'ai lu leur annonce. Allez, go!",
+      "text" : "Donc là, dans ma ligne de... Donc là, dans ma ligne de job, en fait, ce qu'on va dire, c'est que... On va être honnête sur le fait que j'ai pas les 3 ans d'expérience, mais que l'aspect optimisation des maillages, c'est un travail que je fais que je fais vraiment très fréquemment. Comme ça, ils comprendront que j'ai lu leur annonce. Allez, go!"
     }
   ],
   "modes" : [
