@@ -14469,6 +14469,66 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "En fait, je crois que c'est pas que je comprends pas. Je crois que je comprends absolument. Mais c'est juste que j'essaie pas. Et du coup, j'ai pas l'expérience qui fait que je persévère, tu vois.",
       "text" : "En fait, je crois que c'est pas que je comprends pas. Je crois que je comprends absolument. Mais c'est juste que j'essaie pas. Et du coup, j'ai pas l'expérience qui fait que je persévère, tu vois."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814878127.046852,
+      "id" : "10F31D1F-866E-405B-9A15-62251322E84D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Junior, 2 ans d'expérience, je postule en tant que tech artiste, je demande combien d'argent? J'ai que 2 ans d'expérience et même, enfin, j'ai pas vraiment d'expérience en plus. Après, je suis relativement bon, mais je sais pas.",
+      "text" : "Junior, 2 ans d'expérience, je postule en tant que tech artiste, je demande combien d'argent? J'ai que 2 ans d'expérience et même, enfin, j'ai pas vraiment d'expérience en plus. Après, je suis relativement bon, mais je sais pas."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814878239.929735,
+      "id" : "4640334E-61BC-4AD4-9D73-551E30BB43D5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que je laisse « I want to apply as a freelancer » parce que au moins ça clarifie les choses.",
+      "text" : "Est-ce que je laisse « I want to apply as a freelancer » parce que au moins ça clarifie les choses."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814878435.606012,
+      "id" : "78F6B60F-B293-4DFB-807B-F2CB8F125172",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il y a un problème dans l'UI globalement. En fait, genre, il n'y a pas de petite flèche qui me permet de revenir à la homepage de ZenRay Freelance avec toutes les offres. Ensuite, quand je refresh la page, ça me met sur ZenRay Plan. Donc, c'est très chiant. Ensuite, j'ai l'impression que l'UI, elle est surchargée. Il y a plein d'informations qui sont plein de fois au même endroit, comme... comment ça s'appelle? Comme... marqué comme envoyé, tu vois, il est mis à plein d'endroits. Ensuite, je t'avais demandé de grossir et de mettre plus d'espace. Ensuite, il y a expérience et CV à copier sur la homepage, alors que normalement, ça doit être dans la... Ben, dans les offres directement. Je comprends pas pourquoi tu as mis un module expérience et CV à copier directement là où il y a toutes mes offres. Donc ça, j'aimerais que tu le déplaces. Et c'est sans doute le plus important, donc c'est l'espace entre les éléments, mais beaucoup plus d'espace entre les éléments pour que l'UI soit beaucoup plus simple à regarder, mais peut-être un petit peu moins de largeur pour que ce soit plus simple et plus condensé au centre de la page. Une réduction d'1,2 de la colonne principale, on va dire. Donc fois 1,2 ou fois 1,1 ou fois 1,15 peut-être, je ne sais pas exactement. Et par contre, je t'avais demandé un truc tout à l'heure que tu n'as pas du tout appliqué, c'est je t'avais dit les titres et les éléments de UI, donc qui sont dans les boutons, tu les mets en GT Ultra, mais par contre, tout le reste de l'UI, donc globalement, quasi la majorité des choses, c'est en Literata. Et c'est très important que tu le fasses, parce que là, tu as mis quasi tout en GT Ultra, mais c'est pas du tout ce que je voulais. Par contre, les nombres restent en GT Ultra. Donc voilà, code-moi tout ça pendant que je continue à faire des lettres.",
+      "text" : "Il y a un problème dans l'UI globalement. En fait, genre, il n'y a pas de petite flèche qui me permet de revenir à la homepage de ZenRay Freelance avec toutes les offres. Ensuite, quand je refresh la page, ça me met sur ZenRay Plan. Donc, c'est très chiant. Ensuite, j'ai l'impression que l'UI, elle est surchargée. Il y a plein d'informations qui sont plein de fois au même endroit, comme... comment ça s'appelle? Comme... marqué comme envoyé, tu vois, il est mis à plein d'endroits. Ensuite, je t'avais demandé de grossir et de mettre plus d'espace. Ensuite, il y a expérience et CV à copier sur la homepage, alors que normalement, ça doit être dans la... Ben, dans les offres directement. Je comprends pas pourquoi tu as mis un module expérience et CV à copier directement là où il y a toutes mes offres. Donc ça, j'aimerais que tu le déplaces. Et c'est sans doute le plus important, donc c'est l'espace entre les éléments, mais beaucoup plus d'espace entre les éléments pour que l'UI soit beaucoup plus simple à regarder, mais peut-être un petit peu moins de largeur pour que ce soit plus simple et plus condensé au centre de la page. Une réduction d'1,2 de la colonne principale, on va dire. Donc fois 1,2 ou fois 1,1 ou fois 1,15 peut-être, je ne sais pas exactement. Et par contre, je t'avais demandé un truc tout à l'heure que tu n'as pas du tout appliqué, c'est je t'avais dit les titres et les éléments de UI, donc qui sont dans les boutons, tu les mets en GT Ultra, mais par contre, tout le reste de l'UI, donc globalement, quasi la majorité des choses, c'est en Literata. Et c'est très important que tu le fasses, parce que là, tu as mis quasi tout en GT Ultra, mais c'est pas du tout ce que je voulais. Par contre, les nombres restent en GT Ultra. Donc voilà, code-moi tout ça pendant que je continue à faire des lettres."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814878476.980982,
+      "id" : "5CFB48C2-AF87-4375-B8D3-0E2F9CBC58CB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais il faut vraiment que tu repenses l'UI en termes de gestion des sauvegardes et de l'expérience utilisateur en mode je veux aller comment dire je veux aller dans une offre, je veux revenir, je veux que ce soit fluide, je veux qu'il y ait des petites animations de 0,2 secondes. Tu vois, il faut faire les choses fluidement, tu vois. Des effets d'apparition, des effets de transition, tu vois.",
+      "text" : "Mais il faut vraiment que tu repenses l'UI en termes de gestion des sauvegardes et de l'expérience utilisateur en mode je veux aller comment dire je veux aller dans une offre, je veux revenir, je veux que ce soit fluide, je veux qu'il y ait des petites animations de 0,2 secondes. Tu vois, il faut faire les choses fluidement, tu vois. Des effets d'apparition, des effets de transition, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814878488.621922,
+      "id" : "309853CC-D4BD-4A00-9338-4FB548EFA5C8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "tout doit être fluide comme dans un motion design en soi.",
+      "text" : "tout doit être fluide comme dans un motion design en soi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814878508.110481,
+      "id" : "B2C7CE63-B126-44C4-A8C9-9CE9741D955A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "notamment dans le fait de passer d'une carte à l'autre et de revenir. Tu dois aussi me faire les flèches et le fait de pouvoir cliquer sur la home page. Et tu dois corriger le bug qui fait que quand je refresh la page, ça part sur ZenRay. Pense à toutes les étapes et découpe-les.",
+      "text" : "notamment dans le fait de passer d'une carte à l'autre et de revenir. Tu dois aussi me faire les flèches et le fait de pouvoir cliquer sur la home page. Et tu dois corriger le bug qui fait que quand je refresh la page, ça part sur ZenRay. Pense à toutes les étapes et découpe-les."
     }
   ],
   "modes" : [
