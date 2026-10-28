@@ -15349,6 +15349,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Je veux pas te déranger.",
       "text" : "Je veux pas te déranger."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814907823.930591,
+      "id" : "45E87157-DA9D-4058-BF83-38C320365DBB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bon, on va pas s'en sortir. Tu vas me sortir toutes les méthodes qu'on a actuellement testées. Tu vas me faire un récapitulatif de ZenRay mes chaises en entier en déléguant des agents Haiku Max 5.5 pour lire intégralement le module. Et ensuite, tu me fais un rapport. Je veux savoir exactement à quel point on en est sur la voiture. Et ainsi que le modèle. En wireframe, donc pour voir la topologie, et ensuite je te donnerai des indications pour continuer ou pas en fonction de ce qui reste à faire. Go.",
+      "text" : "Bon, on va pas s'en sortir. Tu vas me sortir toutes les méthodes qu'on a actuellement testées. Tu vas me faire un récapitulatif de ZenRay mes chaises en entier en déléguant des agents Haiku Max 5.5 pour lire intégralement le module. Et ensuite, tu me fais un rapport. Je veux savoir exactement à quel point on en est sur la voiture. Et ainsi que le modèle. En wireframe, donc pour voir la topologie, et ensuite je te donnerai des indications pour continuer ou pas en fonction de ce qui reste à faire. Go."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814907858.76649,
+      "id" : "5A12CC63-60CC-4E49-81F3-0801F76ADD3C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai l'impression que tu n'arrives toujours pas à faire les finitions, même avec la méthode des courbes lisses, et tu m'as toujours pas donné les courbes lisses des 6 vues. Donc peut-être qu'on pourrait aussi imaginer un logiciel qui permettrait de draw des lines directement sur la planche de référence et ensuite de te l'envoyer. À mon avis, ce serait pas très dur à faire en HTML directement. Mais là, pour l'instant, j'ai surtout besoin d'avoir un gros récap.",
+      "text" : "J'ai l'impression que tu n'arrives toujours pas à faire les finitions, même avec la méthode des courbes lisses, et tu m'as toujours pas donné les courbes lisses des 6 vues. Donc peut-être qu'on pourrait aussi imaginer un logiciel qui permettrait de draw des lines directement sur la planche de référence et ensuite de te l'envoyer. À mon avis, ce serait pas très dur à faire en HTML directement. Mais là, pour l'instant, j'ai surtout besoin d'avoir un gros récap."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814907872.447827,
+      "id" : "D0A027A3-6057-4850-B945-18CE027AF2D1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "de repenser les choses de manière plus petite pour atteindre un résultat bien meilleur.",
+      "text" : "de repenser les choses de manière plus petite pour atteindre un résultat bien meilleur."
     }
   ],
   "modes" : [
