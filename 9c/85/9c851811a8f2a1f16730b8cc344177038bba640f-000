@@ -14709,6 +14709,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Je vais te dire précisément tout ce que tu dois faire parce que visiblement t'es trop con. Tu dois la charnière du pare-brise doit être parfaite, le pare-brise doit s'adapter dessus. Il faut que tu utilises une courbe désormais qui soit parfaite et qui n'ait plus en fait ces espèces d'ondulations un peu vagueleuses qui forment une déformation. Le coffre est intégralement à refaire avec une nouvelle topologie et il doit être merge et pas découpé comme s'il avait été découpé par un booléen. L'avant n'est toujours pas relié en termes de finition et il y a un espèce d'effet vaguelé alors que le capot doit être bombé par rapport à la référence top. Donc, et enfin, les vitres, elles sont toujours pas soudées, donc tu as beaucoup de taf à faire en fait.",
       "text" : "Je vais te dire précisément tout ce que tu dois faire parce que visiblement t'es trop con. Tu dois la charnière du pare-brise doit être parfaite, le pare-brise doit s'adapter dessus. Il faut que tu utilises une courbe désormais qui soit parfaite et qui n'ait plus en fait ces espèces d'ondulations un peu vagueleuses qui forment une déformation. Le coffre est intégralement à refaire avec une nouvelle topologie et il doit être merge et pas découpé comme s'il avait été découpé par un booléen. L'avant n'est toujours pas relié en termes de finition et il y a un espèce d'effet vaguelé alors que le capot doit être bombé par rapport à la référence top. Donc, et enfin, les vitres, elles sont toujours pas soudées, donc tu as beaucoup de taf à faire en fait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814886109.658194,
+      "id" : "3ECAD2AA-21FF-4B7F-99B5-6EAA13397A3A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, regarde le capot, il forme une vague un peu comme un W alors qu'il doit être parfaitement droit par rapport à son composant du bas. Tu dois reprendre le même edge et fermer le capot proprement.",
+      "text" : "Non, regarde le capot, il forme une vague un peu comme un W alors qu'il doit être parfaitement droit par rapport à son composant du bas. Tu dois reprendre le même edge et fermer le capot proprement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814886158.321289,
+      "id" : "84E303CA-EF67-40D2-A0C9-ED3B9CACAB49",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et par contre, il doit y avoir une segmentation. T'as gommé complètement la segmentation entre le capot et le pare-brise, mais en soi, c'était pas forcément une bonne idée. Si tu regardes la ref de la vue top, tu vois bien qu'il y a toujours le bon truc.",
+      "text" : "Et par contre, il doit y avoir une segmentation. T'as gommé complètement la segmentation entre le capot et le pare-brise, mais en soi, c'était pas forcément une bonne idée. Si tu regardes la ref de la vue top, tu vois bien qu'il y a toujours le bon truc."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814886433.041271,
+      "id" : "BD539F18-51C2-4B05-8701-0A62A1479714",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Regarde la ref, vue de top et vue de side, et tu vas comprendre pourquoi le capot actuellement il va pas du tout. Je parle uniquement du capot avant. Et par contre, je vois que t'as toujours pas refait le coffre, donc je sais pas ce que tu branles en fait.",
+      "text" : "Regarde la ref, vue de top et vue de side, et tu vas comprendre pourquoi le capot actuellement il va pas du tout. Je parle uniquement du capot avant. Et par contre, je vois que t'as toujours pas refait le coffre, donc je sais pas ce que tu branles en fait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814886484.047213,
+      "id" : "41CCB453-B1C2-4DBC-89F9-BA6AC38DF707",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "tu vois bien que la forme géométrique,",
+      "text" : "tu vois bien que la forme géométrique,"
     }
   ],
   "modes" : [
