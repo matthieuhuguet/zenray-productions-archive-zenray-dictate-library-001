@@ -14659,6 +14659,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Par contre, c'est moi qui détermine que la voiture sera finie. Hein. Tu prends jamais l'autonomie pour savoir si la voiture est finie ou pas. Je sais pas à quelle version N on va arriver à l'état de la voiture finie, mais en tout cas, tu décides pas toi-même de finir le truc, quoi. Et de passer à ZenRay UV. C'est moi qui choisis. Donc tu peux enlever de ton tasking ZenRay UV. Il faut juste le garder dans un coin de la mémoire.",
       "text" : "Par contre, c'est moi qui détermine que la voiture sera finie. Hein. Tu prends jamais l'autonomie pour savoir si la voiture est finie ou pas. Je sais pas à quelle version N on va arriver à l'état de la voiture finie, mais en tout cas, tu décides pas toi-même de finir le truc, quoi. Et de passer à ZenRay UV. C'est moi qui choisis. Donc tu peux enlever de ton tasking ZenRay UV. Il faut juste le garder dans un coin de la mémoire."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814882549.187472,
+      "id" : "394CF5F6-AD12-4BD3-903B-AD2A07D16883",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Arrête la boucle et le cron de 1 minute. Mais simplement, fixe-toi le goal. À 99,9% de la ref sur le modèle 3D.",
+      "text" : "Arrête la boucle et le cron de 1 minute. Mais simplement, fixe-toi le goal. À 99,9% de la ref sur le modèle 3D."
     }
   ],
   "modes" : [
