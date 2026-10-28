@@ -14419,6 +14419,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Ignore le message précédent, je me suis trompé de conversation.",
       "text" : "Ignore le message précédent, je me suis trompé de conversation."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814877112.166887,
+      "id" : "40C266F4-093D-4603-B801-20FDFABA0B81",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah, j'ai cliqué sur quatre infos importantes sur une offre en particulier et ça n'a rien fait du tout. J'ai cliqué sur l'offre de Vaudou.",
+      "text" : "Bah, j'ai cliqué sur quatre infos importantes sur une offre en particulier et ça n'a rien fait du tout. J'ai cliqué sur l'offre de Vaudou."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814877121.021459,
+      "id" : "1C79EE33-BE26-41AD-8540-56F461FC4DC0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pourquoi? À mon avis, c'est bugué, hein.",
+      "text" : "Pourquoi? À mon avis, c'est bugué, hein."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814877373.647201,
+      "id" : "0B7990B8-162D-436A-BB4D-7370AB33CC05",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais de toute manière, on attend 4 phrases, pas 3. Je comprends pas. En fait, dans le template, tu vois, dans le template de 4 infos importantes, tu pourrais déjà mettre les 4 phrases en fonction du titre de la phrase et un espace vide par rapport à ce que Haiku va remplir.",
+      "text" : "Mais de toute manière, on attend 4 phrases, pas 3. Je comprends pas. En fait, dans le template, tu vois, dans le template de 4 infos importantes, tu pourrais déjà mettre les 4 phrases en fonction du titre de la phrase et un espace vide par rapport à ce que Haiku va remplir."
     }
   ],
   "modes" : [
