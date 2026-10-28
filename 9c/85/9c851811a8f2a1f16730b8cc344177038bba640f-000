@@ -14269,6 +14269,66 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Ok, merci beaucoup de m'avoir transmis ces petites nouvelles.",
       "text" : "Ok, merci beaucoup de m'avoir transmis ces petites nouvelles."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814875345.353894,
+      "id" : "467A2A1A-DCE8-4679-A81D-32812D1038B3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Sur ZenRay Freelance, à partir de l'existant, j'aimerais faire en sorte de... Comment dire, j'aimerais pouvoir trier par, par date. Comme ça, je peux recenser au moment où j'ai trouvé l'offre et à quel moment elle est arrivée. Parce qu'actuellement, il y a toujours le truc du score. Et j'aimerais aussi ajouter un autre truc. C'est un petit tableau sur chaque offre. J'aimerais savoir, en fait, dans un... je vais donner les instructions.",
+      "text" : "Sur ZenRay Freelance, à partir de l'existant, j'aimerais faire en sorte de... Comment dire, j'aimerais pouvoir trier par, par date. Comme ça, je peux recenser au moment où j'ai trouvé l'offre et à quel moment elle est arrivée. Parce qu'actuellement, il y a toujours le truc du score. Et j'aimerais aussi ajouter un autre truc. C'est un petit tableau sur chaque offre. J'aimerais savoir, en fait, dans un... je vais donner les instructions."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814875472.216285,
+      "id" : "7C8C8887-7AB1-4300-90E2-7F8B242B9F5D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Tout le tableau des offres sur ZenRay Freelance doit être cliquable. Par exemple, si je clique sur Score, ça trie par score. Si je clique sur Studio, ça clique par ordre alphabétique. Si je trie par poste, ça trie par, par priorité, c'est-à-dire Technical Artist arrive en premier. Ensuite, il y aurait par exemple 3D Artist et ainsi de suite. Le lieu, ça trierait aussi, par exemple, la France en premier. Ensuite, on va dire, je sais pas, les pays européens, et ensuite les États-Unis, et ensuite le Japon, et ensuite tout le reste. Ensuite, dans la source, je sais pas trop quoi faire. Et dans trouver, surtout, il faudrait pouvoir trier par date. Et il faudrait aussi réaligner le tableau, parce qu'actuellement, il est pas droit. En fait, toute la partie ZenRay Freelance en termes d'UI, il faut surtout faire en sorte que tout le texte soit hyper bien aligné, etc. Et en fait, tous les titres, etc., ils vont être en GT Ultra. Et tout ce qui va dans les boutons, il va être en GT Ultra. Tout ce qui est lié à l'UI, c'est en GT Ultra. En revanche, tout le reste de l'interface, c'est en Literata. Donc c'est une fonte qui s'appelle Literata. Et enfin, il faut que tu mettes environ à 15 pixels minimum les fontes. Enfin, pas forcément à 15 pixels, mais il faut au moins que tu augmentes de 1 pixel toutes les fontes. Donc si par exemple tu as des fontes qui sont à 12 pixels, tu les mets à 13 pixels. Enfin, tu augmentes de 1 pixel environ toutes les fontes actuelles. Et surtout, tu mets beaucoup plus d'espace pour faire en sorte que tout soit bien harmonisé et globalement assez joli.",
+      "text" : "Tout le tableau des offres sur ZenRay Freelance doit être cliquable. Par exemple, si je clique sur Score, ça trie par score. Si je clique sur Studio, ça clique par ordre alphabétique. Si je trie par poste, ça trie par, par priorité, c'est-à-dire Technical Artist arrive en premier. Ensuite, il y aurait par exemple 3D Artist et ainsi de suite. Le lieu, ça trierait aussi, par exemple, la France en premier. Ensuite, on va dire, je sais pas, les pays européens, et ensuite les États-Unis, et ensuite le Japon, et ensuite tout le reste. Ensuite, dans la source, je sais pas trop quoi faire. Et dans trouver, surtout, il faudrait pouvoir trier par date. Et il faudrait aussi réaligner le tableau, parce qu'actuellement, il est pas droit. En fait, toute la partie ZenRay Freelance en termes d'UI, il faut surtout faire en sorte que tout le texte soit hyper bien aligné, etc. Et en fait, tous les titres, etc., ils vont être en GT Ultra. Et tout ce qui va dans les boutons, il va être en GT Ultra. Tout ce qui est lié à l'UI, c'est en GT Ultra. En revanche, tout le reste de l'interface, c'est en Literata. Donc c'est une fonte qui s'appelle Literata. Et enfin, il faut que tu mettes environ à 15 pixels minimum les fontes. Enfin, pas forcément à 15 pixels, mais il faut au moins que tu augmentes de 1 pixel toutes les fontes. Donc si par exemple tu as des fontes qui sont à 12 pixels, tu les mets à 13 pixels. Enfin, tu augmentes de 1 pixel environ toutes les fontes actuelles. Et surtout, tu mets beaucoup plus d'espace pour faire en sorte que tout soit bien harmonisé et globalement assez joli."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814875485.938028,
+      "id" : "5029CC68-CB14-4AF8-B47B-BA6A1672731B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "faut surtout mettre de l'espace en fait. Et tu peux utiliser le skill ZenRay Edit si ça t'aide à faire du design mieux.",
+      "text" : "faut surtout mettre de l'espace en fait. Et tu peux utiliser le skill ZenRay Edit si ça t'aide à faire du design mieux."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814875530.377088,
+      "id" : "582CA469-ACB6-4D25-AB94-B474FF973FE6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et ensuite, il faut rajouter ce tableau au début des offres, devant, quand je clique sur une offre, il faut mettre ce tableau en dessous du module candidature et avant expérience. Et tu l'appelles, je sais pas, tu l'appelles par exemple 4 infos importantes, tu vois. Je sais pas, mais trouve, enfin, faut créer un nouveau module d'UI dans le design du truc.",
+      "text" : "Et ensuite, il faut rajouter ce tableau au début des offres, devant, quand je clique sur une offre, il faut mettre ce tableau en dessous du module candidature et avant expérience. Et tu l'appelles, je sais pas, tu l'appelles par exemple 4 infos importantes, tu vois. Je sais pas, mais trouve, enfin, faut créer un nouveau module d'UI dans le design du truc."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814875582.321681,
+      "id" : "3B387F17-6F68-4806-8D84-7A64038B635F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "et pour créer physiquement ça, parce que la ligne pour la lettre, tu vois, ça a besoin de, ça a besoin d'une recherche web. Je vais donner une clé API Haiku max 5.5 et tu vas me le configurer proprement pour faire le résumé et le générer. Et si c'est pas généré par Haiku, bah, la ligne pour la lettre, bah, tu la fais pas. La vue d'ensemble du studio non plus. Ce qu'il cherche non plus. Et voilà.",
+      "text" : "et pour créer physiquement ça, parce que la ligne pour la lettre, tu vois, ça a besoin de, ça a besoin d'une recherche web. Je vais donner une clé API Haiku max 5.5 et tu vas me le configurer proprement pour faire le résumé et le générer. Et si c'est pas généré par Haiku, bah, la ligne pour la lettre, bah, tu la fais pas. La vue d'ensemble du studio non plus. Ce qu'il cherche non plus. Et voilà."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814875629.853291,
+      "id" : "331AA22A-189E-445E-93EB-01CB1FDFCCF8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "relis un peu les fichiers dont tu as besoin parce que des choses ont été modifiées depuis.",
+      "text" : "relis un peu les fichiers dont tu as besoin parce que des choses ont été modifiées depuis."
     }
   ],
   "modes" : [
