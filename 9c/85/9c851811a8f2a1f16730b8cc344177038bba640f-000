@@ -14639,6 +14639,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Je comprends pas ce qu'ils attendent quand ils disent personnaliser votre profil en envoyant des informations supplémentaires, étant donné que c'est bon là, il faut aller à l'essentiel.",
       "text" : "Je comprends pas ce qu'ils attendent quand ils disent personnaliser votre profil en envoyant des informations supplémentaires, étant donné que c'est bon là, il faut aller à l'essentiel."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814881336.942146,
+      "id" : "FAA30815-DB51-403E-93D2-4C16196AE865",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Allez, on reprend la boucle jusqu'à 20h ce soir. Et t'améliores la voiture. Mais là, tu vas essayer de la finir. Hein. Faut vraiment la finir. Tu peux arrêter la boucle une fois que la voiture est finie. Parce que là, on est passé à l'étape 635. Si tu veux, là, il faut juste finir parfaitement par rapport à la ref, la voiture. Fermer les joints. Qui est 0 mm d'écart entre toutes les parties des components de la voiture. Enlever les anciennes parties. Une fois que la modélisation est parfaite, on va run ZenRay UV pour mettre les UV proprement sur la voiture. Et ce sera pas mal.",
+      "text" : "Allez, on reprend la boucle jusqu'à 20h ce soir. Et t'améliores la voiture. Mais là, tu vas essayer de la finir. Hein. Faut vraiment la finir. Tu peux arrêter la boucle une fois que la voiture est finie. Parce que là, on est passé à l'étape 635. Si tu veux, là, il faut juste finir parfaitement par rapport à la ref, la voiture. Fermer les joints. Qui est 0 mm d'écart entre toutes les parties des components de la voiture. Enlever les anciennes parties. Une fois que la modélisation est parfaite, on va run ZenRay UV pour mettre les UV proprement sur la voiture. Et ce sera pas mal."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814881410.124815,
+      "id" : "D3435F14-5476-4D5C-92BF-AD789813F5AE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Par contre, c'est moi qui détermine que la voiture sera finie. Hein. Tu prends jamais l'autonomie pour savoir si la voiture est finie ou pas. Je sais pas à quelle version N on va arriver à l'état de la voiture finie, mais en tout cas, tu décides pas toi-même de finir le truc, quoi. Et de passer à ZenRay UV. C'est moi qui choisis. Donc tu peux enlever de ton tasking ZenRay UV. Il faut juste le garder dans un coin de la mémoire.",
+      "text" : "Par contre, c'est moi qui détermine que la voiture sera finie. Hein. Tu prends jamais l'autonomie pour savoir si la voiture est finie ou pas. Je sais pas à quelle version N on va arriver à l'état de la voiture finie, mais en tout cas, tu décides pas toi-même de finir le truc, quoi. Et de passer à ZenRay UV. C'est moi qui choisis. Donc tu peux enlever de ton tasking ZenRay UV. Il faut juste le garder dans un coin de la mémoire."
     }
   ],
   "modes" : [
