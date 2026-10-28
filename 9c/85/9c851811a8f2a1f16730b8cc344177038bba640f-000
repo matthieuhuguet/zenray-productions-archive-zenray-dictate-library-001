@@ -15409,6 +15409,56 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Ça fait quoi chimiquement de... de prendre du café avec du poivre.",
       "text" : "Ça fait quoi chimiquement de... de prendre du café avec du poivre."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814909237.699912,
+      "id" : "FED28600-F26D-4615-B971-154E9BA84FAB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donne-moi une autre section avec GT Ultra Only.",
+      "text" : "Donne-moi une autre section avec GT Ultra Only."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814909356.4502,
+      "id" : "1C027784-A894-42EB-A319-E55D4D64FB31",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Actuellement, notre plus gros problème, pour l'instant, tu vas pas...",
+      "text" : "Actuellement, notre plus gros problème, pour l'instant, tu vas pas..."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814909469.163474,
+      "id" : "37244565-AE71-4421-8EA7-77C369F731A5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Testons-en une autre avec les titres en GT Valsheim et le reste en GT Ultra, puis l'inversement.",
+      "text" : "Testons-en une autre avec les titres en GT Valsheim et le reste en GT Ultra, puis l'inversement."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814909661.720603,
+      "id" : "FFE651A7-99FB-4E90-A00E-F690A990C99E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah, push ces documents de design du coup dans Assets. Vérifie que la vue design de ZenRay Edit, elle fonctionne bien avec les nouvelles modifications à jour. Normalement, ça devrait être logique. Et ensuite, j'aimerais que tu mettes du coup section GT Ultra et module GT Ultra dans la sidebar de gauche et que tu l'appliques sur le code de la page. Et enfin, dans la vue Create, du coup, j'aimerais que pour la fonte, globalement, tu passes tout en GT Ultra. Donc GT Ultra régulier. Et ce sera parfait. Merci beaucoup.",
+      "text" : "Bah, push ces documents de design du coup dans Assets. Vérifie que la vue design de ZenRay Edit, elle fonctionne bien avec les nouvelles modifications à jour. Normalement, ça devrait être logique. Et ensuite, j'aimerais que tu mettes du coup section GT Ultra et module GT Ultra dans la sidebar de gauche et que tu l'appliques sur le code de la page. Et enfin, dans la vue Create, du coup, j'aimerais que pour la fonte, globalement, tu passes tout en GT Ultra. Donc GT Ultra régulier. Et ce sera parfait. Merci beaucoup."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814909689.44256,
+      "id" : "268F8981-5F97-410A-A98B-9314F9CFCBEB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Globalement, les anciennes occurrences de inter sur tout le site de progress passent en GT ultra régular et voilà.",
+      "text" : "Globalement, les anciennes occurrences de inter sur tout le site de progress passent en GT ultra régular et voilà."
     }
   ],
   "modes" : [
