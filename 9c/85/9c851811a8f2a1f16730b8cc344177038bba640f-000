@@ -15319,6 +15319,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Là, il s'agit plus de utiliser une ou une méthode. Il s'agit d'avoir bien en conscience toutes les méthodes qui existent et d'utiliser uniquement les prioritaires. On est vraiment sur les finitions là.",
       "text" : "Là, il s'agit plus de utiliser une ou une méthode. Il s'agit d'avoir bien en conscience toutes les méthodes qui existent et d'utiliser uniquement les prioritaires. On est vraiment sur les finitions là."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814905621.709832,
+      "id" : "250CFE2B-53D1-45D0-88FF-A198A67C98FE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Désolé, je parlais avec un frère, un pote de mon frère. C'était la première fois que je le rencontrais, du coup, on en a profité pour discuter un peu. Si tu veux, on peut discuter là maintenant.",
+      "text" : "Désolé, je parlais avec un frère, un pote de mon frère. C'était la première fois que je le rencontrais, du coup, on en a profité pour discuter un peu. Si tu veux, on peut discuter là maintenant."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814905638.286345,
+      "id" : "F1869B67-C638-44B6-B0BE-032649165723",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "ou sinon à un autre moment dans la semaine, il n'y a aucun problème. Gros bisous.",
+      "text" : "ou sinon à un autre moment dans la semaine, il n'y a aucun problème. Gros bisous."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814905645.481879,
+      "id" : "D4654118-571D-4CA5-AF40-B5EDD23BF2A5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je veux pas te déranger.",
+      "text" : "Je veux pas te déranger."
     }
   ],
   "modes" : [
