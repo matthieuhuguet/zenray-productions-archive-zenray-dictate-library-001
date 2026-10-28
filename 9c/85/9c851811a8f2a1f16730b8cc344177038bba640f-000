@@ -14249,6 +14249,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Là, il faut surtout que tu commences à te préoccuper du travail de finition, en fait. Surtout la finition qui va être importante. Parce que la forme est plus ou moins la bonne, sauf sur le capot. On dirait que tu n'arrives pas à modéliser proprement le module. Enfin, sur le capot inférieur, tu vois. Donc la bouche de la voiture, on dirait que tu n'arrives pas à la modéliser proprement. Mais en soi, toute la voiture jusqu'à demain 8 h du matin, en fait, il faut vraiment que tu te concentres sur ce qu'on va appeler les finitions, en fait. Donc, consigner aussi dans le skill comment dépasser. Peut aussi rechercher de nouvelles méthodologies, mais à mon avis, créer les outils dont tu as besoin, mais il faut surtout, à mon avis, créer des finitions, créer des soudures, créer des joints, finir proprement la topologie, bref, créer les outils dont tu as besoin pour finir.",
       "text" : "Là, il faut surtout que tu commences à te préoccuper du travail de finition, en fait. Surtout la finition qui va être importante. Parce que la forme est plus ou moins la bonne, sauf sur le capot. On dirait que tu n'arrives pas à modéliser proprement le module. Enfin, sur le capot inférieur, tu vois. Donc la bouche de la voiture, on dirait que tu n'arrives pas à la modéliser proprement. Mais en soi, toute la voiture jusqu'à demain 8 h du matin, en fait, il faut vraiment que tu te concentres sur ce qu'on va appeler les finitions, en fait. Donc, consigner aussi dans le skill comment dépasser. Peut aussi rechercher de nouvelles méthodologies, mais à mon avis, créer les outils dont tu as besoin, mais il faut surtout, à mon avis, créer des finitions, créer des soudures, créer des joints, finir proprement la topologie, bref, créer les outils dont tu as besoin pour finir."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 814839196.770436,
+      "id" : "213CFD1C-6FB9-4183-B44E-39741FE58A1D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Par contre, arrête de faire la vidéo en parallèle. T'as plus besoin de la faire et en plus ça prend trop de compute. Mais je t'ai déjà dit ce que tu dois faire jusqu'à demain matin. Enfin, tu dois régler les problèmes de trous et tu dois respecter la modélisation par rapport à la ref. En fait, j'ai l'impression que tu fais plus trop d'aller-retour par rapport à la ref, mais ça reste la source de vérité première, tu vois.",
+      "text" : "Par contre, arrête de faire la vidéo en parallèle. T'as plus besoin de la faire et en plus ça prend trop de compute. Mais je t'ai déjà dit ce que tu dois faire jusqu'à demain matin. Enfin, tu dois régler les problèmes de trous et tu dois respecter la modélisation par rapport à la ref. En fait, j'ai l'impression que tu fais plus trop d'aller-retour par rapport à la ref, mais ça reste la source de vérité première, tu vois."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814839425.720236,
+      "id" : "B626794D-239D-4BF4-ACDE-CA5D315E4D62",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, merci beaucoup de m'avoir transmis ces petites nouvelles.",
+      "text" : "Ok, merci beaucoup de m'avoir transmis ces petites nouvelles."
     }
   ],
   "modes" : [
