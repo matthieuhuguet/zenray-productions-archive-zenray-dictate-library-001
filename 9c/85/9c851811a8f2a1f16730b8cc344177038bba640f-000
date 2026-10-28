@@ -15289,6 +15289,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Ça, c'est une règle de base en 3D modélisation. Sachant qu'on design un outil de modélisation, c'est ton rôle de le faire bien.",
       "text" : "Ça, c'est une règle de base en 3D modélisation. Sachant qu'on design un outil de modélisation, c'est ton rôle de le faire bien."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814902875.015937,
+      "id" : "9F7C814F-7333-401D-B80E-0ECF5C465FEE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, je sais ce qu'on va faire. En fait, tu vas dessiner toutes les courbes et toutes les bandes selon plusieurs schémas principaux, selon plusieurs schémas par rapport au ref, et ensuite tu appliqueras directement. Mais en fait, ce qui va constater la vérité, c'est surtout les schémas. Parce qu'en fait, ça ira beaucoup plus vite de modifier des schémas plutôt que de tout faire component par component. En fait, ce qu'on va faire, c'est que tu vas dessiner tous les schémas avec du coup la nouvelle mesure et le fait de lisser les courbes par rapport au point. Donc tu me donnes plusieurs vues et donc ensuite ça me donne tous les schémas de la voiture et tu dessines tout. Tu peux aussi associer des matrices au point déterminé, mais le but c'est d'avoir toutes les courbes et tous les schémas selon une vue du coup top down, left, right, top et bot sur le même schéma. Comme ça, moi j'ai juste à vérifier les schémas et ensuite tu dessines les formes en 3D. Mais tu dois dessiner du coup chaque component qui a une NURBS est directement dessiné sur un schéma.",
+      "text" : "Ok, je sais ce qu'on va faire. En fait, tu vas dessiner toutes les courbes et toutes les bandes selon plusieurs schémas principaux, selon plusieurs schémas par rapport au ref, et ensuite tu appliqueras directement. Mais en fait, ce qui va constater la vérité, c'est surtout les schémas. Parce qu'en fait, ça ira beaucoup plus vite de modifier des schémas plutôt que de tout faire component par component. En fait, ce qu'on va faire, c'est que tu vas dessiner tous les schémas avec du coup la nouvelle mesure et le fait de lisser les courbes par rapport au point. Donc tu me donnes plusieurs vues et donc ensuite ça me donne tous les schémas de la voiture et tu dessines tout. Tu peux aussi associer des matrices au point déterminé, mais le but c'est d'avoir toutes les courbes et tous les schémas selon une vue du coup top down, left, right, top et bot sur le même schéma. Comme ça, moi j'ai juste à vérifier les schémas et ensuite tu dessines les formes en 3D. Mais tu dois dessiner du coup chaque component qui a une NURBS est directement dessiné sur un schéma."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814903160.050257,
+      "id" : "19083373-6059-44B4-BA70-ABBEA05CE5A8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "deux choses à éditer du coup. La première, c'est que du coup c'est pas parfait, donc recommence. Recommence et fais les choses individuellement. Ensuite, t'as pas fait tout le toit. En fait, la partie rouge, elle est vraiment très mal placée. La partie violette, elle est pas placée jusqu'au bord. Les vitres sont pas dessinées. Le toit n'est pas dessiné. Les roues ne sont pas dessinées. Les roues sont pas dessinées. Donc recommence. À mon avis, tu devrais faire chaque component, enfin chaque image individuellement, et ensuite réunir la sheet uniquement une fois que tu as fait les 6 individuellement.",
+      "text" : "deux choses à éditer du coup. La première, c'est que du coup c'est pas parfait, donc recommence. Recommence et fais les choses individuellement. Ensuite, t'as pas fait tout le toit. En fait, la partie rouge, elle est vraiment très mal placée. La partie violette, elle est pas placée jusqu'au bord. Les vitres sont pas dessinées. Le toit n'est pas dessiné. Les roues ne sont pas dessinées. Les roues sont pas dessinées. Donc recommence. À mon avis, tu devrais faire chaque component, enfin chaque image individuellement, et ensuite réunir la sheet uniquement une fois que tu as fait les 6 individuellement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814903278.097061,
+      "id" : "39521D76-FCA9-49CA-9D95-AC68FCB06604",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Là, il s'agit plus de utiliser une ou une méthode. Il s'agit d'avoir bien en conscience toutes les méthodes qui existent et d'utiliser uniquement les prioritaires. On est vraiment sur les finitions là.",
+      "text" : "Là, il s'agit plus de utiliser une ou une méthode. Il s'agit d'avoir bien en conscience toutes les méthodes qui existent et d'utiliser uniquement les prioritaires. On est vraiment sur les finitions là."
     }
   ],
   "modes" : [
