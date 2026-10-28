@@ -14359,6 +14359,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Et évidemment, je veux qu'à l'avenir, à chaque fois que je vais utiliser mon skill ZenRay Edit et que ça crée un nouveau HTML, bah, il soit directement pointé dans la vue galerie sans que, enfin, en automatique, tu vois. C'est-à-dire, à chaque fois que... En fait, dans l'indexation, dans le skill ZenRay Edit lui-même, il faudrait inscrire le fait de aussi le push dans galerie, puisque ZenRay Edit, normalement, il s'auto-alimente dans ZenRay Assets. Mais il faut être sûr que ça fonctionne bien, cette automation.",
       "text" : "Et évidemment, je veux qu'à l'avenir, à chaque fois que je vais utiliser mon skill ZenRay Edit et que ça crée un nouveau HTML, bah, il soit directement pointé dans la vue galerie sans que, enfin, en automatique, tu vois. C'est-à-dire, à chaque fois que... En fait, dans l'indexation, dans le skill ZenRay Edit lui-même, il faudrait inscrire le fait de aussi le push dans galerie, puisque ZenRay Edit, normalement, il s'auto-alimente dans ZenRay Assets. Mais il faut être sûr que ça fonctionne bien, cette automation."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814876389.035534,
+      "id" : "7249E6EB-AAC8-4B56-8F32-E1EFEF5C7925",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ajoute ces trois films à mes films à voir dans Shelf.",
+      "text" : "Ajoute ces trois films à mes films à voir dans Shelf."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814876531.283264,
+      "id" : "DE3D6F3C-3D6E-4418-93C3-48742184C71A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Attention pour la recherche, qui fait 0,024$ par fiche. Est-ce que tu fais aussi une... est-ce que tu fais une recherche web? Parce que sinon, je vois pas comment tu peux trouver les informations. Via ton paramétrique knowledge, il faut forcément faire une web search. Mais il faut pas non plus en faire 14, tu vois. Il faut faire une web search qui va durer max 30 secondes. Et ensuite, ça me permet d'avoir la fiche.",
+      "text" : "Attention pour la recherche, qui fait 0,024$ par fiche. Est-ce que tu fais aussi une... est-ce que tu fais une recherche web? Parce que sinon, je vois pas comment tu peux trouver les informations. Via ton paramétrique knowledge, il faut forcément faire une web search. Mais il faut pas non plus en faire 14, tu vois. Il faut faire une web search qui va durer max 30 secondes. Et ensuite, ça me permet d'avoir la fiche."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814876627.151843,
+      "id" : "567FFB34-7141-4768-B2EC-468F5D356015",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "recense-le dans Credentials et fais en sorte que ZenRay Progress puisse aller chercher le mot de passe uniquement quand il en a besoin. Donc via le pass",
+      "text" : "recense-le dans Credentials et fais en sorte que ZenRay Progress puisse aller chercher le mot de passe uniquement quand il en a besoin. Donc via le pass"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814876797.141718,
+      "id" : "089ECA86-8534-4219-B69E-8ECC653F3074",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je vois un bug, c'est que les vues actuellement du HTML ne se chargent pas. C'est peut-être parce que ça lui demanderait trop de compute de charger tout le HTML d'un coup en petites miniatures. Donc peut-être qu'il faudrait mettre des miniatures. Mais je me dis, en vrai, vu que c'est des designs, normalement ça devrait pas être trop lourd, même pour le site web. Mais en fait, le problème, c'est qu'il va recharger en plus petit plein de petits modules de CSS et de HTML, et du coup c'est normal que ça s'affiche pas. Mais du coup, ça n'a aucun intérêt pour une vue galerie si tu n'affiches pas les designs, en fait.",
+      "text" : "Je vois un bug, c'est que les vues actuellement du HTML ne se chargent pas. C'est peut-être parce que ça lui demanderait trop de compute de charger tout le HTML d'un coup en petites miniatures. Donc peut-être qu'il faudrait mettre des miniatures. Mais je me dis, en vrai, vu que c'est des designs, normalement ça devrait pas être trop lourd, même pour le site web. Mais en fait, le problème, c'est qu'il va recharger en plus petit plein de petits modules de CSS et de HTML, et du coup c'est normal que ça s'affiche pas. Mais du coup, ça n'a aucun intérêt pour une vue galerie si tu n'affiches pas les designs, en fait."
     }
   ],
   "modes" : [
