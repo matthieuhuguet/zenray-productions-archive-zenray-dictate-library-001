@@ -14919,6 +14919,346 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Qu'est-ce que tu comprends pas dans le mot finition? En fait, là, il faut que tu appliques la logique de manière à ce que tout soit fini. Tu sais ce que ça veut dire, fini? Fais une recherche web, j'ai l'impression que t'es complètement con. Genre, il faut que le modèle soit finalisé et prêt pour le texturing. Donc, si tu veux, tu crées un outil qui te permet de le faire, voire plusieurs outils, mais là, il faut finir le modèle. Et la vie et les vitres doivent être refaites. Tout doit être fait proprement. Il doit y avoir les soudures. Là, il y a encore plein de trous partout. Il y a des... Il y a des faces à quatre quads n'importe où, tout doit être soudé, tout doit être parfaitement fini. Et en plus, t'as la ref, hein, franchement, tu te fous de ma gueule, genre.",
       "text" : "Qu'est-ce que tu comprends pas dans le mot finition? En fait, là, il faut que tu appliques la logique de manière à ce que tout soit fini. Tu sais ce que ça veut dire, fini? Fais une recherche web, j'ai l'impression que t'es complètement con. Genre, il faut que le modèle soit finalisé et prêt pour le texturing. Donc, si tu veux, tu crées un outil qui te permet de le faire, voire plusieurs outils, mais là, il faut finir le modèle. Et la vie et les vitres doivent être refaites. Tout doit être fait proprement. Il doit y avoir les soudures. Là, il y a encore plein de trous partout. Il y a des... Il y a des faces à quatre quads n'importe où, tout doit être soudé, tout doit être parfaitement fini. Et en plus, t'as la ref, hein, franchement, tu te fous de ma gueule, genre."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814894324.177501,
+      "id" : "0C4BCFA2-32AF-489F-B576-8150B2534092",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "À mon avis, tu devrais aller chercher de la data directement dans le fait de savoir, dans des articles ou autres, pour savoir exactement comment faire une topologie propre, parce qu'actuellement, on dirait que tu galères à le faire.",
+      "text" : "À mon avis, tu devrais aller chercher de la data directement dans le fait de savoir, dans des articles ou autres, pour savoir exactement comment faire une topologie propre, parce qu'actuellement, on dirait que tu galères à le faire."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814894573.182285,
+      "id" : "F8579DB3-0A2E-413D-866F-DE016655B2A7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu as consigné toute la topologie pour créer la méthode qui fonctionnera? Il faut évidemment continuer de consigner les choses à mesure à ce que tu avances dans la méthodologie. Parce que sinon, on perd du temps. D'ailleurs, je comprends pas pourquoi tu utilises ZenRay UV en ce moment, alors qu'on est toujours sur ZenRay Mesh.",
+      "text" : "Est-ce que tu as consigné toute la topologie pour créer la méthode qui fonctionnera? Il faut évidemment continuer de consigner les choses à mesure à ce que tu avances dans la méthodologie. Parce que sinon, on perd du temps. D'ailleurs, je comprends pas pourquoi tu utilises ZenRay UV en ce moment, alors qu'on est toujours sur ZenRay Mesh."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814895687.350585,
+      "id" : "0503C682-B88F-4010-B93D-575007969287",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais en fait, je comprends pas, on dirait qu'il y a des énormes régressions depuis... depuis tout à l'heure, en fait. Enfin... tu vas juste faire une vraie méthodologie pour finir la voiture et avoir des jointures et des soudures propres pour finir chaque composant. En fait, ce qu'il faudrait, c'est faire exactement ce qu'on fait sur ZBrush, par exemple, quand on a un caractère mais qu'il est decimate et qu'on doit obtenir le low poly. Ce que tu dois faire là, c'est reprendre la forme actuelle, essayer de dessiner tous les contours, et retracer la topologie parfaitement. Créer une nouvelle méthodologie pour ça.",
+      "text" : "Mais en fait, je comprends pas, on dirait qu'il y a des énormes régressions depuis... depuis tout à l'heure, en fait. Enfin... tu vas juste faire une vraie méthodologie pour finir la voiture et avoir des jointures et des soudures propres pour finir chaque composant. En fait, ce qu'il faudrait, c'est faire exactement ce qu'on fait sur ZBrush, par exemple, quand on a un caractère mais qu'il est decimate et qu'on doit obtenir le low poly. Ce que tu dois faire là, c'est reprendre la forme actuelle, essayer de dessiner tous les contours, et retracer la topologie parfaitement. Créer une nouvelle méthodologie pour ça."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814895816.138973,
+      "id" : "27AF99C3-13DB-4C00-8EFA-5E9A94CAFC82",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "ce qu'il manque dans ta, dans ce que tu vas faire là, c'est finir la voiture à 100% par rapport à la ref. Et consigner toutes les méthodes dans ZenRay Meshes de manière à ce que tout soit organisé et de manière à ce que la prochaine fois que je veux reproduire une voiture, ça prenne 2 secondes et pas 4 jours, tu vois.",
+      "text" : "ce qu'il manque dans ta, dans ce que tu vas faire là, c'est finir la voiture à 100% par rapport à la ref. Et consigner toutes les méthodes dans ZenRay Meshes de manière à ce que tout soit organisé et de manière à ce que la prochaine fois que je veux reproduire une voiture, ça prenne 2 secondes et pas 4 jours, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814895867.499182,
+      "id" : "107A433A-B150-4B6F-8C92-177E72420BF7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, actuellement, il n'y a pas forcément de régression entre tous les components, mais ce qui manque, c'est le fait de d'aller vite pour finir les composants. Et c'est pour ça que je pense qu'il faut que tu crées les bons outils et la bonne méthode et que tu refasses un tournoi de méthodologie pour être sûr de faire de finir le modèle parfaitement et pour passer au texturing.",
+      "text" : "Non, actuellement, il n'y a pas forcément de régression entre tous les components, mais ce qui manque, c'est le fait de d'aller vite pour finir les composants. Et c'est pour ça que je pense qu'il faut que tu crées les bons outils et la bonne méthode et que tu refasses un tournoi de méthodologie pour être sûr de faire de finir le modèle parfaitement et pour passer au texturing."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814896769.230379,
+      "id" : "A5C76D79-C1AA-4946-99D0-52F9461973B8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est un studio qui fait des petits jeux de dés. Là où j'ai axé mon offre sur ce studio, c'est plutôt sur l'accès... C'est plutôt sur l'accès tooling, c'est-à-dire créer et maintenir les outils. Et sinon, je te mets en description ce qu'il recherchait. Mais... Mais ouais, après... En soi... Si tu as une disponibilité demain, ce serait cool qu'on puisse préparer le rendez-vous. Mais on peut faire ça rapidement en soi. Mais ouais, en fait, j'ai l'impression que le fait d'avoir clarifié vachement le fait que j'allais bosser pour eux en tant que freelance, ça a pas mal débloqué les choses. Et après, en fait, j'avais quand même fait 8. Au total, j'en ai fait 24. Et il m'en reste 6 à faire aujourd'hui. Mais c'est plutôt que... comment dire, en fait, il y avait des offres qui étaient hors cible. Parce qu'il y a beaucoup d'offres, par exemple, qui sont au Canada. Et si t'es pas sur le territoire du Canada, bah, tu peux pas postuler tant que t'as pas un visa. Donc c'est un peu le serpent qui se mord la queue. Mais... il y a beaucoup d'offres qu'il faut trier sur le fait que ce soit pas forcément hors cible par rapport à mon outil. Mais là, le fait d'avoir mis sur l'outil toute mon expérience et toute la partie éducation, déjà, ça prend beaucoup moins de temps à copier-coller par rapport au site d'offres d'une offre à l'autre. Et ensuite, dans la lettre, je précise bien que j'agis en tant que freelance.",
+      "text" : "C'est un studio qui fait des petits jeux de dés. Là où j'ai axé mon offre sur ce studio, c'est plutôt sur l'accès... C'est plutôt sur l'accès tooling, c'est-à-dire créer et maintenir les outils. Et sinon, je te mets en description ce qu'il recherchait. Mais... Mais ouais, après... En soi... Si tu as une disponibilité demain, ce serait cool qu'on puisse préparer le rendez-vous. Mais on peut faire ça rapidement en soi. Mais ouais, en fait, j'ai l'impression que le fait d'avoir clarifié vachement le fait que j'allais bosser pour eux en tant que freelance, ça a pas mal débloqué les choses. Et après, en fait, j'avais quand même fait 8. Au total, j'en ai fait 24. Et il m'en reste 6 à faire aujourd'hui. Mais c'est plutôt que... comment dire, en fait, il y avait des offres qui étaient hors cible. Parce qu'il y a beaucoup d'offres, par exemple, qui sont au Canada. Et si t'es pas sur le territoire du Canada, bah, tu peux pas postuler tant que t'as pas un visa. Donc c'est un peu le serpent qui se mord la queue. Mais... il y a beaucoup d'offres qu'il faut trier sur le fait que ce soit pas forcément hors cible par rapport à mon outil. Mais là, le fait d'avoir mis sur l'outil toute mon expérience et toute la partie éducation, déjà, ça prend beaucoup moins de temps à copier-coller par rapport au site d'offres d'une offre à l'autre. Et ensuite, dans la lettre, je précise bien que j'agis en tant que freelance."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814896877.47562,
+      "id" : "9593E483-D1D6-41B1-A781-0B674410F8C4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, j'avais mis 8 offres hors cible. Et en fait, si tu veux, j'ai codé toute la partie sur mon outil pour avoir le suivi, pour avoir les studios à contacter, pour avoir le suivi, pour avoir les studios qui sont hors cible, donc c'est-à-dire ceux qui sont hors de ma portée. Et enfin, je fais des offres périmées par rapport au fait que si une offre n'est plus disponible. Parce que ça, c'est pas mal important. Et ensuite, dans les lettres en tant que telles, je mets la lettre de candidature, l'expérience, l'éducation, les infos importantes sur le studio, donc c'est-à-dire la ligne par rapport à la lettre que je vais modifier de façon customisée, la vue d'ensemble du studio, ce qu'il recherche et mon offre par rapport à ce studio. Parce que vu que j'ai beaucoup de compétences, c'est pas forcément facile de cibler précisément mon offre sur le studio. Et du coup, j'ai mis une clé API sur Haiku 5.5 de Sonnet d'Anthropic. Donc c'est une IA qui va relire le truc. Et pour l'instant, le truc m'a coûté à peine 16$. Et j'ai mis un budget à 32$ sur le truc. Et là, il m'a déjà fait 1300 offres. Mais c'est juste pour avoir l'adaptation de mes compétences par rapport au paragraphe qu'il m'écrit. Mais au final, tu vas me dire c'est encore con parce que je le relis comme... Mais bon, à terme, je pense que je le relirai plus. Mais c'est juste, là, je commence à automatiser, quoi.",
+      "text" : "Du coup, j'avais mis 8 offres hors cible. Et en fait, si tu veux, j'ai codé toute la partie sur mon outil pour avoir le suivi, pour avoir les studios à contacter, pour avoir le suivi, pour avoir les studios qui sont hors cible, donc c'est-à-dire ceux qui sont hors de ma portée. Et enfin, je fais des offres périmées par rapport au fait que si une offre n'est plus disponible. Parce que ça, c'est pas mal important. Et ensuite, dans les lettres en tant que telles, je mets la lettre de candidature, l'expérience, l'éducation, les infos importantes sur le studio, donc c'est-à-dire la ligne par rapport à la lettre que je vais modifier de façon customisée, la vue d'ensemble du studio, ce qu'il recherche et mon offre par rapport à ce studio. Parce que vu que j'ai beaucoup de compétences, c'est pas forcément facile de cibler précisément mon offre sur le studio. Et du coup, j'ai mis une clé API sur Haiku 5.5 de Sonnet d'Anthropic. Donc c'est une IA qui va relire le truc. Et pour l'instant, le truc m'a coûté à peine 16$. Et j'ai mis un budget à 32$ sur le truc. Et là, il m'a déjà fait 1300 offres. Mais c'est juste pour avoir l'adaptation de mes compétences par rapport au paragraphe qu'il m'écrit. Mais au final, tu vas me dire c'est encore con parce que je le relis comme... Mais bon, à terme, je pense que je le relirai plus. Mais c'est juste, là, je commence à automatiser, quoi."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814897094.531588,
+      "id" : "0E27D220-B9BE-4F5A-8DCE-BD8F9A2CA700",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Oui, bonjour. Quelles sont vos disponibilités pour demain? Je serai également disponible vendredi aussi. Si cela vous convient, je peux vous rencontrer dès 18h jeudi ou dès midi vendredi, en fonction de vos disponibilités et de vos horaires. Merci beaucoup.",
+      "text" : "Oui, bonjour. Quelles sont vos disponibilités pour demain? Je serai également disponible vendredi aussi. Si cela vous convient, je peux vous rencontrer dès 18h jeudi ou dès midi vendredi, en fonction de vos disponibilités et de vos horaires. Merci beaucoup."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814897300.899658,
+      "id" : "D61FC897-0784-4752-96D0-69324B47620A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je pense que le rendez-vous sera demain ou vendredi. Mais en revanche, je pense que c'est pas mal de au moins maintenir l'habitude journalière d'email jusqu'à ce que ça me prenne max 90 minutes par jour. Parce que c'est ça aussi qui va permettre d'avoir le support et la cadence des futurs rendez-vous. Tu vas me dire c'est évident, mais c'est pas évident pour moi.",
+      "text" : "Je pense que le rendez-vous sera demain ou vendredi. Mais en revanche, je pense que c'est pas mal de au moins maintenir l'habitude journalière d'email jusqu'à ce que ça me prenne max 90 minutes par jour. Parce que c'est ça aussi qui va permettre d'avoir le support et la cadence des futurs rendez-vous. Tu vas me dire c'est évident, mais c'est pas évident pour moi."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814897324.024262,
+      "id" : "062950B7-00DB-4A0D-8B0E-3A76E303F5FC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Parce que c'est possible aussi qu'ils disent non, tu vois, il faut pas tout miser sur un seul rendez-vous. Mais",
+      "text" : "Parce que c'est possible aussi qu'ils disent non, tu vois, il faut pas tout miser sur un seul rendez-vous. Mais"
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814897340.927927,
+      "id" : "4D742277-0379-44FE-901A-08044EFB8B02",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ce que je pense qu'il joue pas mal sur le... Bon, bref.",
+      "text" : "Ce que je pense qu'il joue pas mal sur le... Bon, bref."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814897649.254057,
+      "id" : "0BB6BE2F-9CF8-4C06-B18E-C86EADA1F6E2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pourquoi tu l'as toujours pas ajouté? Elle n'était pas dans la base de données. À moins que tu aies filtré les trucs en mode tu prends pas les offres de game artist. Mais en fait, si. Donc tu as peut-être à modifier du code. Parce que l'offre, elle existait depuis, depuis un jour, à mon avis. Donc il faut que je puisse l'utiliser.",
+      "text" : "Pourquoi tu l'as toujours pas ajouté? Elle n'était pas dans la base de données. À moins que tu aies filtré les trucs en mode tu prends pas les offres de game artist. Mais en fait, si. Donc tu as peut-être à modifier du code. Parce que l'offre, elle existait depuis, depuis un jour, à mon avis. Donc il faut que je puisse l'utiliser."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814897658.729126,
+      "id" : "D020EE31-F2B2-4BC7-8614-3765572C6A3E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il faut qu'à terme, en fait, tu ajoutes aussi les offres de game artist ou de UI designer.",
+      "text" : "Il faut qu'à terme, en fait, tu ajoutes aussi les offres de game artist ou de UI designer."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814897733.136486,
+      "id" : "06B6EF60-CBEB-42B4-9893-2AE217CCAAFB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'était très cool la soirée en tout cas, merci beaucoup, tu nous as régalé. Merci énormément. Et ouais, désolé de te contacter direct pour ça. Et ouais, j'en ai tiré pas mal de trucs intéressants de la soirée, notamment du fait de voir la vie en gris ou voir la vie en couleur. Ça, c'est stylé.",
+      "text" : "C'était très cool la soirée en tout cas, merci beaucoup, tu nous as régalé. Merci énormément. Et ouais, désolé de te contacter direct pour ça. Et ouais, j'en ai tiré pas mal de trucs intéressants de la soirée, notamment du fait de voir la vie en gris ou voir la vie en couleur. Ça, c'est stylé."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814897758.709404,
+      "id" : "766769EA-8A3A-41BD-B04D-2184F36D5B64",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Désolé de te contacter que pour le business slash freelance, tu vois. En tout cas,",
+      "text" : "Désolé de te contacter que pour le business slash freelance, tu vois. En tout cas,"
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814897769.786219,
+      "id" : "C357E722-B92B-4905-875B-BC8F0A8542DB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais je valorise tes conseils en tout cas.",
+      "text" : "Mais je valorise tes conseils en tout cas."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814897813.97575,
+      "id" : "0BB4DBBB-9918-483A-8FED-D5E229121B53",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je peux t'appeler dans une heure, s'il te plaît. J'ai mon frère qui va arriver.",
+      "text" : "Je peux t'appeler dans une heure, s'il te plaît. J'ai mon frère qui va arriver."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814897869.639586,
+      "id" : "5E717BA2-A3B4-4F2E-B9CC-0BFC0574ED79",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je l'appelle et je regarde où il est sur la route et après je te rappelle direct.",
+      "text" : "Je l'appelle et je regarde où il est sur la route et après je te rappelle direct."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814898091.194051,
+      "id" : "AE7EB08C-B4F5-434F-81F8-6583E9671D13",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que pour le bouton de Haiku qui écrit, tu peux mettre directement le résultat ou le thinking de Haiku qui est retranscrit via l'API pour que je sache où il en est? Parce que des fois ça s'affiche pas immédiatement, je suis obligé de rafraîchir la page.",
+      "text" : "Est-ce que pour le bouton de Haiku qui écrit, tu peux mettre directement le résultat ou le thinking de Haiku qui est retranscrit via l'API pour que je sache où il en est? Parce que des fois ça s'affiche pas immédiatement, je suis obligé de rafraîchir la page."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814898123.369758,
+      "id" : "BB957BB9-D4A7-4C20-A26D-EAF72B07A6AC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ah oui, et des fois j'ai un message rouge et ça dit la fiche est écrite mais rafraîchis la page pour voir le contenu, et quand je rafraîchis la page, il n'y a pas le contenu, donc il faut fixer ce bug.",
+      "text" : "Ah oui, et des fois j'ai un message rouge et ça dit la fiche est écrite mais rafraîchis la page pour voir le contenu, et quand je rafraîchis la page, il n'y a pas le contenu, donc il faut fixer ce bug."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814898268.321468,
+      "id" : "2AF88A78-D6F8-4BA5-8A6A-E506367CFDBD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, je pense que je sais ce qu'on va faire. En fait, c'est bête actuellement ce qu'on fait, parce que ce qu'on construit, c'est... En fait, c'est trop bête ce qu'on fait, parce que ce qu'on construit, si tu veux, c'est de la modélisation. Et modéliser des pixels lors d'un hard surface, ça nous prend un temps fou. Et surtout si on doit refaire la topologie. Alors que moi, ce que je te propose, c'est pour garder une logique HDA, ce qu'il faudrait, c'est plutôt dessiner en fait parfaitement les NURBS, en fait, parfaitement les courbes de la voiture sur chaque composant de la voiture, et ainsi je pourrais directement, comme un rigging de voiture, tu vois, pouvoir modifier les NURBS, et ça modifierait du coup le loft de la voiture. Donc c'est ça qu'on va créer. Et comme ça, en fait, on pourra modéliser n'importe quel arête, si tu veux, n'importe quelle arête de la voiture ou courbe ou ce que tu veux, pour avoir un contrôle vraiment procédural sur les courbes de la voiture. Ça va être extra, cette méthodologie. On va faire ça, ok? Et tu me fais ça, du coup, pour comme s'il y avait une, ben, un englobage avec toutes les curves et les NURBS de la voiture, tu vois. Et en plus, on relie ça à l'aspect procédural. C'est le designer qui choisit le design de la voiture, tu vois. Mais il y a déjà une première partie pour avoir la forme de la voiture, et ensuite on pose les NURBS. Et les NURBS, elles sont contrôlées avec des contrôleurs, un peu comme de l'animation sur Maya, tu vois.",
+      "text" : "Ok, je pense que je sais ce qu'on va faire. En fait, c'est bête actuellement ce qu'on fait, parce que ce qu'on construit, c'est... En fait, c'est trop bête ce qu'on fait, parce que ce qu'on construit, si tu veux, c'est de la modélisation. Et modéliser des pixels lors d'un hard surface, ça nous prend un temps fou. Et surtout si on doit refaire la topologie. Alors que moi, ce que je te propose, c'est pour garder une logique HDA, ce qu'il faudrait, c'est plutôt dessiner en fait parfaitement les NURBS, en fait, parfaitement les courbes de la voiture sur chaque composant de la voiture, et ainsi je pourrais directement, comme un rigging de voiture, tu vois, pouvoir modifier les NURBS, et ça modifierait du coup le loft de la voiture. Donc c'est ça qu'on va créer. Et comme ça, en fait, on pourra modéliser n'importe quel arête, si tu veux, n'importe quelle arête de la voiture ou courbe ou ce que tu veux, pour avoir un contrôle vraiment procédural sur les courbes de la voiture. Ça va être extra, cette méthodologie. On va faire ça, ok? Et tu me fais ça, du coup, pour comme s'il y avait une, ben, un englobage avec toutes les curves et les NURBS de la voiture, tu vois. Et en plus, on relie ça à l'aspect procédural. C'est le designer qui choisit le design de la voiture, tu vois. Mais il y a déjà une première partie pour avoir la forme de la voiture, et ensuite on pose les NURBS. Et les NURBS, elles sont contrôlées avec des contrôleurs, un peu comme de l'animation sur Maya, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814898272.992875,
+      "id" : "EA18A435-E806-46E2-A480-DE46DFDA848E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "créer cette méthode révolutionnaire.",
+      "text" : "créer cette méthode révolutionnaire."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814898292.507821,
+      "id" : "EE0EF46D-E9B1-433A-B840-FF737F1E9FBD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "et voir s'il y a une faille dans mon raisonnement, et s'il y a une faille, l'augmenter et créer maintenant le truc. Parce qu'en fait, le problème, c'est que là, on va perdre trop de temps à ce que je te dise, bouge ce polygone, bouge ce polygone, bouge ce polygone, et tu vas jamais réussir. Alors qu'avec ma méthode, on peut peut-être y arriver.",
+      "text" : "et voir s'il y a une faille dans mon raisonnement, et s'il y a une faille, l'augmenter et créer maintenant le truc. Parce qu'en fait, le problème, c'est que là, on va perdre trop de temps à ce que je te dise, bouge ce polygone, bouge ce polygone, bouge ce polygone, et tu vas jamais réussir. Alors qu'avec ma méthode, on peut peut-être y arriver."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814898299.849092,
+      "id" : "6CF2388D-4E23-4B87-8793-0A1F90AA4AF8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "et ce pour n'importe quelle mèche, que ce soit hard surface ou bien organique.",
+      "text" : "et ce pour n'importe quelle mèche, que ce soit hard surface ou bien organique."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814898560.196786,
+      "id" : "D0E06A9D-0132-43A8-929F-74B38C60CFF7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Dit aussi que je maîtrise toutes les solutions d'IA, que ce soit ChatGPT, Midjourney, surtout Claude Code et Cursor, qui sont des solutions agentiques et qui pourront vraiment aider au workflow. Et je m'intéresse de près à ces technologies depuis qu'elles sont sorties, depuis l'avènement de ChatGPT en novembre 2022.",
+      "text" : "Dit aussi que je maîtrise toutes les solutions d'IA, que ce soit ChatGPT, Midjourney, surtout Claude Code et Cursor, qui sont des solutions agentiques et qui pourront vraiment aider au workflow. Et je m'intéresse de près à ces technologies depuis qu'elles sont sorties, depuis l'avènement de ChatGPT en novembre 2022."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814898767.632616,
+      "id" : "D4A41264-76BC-4295-9C71-D57EE2142C2A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "à vendredi prochain. À vendredi.",
+      "text" : "à vendredi prochain. À vendredi."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814898773.326867,
+      "id" : "A6813A1E-FEF6-4531-BA2A-BA5AB808CB78",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "À vendredi dans ce cas.",
+      "text" : "À vendredi dans ce cas."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814898854.28727,
+      "id" : "D890F098-1626-467C-B4F3-4642BF8C9005",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Envoie un message de connexion à Sacha pour lui dire bonjour, c'est Mathieu, nous avons rendez-vous vendredi pour le rendez-vous. J'utilise moi-même beaucoup LinkedIn. Merde. Ah, dans 2 jours dans ce cas.",
+      "text" : "Envoie un message de connexion à Sacha pour lui dire bonjour, c'est Mathieu, nous avons rendez-vous vendredi pour le rendez-vous. J'utilise moi-même beaucoup LinkedIn. Merde. Ah, dans 2 jours dans ce cas."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814898859.114935,
+      "id" : "A0B815DF-439A-4874-A9A9-008A7EDC93FD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ou un truc du genre.",
+      "text" : "Ou un truc du genre."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814898932.149749,
+      "id" : "86ADEE0A-33C6-43E3-A6E8-EBF2D4E7D514",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais tu vois bien qu'il y a un problème dans ce que dans le, la génération du mesh que tu as fait. Ça marche pas du tout actuellement. Il faut vraiment que ce soit lisse comme si c'était un... Comme si c'était un... Comment dire? Comme si c'était un Hard Surface Modeler qu'il avait fait.",
+      "text" : "Mais tu vois bien qu'il y a un problème dans ce que dans le, la génération du mesh que tu as fait. Ça marche pas du tout actuellement. Il faut vraiment que ce soit lisse comme si c'était un... Comme si c'était un... Comment dire? Comme si c'était un Hard Surface Modeler qu'il avait fait."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814898970.421911,
+      "id" : "31C8B1C8-4F76-41D6-97D5-5C77F52884BA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "j'ai candidaté chez Lizard Cube.",
+      "text" : "j'ai candidaté chez Lizard Cube."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814899197.537251,
+      "id" : "96EDC482-61B4-4623-84D5-78AD3C5379D0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est mieux, mais c'est pas ça. C'est mieux, mais c'est pas ça. Il y a trop de pincements, il n'y a pas assez de... C'est pas assez clean, en fait. C'est pas propre. En fait, je vais donner le rig. Enfin, pas le rig, mais... Même si on pourrait penser à un rig de voiture. Genre, si tu penses à une voiture qui devrait être riguée, tu vois, tu dois penser à ce que la voiture, elle est en intérieur. C'est-à-dire que le capot ait une profondeur, que la porte ait une profondeur, qu'il y ait des sièges à l'intérieur, qu'il y ait potentiellement un moteur, etc. Donc là, c'est pas la question. Mais là, le problème, c'est que le modeling de la voiture n'est pas propre, en fait. Et le modeling de la voiture, en fait, il doit être parfait. Peu importe la topologie que tu utilises, le rendu final doit être parfait par rapport à la ref. Donc moi, ce que je comprends pas, c'est pourquoi on a autant de régressions depuis tout à l'heure. Et peut-être qu'il faut arrêter de créer des méthodes, et peut-être qu'il faut juste avancer sur la reproduction du modèle. Mais le problème, c'est que je te parle de finition, on dirait que tu comprends pas du tout ce que c'est. Alors qu'en fait, la finition, c'est juste, si on enlevait le capot, si on enlevait la porte, si on enlevait les roues avec un transform, est-ce que la voiture, elle continuerait de fonctionner? Ça veut dire que, par exemple sur la topologie, bah, ça veut dire que, je sais pas comment s'appelle exactement ce truc, mais ça, par exemple, tu vois, entre les phares et le truc, ça doit être soudé, tu vois. Entre la roue et ce qui fait le contour de la roue, ça doit être parfait, tu vois. Entre le coffre et... si on enlevait le coffre avec un pivot, tu vois, ce serait parfait, tu vois. C'est ce genre de finition qu'on attend, tu vois. C'est pas un simple modèle qui sera joli à regarder de loin. Non, là, c'est une voiture, il faut que ce soit parfait, comme dans Forza Motorsport, ou comme dans GTA 6, tu vois. Ou dans GTA 5, d'ailleurs.",
+      "text" : "C'est mieux, mais c'est pas ça. C'est mieux, mais c'est pas ça. Il y a trop de pincements, il n'y a pas assez de... C'est pas assez clean, en fait. C'est pas propre. En fait, je vais donner le rig. Enfin, pas le rig, mais... Même si on pourrait penser à un rig de voiture. Genre, si tu penses à une voiture qui devrait être riguée, tu vois, tu dois penser à ce que la voiture, elle est en intérieur. C'est-à-dire que le capot ait une profondeur, que la porte ait une profondeur, qu'il y ait des sièges à l'intérieur, qu'il y ait potentiellement un moteur, etc. Donc là, c'est pas la question. Mais là, le problème, c'est que le modeling de la voiture n'est pas propre, en fait. Et le modeling de la voiture, en fait, il doit être parfait. Peu importe la topologie que tu utilises, le rendu final doit être parfait par rapport à la ref. Donc moi, ce que je comprends pas, c'est pourquoi on a autant de régressions depuis tout à l'heure. Et peut-être qu'il faut arrêter de créer des méthodes, et peut-être qu'il faut juste avancer sur la reproduction du modèle. Mais le problème, c'est que je te parle de finition, on dirait que tu comprends pas du tout ce que c'est. Alors qu'en fait, la finition, c'est juste, si on enlevait le capot, si on enlevait la porte, si on enlevait les roues avec un transform, est-ce que la voiture, elle continuerait de fonctionner? Ça veut dire que, par exemple sur la topologie, bah, ça veut dire que, je sais pas comment s'appelle exactement ce truc, mais ça, par exemple, tu vois, entre les phares et le truc, ça doit être soudé, tu vois. Entre la roue et ce qui fait le contour de la roue, ça doit être parfait, tu vois. Entre le coffre et... si on enlevait le coffre avec un pivot, tu vois, ce serait parfait, tu vois. C'est ce genre de finition qu'on attend, tu vois. C'est pas un simple modèle qui sera joli à regarder de loin. Non, là, c'est une voiture, il faut que ce soit parfait, comme dans Forza Motorsport, ou comme dans GTA 6, tu vois. Ou dans GTA 5, d'ailleurs."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814899216.183962,
+      "id" : "F2671A66-EE71-4EB2-AD7D-F5CA4AD28845",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc, je comprends pas trop tellement pourquoi tu fais des régressions. Il faut vraiment que tu penses en termes de components. Chaque component doit être parfait à 100%. Donc maintenant, itère sur tous les components, refais une sheet et va plus loin.",
+      "text" : "Donc, je comprends pas trop tellement pourquoi tu fais des régressions. Il faut vraiment que tu penses en termes de components. Chaque component doit être parfait à 100%. Donc maintenant, itère sur tous les components, refais une sheet et va plus loin."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814899251.973638,
+      "id" : "2C46A755-5DFC-4892-9668-E829E74079A4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pense à Maya. Pense à Maya aussi, parce que Maya, c'est un des logiciels les plus vieux dans l'industrie. Et c'est celui qui a fait le plus de voitures 3D. Donc tu peux aussi faire des web search, mais je veux vraiment que tu avances sur le modeling. Je sais pas quoi te dire, hein, parce que là, j'ai l'impression qu'on a tout dit. Hein. Toutes les rules, elles sont dans... Elles sont dans ZenRay Meshes. Et ZenRay Meshes, à la base, ça devait être un algorithme. Et j'ai l'impression qu'en fait, au final, c'est juste un skill qui fait run un agent, hein, ce qui n'est pas vraiment ce qu'on souhaitait.",
+      "text" : "Pense à Maya. Pense à Maya aussi, parce que Maya, c'est un des logiciels les plus vieux dans l'industrie. Et c'est celui qui a fait le plus de voitures 3D. Donc tu peux aussi faire des web search, mais je veux vraiment que tu avances sur le modeling. Je sais pas quoi te dire, hein, parce que là, j'ai l'impression qu'on a tout dit. Hein. Toutes les rules, elles sont dans... Elles sont dans ZenRay Meshes. Et ZenRay Meshes, à la base, ça devait être un algorithme. Et j'ai l'impression qu'en fait, au final, c'est juste un skill qui fait run un agent, hein, ce qui n'est pas vraiment ce qu'on souhaitait."
     }
   ],
   "modes" : [
