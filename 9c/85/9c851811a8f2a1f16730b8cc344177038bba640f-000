@@ -14399,6 +14399,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Je vois un bug, c'est que les vues actuellement du HTML ne se chargent pas. C'est peut-être parce que ça lui demanderait trop de compute de charger tout le HTML d'un coup en petites miniatures. Donc peut-être qu'il faudrait mettre des miniatures. Mais je me dis, en vrai, vu que c'est des designs, normalement ça devrait pas être trop lourd, même pour le site web. Mais en fait, le problème, c'est qu'il va recharger en plus petit plein de petits modules de CSS et de HTML, et du coup c'est normal que ça s'affiche pas. Mais du coup, ça n'a aucun intérêt pour une vue galerie si tu n'affiches pas les designs, en fait.",
       "text" : "Je vois un bug, c'est que les vues actuellement du HTML ne se chargent pas. C'est peut-être parce que ça lui demanderait trop de compute de charger tout le HTML d'un coup en petites miniatures. Donc peut-être qu'il faudrait mettre des miniatures. Mais je me dis, en vrai, vu que c'est des designs, normalement ça devrait pas être trop lourd, même pour le site web. Mais en fait, le problème, c'est qu'il va recharger en plus petit plein de petits modules de CSS et de HTML, et du coup c'est normal que ça s'affiche pas. Mais du coup, ça n'a aucun intérêt pour une vue galerie si tu n'affiches pas les designs, en fait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814876905.932728,
+      "id" : "233CE569-592F-4CE6-8A14-0F8843204CC4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Oui, lance la génération Haiku pour tous les studios restants, c'est-à-dire tous ceux auxquels j'ai pas encore envoyé de lettres.",
+      "text" : "Oui, lance la génération Haiku pour tous les studios restants, c'est-à-dire tous ceux auxquels j'ai pas encore envoyé de lettres."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814876912.880301,
+      "id" : "98FDC48C-69F2-4483-9FE3-7E48955A8FDC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ignore le message précédent, je me suis trompé de conversation.",
+      "text" : "Ignore le message précédent, je me suis trompé de conversation."
     }
   ],
   "modes" : [
