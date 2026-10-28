@@ -14749,6 +14749,86 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "tu vois bien que la forme géométrique,",
       "text" : "tu vois bien que la forme géométrique,"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814887208.777287,
+      "id" : "2F0CB375-5A2E-4A8D-A927-57B1FA2A7002",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, maintenant, excellente ta méthode de wireframe rouge, c'est pas mal, j'aimerais que tu la consignes. En fait, le problème que tu as fait avec le capot, c'est que maintenant, la bouche, elle synchronise pas avec le capot, tu vois. Donc en fait, il faut faire en sorte que tout fit parfaitement par rapport à la bouche du modèle de la voiture. Et c'est-à-dire qu'il y a encore pas mal d'incertitudes, tu vois, par rapport au fit, de bien faire en sorte que le component soit merge. Donc en fait, il faut que le capot soit bien fait, le component d'en dessous de la bouche parfait, et que tout soit relié avec des soudures à 0 mm. Ensuite, ce qu'il faut faire, c'est refaire la charnière qui longe le pare-brise, le toit et le pare-brise arrière, pour que vraiment cette courbe, elle soit juste et jolie. Ensuite, il faut refaire la vitre, enfin, il faut refaire les trois vitres pour qu'elles se soudent parfaitement. Et ensuite, il faut faire le support de vitre qui est dans le décalage à gauche. Donc, il y a pas mal de choses à faire et il faut découper toutes ces tâches atomiquement.",
+      "text" : "Ok, maintenant, excellente ta méthode de wireframe rouge, c'est pas mal, j'aimerais que tu la consignes. En fait, le problème que tu as fait avec le capot, c'est que maintenant, la bouche, elle synchronise pas avec le capot, tu vois. Donc en fait, il faut faire en sorte que tout fit parfaitement par rapport à la bouche du modèle de la voiture. Et c'est-à-dire qu'il y a encore pas mal d'incertitudes, tu vois, par rapport au fit, de bien faire en sorte que le component soit merge. Donc en fait, il faut que le capot soit bien fait, le component d'en dessous de la bouche parfait, et que tout soit relié avec des soudures à 0 mm. Ensuite, ce qu'il faut faire, c'est refaire la charnière qui longe le pare-brise, le toit et le pare-brise arrière, pour que vraiment cette courbe, elle soit juste et jolie. Ensuite, il faut refaire la vitre, enfin, il faut refaire les trois vitres pour qu'elles se soudent parfaitement. Et ensuite, il faut faire le support de vitre qui est dans le décalage à gauche. Donc, il y a pas mal de choses à faire et il faut découper toutes ces tâches atomiquement."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814887384.127269,
+      "id" : "414D1627-BC71-4EF3-93C4-A3B8C17A4E9E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "lit intégralement ZenRay mes chaises, et le but là, ça va être de reproduire du coup le modèle 3D directement dans Houdini. Et voilà, en mode tu t'arrêtes jamais, tu fais une boucle, et simplement bah, tu reproduis le modèle avec les méthodes, et dès que tu trouves une nouvelle méthode, bah, tu la consignes directement dans le skill. Mais attention, ça doit bien être spécifié qu'il s'agit d'un props organique. Mais relie intégralement le skill et toutes les sections qui pourront t'aider afin de déterminer. Et tu dois aussi recenser dans le projet bah, les bonnes références, etc. Tout ce qu'il faut.",
+      "text" : "lit intégralement ZenRay mes chaises, et le but là, ça va être de reproduire du coup le modèle 3D directement dans Houdini. Et voilà, en mode tu t'arrêtes jamais, tu fais une boucle, et simplement bah, tu reproduis le modèle avec les méthodes, et dès que tu trouves une nouvelle méthode, bah, tu la consignes directement dans le skill. Mais attention, ça doit bien être spécifié qu'il s'agit d'un props organique. Mais relie intégralement le skill et toutes les sections qui pourront t'aider afin de déterminer. Et tu dois aussi recenser dans le projet bah, les bonnes références, etc. Tout ce qu'il faut."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814887394.598068,
+      "id" : "FB9E922E-65A1-4480-BC7E-888B06F476AE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Le but est de reproduire un personnage 3D, mais directement dans Houdini.",
+      "text" : "Le but est de reproduire un personnage 3D, mais directement dans Houdini."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814887400.186806,
+      "id" : "84875ADB-D22D-43A6-8984-E6FEC1969E5E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "via des méthodes parfaites de reproduction.",
+      "text" : "via des méthodes parfaites de reproduction."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814887434.48051,
+      "id" : "EF5BD1E3-1AE7-47E6-A2DE-2C6A3BCA4BC1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il s'agit d'un caractère 3D et je veux obtenir son modèle de manière parfaite avec une topologie parfaite. Mais tu peux commencer par une topologie mauvaise pour obtenir la forme et itérer petit à petit jusqu'à ce que le modèle soit parfait.",
+      "text" : "Il s'agit d'un caractère 3D et je veux obtenir son modèle de manière parfaite avec une topologie parfaite. Mais tu peux commencer par une topologie mauvaise pour obtenir la forme et itérer petit à petit jusqu'à ce que le modèle soit parfait."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814887500.83125,
+      "id" : "3D124A1F-F45A-403E-946D-3E3C9B1617C4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il faut évidemment consigner dans le skill tout ce qu'il faut. Mais normalement, l'image possède déjà une vue trois quarts perspective, une vue front, une vue side et une vue back. Et normalement, ça permet d'obtenir tout ce qu'il faut. Tu as même une vue avec la topologie du modèle. Cependant, il faut évidemment que tu divises chaque component, etc. Le visage peut aussi être fait à part, et les cheveux ne doivent pas être reproduits. C'est uniquement le visage en face mesh qui peut être reproduit par rapport à l'image. Tu as aussi la topologie parfaite que tu pourras mettre en rouge via un masque une fois fini. Et je te donnerai directement le wireframe rouge. C'est une méthode qui est déjà consignée.",
+      "text" : "Il faut évidemment consigner dans le skill tout ce qu'il faut. Mais normalement, l'image possède déjà une vue trois quarts perspective, une vue front, une vue side et une vue back. Et normalement, ça permet d'obtenir tout ce qu'il faut. Tu as même une vue avec la topologie du modèle. Cependant, il faut évidemment que tu divises chaque component, etc. Le visage peut aussi être fait à part, et les cheveux ne doivent pas être reproduits. C'est uniquement le visage en face mesh qui peut être reproduit par rapport à l'image. Tu as aussi la topologie parfaite que tu pourras mettre en rouge via un masque une fois fini. Et je te donnerai directement le wireframe rouge. C'est une méthode qui est déjà consignée."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814887545.593571,
+      "id" : "B56AB72E-E85B-47FA-A8A5-871C61452113",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu peux me dire dans le skill, le wireframe rouge et dans le prompt ZenRay Houdini normalement. Tu as une ligne sur la topologie normalement.",
+      "text" : "Est-ce que tu peux me dire dans le skill, le wireframe rouge et dans le prompt ZenRay Houdini normalement. Tu as une ligne sur la topologie normalement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814887552.972575,
+      "id" : "1BC5286E-661C-4072-88E4-23ECF0CA3026",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "dans le cadre de AI prompt génération. C'est juste une ligne.",
+      "text" : "dans le cadre de AI prompt génération. C'est juste une ligne."
     }
   ],
   "modes" : [
