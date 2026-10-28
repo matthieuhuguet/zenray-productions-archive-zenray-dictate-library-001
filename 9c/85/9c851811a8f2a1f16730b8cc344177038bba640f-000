@@ -15379,6 +15379,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "de repenser les choses de manière plus petite pour atteindre un résultat bien meilleur.",
       "text" : "de repenser les choses de manière plus petite pour atteindre un résultat bien meilleur."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814908483.721538,
+      "id" : "E5260594-1B10-43E4-B4AF-58B4493238A0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "D'accord, maman. J'étais très inquiet, du coup j'ai demandé à Irine, mais elle m'a envoyé un message et du coup ça m'a rassuré. J'espère que tu vas bien te rétablir. Gros bisous, maman, chérie.",
+      "text" : "D'accord, maman. J'étais très inquiet, du coup j'ai demandé à Irine, mais elle m'a envoyé un message et du coup ça m'a rassuré. J'espère que tu vas bien te rétablir. Gros bisous, maman, chérie."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814908861.958427,
+      "id" : "06DACCC4-BAAE-46A4-B7C1-6A1343185B30",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pour la sidebar de gauche, j'aimerais tester GT Ultra en titre des sections et l'iterata dans les petits modules et ensuite faire inversement avec un toggle directement dans le fichier HTML.",
+      "text" : "Pour la sidebar de gauche, j'aimerais tester GT Ultra en titre des sections et l'iterata dans les petits modules et ensuite faire inversement avec un toggle directement dans le fichier HTML."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814908952.105923,
+      "id" : "B08A5335-EF6C-4A68-816F-08980BAA8EEE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ça fait quoi chimiquement de... de prendre du café avec du poivre.",
+      "text" : "Ça fait quoi chimiquement de... de prendre du café avec du poivre."
     }
   ],
   "modes" : [
