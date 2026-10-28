@@ -14829,6 +14829,96 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "dans le cadre de AI prompt génération. C'est juste une ligne.",
       "text" : "dans le cadre de AI prompt génération. C'est juste une ligne."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814887813.280327,
+      "id" : "6346CC3A-12FA-4785-8423-BB2AE1C4F186",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "component par component, que tu fasses la sheet de component en premier, que tu itères sur la sheet des components à mesure à ce que le modèle avance. Bref, que tu fasses une relecture, une consignation du skill ZenRay meshes pour avancer dans Houdini MCP directement.",
+      "text" : "component par component, que tu fasses la sheet de component en premier, que tu itères sur la sheet des components à mesure à ce que le modèle avance. Bref, que tu fasses une relecture, une consignation du skill ZenRay meshes pour avancer dans Houdini MCP directement."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814887912.79661,
+      "id" : "9F8B61AD-3143-42C0-95B4-DF28AD6FCE11",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, tu devrais faire tous les components sauf le visage pour l'instant. Et du coup, bah, tu peux commencer. Et ne t'arrête pas et vas-y.",
+      "text" : "En fait, tu devrais faire tous les components sauf le visage pour l'instant. Et du coup, bah, tu peux commencer. Et ne t'arrête pas et vas-y."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814887932.246209,
+      "id" : "9EE0BDF3-5F17-4771-BCB3-B6C1ED7F3AD8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais d'ailleurs, je comprends pas comment tu peux faire une planche de composants sans faire une légende.",
+      "text" : "Mais d'ailleurs, je comprends pas comment tu peux faire une planche de composants sans faire une légende."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814889163.403589,
+      "id" : "3D45595C-4280-4592-A49E-B35F1B927C1C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais qu'est-ce que tu branles? C'est pas du tout. C'est pas du tout les bonnes topologies. Non, en fait, tu respectes pas du tout ZenRay Meshes. T'appliques pas non plus l'algorithme qui a dû être codé et qui permet de partir d'un volume. À la limite, j'aimerais que tu me dises. Enfin, là, c'est n'importe quoi. T'es en train de construire un mannequin de bois, genre. Tu te fous de ma gueule?",
+      "text" : "Mais qu'est-ce que tu branles? C'est pas du tout. C'est pas du tout les bonnes topologies. Non, en fait, tu respectes pas du tout ZenRay Meshes. T'appliques pas non plus l'algorithme qui a dû être codé et qui permet de partir d'un volume. À la limite, j'aimerais que tu me dises. Enfin, là, c'est n'importe quoi. T'es en train de construire un mannequin de bois, genre. Tu te fous de ma gueule?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814889309.975167,
+      "id" : "BBD0EC6F-223F-48F7-9DC9-233B599EC144",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bon, focus désormais sur le coffre, mais la charnière que t'as fait sur le côté et les vitres sont toujours pas bonnes, donc j'imagine que tu les as pas refaites. Mais bon, c'est un peu chiant que je doive tout te dire, alors que, enfin, c'est évident que la voiture ressemble toujours pas et n'est pas finie en termes de finition par rapport à la ref. Hein. C'est pas compliqué, c'est tu regardes la ref, tu construis les outils pour arriver au résultat, et tu continues. Genre, je comprends pas pourquoi t'arrives pas à... Enfin, t'as plus le contexte de ZenRay Meshes. Genre, à la limite, tu relis tout, mais... Enfin, on a consigné des heures et des heures de boucles agentiques. Pourquoi tu oublies tout? Tu vois bien que la voiture, elle ressemble pas à la ref, à l'image de ref.",
+      "text" : "Bon, focus désormais sur le coffre, mais la charnière que t'as fait sur le côté et les vitres sont toujours pas bonnes, donc j'imagine que tu les as pas refaites. Mais bon, c'est un peu chiant que je doive tout te dire, alors que, enfin, c'est évident que la voiture ressemble toujours pas et n'est pas finie en termes de finition par rapport à la ref. Hein. C'est pas compliqué, c'est tu regardes la ref, tu construis les outils pour arriver au résultat, et tu continues. Genre, je comprends pas pourquoi t'arrives pas à... Enfin, t'as plus le contexte de ZenRay Meshes. Genre, à la limite, tu relis tout, mais... Enfin, on a consigné des heures et des heures de boucles agentiques. Pourquoi tu oublies tout? Tu vois bien que la voiture, elle ressemble pas à la ref, à l'image de ref."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814890510.286591,
+      "id" : "DDCC266B-664E-4D60-8EB7-EE91F6E6FC77",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bon, ça sert à rien, visiblement t'arrives pas à faire un caractère, donc arrête-toi là. Et cache le personnage.",
+      "text" : "Bon, ça sert à rien, visiblement t'arrives pas à faire un caractère, donc arrête-toi là. Et cache le personnage."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814890637.791462,
+      "id" : "3A08DB2F-0226-451C-B091-EAF42287A1D1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, le problème, c'est que tu vois bien que les courbes, toutes les courbes de la voiture, elles sont toujours... comment dire? Elles sont toujours droites. Et dans n'importe quel modèle 3D, en fait... Enfin, non, les courbes sont pas droites, c'est pas ça que je veux dire, mais toutes les courbes, elles sont bien jolies, tu vois, bien organisées, bien design, etc., tu vois. Elles peuvent être droites. Et d'ailleurs, certaines des courbes sont droites, mais elles font jamais plusieurs mouvements de vagues, tu vois. Elles font toujours, genre, par rapport à leur... leur début et à leur fin, elles font toujours un segment maximal, tu vois. Enfin, un segment, évidemment, arrondi, tu vois. Mais par exemple, si tu prends l'arête de la courbe de la voiture, tu vois bien que ça fait une courbe qui va jusqu'à la fin, et on choisit l'amplitude d'un segment pour le positionner proprement, tu vois. Ça fait pas des va-et-vient, c'est ça que je veux dire. Donc là, il faut vraiment que tu t'occupes des finitions de la voiture. Il y a plein de trucs qui vont pas sur la voiture. Genre, il faut vraiment finir, là.",
+      "text" : "En fait, le problème, c'est que tu vois bien que les courbes, toutes les courbes de la voiture, elles sont toujours... comment dire? Elles sont toujours droites. Et dans n'importe quel modèle 3D, en fait... Enfin, non, les courbes sont pas droites, c'est pas ça que je veux dire, mais toutes les courbes, elles sont bien jolies, tu vois, bien organisées, bien design, etc., tu vois. Elles peuvent être droites. Et d'ailleurs, certaines des courbes sont droites, mais elles font jamais plusieurs mouvements de vagues, tu vois. Elles font toujours, genre, par rapport à leur... leur début et à leur fin, elles font toujours un segment maximal, tu vois. Enfin, un segment, évidemment, arrondi, tu vois. Mais par exemple, si tu prends l'arête de la courbe de la voiture, tu vois bien que ça fait une courbe qui va jusqu'à la fin, et on choisit l'amplitude d'un segment pour le positionner proprement, tu vois. Ça fait pas des va-et-vient, c'est ça que je veux dire. Donc là, il faut vraiment que tu t'occupes des finitions de la voiture. Il y a plein de trucs qui vont pas sur la voiture. Genre, il faut vraiment finir, là."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 814891939.559086,
+      "id" : "11418A68-04CB-40D8-95AD-7268804F15A0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ah, c'est super.",
+      "text" : "Ah, c'est super."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814892123.982863,
+      "id" : "EA06DD3A-5D05-41CC-A8C8-F7EF06883AEF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Qu'est-ce que tu comprends pas dans le mot finition? En fait, là, il faut que tu appliques la logique de manière à ce que tout soit fini. Tu sais ce que ça veut dire, fini? Fais une recherche web, j'ai l'impression que t'es complètement con. Genre, il faut que le modèle soit finalisé et prêt pour le texturing. Donc, si tu veux, tu crées un outil qui te permet de le faire, voire plusieurs outils, mais là, il faut finir le modèle. Et la vie et les vitres doivent être refaites. Tout doit être fait proprement. Il doit y avoir les soudures. Là, il y a encore plein de trous partout. Il y a des... Il y a des faces à quatre quads n'importe où, tout doit être soudé, tout doit être parfaitement fini. Et en plus, t'as la ref, hein, franchement, tu te fous de ma gueule, genre.",
+      "text" : "Qu'est-ce que tu comprends pas dans le mot finition? En fait, là, il faut que tu appliques la logique de manière à ce que tout soit fini. Tu sais ce que ça veut dire, fini? Fais une recherche web, j'ai l'impression que t'es complètement con. Genre, il faut que le modèle soit finalisé et prêt pour le texturing. Donc, si tu veux, tu crées un outil qui te permet de le faire, voire plusieurs outils, mais là, il faut finir le modèle. Et la vie et les vitres doivent être refaites. Tout doit être fait proprement. Il doit y avoir les soudures. Là, il y a encore plein de trous partout. Il y a des... Il y a des faces à quatre quads n'importe où, tout doit être soudé, tout doit être parfaitement fini. Et en plus, t'as la ref, hein, franchement, tu te fous de ma gueule, genre."
     }
   ],
   "modes" : [
