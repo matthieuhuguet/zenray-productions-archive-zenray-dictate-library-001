@@ -14449,6 +14449,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Mais de toute manière, on attend 4 phrases, pas 3. Je comprends pas. En fait, dans le template, tu vois, dans le template de 4 infos importantes, tu pourrais déjà mettre les 4 phrases en fonction du titre de la phrase et un espace vide par rapport à ce que Haiku va remplir.",
       "text" : "Mais de toute manière, on attend 4 phrases, pas 3. Je comprends pas. En fait, dans le template, tu vois, dans le template de 4 infos importantes, tu pourrais déjà mettre les 4 phrases en fonction du titre de la phrase et un espace vide par rapport à ce que Haiku va remplir."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814877425.878595,
+      "id" : "1C5BBD89-D529-4D7C-AB4D-692670D051F2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais je comprends pas comment faire un business en fait. Parce que soit je continue d'envoyer des lettres, soit je monte un produit, soit je pourrais aussi essayer de contacter des particuliers sur Instagram ou sur les réseaux sociaux pour des projets. Mais je comprends pas comment on fait pour gagner de l'argent, c'est quand même terrible.",
+      "text" : "Mais je comprends pas comment faire un business en fait. Parce que soit je continue d'envoyer des lettres, soit je monte un produit, soit je pourrais aussi essayer de contacter des particuliers sur Instagram ou sur les réseaux sociaux pour des projets. Mais je comprends pas comment on fait pour gagner de l'argent, c'est quand même terrible."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814877438.603857,
+      "id" : "0E21FF2D-14FE-446C-9239-24473E3BA318",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, je crois que c'est pas que je comprends pas. Je crois que je comprends absolument. Mais c'est juste que j'essaie pas. Et du coup, j'ai pas l'expérience qui fait que je persévère, tu vois.",
+      "text" : "En fait, je crois que c'est pas que je comprends pas. Je crois que je comprends absolument. Mais c'est juste que j'essaie pas. Et du coup, j'ai pas l'expérience qui fait que je persévère, tu vois."
     }
   ],
   "modes" : [
