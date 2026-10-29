@@ -15809,6 +15809,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Parce que là, sinon, tu vas gaspiller du compute pour rien. Il vaudrait mieux faire d'abord les recherches, de lancer toutes les recherches, etc., de voir où en sont les agents, de prendre leurs résultats, de voir si la méthode components de Houdini peut t'aider, de créer des mini-HTA, de faire d'abord les choses avant de continuer d'itérer sur le modèle en lui-même.",
       "text" : "Parce que là, sinon, tu vas gaspiller du compute pour rien. Il vaudrait mieux faire d'abord les recherches, de lancer toutes les recherches, etc., de voir où en sont les agents, de prendre leurs résultats, de voir si la méthode components de Houdini peut t'aider, de créer des mini-HTA, de faire d'abord les choses avant de continuer d'itérer sur le modèle en lui-même."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814967501.338656,
+      "id" : "6FE2D522-28A2-42A4-AC03-DC9163F02A85",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "construis ZenRay Lines pour que l'application soit parfaite en pensant à tout. Et il faut aussi que je puisse me déplacer dans une vue 3D, comme ça je peux positionner toutes les curbs et ça les renverra directement pour l'algorithme. Il faut que tu passes, je sais pas, peut-être jusqu'à 15 heures pour continuer d'améliorer le logiciel.",
+      "text" : "construis ZenRay Lines pour que l'application soit parfaite en pensant à tout. Et il faut aussi que je puisse me déplacer dans une vue 3D, comme ça je peux positionner toutes les curbs et ça les renverra directement pour l'algorithme. Il faut que tu passes, je sais pas, peut-être jusqu'à 15 heures pour continuer d'améliorer le logiciel."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814967570.900364,
+      "id" : "95A7ACDA-564B-4C80-87AE-F5EB770BF4FF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "en pensant à tout, et notamment à toutes les recherches qui ont déjà été faites, et tu l'ajoutes à ZenRay Lines. Mais là, c'est assez prometteur, mais c'est juste, par exemple, il y a des lines sur les roues, etc., que j'aimerais pouvoir supprimer, d'autres que j'aimerais pouvoir modifier le tracé, etc. Il y a pas mal de features, en fait, qui doivent être ajoutées. Le fait de pouvoir arrondir certaines curves, le fait de pouvoir ajouter un segment, en retirer un, le fait de pouvoir transférer en SVG ou en PNG, le fait de pouvoir convertir directement en mesh, il faut pouvoir faire ça. Mais ZenRay Lines, c'est déjà pas mal du tout. Mais il faut vraiment ajouter un maximum de features, en mode toutes les features de Maya, notamment sur la retopologie. En fait, il faut que ZenRay Lines, ça devienne notre outil de retopologie par rapport au nombre de contraintes 3D qu'il y aura.",
+      "text" : "en pensant à tout, et notamment à toutes les recherches qui ont déjà été faites, et tu l'ajoutes à ZenRay Lines. Mais là, c'est assez prometteur, mais c'est juste, par exemple, il y a des lines sur les roues, etc., que j'aimerais pouvoir supprimer, d'autres que j'aimerais pouvoir modifier le tracé, etc. Il y a pas mal de features, en fait, qui doivent être ajoutées. Le fait de pouvoir arrondir certaines curves, le fait de pouvoir ajouter un segment, en retirer un, le fait de pouvoir transférer en SVG ou en PNG, le fait de pouvoir convertir directement en mesh, il faut pouvoir faire ça. Mais ZenRay Lines, c'est déjà pas mal du tout. Mais il faut vraiment ajouter un maximum de features, en mode toutes les features de Maya, notamment sur la retopologie. En fait, il faut que ZenRay Lines, ça devienne notre outil de retopologie par rapport au nombre de contraintes 3D qu'il y aura."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814967582.186786,
+      "id" : "AC861C98-3D0E-48B0-B432-84DBBD80C8BE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Parce que là, tu vois, on crée une voiture, mais demain, on créera un modèle 3D. Donc, il faut que tu ajoutes toutes ces fonctionnalités sur ZenRay.",
+      "text" : "Parce que là, tu vois, on crée une voiture, mais demain, on créera un modèle 3D. Donc, il faut que tu ajoutes toutes ces fonctionnalités sur ZenRay."
     }
   ],
   "modes" : [
