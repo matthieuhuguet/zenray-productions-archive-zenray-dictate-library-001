@@ -15649,6 +15649,166 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Il faut vraiment que tu te mettes dans la tête que tu es un organique, que ZenRay Meshes, le but c'est de créer des formes organiques et des formes hard surface parfaites, sans aucun bug",
       "text" : "Il faut vraiment que tu te mettes dans la tête que tu es un organique, que ZenRay Meshes, le but c'est de créer des formes organiques et des formes hard surface parfaites, sans aucun bug"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814960872.518247,
+      "id" : "42E3AB62-0986-494E-97F5-5AA374EAE353",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ce qu'il faut, basiquement, c'est via... c'est via une planche qui fait un audit du modèle, passer d'un modèle où les couleurs, où le modèle n'est pas fini, à un modèle où le modèle est fini, et ce grâce à ZenRay Lines, ou et ce grâce à juste une réattribution mathématique des valeurs des components. Ce qui était quasi bon via l'algorithme ZenRay Lines de base, hein, c'était déjà quasi parfait.",
+      "text" : "Ce qu'il faut, basiquement, c'est via... c'est via une planche qui fait un audit du modèle, passer d'un modèle où les couleurs, où le modèle n'est pas fini, à un modèle où le modèle est fini, et ce grâce à ZenRay Lines, ou et ce grâce à juste une réattribution mathématique des valeurs des components. Ce qui était quasi bon via l'algorithme ZenRay Lines de base, hein, c'était déjà quasi parfait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814960877.175498,
+      "id" : "BB8B7B7F-4163-48F9-810C-FD282F452D02",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "puis le remettre sur le modèle.",
+      "text" : "puis le remettre sur le modèle."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814960966.645473,
+      "id" : "33B0908C-57CA-4144-9345-C593F166D7F4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "qui connaît toutes les méthodes et toutes les fonctionnalités de la rétopologie, d'où une recherche intensive de toutes les méthodes qui existent.",
+      "text" : "qui connaît toutes les méthodes et toutes les fonctionnalités de la rétopologie, d'où une recherche intensive de toutes les méthodes qui existent."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814960991.975851,
+      "id" : "F1D99699-818A-41A0-952A-F257D32715CB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Imaginons qu'on puisse créer un logiciel en JavaScript qui permette de corriger tout ça, et ensuite il faudrait les conversions en Python qui viennent redonner le modèle à Houdini ou en Vex, en Python ou en Vex, pour créer le modèle parfait.",
+      "text" : "Imaginons qu'on puisse créer un logiciel en JavaScript qui permette de corriger tout ça, et ensuite il faudrait les conversions en Python qui viennent redonner le modèle à Houdini ou en Vex, en Python ou en Vex, pour créer le modèle parfait."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814961110.318531,
+      "id" : "5A232867-C86D-4047-9E0A-009B85875875",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il faut que la cover letter, il faut que ZenRay édite, tout comme il enregistre ses HTML, il enregistre aussi ses PDF et qu'il soit bind au projet assets, notamment dans la vue galerie.",
+      "text" : "Il faut que la cover letter, il faut que ZenRay édite, tout comme il enregistre ses HTML, il enregistre aussi ses PDF et qu'il soit bind au projet assets, notamment dans la vue galerie."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814961147.517883,
+      "id" : "C015FE5A-C90B-4D13-A13F-216301A1F49B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ma cover letter que je viens de te demander reprenait du coup le même style. Mais ça, tu l'as déjà fait, j'ai l'impression.",
+      "text" : "Ma cover letter que je viens de te demander reprenait du coup le même style. Mais ça, tu l'as déjà fait, j'ai l'impression."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814961201.004806,
+      "id" : "E69237EF-D9D8-4CD6-AFE9-25001DB1F5B4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, tous les médias créés par ZenRay Edit sont directement bind à, son propre projet, asset, notamment dans la vue galerie, mais la vue galerie doit les trier. Par exemple, s'il crée un MP4, ça doit être bind. S'il crée un PDF, ça doit être bind. S'il crée une image, ça doit être bind. Mais par contre, ça doit être triable. Dans la vue galerie, il doit y avoir un sélecteur qui permet directement de, voir les choses. Alors dans la vue asset, c'est déjà le cas, mais c'est pas le cas dans la vue galerie sur Progress. Donc il faut coder ça.",
+      "text" : "En fait, tous les médias créés par ZenRay Edit sont directement bind à, son propre projet, asset, notamment dans la vue galerie, mais la vue galerie doit les trier. Par exemple, s'il crée un MP4, ça doit être bind. S'il crée un PDF, ça doit être bind. S'il crée une image, ça doit être bind. Mais par contre, ça doit être triable. Dans la vue galerie, il doit y avoir un sélecteur qui permet directement de, voir les choses. Alors dans la vue asset, c'est déjà le cas, mais c'est pas le cas dans la vue galerie sur Progress. Donc il faut coder ça."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814961223.161877,
+      "id" : "70468285-D6E7-40C7-AC35-7FD3B879C82C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais par contre, il faut vraiment que tous les médias que ZenRay Edit crée soient bind, et ce, systématiquement. Après, pas forcément dans le skill. Par exemple, on peut bind, à mon avis, tout ce qui va être image en local, etc. Mais on bind pas les fichiers MP4 parce qu'ils peuvent être relativement lourds.",
+      "text" : "Mais par contre, il faut vraiment que tous les médias que ZenRay Edit crée soient bind, et ce, systématiquement. Après, pas forcément dans le skill. Par exemple, on peut bind, à mon avis, tout ce qui va être image en local, etc. Mais on bind pas les fichiers MP4 parce qu'ils peuvent être relativement lourds."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814961238.976709,
+      "id" : "80F3D252-59D9-4BD8-87E5-5920BE0B8252",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Enfin, on bind de toute manière dans assets, puisque assets part dans le cloud. Mais ce que je veux dire, c'est qu'on bind pas dans le skill. Parce que dans le dossier du skill, on bind déjà des objets.",
+      "text" : "Enfin, on bind de toute manière dans assets, puisque assets part dans le cloud. Mais ce que je veux dire, c'est qu'on bind pas dans le skill. Parce que dans le dossier du skill, on bind déjà des objets."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814961311.113735,
+      "id" : "83D1D70E-B6E5-43DE-8DD8-A3676C68AFEA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je mets ça, même si c'est une offre canadienne.",
+      "text" : "Je mets ça, même si c'est une offre canadienne."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814961484.49533,
+      "id" : "A1C65A8E-3022-4F0C-8C68-6615B62EF89B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il doit y avoir des méthodes de dessin ou de... Il doit y avoir des méthodes de dessin qui permettent de reprendre exactement la forme si tu utilises des masques ou si tu changes la couleur ou si tu utilises des contours. Il y a forcément une méthode qui existe dans le monde et qui est consignée dans ton paramétrique knowledge qui, grâce au fait d'arrondir, enfin de smoother les curves, te permet de faire un découpage propre, surtout qu'en plus il y a la référence. Il y a la référence plus le mesh actuel. Mais là tu vois ton découpage en ligne, il est très très mauvais.",
+      "text" : "Il doit y avoir des méthodes de dessin ou de... Il doit y avoir des méthodes de dessin qui permettent de reprendre exactement la forme si tu utilises des masques ou si tu changes la couleur ou si tu utilises des contours. Il y a forcément une méthode qui existe dans le monde et qui est consignée dans ton paramétrique knowledge qui, grâce au fait d'arrondir, enfin de smoother les curves, te permet de faire un découpage propre, surtout qu'en plus il y a la référence. Il y a la référence plus le mesh actuel. Mais là tu vois ton découpage en ligne, il est très très mauvais."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814961491.622521,
+      "id" : "4BC1939A-9A4B-4172-8C7C-C4D2E7F76CB2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc, trouve une meilleure méthode pour la découpe des components, s'il te plaît.",
+      "text" : "Donc, trouve une meilleure méthode pour la découpe des components, s'il te plaît."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814962067.877114,
+      "id" : "4437E5A6-F73D-4C92-81A7-A46AFCB9AD1E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, je comprends pas ce que tu fais. Je comprends pas pourquoi tu, au lieu de découper tout d'un coup, tu fais pas genre un tout petit truc parfait. C'est la logique du truc à faire. Au lieu de tout faire d'un coup, fais des tout petits trucs. Genre par exemple, focus sur la vitre, fais bien la vitre. Focus sur la grille barre. Focus sur le toit, focus sur la vitre, focus sur le pare-brise, focus sur les jantes, enfin genre, petit, pense petit, parfait, et ensuite passe au suivant.",
+      "text" : "En fait, je comprends pas ce que tu fais. Je comprends pas pourquoi tu, au lieu de découper tout d'un coup, tu fais pas genre un tout petit truc parfait. C'est la logique du truc à faire. Au lieu de tout faire d'un coup, fais des tout petits trucs. Genre par exemple, focus sur la vitre, fais bien la vitre. Focus sur la grille barre. Focus sur le toit, focus sur la vitre, focus sur le pare-brise, focus sur les jantes, enfin genre, petit, pense petit, parfait, et ensuite passe au suivant."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814962522.671998,
+      "id" : "4173E49D-3B91-4AEF-9544-753C913B8597",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu peux me faire un récap de tout l'outil ZenRay UV via une délégation d'agents? Enfin non, pas forcément une délégation d'agents, mais juste m'expliquer. M'expliquer où en est ZenRay UV.",
+      "text" : "Est-ce que tu peux me faire un récap de tout l'outil ZenRay UV via une délégation d'agents? Enfin non, pas forcément une délégation d'agents, mais juste m'expliquer. M'expliquer où en est ZenRay UV."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814962609.647346,
+      "id" : "241BCE35-4C9A-48E1-B8BA-914D8C11BC96",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je pense que tu feras le réseau et les formes arrondies après d'avoir fait tout le reste. Passe aux étapes suivantes qui te permettront d'améliorer ce résultat actuel.",
+      "text" : "Je pense que tu feras le réseau et les formes arrondies après d'avoir fait tout le reste. Passe aux étapes suivantes qui te permettront d'améliorer ce résultat actuel."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814962634.239468,
+      "id" : "C46A7A41-E46C-4543-91BE-8BAD38CF85C3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Parce que là, sinon, tu vas gaspiller du compute pour rien. Il vaudrait mieux faire d'abord les recherches, de lancer toutes les recherches, etc., de voir où en sont les agents, de prendre leurs résultats, de voir si la méthode components de Houdini peut t'aider, de créer des mini-HTA, de faire d'abord les choses avant de continuer d'itérer sur le modèle en lui-même.",
+      "text" : "Parce que là, sinon, tu vas gaspiller du compute pour rien. Il vaudrait mieux faire d'abord les recherches, de lancer toutes les recherches, etc., de voir où en sont les agents, de prendre leurs résultats, de voir si la méthode components de Houdini peut t'aider, de créer des mini-HTA, de faire d'abord les choses avant de continuer d'itérer sur le modèle en lui-même."
     }
   ],
   "modes" : [
