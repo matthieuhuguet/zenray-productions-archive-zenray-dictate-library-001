@@ -15549,6 +15549,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Et surtout, tu dois focus sur la manière de finir individuellement des petits components afin d'être sûr déjà de le répliquer sur un autre modèle, mais aussi de pouvoir bien fermer les choses. Donc voilà.",
       "text" : "Et surtout, tu dois focus sur la manière de finir individuellement des petits components afin d'être sûr déjà de le répliquer sur un autre modèle, mais aussi de pouvoir bien fermer les choses. Donc voilà."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814928515.370501,
+      "id" : "81B31FCD-D23F-426D-AB58-294B04BBB7B3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et aussi, à mesure à ce que tu améliores la scène, il faut aussi supprimer certaines lofts et certaines parties de la voiture afin que ce soit clean. Mais n'hésite pas à penser de manière organique, mais aussi de manière hard surface. Plus tu penseras en mode hard surface, plus tu pourras combler les trous parfaitement de la voiture. Et ensuite, n'oublie pas de diviser aussi par components et par couleurs afin que ce soit parfait.",
+      "text" : "Et aussi, à mesure à ce que tu améliores la scène, il faut aussi supprimer certaines lofts et certaines parties de la voiture afin que ce soit clean. Mais n'hésite pas à penser de manière organique, mais aussi de manière hard surface. Plus tu penseras en mode hard surface, plus tu pourras combler les trous parfaitement de la voiture. Et ensuite, n'oublie pas de diviser aussi par components et par couleurs afin que ce soit parfait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814928540.455883,
+      "id" : "5CE1A0EC-AB9B-4F3C-9D4A-117167F38FB7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Si on valide un component à 100%, ça veut dire qu'on est capable de faire tous les autres à 100%. Et c'est cette logique qui doit prévaloir tout le reste.",
+      "text" : "Si on valide un component à 100%, ça veut dire qu'on est capable de faire tous les autres à 100%. Et c'est cette logique qui doit prévaloir tout le reste."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814928557.08088,
+      "id" : "E9332A9B-D60A-4C5E-AB70-A78DC4D772C1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "je veux que à la prochaine boucle d'itération, la voiture soit totalement finie.",
+      "text" : "je veux que à la prochaine boucle d'itération, la voiture soit totalement finie."
     }
   ],
   "modes" : [
