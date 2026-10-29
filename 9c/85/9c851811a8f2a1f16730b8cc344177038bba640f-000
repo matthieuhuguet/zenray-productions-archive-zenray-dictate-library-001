@@ -16179,6 +16179,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Il faut simplement que je puisse placer mes lignes, que je puisse zoomer, que rien ne disparaisse, que le LOD soit bien, que je puisse... Enfin, il y a encore beaucoup de travail sur ZenRay Lines pour que ce soit parfait.",
       "text" : "Il faut simplement que je puisse placer mes lignes, que je puisse zoomer, que rien ne disparaisse, que le LOD soit bien, que je puisse... Enfin, il y a encore beaucoup de travail sur ZenRay Lines pour que ce soit parfait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814983188.923124,
+      "id" : "1C24F61B-B6B7-4D1C-BA00-E4D4D68A0A6A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ah oui, et ce qui aurait été pas mal, c'est de pouvoir voir en 3D directement le nom des composants. Enfin, ce serait bien que ce soit visible ou pas visible, mais en fait, avoir une vue avec les couleurs de composants en fonction des... Comment dire? Attends, je vais trouver ce que je voulais dire. Oui, en fait, il me faut une vue où tu as une étiquette du nom du composant qui est au milieu et qui reste au milieu par rapport à l'axe 3D dans lequel on déplace le truc. Je crois que tu avais créé une sheet qui permettait de voir ça. Ça, c'était pas mal. Le fait d'avoir aussi une vue multicouleur avec chaque composant qui est divisé individuellement et une vue normale en shading gris.",
+      "text" : "Ah oui, et ce qui aurait été pas mal, c'est de pouvoir voir en 3D directement le nom des composants. Enfin, ce serait bien que ce soit visible ou pas visible, mais en fait, avoir une vue avec les couleurs de composants en fonction des... Comment dire? Attends, je vais trouver ce que je voulais dire. Oui, en fait, il me faut une vue où tu as une étiquette du nom du composant qui est au milieu et qui reste au milieu par rapport à l'axe 3D dans lequel on déplace le truc. Je crois que tu avais créé une sheet qui permettait de voir ça. Ça, c'était pas mal. Le fait d'avoir aussi une vue multicouleur avec chaque composant qui est divisé individuellement et une vue normale en shading gris."
     }
   ],
   "modes" : [
