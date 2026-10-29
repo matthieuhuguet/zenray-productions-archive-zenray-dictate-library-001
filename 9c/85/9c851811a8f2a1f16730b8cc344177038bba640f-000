@@ -16089,6 +16089,96 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Bah finalement comme si on ouvrait un HTML.",
       "text" : "Bah finalement comme si on ouvrait un HTML."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814982261.18822,
+      "id" : "6497A2FC-DB46-4944-9D6F-F766F31C40E5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "retiens dans Claude.md et dans ZenRay Edit de faire ça à l'avenir pour mes applications.",
+      "text" : "retiens dans Claude.md et dans ZenRay Edit de faire ça à l'avenir pour mes applications."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814982285.865911,
+      "id" : "038969EA-5841-4C5E-B2EE-13645A84FBF6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "ce design en mode ça permet de d'avoir des clics rapides tout en ayant le fait de suivre le vrai enregistrement, un peu comme une app Notion en fait. Enfin, c'est un peu la logique de Notion.",
+      "text" : "ce design en mode ça permet de d'avoir des clics rapides tout en ayant le fait de suivre le vrai enregistrement, un peu comme une app Notion en fait. Enfin, c'est un peu la logique de Notion."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814982295.122044,
+      "id" : "E20E6952-2E79-43F8-8524-673C278367B1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il faut juste enregistrer le concept design dans les skills.",
+      "text" : "Il faut juste enregistrer le concept design dans les skills."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814982354.403117,
+      "id" : "B075A9CE-5800-4B2C-BB34-CD8514BF4B44",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Par contre, juste avant, sur la version mobile, quand je clique sur, par exemple, je passe de série de 3 à 4, le chiffre est grisé. Enfin, le chiffre n'est plus bleu, mais il est grisé, et du coup, ça marche pas tellement pour mettre à jour les choses, quoi.",
+      "text" : "Par contre, juste avant, sur la version mobile, quand je clique sur, par exemple, je passe de série de 3 à 4, le chiffre est grisé. Enfin, le chiffre n'est plus bleu, mais il est grisé, et du coup, ça marche pas tellement pour mettre à jour les choses, quoi."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814982393.594208,
+      "id" : "866C2086-76CC-4C62-8622-9B71DEBEAC75",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et par contre, il manque une option de pour dire, par exemple, quand j'ai enlevé... quand je... Parfois, je clique sur un truc, et si je mets à jour... Ah si, en fait, j'avais l'option retirer. Ouais.",
+      "text" : "Et par contre, il manque une option de pour dire, par exemple, quand j'ai enlevé... quand je... Parfois, je clique sur un truc, et si je mets à jour... Ah si, en fait, j'avais l'option retirer. Ouais."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814982461.073926,
+      "id" : "34F10E23-F8DC-47D9-BCD6-84A919439268",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'avais l'option retirer en fait pour enlever le truc, mais ce que j'aimerais c'est directement dans plan que je puisse avoir des petites icônes pour pouvoir directement à cet endroit là pouvoir update la séance. Mais du coup ça veut dire que le plan qui est noté il a une interface un peu différente, ouais. Et comme ça, ça me permet d'avoir une petite croix si jamais je me suis trompé à cet endroit-là. Et pareil pour les last sessions, tu vois. J'aimerais avoir un historique des jours où je peux cliquer précisément sur les trucs et modifier certains jours. En fait, tu vois, quand je vais dans last sessions, et notamment sur mobile, je veux voir d'abord quel jour j'ai fait le truc en partant comme une liste email depuis le jour dernier. Et comme ça, je peux modifier les trucs que j'ai fait en dernier.",
+      "text" : "J'avais l'option retirer en fait pour enlever le truc, mais ce que j'aimerais c'est directement dans plan que je puisse avoir des petites icônes pour pouvoir directement à cet endroit là pouvoir update la séance. Mais du coup ça veut dire que le plan qui est noté il a une interface un peu différente, ouais. Et comme ça, ça me permet d'avoir une petite croix si jamais je me suis trompé à cet endroit-là. Et pareil pour les last sessions, tu vois. J'aimerais avoir un historique des jours où je peux cliquer précisément sur les trucs et modifier certains jours. En fait, tu vois, quand je vais dans last sessions, et notamment sur mobile, je veux voir d'abord quel jour j'ai fait le truc en partant comme une liste email depuis le jour dernier. Et comme ça, je peux modifier les trucs que j'ai fait en dernier."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814982624.823229,
+      "id" : "5E4C0380-1E90-4FB2-AF6F-F869CE046F11",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Alors, dans ZenRay Lines, il y a deux choses qu'il faudrait que tu construises. Il faudrait que tu puisses construire un créateur automatique par rapport à une... Par exemple, je clique sur une zone et ça crée automatiquement une Lines avec... pas forcément un nom automatique, le nom je pourrais le donner moi-même, mais par exemple je sélectionne une zone et ça me crée à peu près un rectangle de transformation qui se colle directement sur la partie mesh 3D. Est-ce que tu penses que c'est possible? Si oui, crée-le. Et ensuite il me faut une autre possibilité, c'est comme sur Blender ou sur Houdini, c'est de pouvoir tourner autour du modèle tandis que je mets la line. Donc je récapitule. Je mets par exemple soit des points à un endroit et ça fit directement sur les contours du modèle mesh 3D, mais de manière automatisée. Parce que par exemple, sous la porte actuellement, tu vois qu'il n'a pas, su identifier la zone. Et pareil sur la roue, il n'a pas su identifier la zone. Donc en fait, on n'a pas actuellement... Il faudrait... Après, tu vas me dire que c'est aussi un problème dans... dans le truc de base, et que c'est pour ça que ça existe là, le fait de le faire manuellement. Mais j'aimerais pouvoir placer ma ligne parfaitement de manière assez rapide, tu vois.",
+      "text" : "Alors, dans ZenRay Lines, il y a deux choses qu'il faudrait que tu construises. Il faudrait que tu puisses construire un créateur automatique par rapport à une... Par exemple, je clique sur une zone et ça crée automatiquement une Lines avec... pas forcément un nom automatique, le nom je pourrais le donner moi-même, mais par exemple je sélectionne une zone et ça me crée à peu près un rectangle de transformation qui se colle directement sur la partie mesh 3D. Est-ce que tu penses que c'est possible? Si oui, crée-le. Et ensuite il me faut une autre possibilité, c'est comme sur Blender ou sur Houdini, c'est de pouvoir tourner autour du modèle tandis que je mets la line. Donc je récapitule. Je mets par exemple soit des points à un endroit et ça fit directement sur les contours du modèle mesh 3D, mais de manière automatisée. Parce que par exemple, sous la porte actuellement, tu vois qu'il n'a pas, su identifier la zone. Et pareil sur la roue, il n'a pas su identifier la zone. Donc en fait, on n'a pas actuellement... Il faudrait... Après, tu vas me dire que c'est aussi un problème dans... dans le truc de base, et que c'est pour ça que ça existe là, le fait de le faire manuellement. Mais j'aimerais pouvoir placer ma ligne parfaitement de manière assez rapide, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814982667.041003,
+      "id" : "9EC67128-C00B-49A2-B1CF-8F4FAA75CD28",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et ensuite, ça me donne une liste des composants. Je pense que les composants... je pense que les composants, par contre... il faudrait peut-être une vue pour... il faut que tu simplifies l'interface. Là, il y a beaucoup trop de trucs dans l'interface. Mais il faut que tu... Je sais pas. Bref, code-moi tout",
+      "text" : "Et ensuite, ça me donne une liste des composants. Je pense que les composants... je pense que les composants, par contre... il faudrait peut-être une vue pour... il faut que tu simplifies l'interface. Là, il y a beaucoup trop de trucs dans l'interface. Mais il faut que tu... Je sais pas. Bref, code-moi tout"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814982683.075456,
+      "id" : "F4ADB8D4-8448-4A2F-8D0E-C0E1888162F1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il faut simplement que je puisse placer mes lignes, que je puisse zoomer, que rien ne disparaisse, que le LOD soit bien, que je puisse... Enfin, il y a encore beaucoup de travail sur ZenRay Lines pour que ce soit parfait.",
+      "text" : "Il faut simplement que je puisse placer mes lignes, que je puisse zoomer, que rien ne disparaisse, que le LOD soit bien, que je puisse... Enfin, il y a encore beaucoup de travail sur ZenRay Lines pour que ce soit parfait."
     }
   ],
   "modes" : [
