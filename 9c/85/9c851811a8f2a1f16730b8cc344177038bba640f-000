@@ -16249,6 +16249,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Tu peux mettre aussi des bandes noires pour faire en sorte que ce soit en 21 neuvième.",
       "text" : "Tu peux mettre aussi des bandes noires pour faire en sorte que ce soit en 21 neuvième."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814985373.664534,
+      "id" : "586B9828-28F8-403D-827C-9E30BD07F8CF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non mais t'en es où? Je t'ai demandé de faire 6 plans simples. C'est quand même pas compliqué.",
+      "text" : "Non mais t'en es où? Je t'ai demandé de faire 6 plans simples. C'est quand même pas compliqué."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814985431.652456,
+      "id" : "A6F59FF7-468E-464F-BE50-A985A484C4A6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que par rapport au temps, tu peux faire un swap caméra automatique, s'il te plaît, par rapport à la timeline?",
+      "text" : "Est-ce que par rapport au temps, tu peux faire un swap caméra automatique, s'il te plaît, par rapport à la timeline?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814985719.819761,
+      "id" : "371DF87C-D607-4E25-8801-964509AA9CC2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est encore difficile à utiliser, genre par exemple là, je sais pas exactement comment faire pour revenir à la vue normale. Après, j'ai vraiment l'impression que la topologie a été relativement bien faite, même s'il y aurait des petits trucs à régler. Mais par exemple là, je me suis mis dans une vue, j'ai l'impression que c'est une vue isométrique où la... où la référence s'adapte bien, donc ça c'est plutôt cool, mais la référence s'adapte bien avec le truc, mais je sais pas, déjà il y a la vue top qui marche pas, et en plus je sais pas comment faire pour revenir à la vue normale quoi. Après, j'ai vraiment l'impression que on peut faire des choses. Mais en fait, j'ai l'impression que j'ai isolé un component et que je sais pas comment, hormis en faisant un reload app, je sais pas comment sauvegarder la version. Et aussi, il faut créer un gestionnaire de projet parce que là, on a une voiture, certes, mais à l'avenir, on n'aura pas forcément qu'une seule voiture. Par contre, le fait que tu aies mis les références, c'est vraiment super chouette. Donc, il faut créer un gestionnaire de projet, il faut corriger tout ce que je t'ai dit, il faut que la vue top, elle fonctionne. Et il faut que, sans que je reload l'app, qu'il y ait un truc qui me permette de revenir en arrière. Donc, peut-être une petite flèche et une galerie de components au top de l'application, plutôt que de tout mettre à gauche et à droite. Enfin, quoique, c'est pas si bête après de d'avoir tous les trucs, mais c'est juste que... C'est juste que, par exemple, tout à l'heure, j'ai... Et en fait, je vois pas tous les components qui sont actuellement... Ah si, si je clique sur Color, je vois les components. Mais le problème, c'est que dans la vue droite, tu vois, il y a marqué Component 0. Donc je vois pas les components actuellement. Et je sais pas où mettre ma vue topologie. En fait, ce qu'il faut, c'est prioriser, peut-être dans une vue top side, les trucs qui sont les plus importants. C'est-à-dire... Après, moi, je sais pas encore qu'est-ce qui va être le plus important, mais... Mais enfin, y a des trucs à faire quoi. Enfin... Et le fait de supprimer une line, le fait de sélectionner un truc, tu vois, enfin, c'est pas encore parfait.",
+      "text" : "C'est encore difficile à utiliser, genre par exemple là, je sais pas exactement comment faire pour revenir à la vue normale. Après, j'ai vraiment l'impression que la topologie a été relativement bien faite, même s'il y aurait des petits trucs à régler. Mais par exemple là, je me suis mis dans une vue, j'ai l'impression que c'est une vue isométrique où la... où la référence s'adapte bien, donc ça c'est plutôt cool, mais la référence s'adapte bien avec le truc, mais je sais pas, déjà il y a la vue top qui marche pas, et en plus je sais pas comment faire pour revenir à la vue normale quoi. Après, j'ai vraiment l'impression que on peut faire des choses. Mais en fait, j'ai l'impression que j'ai isolé un component et que je sais pas comment, hormis en faisant un reload app, je sais pas comment sauvegarder la version. Et aussi, il faut créer un gestionnaire de projet parce que là, on a une voiture, certes, mais à l'avenir, on n'aura pas forcément qu'une seule voiture. Par contre, le fait que tu aies mis les références, c'est vraiment super chouette. Donc, il faut créer un gestionnaire de projet, il faut corriger tout ce que je t'ai dit, il faut que la vue top, elle fonctionne. Et il faut que, sans que je reload l'app, qu'il y ait un truc qui me permette de revenir en arrière. Donc, peut-être une petite flèche et une galerie de components au top de l'application, plutôt que de tout mettre à gauche et à droite. Enfin, quoique, c'est pas si bête après de d'avoir tous les trucs, mais c'est juste que... C'est juste que, par exemple, tout à l'heure, j'ai... Et en fait, je vois pas tous les components qui sont actuellement... Ah si, si je clique sur Color, je vois les components. Mais le problème, c'est que dans la vue droite, tu vois, il y a marqué Component 0. Donc je vois pas les components actuellement. Et je sais pas où mettre ma vue topologie. En fait, ce qu'il faut, c'est prioriser, peut-être dans une vue top side, les trucs qui sont les plus importants. C'est-à-dire... Après, moi, je sais pas encore qu'est-ce qui va être le plus important, mais... Mais enfin, y a des trucs à faire quoi. Enfin... Et le fait de supprimer une line, le fait de sélectionner un truc, tu vois, enfin, c'est pas encore parfait."
     }
   ],
   "modes" : [
