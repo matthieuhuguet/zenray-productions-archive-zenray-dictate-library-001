@@ -15889,6 +15889,206 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Donc c'est-à-dire pré-générer des concepts de composants qui peuvent répondre de manière parfaite au truc. Mais par exemple, pour les roues, tu vois, enfin, pour les roues, t'as aucune excuse, c'est pas des formes émergentes, tu vois.",
       "text" : "Donc c'est-à-dire pré-générer des concepts de composants qui peuvent répondre de manière parfaite au truc. Mais par exemple, pour les roues, tu vois, enfin, pour les roues, t'as aucune excuse, c'est pas des formes émergentes, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814981341.973789,
+      "id" : "33E60114-5B78-494A-8573-F4A68DEAB09B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je pense qu'on s'écarte un peu du sujet. Je pense que le plus important là, c'est de finir ZenRay Lines afin que je puisse définir tous les components et qu'il y ait un vrai back and forth de l'application de ZenRay Lines vers Houdini et que je puisse te exporter directement une chaîne de valeur plutôt que ou du code plutôt que un simple SVG ou un simple je sais pas comment dire, mais je pense que c'est là on repart dans un autre problème. Il vaut mieux que tu finalises une UI parfaite en termes d'utilisateur, en termes expérience utilisateur, pour que ce soit facile pour moi de te dessiner tous les composants que je veux, de pouvoir en ajouter, de pouvoir modifier mes courbes. Comme ça, je te fais mon petit dessin et on part sur la topologie du mesh final à partir des courbes qui sont définies par moi.",
+      "text" : "Je pense qu'on s'écarte un peu du sujet. Je pense que le plus important là, c'est de finir ZenRay Lines afin que je puisse définir tous les components et qu'il y ait un vrai back and forth de l'application de ZenRay Lines vers Houdini et que je puisse te exporter directement une chaîne de valeur plutôt que ou du code plutôt que un simple SVG ou un simple je sais pas comment dire, mais je pense que c'est là on repart dans un autre problème. Il vaut mieux que tu finalises une UI parfaite en termes d'utilisateur, en termes expérience utilisateur, pour que ce soit facile pour moi de te dessiner tous les composants que je veux, de pouvoir en ajouter, de pouvoir modifier mes courbes. Comme ça, je te fais mon petit dessin et on part sur la topologie du mesh final à partir des courbes qui sont définies par moi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814981391.82532,
+      "id" : "15D39C07-F26F-4674-9EDA-1045676B1A31",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais le plus important, c'est que tu fasses une interface utilisateur qui, où c'est simple de renommer les composants que je vais créer, simple d'en effacer, simple de... En fait, pense à tout pour finir l'application ZenRay Lines. Et il faut que tu, dans ZenRay Meshes, que tu notes le bon moment où tu as besoin en fait, de passer du modèle mesh au modèle finalisé et dessiné par l'utilisateur. Mais si tu veux la forme finale du dessin et le nombre de composants, toute cette chaîne de valeur et les matrices des points doivent être copiables directement par l'algorithme pour faire la conversion vers l'objet 3D réel dans la scène Houdini. C'est ça le plus important et c'est ça qu'il faut que tu codes.",
+      "text" : "Mais le plus important, c'est que tu fasses une interface utilisateur qui, où c'est simple de renommer les composants que je vais créer, simple d'en effacer, simple de... En fait, pense à tout pour finir l'application ZenRay Lines. Et il faut que tu, dans ZenRay Meshes, que tu notes le bon moment où tu as besoin en fait, de passer du modèle mesh au modèle finalisé et dessiné par l'utilisateur. Mais si tu veux la forme finale du dessin et le nombre de composants, toute cette chaîne de valeur et les matrices des points doivent être copiables directement par l'algorithme pour faire la conversion vers l'objet 3D réel dans la scène Houdini. C'est ça le plus important et c'est ça qu'il faut que tu codes."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814981449.648287,
+      "id" : "688E2039-1C6D-4344-82EF-B6DFE54F23D0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Gemini 4 Carbone va sortir quand?",
+      "text" : "Gemini 4 Carbone va sortir quand?"
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814981535.675876,
+      "id" : "6B246047-ED30-46E6-8A46-F8F68D39B2C9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "dans ZenRay Sport, du coup sur le site Progress, il faut que tu ajoutes... déjà, il faut que tu changes la fonte pour que ce soit uniquement Literata et GT Ultra, selon les conventions typographiques. Et ensuite, il faut que tu ajoutes deux exercices. J'ai pas encore les images, mais... attends un moment, je vais te dire ce que c'est les exercices. Ok, je suis dans sport. Oui, c'est l'exercice à la poulie où tu es assis et tu fais un tirage vertical. Et il faut créer une autre case pour le tirage horizontal quand tu es assis et que tu tires à la poulie et que tu peux ajouter des poids. Et ensuite, donne-moi deux prompts qui génèrent une image, s'il te plaît, avec le style de l'image que je joins. Mais l'image, je l'ai moi.",
+      "text" : "dans ZenRay Sport, du coup sur le site Progress, il faut que tu ajoutes... déjà, il faut que tu changes la fonte pour que ce soit uniquement Literata et GT Ultra, selon les conventions typographiques. Et ensuite, il faut que tu ajoutes deux exercices. J'ai pas encore les images, mais... attends un moment, je vais te dire ce que c'est les exercices. Ok, je suis dans sport. Oui, c'est l'exercice à la poulie où tu es assis et tu fais un tirage vertical. Et il faut créer une autre case pour le tirage horizontal quand tu es assis et que tu tires à la poulie et que tu peux ajouter des poids. Et ensuite, donne-moi deux prompts qui génèrent une image, s'il te plaît, avec le style de l'image que je joins. Mais l'image, je l'ai moi."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814981543.877864,
+      "id" : "45E0D4A3-7D95-4033-B98D-7E6AC03D2D92",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "pour ChatGPT image. Attends, ben, je vais te donner l'image directement et tu vas faire la génération ici.",
+      "text" : "pour ChatGPT image. Attends, ben, je vais te donner l'image directement et tu vas faire la génération ici."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814981582.37799,
+      "id" : "F031C2FC-F249-4D31-AC9A-5D8C9BE1BD66",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, voilà l'image. Ce que tu dois faire, c'est générer dans le style manga Shingeki no Kyojin et Wit Studio. C'est un studio japonais.",
+      "text" : "Du coup, voilà l'image. Ce que tu dois faire, c'est générer dans le style manga Shingeki no Kyojin et Wit Studio. C'est un studio japonais."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814981589.574262,
+      "id" : "A2B98E96-FE42-4DFF-9EA3-2E7B11A1A7C3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "en fonction des deux exercices que tu dois rajouter dans la section sport.",
+      "text" : "en fonction des deux exercices que tu dois rajouter dans la section sport."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814981597.491231,
+      "id" : "8051AC5B-2E7D-4548-BD35-892E1CA5F492",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, les titres, c'est GT Ultra et tout le reste de l'Uni, c'est Literata.",
+      "text" : "Du coup, les titres, c'est GT Ultra et tout le reste de l'Uni, c'est Literata."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814981622.07431,
+      "id" : "A2DF4E90-F8AA-48E1-803C-89EBCE06A390",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "recense des avis sur ChatGPT 6.1 Tera Medium sur X ou sur tous les forums.",
+      "text" : "recense des avis sur ChatGPT 6.1 Tera Medium sur X ou sur tous les forums."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814981637.294315,
+      "id" : "2A7E8252-3353-4A95-8E37-E1438601DCCA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai l'impression que c'est un modèle qui reste un peu trop gourmand pour l'application Codex et un abonnement plus.",
+      "text" : "J'ai l'impression que c'est un modèle qui reste un peu trop gourmand pour l'application Codex et un abonnement plus."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 814981754.579407,
+      "id" : "56BC5217-76B7-465D-AC02-33CE6FE131BF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, dans Create, il y a pas mal de sous-sections que je vais plutôt déplacer dans le module système. Donc ça va être Knowledge, Money, Post-Kit, Media, Motion Design, Audio, Books, Ref, Houdini, Timer, Goals, Skills, Dashboard et Projects. Tout cela, tu les déplaces dans un système.",
+      "text" : "Du coup, dans Create, il y a pas mal de sous-sections que je vais plutôt déplacer dans le module système. Donc ça va être Knowledge, Money, Post-Kit, Media, Motion Design, Audio, Books, Ref, Houdini, Timer, Goals, Skills, Dashboard et Projects. Tout cela, tu les déplaces dans un système."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814981762.196088,
+      "id" : "8DD04FB5-D210-40A3-B31A-70A755351D48",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "uniquement par rapport à la sidebar de gauche.",
+      "text" : "uniquement par rapport à la sidebar de gauche."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814981773.379274,
+      "id" : "5DFAC7B5-18EA-48C8-8251-FB70534A8914",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "dans la section système.",
+      "text" : "dans la section système."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814981801.113076,
+      "id" : "6F200738-1B64-4591-AB5C-30AFA3543B42",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et il faut que tu ajoutes les deux images générées directement dans les nouvelles sections. Dis-moi si tu as les chemins, sinon je vais te donner les chemins.",
+      "text" : "Et il faut que tu ajoutes les deux images générées directement dans les nouvelles sections. Dis-moi si tu as les chemins, sinon je vais te donner les chemins."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814981809.767238,
+      "id" : "5403AE69-2E67-4D1B-ADA3-4F344A12FC54",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "dans les nouvelles cases que Sport a créées.",
+      "text" : "dans les nouvelles cases que Sport a créées."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 814982054.092144,
+      "id" : "BC39DC20-3C55-4B00-BDF1-4104D3574A2C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "pour ça, pour sport, fait en sorte que quand je clique sur une valeur que j'enregistre à vue de la séance, que mon UI le fasse immédiatement sur le plan, même si l'enregistrement prend un peu plus de temps. Et par rapport au vrai enregistrement, mets un petit petite icône SVG de Apple avec l'icône de chargement pour être sûr que tout est bien enregistré sur le bit. Mais dans mon UI, ça, les animations doivent... Déjà, tu peux mettre des petites animations de 0,2 secondes par rapport à la transition de chaque nouveau bouton, chaque nouveau clic, etc. Pour rendre l'interface un peu plus fluide. Mais par contre, donc sur tous les éléments, vraiment tous les éléments, mais par contre, lorsque je clique sur un truc et que je l'ajoute, lui l'ajoute directement, que ce soit sur mobile ou sur desktop. Et par contre, pour avoir le vrai enregistrement, tu m'affiches une petite icône de chargement type Apple.",
+      "text" : "pour ça, pour sport, fait en sorte que quand je clique sur une valeur que j'enregistre à vue de la séance, que mon UI le fasse immédiatement sur le plan, même si l'enregistrement prend un peu plus de temps. Et par rapport au vrai enregistrement, mets un petit petite icône SVG de Apple avec l'icône de chargement pour être sûr que tout est bien enregistré sur le bit. Mais dans mon UI, ça, les animations doivent... Déjà, tu peux mettre des petites animations de 0,2 secondes par rapport à la transition de chaque nouveau bouton, chaque nouveau clic, etc. Pour rendre l'interface un peu plus fluide. Mais par contre, donc sur tous les éléments, vraiment tous les éléments, mais par contre, lorsque je clique sur un truc et que je l'ajoute, lui l'ajoute directement, que ce soit sur mobile ou sur desktop. Et par contre, pour avoir le vrai enregistrement, tu m'affiches une petite icône de chargement type Apple."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814982089.439403,
+      "id" : "2D0D2826-CB20-49FB-87AB-F12671EFC87C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je pense que comme ZenRay Motion, tu peux faire en sorte que l'application ZenRay Line soit directement accessible comme une app, mais avec un code HTML en soi. Exactement comme ZenRay Motion.",
+      "text" : "Je pense que comme ZenRay Motion, tu peux faire en sorte que l'application ZenRay Line soit directement accessible comme une app, mais avec un code HTML en soi. Exactement comme ZenRay Motion."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814982097.469415,
+      "id" : "B9956BD3-6B5B-43F5-A6DB-F5C7F5103311",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Comme ça, je peux taper dans ma sidebar ZenRay Motion et je peux y accéder avec le dernier code mis à jour.",
+      "text" : "Comme ça, je peux taper dans ma sidebar ZenRay Motion et je peux y accéder avec le dernier code mis à jour."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814982120.717277,
+      "id" : "936C941F-3DB1-4A52-BF93-D2788F95E4CE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "tu peux regarder rapidement ZenRay Motion Design Lab. Parce qu'en fait, ce que j'avais fait, c'est que du coup, je ne l'ai pas fait en Swift. J'ai juste fait, je crois, c'est une interface en HTML. Je ne sais pas exactement ce que c'est, mais réponds et ensuite je te dis de coder ça ou d'adapter ça pour que le code soit toujours à jour.",
+      "text" : "tu peux regarder rapidement ZenRay Motion Design Lab. Parce qu'en fait, ce que j'avais fait, c'est que du coup, je ne l'ai pas fait en Swift. J'ai juste fait, je crois, c'est une interface en HTML. Je ne sais pas exactement ce que c'est, mais réponds et ensuite je te dis de coder ça ou d'adapter ça pour que le code soit toujours à jour."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814982126.25071,
+      "id" : "60C541BA-12E2-47C6-A756-869E817B5E7A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah finalement comme si on ouvrait un HTML.",
+      "text" : "Bah finalement comme si on ouvrait un HTML."
     }
   ],
   "modes" : [
