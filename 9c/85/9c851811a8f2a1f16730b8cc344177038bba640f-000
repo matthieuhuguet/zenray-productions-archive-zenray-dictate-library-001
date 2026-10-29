@@ -15579,6 +15579,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "je veux que à la prochaine boucle d'itération, la voiture soit totalement finie.",
       "text" : "je veux que à la prochaine boucle d'itération, la voiture soit totalement finie."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814928588.512429,
+      "id" : "A3EAAEAF-7931-4B7C-8DE8-E885C865EC70",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et si tu bloques sur un résultat, bah, tu relances, tu essaies de retrouver une solution, et lorsque tu as trouvé la solution, tu la testes, et le test doit être concluant, et si le test n'est pas concluant, tu cherches encore une autre méthodologie. C'est la base de tout travail. Et tu peux, tu as carte blanche pour trouver la méthode. Et par contre, là... ouais, non, tu n'as aucune limite.",
+      "text" : "Et si tu bloques sur un résultat, bah, tu relances, tu essaies de retrouver une solution, et lorsque tu as trouvé la solution, tu la testes, et le test doit être concluant, et si le test n'est pas concluant, tu cherches encore une autre méthodologie. C'est la base de tout travail. Et tu peux, tu as carte blanche pour trouver la méthode. Et par contre, là... ouais, non, tu n'as aucune limite."
     }
   ],
   "modes" : [
