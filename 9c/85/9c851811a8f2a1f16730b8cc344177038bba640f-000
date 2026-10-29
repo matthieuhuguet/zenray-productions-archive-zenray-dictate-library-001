@@ -15589,6 +15589,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Et si tu bloques sur un résultat, bah, tu relances, tu essaies de retrouver une solution, et lorsque tu as trouvé la solution, tu la testes, et le test doit être concluant, et si le test n'est pas concluant, tu cherches encore une autre méthodologie. C'est la base de tout travail. Et tu peux, tu as carte blanche pour trouver la méthode. Et par contre, là... ouais, non, tu n'as aucune limite.",
       "text" : "Et si tu bloques sur un résultat, bah, tu relances, tu essaies de retrouver une solution, et lorsque tu as trouvé la solution, tu la testes, et le test doit être concluant, et si le test n'est pas concluant, tu cherches encore une autre méthodologie. C'est la base de tout travail. Et tu peux, tu as carte blanche pour trouver la méthode. Et par contre, là... ouais, non, tu n'as aucune limite."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814929391.306027,
+      "id" : "79CA35C0-1428-4F76-875A-C913A8ACBD92",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Là, tu vois bien que les components qui ont été découpés sont pas parfaitement exacts, puisqu'il reste encore des trous, notamment à l'arrière et à l'avant. Mais du coup, je pensais à un truc. En vrai, en HTML et en JavaScript, est-ce que tu pourrais pas créer une version, justement, où il n'y a aucune erreur, c'est-à-dire tu corriges toutes les erreurs actuelles et tu permets de résoudre les problèmes directement. Notamment via ce qu'on a construit tout à l'heure, le fait de smooth les curves sur les bords extérieurs des components. Et ensuite, tu te donnes des instructions et directement dans ce logiciel, tu modifies les bons components et ensuite ça se réattribue directement. Mais en fait, le problème, c'est que ZenRay Meshes Retopology est buggé au niveau des components parce que ça reprend la géométrie mais qui n'était pas correcte. Alors qu'en fait, ce qu'on veut, c'est avoir une géométrie parfaite.",
+      "text" : "Là, tu vois bien que les components qui ont été découpés sont pas parfaitement exacts, puisqu'il reste encore des trous, notamment à l'arrière et à l'avant. Mais du coup, je pensais à un truc. En vrai, en HTML et en JavaScript, est-ce que tu pourrais pas créer une version, justement, où il n'y a aucune erreur, c'est-à-dire tu corriges toutes les erreurs actuelles et tu permets de résoudre les problèmes directement. Notamment via ce qu'on a construit tout à l'heure, le fait de smooth les curves sur les bords extérieurs des components. Et ensuite, tu te donnes des instructions et directement dans ce logiciel, tu modifies les bons components et ensuite ça se réattribue directement. Mais en fait, le problème, c'est que ZenRay Meshes Retopology est buggé au niveau des components parce que ça reprend la géométrie mais qui n'était pas correcte. Alors qu'en fait, ce qu'on veut, c'est avoir une géométrie parfaite."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814929424.72311,
+      "id" : "5CAB8DD5-DA6E-469B-A820-0F9BDB820E5B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Si ça te détourne de l'objectif, ne le fais pas, mais c'est juste que là, la sheet du module retopologie n'est pas parfaite puisque chaque micro-composant n'est pas bien positionné actuellement.",
+      "text" : "Si ça te détourne de l'objectif, ne le fais pas, mais c'est juste que là, la sheet du module retopologie n'est pas parfaite puisque chaque micro-composant n'est pas bien positionné actuellement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 814929438.162593,
+      "id" : "7FE79938-DDCF-4060-9B50-9DC9170541DC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "si c'est prévu, ne tient pas compte de ce commentaire et continue simplement l'objectif.",
+      "text" : "si c'est prévu, ne tient pas compte de ce commentaire et continue simplement l'objectif."
     }
   ],
   "modes" : [
