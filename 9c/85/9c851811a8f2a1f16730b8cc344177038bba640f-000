@@ -19429,6 +19429,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Merci en tout cas, Christophe, pour avoir pris le temps de me répondre.",
       "text" : "Merci en tout cas, Christophe, pour avoir pris le temps de me répondre."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815052962.066665,
+      "id" : "25BE382C-FD55-46D4-B15C-8DA6B9ED9A57",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pareil, j'essaie de voir si ce week-end je peux me libérer. Et sinon, le week-end prochain, à mon avis, c'est quasi sûr à 90% que je pourrais me libérer. Donc, je vous tiens au courant. Est-ce que si ce week-end je vous recontacte, vous pourrez vous organiser? Sinon, week-end pro. Et ce serait parfait. Merci beaucoup en tout cas pour votre réactivité.",
+      "text" : "Pareil, j'essaie de voir si ce week-end je peux me libérer. Et sinon, le week-end prochain, à mon avis, c'est quasi sûr à 90% que je pourrais me libérer. Donc, je vous tiens au courant. Est-ce que si ce week-end je vous recontacte, vous pourrez vous organiser? Sinon, week-end pro. Et ce serait parfait. Merci beaucoup en tout cas pour votre réactivité."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815053135.380565,
+      "id" : "35244B05-4559-42E1-A308-238503D5EEB2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai un petit créneau entre 12h30 et 14h, si tu veux qu'on s'appelle.",
+      "text" : "J'ai un petit créneau entre 12h30 et 14h, si tu veux qu'on s'appelle."
     }
   ],
   "modes" : [
