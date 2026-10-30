@@ -19509,6 +19509,276 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Si vous voulez, on pourrait se rendre. Je pourrais me rendre disponible sur X dans le week-end.",
       "text" : "Si vous voulez, on pourrait se rendre. Je pourrais me rendre disponible sur X dans le week-end."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815055440.053847,
+      "id" : "21F115C7-D8DE-4A31-A3BF-456D23813854",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, le problème, c'est que là, tu vois, même par rapport au brief, je suis un peu passif, tu vois, dans le sens en mode, bah, je suis freelance, je cherche des contrats et tout, mais faut vraiment pas montrer un désespoir, tu vois, mais faut montrer en mode, j'ai vraiment besoin d'argent, j'ai vraiment besoin de vous aider, etc., tu vois. Faut vraiment y aller beaucoup plus fort, tu vois, je pense.",
+      "text" : "En fait, le problème, c'est que là, tu vois, même par rapport au brief, je suis un peu passif, tu vois, dans le sens en mode, bah, je suis freelance, je cherche des contrats et tout, mais faut vraiment pas montrer un désespoir, tu vois, mais faut montrer en mode, j'ai vraiment besoin d'argent, j'ai vraiment besoin de vous aider, etc., tu vois. Faut vraiment y aller beaucoup plus fort, tu vois, je pense."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815055582.771131,
+      "id" : "FC1F99B4-BE00-43C3-BC65-4277CCCA0C7E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, passez une bonne journée. Si jamais vous pouvez me dire qu'est-ce qui vous intéressait le plus entre la livraison et ou la remise en physique. Et si c'est vraiment un problème de tarification, on peut s'arranger sur le prix. Faites-moi signe si vous changez d'avis. Excellente journée à vous.",
+      "text" : "Ok, passez une bonne journée. Si jamais vous pouvez me dire qu'est-ce qui vous intéressait le plus entre la livraison et ou la remise en physique. Et si c'est vraiment un problème de tarification, on peut s'arranger sur le prix. Faites-moi signe si vous changez d'avis. Excellente journée à vous."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815055641.030925,
+      "id" : "56D4BC6C-87A3-495F-93B6-78735249519A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais non, mais eux, ils vont forcément utiliser Unity en production. C'est pas ça le débat. Le débat, c'est... Le débat, c'est que... ils cherchent quelqu'un... ils cherchent quelqu'un chez Lizard Cube, quoi. Et du coup, il faut que tu te renseignes sur le CEO pour faire bonne impression, tu vois.",
+      "text" : "Mais non, mais eux, ils vont forcément utiliser Unity en production. C'est pas ça le débat. Le débat, c'est... Le débat, c'est que... ils cherchent quelqu'un... ils cherchent quelqu'un chez Lizard Cube, quoi. Et du coup, il faut que tu te renseignes sur le CEO pour faire bonne impression, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815055685.042257,
+      "id" : "7C512652-A38C-435A-881A-19B219597E22",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Résume-moi le gameplay de Wonder Boy, Streets of Rage et Shinobi. Et pourquoi ils sont en partenariat avec Sega ?",
+      "text" : "Résume-moi le gameplay de Wonder Boy, Streets of Rage et Shinobi. Et pourquoi ils sont en partenariat avec Sega ?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815055764.177534,
+      "id" : "65DE4563-866E-4F3B-9CF7-7FFEA9FAF31E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Résume-moi le début, le milieu et la fin de chaque jeu en termes de game design.",
+      "text" : "Résume-moi le début, le milieu et la fin de chaque jeu en termes de game design."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815055824.498165,
+      "id" : "5A7082C2-24DF-48E7-8637-7D4C8F5238E7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais non, mais c'est pas comme ça qu'on résume ni qu'on pitch un jeu aux gens qui connaissent vraiment le gaming. Enfin, c'est, tu te dis, tu fais quoi dans le jeu? C'est quoi ton but? Qu'est-ce que c'est ton objectif? C'est quoi la macro loop? Et comment tu parviens à battre le jeu? Et c'est quoi ce que tu fais le plus souvent, quoi?",
+      "text" : "Mais non, mais c'est pas comme ça qu'on résume ni qu'on pitch un jeu aux gens qui connaissent vraiment le gaming. Enfin, c'est, tu te dis, tu fais quoi dans le jeu? C'est quoi ton but? Qu'est-ce que c'est ton objectif? C'est quoi la macro loop? Et comment tu parviens à battre le jeu? Et c'est quoi ce que tu fais le plus souvent, quoi?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815056375.526718,
+      "id" : "89871C2B-5FA7-44A8-B598-8BFCE57ECC95",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "bah t'as des rêves de merde.",
+      "text" : "bah t'as des rêves de merde."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815057049.321073,
+      "id" : "ECDEE8EB-FF7C-42CD-B147-F2894BCD59DC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "If someday you have extra time and you want to discuss, I would be really excited to know about your process of modeling and environment setup.",
+      "text" : "If someday you have extra time and you want to discuss, I would be really excited to know about your process of modeling and environment setup."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815057084.221671,
+      "id" : "856997C2-D3FB-4F6C-A53B-0A8632C11D49",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bon, résumons rapidement tout ce que j'ai besoin de savoir pour le rendez-vous. Fais-moi un dernier brief, et comme ça j'y vais sans me prendre trop la tête.",
+      "text" : "Bon, résumons rapidement tout ce que j'ai besoin de savoir pour le rendez-vous. Fais-moi un dernier brief, et comme ça j'y vais sans me prendre trop la tête."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815057608.553784,
+      "id" : "74658012-1737-4B4E-9058-F4029B0FBA35",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Le problème, c'est que je connais. C'est que je connais pas du tout Houdini. Unity, pardon. Donc, il faudrait faire en sorte de que ça se voit pas trop pendant le rendez-vous.",
+      "text" : "Le problème, c'est que je connais. C'est que je connais pas du tout Houdini. Unity, pardon. Donc, il faudrait faire en sorte de que ça se voit pas trop pendant le rendez-vous."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815058774.903343,
+      "id" : "CD688CBE-16BB-49E0-BDC2-B421E028B443",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Aïe, aïe, aïe. Meeting compliqué. Meeting très compliqué.",
+      "text" : "Aïe, aïe, aïe. Meeting compliqué. Meeting très compliqué."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815058799.994005,
+      "id" : "A2A1F375-B486-4FAD-ABDB-651C5E1BCD27",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai un peu eu le problème en mode chercher quelqu'un sur place. Plus, ils m'ont dit que ce que je faisais, c'était over complexe pour leurs besoins. Et du coup, pas forcément de retour positif.",
+      "text" : "J'ai un peu eu le problème en mode chercher quelqu'un sur place. Plus, ils m'ont dit que ce que je faisais, c'était over complexe pour leurs besoins. Et du coup, pas forcément de retour positif."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815059582.263287,
+      "id" : "6FFBA008-C6D5-4D95-B36B-F21CEAFD98F0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Allez, on se décourage pas. La suite. Next.",
+      "text" : "Allez, on se décourage pas. La suite. Next."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815059606.663824,
+      "id" : "877D85B3-4711-4D18-AAC5-5768FEDC7447",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je te tiendrai au courant.",
+      "text" : "Je te tiendrai au courant."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815059715.167408,
+      "id" : "7240B0C7-0DC5-47A9-B532-3D8B84FE866C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "alors que c'est un prérequis obligatoire, et ce dans Claude.md.",
+      "text" : "alors que c'est un prérequis obligatoire, et ce dans Claude.md."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815059728.339466,
+      "id" : "1F4871FD-9F23-4973-BEA2-28D69088E286",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "toujours à mesure que tu développes, faire des visuels, et ce à chaque étape, afin de comparer s'il y a des réelles améliorations.",
+      "text" : "toujours à mesure que tu développes, faire des visuels, et ce à chaque étape, afin de comparer s'il y a des réelles améliorations."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815059736.066986,
+      "id" : "29EFD34E-44EA-4D84-AB83-19044EAFAA13",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et continue la boucle avec l'agent qui continue de rechercher.",
+      "text" : "Et continue la boucle avec l'agent qui continue de rechercher."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815059888.205674,
+      "id" : "B3BE9DAF-FDE1-4086-BFB1-797708B1D8D1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ah, j'ai passé un entretien, mais ils m'ont encore dit que mon truc c'est over complexe. Bon, je vais pas me décourager, mais c'est un peu relou.",
+      "text" : "Ah, j'ai passé un entretien, mais ils m'ont encore dit que mon truc c'est over complexe. Bon, je vais pas me décourager, mais c'est un peu relou."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815059905.520391,
+      "id" : "9DAA4F7D-D42D-44C6-B224-5035431AF7EB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "qu'ils n'avaient pas forcément de besoin pour ça.",
+      "text" : "qu'ils n'avaient pas forcément de besoin pour ça."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815059935.813887,
+      "id" : "E61BFF59-C597-4E96-8937-37EBED6A209F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Chaque rendez-vous que j'ai, soit le mardi, soit le vendredi, ils disent « Ah, c'est super, c'est impressionnant que tu arrives à faire ça, mais c'est overcomplexe et on n'en a pas besoin. »",
+      "text" : "Chaque rendez-vous que j'ai, soit le mardi, soit le vendredi, ils disent « Ah, c'est super, c'est impressionnant que tu arrives à faire ça, mais c'est overcomplexe et on n'en a pas besoin. »"
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815060006.381052,
+      "id" : "C1C515D1-2116-4DF2-A812-93549A82A5B2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ouais. Après, il y avait un truc, Montreuil. Mais bon, Montreuil, quoi.",
+      "text" : "Ouais. Après, il y avait un truc, Montreuil. Mais bon, Montreuil, quoi."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815060045.274221,
+      "id" : "BB55502F-56AC-4EED-A86F-A6FA087BAF79",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ouais, bon, je vais continuer d'envoyer des petites lettres.",
+      "text" : "Ouais, bon, je vais continuer d'envoyer des petites lettres."
+    },
+    {
+      "application" : "Unknown",
+      "date" : 815063164.832971,
+      "id" : "9020D7BE-EB72-40A4-A466-041499FF2B6B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "organise mes notes afin que je puisse régler, organise mon brouillon et les notes que j'ai fait sans en oublier aucune, afin de noter un peu tous les conseils que j'ai fait durant mon appel avec Andreas. Andreas, qui est du coup mon coach business et aussi un ami.",
+      "text" : "organise mes notes afin que je puisse régler, organise mon brouillon et les notes que j'ai fait sans en oublier aucune, afin de noter un peu tous les conseils que j'ai fait durant mon appel avec Andreas. Andreas, qui est du coup mon coach business et aussi un ami."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815063873.301907,
+      "id" : "1613225B-6D94-43CA-8D69-7F4AD3B898DF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Faudrait que je fasse ça, t'as raison.",
+      "text" : "Faudrait que je fasse ça, t'as raison."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815063885.81466,
+      "id" : "EA9C8E25-BBE7-4920-A347-8509CFC210C8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Tu veux dire pour avoir le feedback sur les mots échangés?",
+      "text" : "Tu veux dire pour avoir le feedback sur les mots échangés?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815064326.359836,
+      "id" : "043CC192-7772-448E-B9E8-0A11B8A5DF45",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "S5, c'est bien. Merde, je me suis trompé de conversation. Focus sur décrochage majeur et les Xbox Series. Focus uniquement sur. Là encore, on est de l'ordre de presque entre 7 et 8 fois moins de ventes. Les agences pour la réécologie. T'en es où d'ailleurs?",
+      "text" : "S5, c'est bien. Merde, je me suis trompé de conversation. Focus sur décrochage majeur et les Xbox Series. Focus uniquement sur. Là encore, on est de l'ordre de presque entre 7 et 8 fois moins de ventes. Les agences pour la réécologie. T'en es où d'ailleurs?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815064346.799257,
+      "id" : "629939BA-5611-4C98-B5A3-297D946182B8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Merde, je me suis trompé de conversation. Continue du coup le travail sur la retopologie. T'en es où actuellement? Donne-moi des schémas, s'il te plaît.",
+      "text" : "Merde, je me suis trompé de conversation. Continue du coup le travail sur la retopologie. T'en es où actuellement? Donne-moi des schémas, s'il te plaît."
     }
   ],
   "modes" : [
