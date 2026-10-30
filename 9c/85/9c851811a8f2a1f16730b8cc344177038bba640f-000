@@ -19379,6 +19379,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "J'ai un bug avec mon site, il ne m'affiche pas mes derniers shorts, alors que normalement le code devrait être solide et robuste. Fais en sorte que le code ne soit plus jamais cassé et déploie directement sur le site.",
       "text" : "J'ai un bug avec mon site, il ne m'affiche pas mes derniers shorts, alors que normalement le code devrait être solide et robuste. Fais en sorte que le code ne soit plus jamais cassé et déploie directement sur le site."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815051788.01152,
+      "id" : "77977E34-2EF2-40C2-809B-AD78FE9EA000",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, bah dans ce cas-là, je vous le réserve et vous me dites quand vous avez une disponibilité et je vais essayer de me rendre disponible pour passer sur Lyon.",
+      "text" : "Ok, bah dans ce cas-là, je vous le réserve et vous me dites quand vous avez une disponibilité et je vais essayer de me rendre disponible pour passer sur Lyon."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815051815.729974,
+      "id" : "7723FDB9-043A-401E-896B-CE0FE8754240",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que ce serait possible pour vous? Je me renseigne sur les trajets et où je vais essayer de demander à mon frère quand il est dispo et on vient récupérer le PC. Si ça vous chauffe, on fait comme ça. Donc 1550 plus le 4 TO contre votre PC. C'est OK pour vous?",
+      "text" : "Est-ce que ce serait possible pour vous? Je me renseigne sur les trajets et où je vais essayer de demander à mon frère quand il est dispo et on vient récupérer le PC. Si ça vous chauffe, on fait comme ça. Donc 1550 plus le 4 TO contre votre PC. C'est OK pour vous?"
     }
   ],
   "modes" : [
