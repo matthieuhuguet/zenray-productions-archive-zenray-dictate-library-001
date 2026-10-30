@@ -19469,6 +19469,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Attends, du coup, j'ai mon rendez-vous. J'ai mon rendez-vous là tout de suite. Est-ce que tu peux refaire l'exercice du brief et me le redonner? J'aimerais que tu me redonnes un nouveau brief. Tu peux lire les anciennes informations, mais faire ta propre recherche individuellement, puis comparer les deux briefs et voir si les informations concordent. Mais d'abord, refais-le sans regarder le brief, et ensuite tu regardes et ensuite tu compares. Comment dire? Voilà, le rendez-vous c'est aujourd'hui, c'est dans environ une heure. Et le but, bah, ce sera de me vendre en tant que freelance, que je sois pas forcément ambigu sur ce que je recherche, mais que je fit aussi avec ce que eux ils recherchent donc chez Lizard Cube. Voilà, le but c'est de faire une bonne impression, j'ai mis une petite chemise. Le but c'est d'y aller quoi.",
       "text" : "Attends, du coup, j'ai mon rendez-vous. J'ai mon rendez-vous là tout de suite. Est-ce que tu peux refaire l'exercice du brief et me le redonner? J'aimerais que tu me redonnes un nouveau brief. Tu peux lire les anciennes informations, mais faire ta propre recherche individuellement, puis comparer les deux briefs et voir si les informations concordent. Mais d'abord, refais-le sans regarder le brief, et ensuite tu regardes et ensuite tu compares. Comment dire? Voilà, le rendez-vous c'est aujourd'hui, c'est dans environ une heure. Et le but, bah, ce sera de me vendre en tant que freelance, que je sois pas forcément ambigu sur ce que je recherche, mais que je fit aussi avec ce que eux ils recherchent donc chez Lizard Cube. Voilà, le but c'est de faire une bonne impression, j'ai mis une petite chemise. Le but c'est d'y aller quoi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815054299.835899,
+      "id" : "ED320C33-046C-48B4-9A05-28E2C6E48373",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, essayer de faire des recherches et notes dans ZenRay Meshes et surtout le module Retopology, du coup. Enfin, en fait, c'est un peu chiant parce que du coup, on a un peu tout mélangé, tu vois, dans le sens où, à la base, on avait un objectif de reproduire des mèches. Ça, on l'a atteint. Mais le problème, c'est que c'était pas atteint parce qu'il nous manque l'étape de la retopologie pour avoir un mèche propre. Mais du coup, ce qu'il faudrait maintenant, c'est any mesh, any surfaces, organic and hard surface, perfect topology. Donc fais une deep research sur le fait de... Enlève le cron pour l'instant. Fais une deep research sur les meilleures méthodes de topologie pour le hard surface, pour l'organique, pour ZBrush, pour les logiciels qui existent déjà et tout. Essaie de scrap le maximum de data en te créant ton propre dataset que tu merges du coup dans ZenRay Meshes 1.md. Et tu compares aussi ce qui est déjà existant. Donc tu améliores l'algorithme. Et le but de l'algorithme, ce sera de faire any meshes, any surfaces, le fait de, le fait de, d'avoir une perfect topologie. Mais ça va pas marcher si tu prends pas en compte les formes paramétriques de base, tu vois. Genre par exemple, un personnage, ça va avoir des jambes, des pieds, des doigts, etc. Donc il va falloir, et même des oreilles, tu vois. Donc il faut avoir une précision atomique sur tout ce qui existe. Et enfin, il y a aussi, la voiture, les voitures. Elles vont avoir des carrosseries. Mais tu vois, c'est any meshes, any surfaces. C'est peu importe, en fait, tu vois. Mais le but, c'est d'avoir une topologie parfaite. Donc, crée le dataset en améliorant, fais une deep research, tant que le any meshes, la promesse du any meshes, any surfaces, perfect topologie n'est pas remplie, ben, tu continues de faire des recherches jusqu'à améliorer l'algorithme de manière parfaite. Donc tu fais à la fois un batch de recherche et à la fois un batch d'amélioration avec un agent qui te fait des recherches et qui s'appelle Sonnet 5.5 Effort AI. Et c'est lui qui te fait les recherches, tandis que toi, tu continues d'améliorer l'algorithme et tu compares aux recherches. Mais tu stoppes jamais en fait l'agent de recherche, tu vois. Si tu veux, il y a toi, le thread principal qui y cherche, et il y a aussi l'autre. Mais c'est la même chose, puisque vous améliorez le même programme, qui est ZenRay Meshes, et qui, au final, voilà, tu vois. Mais dans le cadre de ZenRay Lines, c'est-à-dire qu'en fait, les lines, elles doivent découper... Si tu veux, en fait, les lines, elles doivent découper les components. Les components donnent une perfect topologie. La perfect topologie donne ZenRay UV avec les coutures. La perfect topologie donne ZenRay 8, tu vois. Tout est lié. Mais toi, là, tu fais que la partie. Et ensuite, tu relis tout pour que tout soit parfait.",
+      "text" : "En fait, essayer de faire des recherches et notes dans ZenRay Meshes et surtout le module Retopology, du coup. Enfin, en fait, c'est un peu chiant parce que du coup, on a un peu tout mélangé, tu vois, dans le sens où, à la base, on avait un objectif de reproduire des mèches. Ça, on l'a atteint. Mais le problème, c'est que c'était pas atteint parce qu'il nous manque l'étape de la retopologie pour avoir un mèche propre. Mais du coup, ce qu'il faudrait maintenant, c'est any mesh, any surfaces, organic and hard surface, perfect topology. Donc fais une deep research sur le fait de... Enlève le cron pour l'instant. Fais une deep research sur les meilleures méthodes de topologie pour le hard surface, pour l'organique, pour ZBrush, pour les logiciels qui existent déjà et tout. Essaie de scrap le maximum de data en te créant ton propre dataset que tu merges du coup dans ZenRay Meshes 1.md. Et tu compares aussi ce qui est déjà existant. Donc tu améliores l'algorithme. Et le but de l'algorithme, ce sera de faire any meshes, any surfaces, le fait de, le fait de, d'avoir une perfect topologie. Mais ça va pas marcher si tu prends pas en compte les formes paramétriques de base, tu vois. Genre par exemple, un personnage, ça va avoir des jambes, des pieds, des doigts, etc. Donc il va falloir, et même des oreilles, tu vois. Donc il faut avoir une précision atomique sur tout ce qui existe. Et enfin, il y a aussi, la voiture, les voitures. Elles vont avoir des carrosseries. Mais tu vois, c'est any meshes, any surfaces. C'est peu importe, en fait, tu vois. Mais le but, c'est d'avoir une topologie parfaite. Donc, crée le dataset en améliorant, fais une deep research, tant que le any meshes, la promesse du any meshes, any surfaces, perfect topologie n'est pas remplie, ben, tu continues de faire des recherches jusqu'à améliorer l'algorithme de manière parfaite. Donc tu fais à la fois un batch de recherche et à la fois un batch d'amélioration avec un agent qui te fait des recherches et qui s'appelle Sonnet 5.5 Effort AI. Et c'est lui qui te fait les recherches, tandis que toi, tu continues d'améliorer l'algorithme et tu compares aux recherches. Mais tu stoppes jamais en fait l'agent de recherche, tu vois. Si tu veux, il y a toi, le thread principal qui y cherche, et il y a aussi l'autre. Mais c'est la même chose, puisque vous améliorez le même programme, qui est ZenRay Meshes, et qui, au final, voilà, tu vois. Mais dans le cadre de ZenRay Lines, c'est-à-dire qu'en fait, les lines, elles doivent découper... Si tu veux, en fait, les lines, elles doivent découper les components. Les components donnent une perfect topologie. La perfect topologie donne ZenRay UV avec les coutures. La perfect topologie donne ZenRay 8, tu vois. Tout est lié. Mais toi, là, tu fais que la partie. Et ensuite, tu relis tout pour que tout soit parfait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815054306.319273,
+      "id" : "BD0A7847-A909-4E30-AE43-7F741CD8311F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc arrête le cron et fais une boucle don't stop.",
+      "text" : "Donc arrête le cron et fais une boucle don't stop."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815055156.684662,
+      "id" : "5BCB895E-71FD-4058-9805-DF34D23CF817",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que vous êtes toujours intéressé? J'ai un autre acheteur sur le coup.",
+      "text" : "Est-ce que vous êtes toujours intéressé? J'ai un autre acheteur sur le coup."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815055169.886759,
+      "id" : "23BAF681-5DE9-4B40-B212-1ED9FD4396C1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Si vous voulez, on pourrait se rendre. Je pourrais me rendre disponible sur X dans le week-end.",
+      "text" : "Si vous voulez, on pourrait se rendre. Je pourrais me rendre disponible sur X dans le week-end."
     }
   ],
   "modes" : [
