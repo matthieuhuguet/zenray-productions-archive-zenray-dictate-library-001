@@ -19449,6 +19449,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "J'ai un petit créneau entre 12h30 et 14h, si tu veux qu'on s'appelle.",
       "text" : "J'ai un petit créneau entre 12h30 et 14h, si tu veux qu'on s'appelle."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815053904.076716,
+      "id" : "139359C8-D5B1-42CA-85D0-B687BC87A211",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Vas-y, je vais préparer mon rendez-vous.",
+      "text" : "Vas-y, je vais préparer mon rendez-vous."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815054052.832308,
+      "id" : "22EF9D36-36BE-4070-8224-0319E72CC929",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Attends, du coup, j'ai mon rendez-vous. J'ai mon rendez-vous là tout de suite. Est-ce que tu peux refaire l'exercice du brief et me le redonner? J'aimerais que tu me redonnes un nouveau brief. Tu peux lire les anciennes informations, mais faire ta propre recherche individuellement, puis comparer les deux briefs et voir si les informations concordent. Mais d'abord, refais-le sans regarder le brief, et ensuite tu regardes et ensuite tu compares. Comment dire? Voilà, le rendez-vous c'est aujourd'hui, c'est dans environ une heure. Et le but, bah, ce sera de me vendre en tant que freelance, que je sois pas forcément ambigu sur ce que je recherche, mais que je fit aussi avec ce que eux ils recherchent donc chez Lizard Cube. Voilà, le but c'est de faire une bonne impression, j'ai mis une petite chemise. Le but c'est d'y aller quoi.",
+      "text" : "Attends, du coup, j'ai mon rendez-vous. J'ai mon rendez-vous là tout de suite. Est-ce que tu peux refaire l'exercice du brief et me le redonner? J'aimerais que tu me redonnes un nouveau brief. Tu peux lire les anciennes informations, mais faire ta propre recherche individuellement, puis comparer les deux briefs et voir si les informations concordent. Mais d'abord, refais-le sans regarder le brief, et ensuite tu regardes et ensuite tu compares. Comment dire? Voilà, le rendez-vous c'est aujourd'hui, c'est dans environ une heure. Et le but, bah, ce sera de me vendre en tant que freelance, que je sois pas forcément ambigu sur ce que je recherche, mais que je fit aussi avec ce que eux ils recherchent donc chez Lizard Cube. Voilà, le but c'est de faire une bonne impression, j'ai mis une petite chemise. Le but c'est d'y aller quoi."
     }
   ],
   "modes" : [
