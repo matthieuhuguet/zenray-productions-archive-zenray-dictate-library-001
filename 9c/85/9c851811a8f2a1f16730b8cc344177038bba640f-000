@@ -19399,6 +19399,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Est-ce que ce serait possible pour vous? Je me renseigne sur les trajets et où je vais essayer de demander à mon frère quand il est dispo et on vient récupérer le PC. Si ça vous chauffe, on fait comme ça. Donc 1550 plus le 4 TO contre votre PC. C'est OK pour vous?",
       "text" : "Est-ce que ce serait possible pour vous? Je me renseigne sur les trajets et où je vais essayer de demander à mon frère quand il est dispo et on vient récupérer le PC. Si ça vous chauffe, on fait comme ça. Donc 1550 plus le 4 TO contre votre PC. C'est OK pour vous?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815052099.805056,
+      "id" : "3E059198-C7C8-4821-96AB-E0AA6E69AFB1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, je comprends. Cependant, c'est un peu trop hors de mon budget. Merci beaucoup.",
+      "text" : "Ok, je comprends. Cependant, c'est un peu trop hors de mon budget. Merci beaucoup."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815052136.607361,
+      "id" : "92BE88B0-8A62-4380-940E-E3564C2212DF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai trouvé un PC équivalent avec la même carte graphique pour le prix divisé par deux, donc je vais partir sur un processeur moins puissant. D'autant plus que vous, dans votre offre, c'est 32 Go de RAM et même pas 64, donc je trouve ça un petit peu cher. Je ne sais pas ce qui justifie autant un prix aussi élevé. Après, vous le vendez sans doute neuf, mais bon, je vais pas choisir votre offre cette fois-ci. Merci à vous.",
+      "text" : "J'ai trouvé un PC équivalent avec la même carte graphique pour le prix divisé par deux, donc je vais partir sur un processeur moins puissant. D'autant plus que vous, dans votre offre, c'est 32 Go de RAM et même pas 64, donc je trouve ça un petit peu cher. Je ne sais pas ce qui justifie autant un prix aussi élevé. Après, vous le vendez sans doute neuf, mais bon, je vais pas choisir votre offre cette fois-ci. Merci à vous."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815052168.215086,
+      "id" : "25E7D81D-93DF-4B00-94AC-CA58882F9970",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Merci en tout cas, Christophe, pour avoir pris le temps de me répondre.",
+      "text" : "Merci en tout cas, Christophe, pour avoir pris le temps de me répondre."
     }
   ],
   "modes" : [
