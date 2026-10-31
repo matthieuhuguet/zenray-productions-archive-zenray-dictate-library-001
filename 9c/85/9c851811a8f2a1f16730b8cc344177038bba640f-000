@@ -21139,6 +21139,246 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Et je joue contre une Elise. Elise, c'est un peu chiant contre Shogun, j'ai l'impression.",
       "text" : "Et je joue contre une Elise. Elise, c'est un peu chiant contre Shogun, j'ai l'impression."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815104277.065019,
+      "id" : "20657CAA-548A-4F5B-A8F7-19029733A562",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai gagné hyper rapidement, tout simplement en faisant un full clear et en disant well play à mes mates. Et ensuite j'ai invade la jungle ennemie de la Elise pour aider mon midliner et on a tué Elise et du coup bah, on a complètement gagné.",
+      "text" : "J'ai gagné hyper rapidement, tout simplement en faisant un full clear et en disant well play à mes mates. Et ensuite j'ai invade la jungle ennemie de la Elise pour aider mon midliner et on a tué Elise et du coup bah, on a complètement gagné."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815104803.867322,
+      "id" : "8FF1D973-C3E1-42EC-8355-C974444660A0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai du pic Kaïsa, je prends quoi comme item de départ et comme build? Là j'ai pris une Doran Blade. Mais il y a un nouvel arc qui s'appelle Doran Bow, je crois. Bon, j'ai pris Doran",
+      "text" : "J'ai du pic Kaïsa, je prends quoi comme item de départ et comme build? Là j'ai pris une Doran Blade. Mais il y a un nouvel arc qui s'appelle Doran Bow, je crois. Bon, j'ai pris Doran"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815106895.713612,
+      "id" : "AC131ED0-3ABD-42E1-B265-FAD05363F8B8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, la game est gagnée avec Aïssa. J'ai joué très bien, même si à un moment je me suis un peu déconcentré, mais sinon je pense que j'ai bien joué.",
+      "text" : "Ok, la game est gagnée avec Aïssa. J'ai joué très bien, même si à un moment je me suis un peu déconcentré, mais sinon je pense que j'ai bien joué."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815107342.138871,
+      "id" : "153C25E1-686C-42DD-A779-F90AC270D530",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, mon pire counter, c'est qui exactement? C'est comment il s'appelle? C'est peut-être c'est quoi ça?",
+      "text" : "Du coup, mon pire counter, c'est qui exactement? C'est comment il s'appelle? C'est peut-être c'est quoi ça?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815107356.619298,
+      "id" : "6E12FB6B-9AF8-4E5E-A0DD-C6DCD50BBDB5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Là, j'affronte un Lee Sin. À mon avis, il va être très très fort en early.",
+      "text" : "Là, j'affronte un Lee Sin. À mon avis, il va être très très fort en early."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815109477.505252,
+      "id" : "C2B4D7DF-F458-45D1-AC32-C65875B6C792",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, je viens de relancer, je viens de regagner une game avec Shogat.",
+      "text" : "Ok, je viens de relancer, je viens de regagner une game avec Shogat."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815109495.848501,
+      "id" : "3F7CC175-E3FD-418D-BCB3-E095ACC160D7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai gagné parce que j'ai joué les objectifs et parce que Lee Sin a essayé de m'invade un peu early. Et moi j'ai simplement construit uniquement de l'armure. Et du coup, bah, j'ai gagné contre lui, quoi.",
+      "text" : "J'ai gagné parce que j'ai joué les objectifs et parce que Lee Sin a essayé de m'invade un peu early. Et moi j'ai simplement construit uniquement de l'armure. Et du coup, bah, j'ai gagné contre lui, quoi."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815111920.89149,
+      "id" : "243DC324-B16C-4DB6-BC82-8D606B5766AD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Encore une game de gagner pour Shogat.",
+      "text" : "Encore une game de gagner pour Shogat."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815112056.919381,
+      "id" : "9CF27CAA-57BA-4B82-9C0F-7187AADAD6E1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Identifie simplement pourquoi Claude ne s'est pas modélisé.",
+      "text" : "Identifie simplement pourquoi Claude ne s'est pas modélisé."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815112153.478861,
+      "id" : "946CF5E0-97FC-426B-9EFB-0F6B26CA7838",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je sais pas, on dirait que tu prends même pas en compte tout ce qui va être on dirait que tu prends même pas tout ce qui va être ZenRay meshes. Enfin, on a créé un algorithme de plus de 300 sections et tu l'utilises même pas pour, pour faire un component atomique, donc je sais pas trop quoi te dire. Enfin, c'est même pas je sais pas trop quoi te dire, c'est je comprends pas pourquoi tu le fais pas.",
+      "text" : "Je sais pas, on dirait que tu prends même pas en compte tout ce qui va être on dirait que tu prends même pas tout ce qui va être ZenRay meshes. Enfin, on a créé un algorithme de plus de 300 sections et tu l'utilises même pas pour, pour faire un component atomique, donc je sais pas trop quoi te dire. Enfin, c'est même pas je sais pas trop quoi te dire, c'est je comprends pas pourquoi tu le fais pas."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815112234.684014,
+      "id" : "BD5CBE0E-E93B-4BB1-AB01-818CC88A0950",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ah, je dois rejouer Kaïssa. Est-ce que tu peux me redonner le build du coup? Parce que je suis autophilé ADC là. Je sais pas si je joue l'étal tambour ou Prezi attaque.",
+      "text" : "Ah, je dois rejouer Kaïssa. Est-ce que tu peux me redonner le build du coup? Parce que je suis autophilé ADC là. Je sais pas si je joue l'étal tambour ou Prezi attaque."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815112386.314255,
+      "id" : "990A6DF1-B314-464D-9AF9-328039D43AE5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais du coup, question, quand je joue ADC, est-ce que le plan de jeu change un petit peu? Ou alors c'est toujours on focus la priorité numéro 1, à savoir les objectifs? Il faut une petite section pour savoir comment jouer bien Kai'Sa, surtout de platine à diamant.",
+      "text" : "Mais du coup, question, quand je joue ADC, est-ce que le plan de jeu change un petit peu? Ou alors c'est toujours on focus la priorité numéro 1, à savoir les objectifs? Il faut une petite section pour savoir comment jouer bien Kai'Sa, surtout de platine à diamant."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815113993.861684,
+      "id" : "F70E4C5B-3C58-4B73-AF32-8F16E02404C9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Par contre, bon, je viens de perdre la game. J'ai fait 12-2 avec Kaïsa. J'ai fait vraiment une superbe game. Mais par contre, mon jungler n'a pris aucun objectif, malheureusement. Alors que je lui ai dit de prendre les objectifs. Et au final, on a perdu parce que... parce qu'en fait, il y avait un Emerdinger qui était ultra fed. Et moi, je pouvais pas trop m'approcher en teamfight sans tuer les épées, alors que j'aurais OS n'importe qui, mais bon. Par contre, là, j'ai repris Shogat. Il y a une compo Mordekaiser, Yunara, Séraphine, Yasuo. Donc je pense que c'est pas mal. Contre Lulu, Sion, Vayne, Cassiopeia, Vi. Donc analyse avec les mathématiques, la compo. Et quoi faire. Et par contre, je connais pas les spells de Yunara qui joue dans mon équipe. Donc décris-les-moi, s'il te plaît.",
+      "text" : "Par contre, bon, je viens de perdre la game. J'ai fait 12-2 avec Kaïsa. J'ai fait vraiment une superbe game. Mais par contre, mon jungler n'a pris aucun objectif, malheureusement. Alors que je lui ai dit de prendre les objectifs. Et au final, on a perdu parce que... parce qu'en fait, il y avait un Emerdinger qui était ultra fed. Et moi, je pouvais pas trop m'approcher en teamfight sans tuer les épées, alors que j'aurais OS n'importe qui, mais bon. Par contre, là, j'ai repris Shogat. Il y a une compo Mordekaiser, Yunara, Séraphine, Yasuo. Donc je pense que c'est pas mal. Contre Lulu, Sion, Vayne, Cassiopeia, Vi. Donc analyse avec les mathématiques, la compo. Et quoi faire. Et par contre, je connais pas les spells de Yunara qui joue dans mon équipe. Donc décris-les-moi, s'il te plaît."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815114073.623409,
+      "id" : "ACE6F39B-1FD8-4091-B639-11BA5A137343",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, mais en fait, je sais ce qu'il faut faire. En fait, ce qu'il faut faire, c'est générer des guides qui sont peu coûteux en lines ou en SVG, mais en module 3D, un peu comme ce qu'on avait dans ZenRay Lines. Et ensuite, tu peux générer de la 3D. Mais en fait, je pense avoir compris. En fait, ce qu'il faut, c'est générer de la 3D dans un logiciel ou un truc qui n'est pas Houdini. Et ensuite, vu que tu récupères les vecteurs, bah, tu pourras créer parfaitement le mesh. En fait, c'est comme si tu faisais un preview avec un... Je sais pas. Avec un truc de volume. Je sais pas trop.",
+      "text" : "Non, mais en fait, je sais ce qu'il faut faire. En fait, ce qu'il faut faire, c'est générer des guides qui sont peu coûteux en lines ou en SVG, mais en module 3D, un peu comme ce qu'on avait dans ZenRay Lines. Et ensuite, tu peux générer de la 3D. Mais en fait, je pense avoir compris. En fait, ce qu'il faut, c'est générer de la 3D dans un logiciel ou un truc qui n'est pas Houdini. Et ensuite, vu que tu récupères les vecteurs, bah, tu pourras créer parfaitement le mesh. En fait, c'est comme si tu faisais un preview avec un... Je sais pas. Avec un truc de volume. Je sais pas trop."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815114094.863069,
+      "id" : "67CF362A-C524-462B-BA39-2C50A05A40E8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je pense que la clé, ça va être te donner des guides qui vont permettre de faire la modélisation. Mais je sais pas. En fait, il faudrait un truc lightweight qui repère toute la modélisation. Comme ça, ça te donne les vecteurs et comme ça, tu peux le translate en Houdini.",
+      "text" : "Je pense que la clé, ça va être te donner des guides qui vont permettre de faire la modélisation. Mais je sais pas. En fait, il faudrait un truc lightweight qui repère toute la modélisation. Comme ça, ça te donne les vecteurs et comme ça, tu peux le translate en Houdini."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815116136.132975,
+      "id" : "11610B3A-C106-4679-922F-3751B6D3B1D1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bon, j'ai encore perdu avec Shogat. Je me suis fait complètement counter par une vaille. Peut-être qu'il faudrait me donner des conseils pour battre la vaille.",
+      "text" : "Bon, j'ai encore perdu avec Shogat. Je me suis fait complètement counter par une vaille. Peut-être qu'il faudrait me donner des conseils pour battre la vaille."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815116406.903683,
+      "id" : "9309615E-8321-417D-9D39-AAB4AB15AC07",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, j'ai pick Rengar contre Garen, Echo, Brome, Lee Sin, Kai'Sa. Du coup, j'ai pris Conqueror. Et peut-être que je vais jouer Rengar Tank, du coup, mais je pense que c'est de la merde, j'aurais pas dû pick Rengar. Je vais essayer de gank vraiment la bot lane. Et je vais essayer de faire les objectifs. Comment est-ce qu'on joue au Rengar en platine et en diamant? Essaie de faire des recherches rapidement.",
+      "text" : "Du coup, j'ai pick Rengar contre Garen, Echo, Brome, Lee Sin, Kai'Sa. Du coup, j'ai pris Conqueror. Et peut-être que je vais jouer Rengar Tank, du coup, mais je pense que c'est de la merde, j'aurais pas dû pick Rengar. Je vais essayer de gank vraiment la bot lane. Et je vais essayer de faire les objectifs. Comment est-ce qu'on joue au Rengar en platine et en diamant? Essaie de faire des recherches rapidement."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815116412.541029,
+      "id" : "03CC16BE-3DBA-48B7-AFB7-A11BB42B4940",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Où est-ce que je starte? Donne-moi un guide.",
+      "text" : "Où est-ce que je starte? Donne-moi un guide."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815117103.753231,
+      "id" : "3185912A-DA9A-4941-A7D9-03B4764F2F4F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu peux mettre les items pour",
+      "text" : "Est-ce que tu peux mettre les items pour"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815117812.78752,
+      "id" : "41DB424F-A326-4E59-9D83-C7EFBC9CC10C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je comprends rien, il faut que tu me mettes des images. Je te l'ai déjà dit, s'il te plaît. Ah non, c'est bon.",
+      "text" : "Je comprends rien, il faut que tu me mettes des images. Je te l'ai déjà dit, s'il te plaît. Ah non, c'est bon."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815118366.551595,
+      "id" : "095FCEF1-DC0F-4C6C-8CBC-73BDE87A0223",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Par contre, je suis pas convaincu par le build Rengar. Par le build Rengar que j'ai fait. Je pense que j'aurais pas dû. Pas dû partir tank en fait. Ça servait un peu à rien. Je servais absolument à rien. À part à révéler la vision pour mes alliés, je servais à rien. Donc je pense qu'il faut que je joue mieux Rengar.",
+      "text" : "Par contre, je suis pas convaincu par le build Rengar. Par le build Rengar que j'ai fait. Je pense que j'aurais pas dû. Pas dû partir tank en fait. Ça servait un peu à rien. Je servais absolument à rien. À part à révéler la vision pour mes alliés, je servais à rien. Donc je pense qu'il faut que je joue mieux Rengar."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815118424.91066,
+      "id" : "EDCBAE80-0EEA-47D4-AD29-418EB052CD0A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai gagné cette partie, mais en soi, j'aurais vraiment dû la perdre. Parce que j'ai pas du tout carré mon équipe.",
+      "text" : "J'ai gagné cette partie, mais en soi, j'aurais vraiment dû la perdre. Parce que j'ai pas du tout carré mon équipe."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815118506.510173,
+      "id" : "D495D5C7-52CE-440A-953F-4041705A6D52",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais du coup, tu penses que je peux continuer à jouer à Rengar ou il vaudra mieux que Shogat? Le truc, c'est que je m'amuse pas du tout à jouer Shogat. J'aime bien jouer à Rengar, mais le problème, c'est que bah c'est un peu chelou, quoi.",
+      "text" : "Mais du coup, tu penses que je peux continuer à jouer à Rengar ou il vaudra mieux que Shogat? Le truc, c'est que je m'amuse pas du tout à jouer Shogat. J'aime bien jouer à Rengar, mais le problème, c'est que bah c'est un peu chelou, quoi."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815120287.992239,
+      "id" : "D0C161FA-69E7-46FA-9FB3-17A9165CA3DA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bon, encore une défaite de Rengar. En vrai, je sais même pas pourquoi j'ai piqué le champion. Je pense que là, c'est la fatigue. Il est 7 h du matin. C'est un peu chiant.",
+      "text" : "Bon, encore une défaite de Rengar. En vrai, je sais même pas pourquoi j'ai piqué le champion. Je pense que là, c'est la fatigue. Il est 7 h du matin. C'est un peu chiant."
     }
   ],
   "modes" : [
