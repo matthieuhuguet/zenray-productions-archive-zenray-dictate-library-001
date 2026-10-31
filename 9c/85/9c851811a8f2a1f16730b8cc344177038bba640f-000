@@ -21499,6 +21499,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Pour Shogat, au niveau du passing jungler, est-ce que c'est toujours buff bleu, gromp, wolves, buff rouge, raptor, ou il y a des subtilités? Arrêtez de reset, s'il vous plaît.",
       "text" : "Pour Shogat, au niveau du passing jungler, est-ce que c'est toujours buff bleu, gromp, wolves, buff rouge, raptor, ou il y a des subtilités? Arrêtez de reset, s'il vous plaît."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815165596.609989,
+      "id" : "7F1EA53A-B9A4-4A7B-893C-E92C2C3CA533",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que dans le doc, t'as mis comment bien jouer Kaïsa, etc.",
+      "text" : "Est-ce que dans le doc, t'as mis comment bien jouer Kaïsa, etc."
     }
   ],
   "modes" : [
