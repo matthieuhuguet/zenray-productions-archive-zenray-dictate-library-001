@@ -21459,6 +21459,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "C'est toujours pas ça que je t'ai demandé, t'es ultra con. En fait, ce que je demandais, c'est le chemin de jungle avec Shogat. Farmer efficacement et avoir beaucoup de CS.",
       "text" : "C'est toujours pas ça que je t'ai demandé, t'es ultra con. En fait, ce que je demandais, c'est le chemin de jungle avec Shogat. Farmer efficacement et avoir beaucoup de CS."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815147121.313812,
+      "id" : "F5889A74-5247-4190-9818-93FF65E231B6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il faut que tu le mettes dans la section. Et update aussi, je viens de perdre une game de Shogat.",
+      "text" : "Il faut que tu le mettes dans la section. Et update aussi, je viens de perdre une game de Shogat."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815147133.423352,
+      "id" : "B0D90655-22F2-4647-8E7F-5A59943CF2AA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Avec le sommaire, je dois pouvoir cliquer dessus. Et ajoute des toggles pour pouvoir ajouter ou soustraire des trucs visuellement.",
+      "text" : "Avec le sommaire, je dois pouvoir cliquer dessus. Et ajoute des toggles pour pouvoir ajouter ou soustraire des trucs visuellement."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815147571.100233,
+      "id" : "219273B4-9F68-4C08-B795-1A553CA5D8E1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que l'ordre pour avoir les CS, c'est toujours le même ordre?",
+      "text" : "Est-ce que l'ordre pour avoir les CS, c'est toujours le même ordre?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815147616.988731,
+      "id" : "731FCE57-85BA-4192-94C9-0002EE1487C7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pour Shogat, au niveau du passing jungler, est-ce que c'est toujours buff bleu, gromp, wolves, buff rouge, raptor, ou il y a des subtilités? Arrêtez de reset, s'il vous plaît.",
+      "text" : "Pour Shogat, au niveau du passing jungler, est-ce que c'est toujours buff bleu, gromp, wolves, buff rouge, raptor, ou il y a des subtilités? Arrêtez de reset, s'il vous plaît."
     }
   ],
   "modes" : [
