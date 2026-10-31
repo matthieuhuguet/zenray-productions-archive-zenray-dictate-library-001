@@ -21379,6 +21379,86 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Bon, encore une défaite de Rengar. En vrai, je sais même pas pourquoi j'ai piqué le champion. Je pense que là, c'est la fatigue. Il est 7 h du matin. C'est un peu chiant.",
       "text" : "Bon, encore une défaite de Rengar. En vrai, je sais même pas pourquoi j'ai piqué le champion. Je pense que là, c'est la fatigue. Il est 7 h du matin. C'est un peu chiant."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815138858.201352,
+      "id" : "8F62D017-8600-4702-B97E-2D0472B75176",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Là, je vais jouer Shogat. Ma team, c'est Lux, Kog'Maw, Shogat, Karma, Vayne. Contre Qiyana, Thresh, Syndra, Jinx, Volibear. Ils ont une meilleure team en face. Mais je pense qu'on va quand même gagner.",
+      "text" : "Là, je vais jouer Shogat. Ma team, c'est Lux, Kog'Maw, Shogat, Karma, Vayne. Contre Qiyana, Thresh, Syndra, Jinx, Volibear. Ils ont une meilleure team en face. Mais je pense qu'on va quand même gagner."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815142360.45106,
+      "id" : "002ECE91-0146-44BE-A05A-1D8B6DC3A06D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ouais, en fait, il faut vraiment que je joue uniquement Wukong Shogat, et si je suis autophile ADC, que je joue Kai'Sa. Et il faut vraiment que je me limite à ces trois piques et que je joue rien d'autre. Parce que Wukong, c'est vraiment super fort. Même sur la prise d'objectif, c'est vraiment pas mal.",
+      "text" : "Ouais, en fait, il faut vraiment que je joue uniquement Wukong Shogat, et si je suis autophile ADC, que je joue Kai'Sa. Et il faut vraiment que je me limite à ces trois piques et que je joue rien d'autre. Parce que Wukong, c'est vraiment super fort. Même sur la prise d'objectif, c'est vraiment pas mal."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815142454.732165,
+      "id" : "6363BEEB-BE35-4D5A-9E09-14A3CDCD6397",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Quel champion est-ce que tu conseillerais dans ce cas-là?",
+      "text" : "Quel champion est-ce que tu conseillerais dans ce cas-là?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815145158.547182,
+      "id" : "DFCE44BB-F2E8-416E-AA58-7D155466A5FC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, c'est depuis Shogat, j'ai gagné 2 games. Si tu regardes mon historique, j'ai gagné 2 games avec Wukong. Et là, je rejoue Shogat cette game.",
+      "text" : "Non, c'est depuis Shogat, j'ai gagné 2 games. Si tu regardes mon historique, j'ai gagné 2 games avec Wukong. Et là, je rejoue Shogat cette game."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815145333.367231,
+      "id" : "45453134-1F46-4A73-BE64-0BCDA86BB00A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Par contre, en fait, je fais toujours les clear jungle de manière dégueulasse. En fait, mais c'est aussi parce que je focus les carapateurs un peu en premier. Du coup, ça fait que je vais souvent d'abord dans ma. D'abord jusqu'au carapateur pour le tuer, pour ensuite faire le gromp, pour ensuite faire le bleu. Et j'ai l'impression que mon clear jungle, il n'est pas optimisé pour avoir 100 CS à 10 minutes de jeu, tu vois. Ou quelque chose de similaire, tu vois. Donc en fait, il faut que tu m'expliques dans une première partie le chemin de la jungle si je veux farm de manière optimale.",
+      "text" : "Par contre, en fait, je fais toujours les clear jungle de manière dégueulasse. En fait, mais c'est aussi parce que je focus les carapateurs un peu en premier. Du coup, ça fait que je vais souvent d'abord dans ma. D'abord jusqu'au carapateur pour le tuer, pour ensuite faire le gromp, pour ensuite faire le bleu. Et j'ai l'impression que mon clear jungle, il n'est pas optimisé pour avoir 100 CS à 10 minutes de jeu, tu vois. Ou quelque chose de similaire, tu vois. Donc en fait, il faut que tu m'expliques dans une première partie le chemin de la jungle si je veux farm de manière optimale."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815145578.170177,
+      "id" : "9174FCC5-27A0-4AAE-9D9A-7A7AD3ECBD30",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, c'est pas ça que je te demandais. Je te demandais dans un contexte de farm, qu'est-ce que je dois faire pour farm efficacement?",
+      "text" : "Non, c'est pas ça que je te demandais. Je te demandais dans un contexte de farm, qu'est-ce que je dois faire pour farm efficacement?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815145677.062332,
+      "id" : "E5861189-38B1-4A09-B6AC-4D552D3EAF94",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "notamment avec Shogat.",
+      "text" : "notamment avec Shogat."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815145868.169634,
+      "id" : "0A68F041-A628-47D9-9470-9F869CDD2F1D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est toujours pas ça que je t'ai demandé, t'es ultra con. En fait, ce que je demandais, c'est le chemin de jungle avec Shogat. Farmer efficacement et avoir beaucoup de CS.",
+      "text" : "C'est toujours pas ça que je t'ai demandé, t'es ultra con. En fait, ce que je demandais, c'est le chemin de jungle avec Shogat. Farmer efficacement et avoir beaucoup de CS."
     }
   ],
   "modes" : [
