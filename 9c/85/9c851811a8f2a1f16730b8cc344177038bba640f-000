@@ -19779,6 +19779,1366 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Merde, je me suis trompé de conversation. Continue du coup le travail sur la retopologie. T'en es où actuellement? Donne-moi des schémas, s'il te plaît.",
       "text" : "Merde, je me suis trompé de conversation. Continue du coup le travail sur la retopologie. T'en es où actuellement? Donne-moi des schémas, s'il te plaît."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815064971.446532,
+      "id" : "FD76AEAB-E92D-4A79-89D2-4586DB4B3058",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Un visuel avec l'objet 3D, du coup. Pas un visuel sans rien, ça me sert à rien, là. Ça n'a aucun sens, ce que tu fais.",
+      "text" : "Un visuel avec l'objet 3D, du coup. Pas un visuel sans rien, ça me sert à rien, là. Ça n'a aucun sens, ce que tu fais."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815065208.733687,
+      "id" : "22F62A90-A168-4BAC-9C75-7726EDA59FBC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah, du coup, il faut merger les deux méthodes qui sont les plus intéressantes, à savoir, du coup, une méthode hybride, en fait. Donc, une méthode hybride entre ZenRay Lines et tout le reste. Parce que tu vois bien qu'on n'est encore pas du tout au résultat final. Même si ça progresse pas mal. Hein. On progresse pas mal. Hein. Mais c'est juste que maintenant, il faut merger, à mon avis, ZenRay, tout ce qu'on a appris sur ZenRay Lines et tout ce qu'on a appris sur Quad Wild Organic, et tout merge dans une dans un nouveau soft qui s'appelle ZenRay Retopology, pour être sûr qu'on ne se trompe pas dans les noms à terme, et bah, du coup transférer toutes les occurrences en termes de renaming sur l'outil. Sachant que, je ne sais pas si on garde vraiment le nom ZenRay Lines, puisque ZenRay Lines ne servira qu'à faire la retopologie, et que de toute manière, on veut que... En fait, au final, on veut que ce soit ZenRay Meshes, tu vois, qui fasse la retopologie. Donc en fait, on va ni l'appeler ZenRay Lines, ni l'appeler ZenRay Retopologie, on va l'appeler ZenRay Meshes. Et dans ZenRay Meshes, il y aura un module qui s'appellera sans doute ZenRay Retopologie, et c'est ça qu'on va utiliser. Et en fait, il faut quand même garder tout le travail existant sur l'algorithme de ZenRay Lines, tout en permettant à Quad Wild et à ZenRay Lines de franchir un niveau supérieur pour avoir bah déjà, ne serait-ce que tous les feedbacks qu'on a notés, et avoir une retopologie vraiment parfaite sur n'importe quelle face. Donc on garde ce qu'on voulait faire, c'est-à-dire any meshes, any surfaces, organic or hard surface, et on avance.",
+      "text" : "Bah, du coup, il faut merger les deux méthodes qui sont les plus intéressantes, à savoir, du coup, une méthode hybride, en fait. Donc, une méthode hybride entre ZenRay Lines et tout le reste. Parce que tu vois bien qu'on n'est encore pas du tout au résultat final. Même si ça progresse pas mal. Hein. On progresse pas mal. Hein. Mais c'est juste que maintenant, il faut merger, à mon avis, ZenRay, tout ce qu'on a appris sur ZenRay Lines et tout ce qu'on a appris sur Quad Wild Organic, et tout merge dans une dans un nouveau soft qui s'appelle ZenRay Retopology, pour être sûr qu'on ne se trompe pas dans les noms à terme, et bah, du coup transférer toutes les occurrences en termes de renaming sur l'outil. Sachant que, je ne sais pas si on garde vraiment le nom ZenRay Lines, puisque ZenRay Lines ne servira qu'à faire la retopologie, et que de toute manière, on veut que... En fait, au final, on veut que ce soit ZenRay Meshes, tu vois, qui fasse la retopologie. Donc en fait, on va ni l'appeler ZenRay Lines, ni l'appeler ZenRay Retopologie, on va l'appeler ZenRay Meshes. Et dans ZenRay Meshes, il y aura un module qui s'appellera sans doute ZenRay Retopologie, et c'est ça qu'on va utiliser. Et en fait, il faut quand même garder tout le travail existant sur l'algorithme de ZenRay Lines, tout en permettant à Quad Wild et à ZenRay Lines de franchir un niveau supérieur pour avoir bah déjà, ne serait-ce que tous les feedbacks qu'on a notés, et avoir une retopologie vraiment parfaite sur n'importe quelle face. Donc on garde ce qu'on voulait faire, c'est-à-dire any meshes, any surfaces, organic or hard surface, et on avance."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815065229.923353,
+      "id" : "1B24193B-C859-456F-ACEA-582931EA9884",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je te propose d'utiliser du coup des agents Haiku 5.5 qui vont du coup faire tout le travail de merge d'occurrence pour savoir jusqu'où aller.",
+      "text" : "Je te propose d'utiliser du coup des agents Haiku 5.5 qui vont du coup faire tout le travail de merge d'occurrence pour savoir jusqu'où aller."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815065243.926915,
+      "id" : "891813B4-CD64-4484-BBBC-02D3CB128CC1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "pour fusionner désormais les méthodes, en fait, et pour prendre le meilleur de chaque méthode.",
+      "text" : "pour fusionner désormais les méthodes, en fait, et pour prendre le meilleur de chaque méthode."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815065252.131769,
+      "id" : "F362E016-93C0-4822-B369-A56860AD143D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et du coup, ZenRay Lines devient ZenRay Meshes.",
+      "text" : "Et du coup, ZenRay Lines devient ZenRay Meshes."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815065256.725096,
+      "id" : "2689439C-2A10-4CED-BD7E-8EF156A03E25",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je veux vérifier que tu as bien compris. Hein.",
+      "text" : "Je veux vérifier que tu as bien compris. Hein."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815065354.461535,
+      "id" : "91F941E4-180F-44E0-BF1B-D102D2D17854",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Quad Wild est hyper prometteur, mais il attend encore pas un niveau suffisamment parfait, notamment dans le straighten des quad mesh, pour que ce soit un travail d'une perfection mathématique absolue. Donc c'est pourquoi il faut merge aussi l'algorithme de ZenRay Lines et créer une nouvelle méthode. Et tout concilier tout le travail existant via des agents Haiku Max 5.5 qui vont reprendre déjà toute la documentation, tout le dataset, pour vraiment venir merge les méthodes et ensuite continuer d'améliorer ZenRay Meshes dans le module de retopologie.",
+      "text" : "Quad Wild est hyper prometteur, mais il attend encore pas un niveau suffisamment parfait, notamment dans le straighten des quad mesh, pour que ce soit un travail d'une perfection mathématique absolue. Donc c'est pourquoi il faut merge aussi l'algorithme de ZenRay Lines et créer une nouvelle méthode. Et tout concilier tout le travail existant via des agents Haiku Max 5.5 qui vont reprendre déjà toute la documentation, tout le dataset, pour vraiment venir merge les méthodes et ensuite continuer d'améliorer ZenRay Meshes dans le module de retopologie."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815065467.654725,
+      "id" : "48A15FC6-C094-467D-9542-138FD25AA4C9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et du coup, il faut que tu continues aussi de demander à l'agent qu'est-ce que l'agent a appris. Donc l'agent, là, tu vois, il est toujours en recherche. Il est toujours en recherche active. Donc tu lui poses des questions pour savoir... d'ailleurs, je pense que tu peux arrêter l'agent pour le moment. Et je ne sais pas si c'est possible, mais vu que j'ai des cloud session credits, j'ai 209$, j'aimerais plutôt passer l'agent de recherche, puisque c'est uniquement de la recherche et que tu n'as pas besoin de lancer un agent local. Si tu peux me le lancer directement en cloud session, depuis Claude, C-L-A-U-D-E, ça m'arrangerait énormément, étant donné que j'ai du crédit et que là, ça me consomme ma limite journalière. Donc si tu peux le lancer directement, tu arrêtes l'agent existant, tu lui redonnes exactement la même consigne que celui qui avait en lui disant qu'il y a déjà une recherche qui a été faite, tu consignes toutes les recherches qui ont déjà été faites par l'agent et tu relances la recherche pour qu'elle continue en parallèle, mais sur une session cloud, pas sur une session locale. Parce que comme ça, ça me permet d'utiliser mon crédit qui s'appelle Cloud Session Credit. Normalement, tu peux regarder dans la documentation de Claude Code pour savoir exactement comment lancer un agent en cloud directement. Tu peux aussi lancer une autre session, et c'est ça que je te demande. Et ensuite, tu sends message via des... Tu peux aussi setup un MCP pour créer la méthode si tu en as besoin. C'est forcément possible de faire ce que je veux.",
+      "text" : "Et du coup, il faut que tu continues aussi de demander à l'agent qu'est-ce que l'agent a appris. Donc l'agent, là, tu vois, il est toujours en recherche. Il est toujours en recherche active. Donc tu lui poses des questions pour savoir... d'ailleurs, je pense que tu peux arrêter l'agent pour le moment. Et je ne sais pas si c'est possible, mais vu que j'ai des cloud session credits, j'ai 209$, j'aimerais plutôt passer l'agent de recherche, puisque c'est uniquement de la recherche et que tu n'as pas besoin de lancer un agent local. Si tu peux me le lancer directement en cloud session, depuis Claude, C-L-A-U-D-E, ça m'arrangerait énormément, étant donné que j'ai du crédit et que là, ça me consomme ma limite journalière. Donc si tu peux le lancer directement, tu arrêtes l'agent existant, tu lui redonnes exactement la même consigne que celui qui avait en lui disant qu'il y a déjà une recherche qui a été faite, tu consignes toutes les recherches qui ont déjà été faites par l'agent et tu relances la recherche pour qu'elle continue en parallèle, mais sur une session cloud, pas sur une session locale. Parce que comme ça, ça me permet d'utiliser mon crédit qui s'appelle Cloud Session Credit. Normalement, tu peux regarder dans la documentation de Claude Code pour savoir exactement comment lancer un agent en cloud directement. Tu peux aussi lancer une autre session, et c'est ça que je te demande. Et ensuite, tu sends message via des... Tu peux aussi setup un MCP pour créer la méthode si tu en as besoin. C'est forcément possible de faire ce que je veux."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815065666.767228,
+      "id" : "21ABCF7A-A3A9-4331-9FB9-F2F6E11ED9A5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pourquoi il y a marqué pourquoi il y a marqué 1.2 thousand views play short sur le titre du short sur mon site, c'est bizarre. Et pourquoi il n'y a pas les miniatures aussi, des miniatures YouTube.",
+      "text" : "Pourquoi il y a marqué pourquoi il y a marqué 1.2 thousand views play short sur le titre du short sur mon site, c'est bizarre. Et pourquoi il n'y a pas les miniatures aussi, des miniatures YouTube."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815065672.043066,
+      "id" : "8A76ECE6-0327-47C8-9846-EB6A230007BC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est peut-être une extension de ma part.",
+      "text" : "C'est peut-être une extension de ma part."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815065694.094844,
+      "id" : "49267D1B-DF8A-4C11-B2AA-DCE77804D87B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ah, quoique non, parce que là, je vois les miniatures dans le browser intégré de Claude, de Codex. Donc, c'est pas forcément ça.",
+      "text" : "Ah, quoique non, parce que là, je vois les miniatures dans le browser intégré de Claude, de Codex. Donc, c'est pas forcément ça."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815065738.954167,
+      "id" : "525AE9A1-75B5-40C0-B509-B272D8031C03",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et ensuite, il y a un autre truc que j'aimerais que tu fixes. Il y a beaucoup de gens qui font. J'ai oublié. Je vais te le rappeler plus tard.",
+      "text" : "Et ensuite, il y a un autre truc que j'aimerais que tu fixes. Il y a beaucoup de gens qui font. J'ai oublié. Je vais te le rappeler plus tard."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815065943.280892,
+      "id" : "20ADBFD7-9553-4047-BF9B-F1F54120A3A9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ah oui, j'ai retrouvé ce que je voulais faire. En fait, je voulais faire un... Normalement, j'ai déjà un modèle IA qui peut parler. Et du coup, j'aimerais qu'il dise Gambarimasho en japonais et qu'il donne la définition en un paragraphe dans un fichier audio MP3.",
+      "text" : "Ah oui, j'ai retrouvé ce que je voulais faire. En fait, je voulais faire un... Normalement, j'ai déjà un modèle IA qui peut parler. Et du coup, j'aimerais qu'il dise Gambarimasho en japonais et qu'il donne la définition en un paragraphe dans un fichier audio MP3."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815066345.99249,
+      "id" : "5B55ED83-B6D0-4411-BE5B-6A325F34C4A4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Quel modèle tu utilises pour la synthèse vocale?",
+      "text" : "Quel modèle tu utilises pour la synthèse vocale?"
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815066374.75885,
+      "id" : "71200D87-DC3D-4150-8318-EA48905100C1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "j'aurais aimé que tu puisses utiliser, comme dans ZenRay Dictate, directement le modèle de Claude quand on lui demande de parler à voix haute sur l'application Claude Code. Je trouve que le modèle de read aloud de Claude est vraiment excellent. Est-ce que tu penses que ce serait possible de l'utiliser un peu à la manière de ZenRay Dictate?",
+      "text" : "j'aurais aimé que tu puisses utiliser, comme dans ZenRay Dictate, directement le modèle de Claude quand on lui demande de parler à voix haute sur l'application Claude Code. Je trouve que le modèle de read aloud de Claude est vraiment excellent. Est-ce que tu penses que ce serait possible de l'utiliser un peu à la manière de ZenRay Dictate?"
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815066412.848165,
+      "id" : "2C7A991D-06F2-4CC2-974E-20F16A2542C2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, j'ai pas besoin de l'utiliser dans ZenRay Dictate. C'est juste que dans ZenRay Dictate, on utilise le module Dictate, et que là, je veux utiliser le modèle qui s'appelle Resume ou Read Aloud, qui est un bouton.",
+      "text" : "Non, j'ai pas besoin de l'utiliser dans ZenRay Dictate. C'est juste que dans ZenRay Dictate, on utilise le module Dictate, et que là, je veux utiliser le modèle qui s'appelle Resume ou Read Aloud, qui est un bouton."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815066504.725008,
+      "id" : "4F7843BE-3B3C-4E50-AA16-0A76A173EE02",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais non, mais ce que je veux, c'est par exemple, ce qu'on pourrait faire de manière intelligente, c'est tu fais un read aloud, tu joues pas le son, mais tu le captures dans l'audio. En fait, c'est un mini hack qu'il faut faire. Tu as raison. Ouais, il est horrible celui de ChatGPT. Celui de Claude, il est beaucoup mieux. Donc en fait, ce que je veux, c'est prendre depuis l'API, tu prends l'audio que tu fais à partir d'un de n'importe quel texte, tu cliques sur Read Aloud, et comme ça, ça te permet de d'avoir la synthèse vocale de Claude. C'est ce que j'aimerais faire.",
+      "text" : "Mais non, mais ce que je veux, c'est par exemple, ce qu'on pourrait faire de manière intelligente, c'est tu fais un read aloud, tu joues pas le son, mais tu le captures dans l'audio. En fait, c'est un mini hack qu'il faut faire. Tu as raison. Ouais, il est horrible celui de ChatGPT. Celui de Claude, il est beaucoup mieux. Donc en fait, ce que je veux, c'est prendre depuis l'API, tu prends l'audio que tu fais à partir d'un de n'importe quel texte, tu cliques sur Read Aloud, et comme ça, ça te permet de d'avoir la synthèse vocale de Claude. C'est ce que j'aimerais faire."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815066530.768828,
+      "id" : "2CDB6152-684F-40E7-86C5-4201F674A357",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et à la limite, si ça ne marche pas, il y a une solution qui est définitive, c'est tu copy-paste un texte et tu dis bah, je veux juste ce morceau. Je veux ce morceau sans aucun texte de ta part. Claude le réécrit et là tu peux cliquer sur read aloud.",
+      "text" : "Et à la limite, si ça ne marche pas, il y a une solution qui est définitive, c'est tu copy-paste un texte et tu dis bah, je veux juste ce morceau. Je veux ce morceau sans aucun texte de ta part. Claude le réécrit et là tu peux cliquer sur read aloud."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815066538.125355,
+      "id" : "80E560A9-6803-4867-89CD-7BCB3ADC710D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "évidemment, il faut automatiser tout le workflow pour que moi, je vois jamais le processus, tu vois.",
+      "text" : "évidemment, il faut automatiser tout le workflow pour que moi, je vois jamais le processus, tu vois."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815066881.571982,
+      "id" : "4D633580-2B56-4363-BC54-F90BE3E7D309",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je sais pas si tu utilises Claude, mais je viens de découvrir un truc qui est pas mal. C'est quand tu utilises du coup un agent, tu peux déléguer maintenant à enfin, déjà, tu peux déléguer à d'autres agents le travail d'une tâche tout en restant dans le thread principal. S'en bat les couilles, arrêtez le spam.",
+      "text" : "Je sais pas si tu utilises Claude, mais je viens de découvrir un truc qui est pas mal. C'est quand tu utilises du coup un agent, tu peux déléguer maintenant à enfin, déjà, tu peux déléguer à d'autres agents le travail d'une tâche tout en restant dans le thread principal. S'en bat les couilles, arrêtez le spam."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815067544.311159,
+      "id" : "3E070A9B-2B24-4FC4-83AE-46A1EC84B4BD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, quand un résultat est bloqué par l'IA, j'ai l'impression qu'il y a trois solutions, en règle générale. Soit tu demandes à l'IA, ça c'est la proposition numéro un. Soit tu délègues un échantillon de sous-agents pour diviser la tâche et la réduire à un scope qui est obtenable. Et du coup, à chaque fois que tu divises une tâche, bah, tu crées les micro-tâches ou tu crées les outils qui te permettront d'accomplir la tâche plus grande. Soit tu demandes récursivement à l'IA comment faire, comment résoudre ce problème, avec tous les tenants et les aboutissants que la question et que le contexte impliquent. Et enfin, et du coup, voilà. C'est... Et aussi, tu peux essayer de changer de méthodologie et de faire des tests ou des benchmarks de quelle méthodologie l'emporte sur une proposition d'une solution. Donc, il faudrait noter ça en priorité numéro 1 sur Claude.md et ensuite le synchroniser entre tous les agents pour que vraiment ça fonctionne parfaitement. Surtout lorsqu'il y a un problème. Il y a déjà le skill ZenRay méthodologie qui reprend un peu le concept de ça, mais j'aimerais que tu le notes ici dans Claude.md.",
+      "text" : "En fait, quand un résultat est bloqué par l'IA, j'ai l'impression qu'il y a trois solutions, en règle générale. Soit tu demandes à l'IA, ça c'est la proposition numéro un. Soit tu délègues un échantillon de sous-agents pour diviser la tâche et la réduire à un scope qui est obtenable. Et du coup, à chaque fois que tu divises une tâche, bah, tu crées les micro-tâches ou tu crées les outils qui te permettront d'accomplir la tâche plus grande. Soit tu demandes récursivement à l'IA comment faire, comment résoudre ce problème, avec tous les tenants et les aboutissants que la question et que le contexte impliquent. Et enfin, et du coup, voilà. C'est... Et aussi, tu peux essayer de changer de méthodologie et de faire des tests ou des benchmarks de quelle méthodologie l'emporte sur une proposition d'une solution. Donc, il faudrait noter ça en priorité numéro 1 sur Claude.md et ensuite le synchroniser entre tous les agents pour que vraiment ça fonctionne parfaitement. Surtout lorsqu'il y a un problème. Il y a déjà le skill ZenRay méthodologie qui reprend un peu le concept de ça, mais j'aimerais que tu le notes ici dans Claude.md."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815067798.23506,
+      "id" : "25E6FEBE-1B47-4DFB-B33D-DBC86CC6EEF2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ouais, tu as noté quoi comme règle?",
+      "text" : "Ouais, tu as noté quoi comme règle?"
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815067841.399098,
+      "id" : "FE023487-0119-41BF-8D0B-0133E0DADF42",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai l'impression qu'on peut faire une architecture which rules beaucoup plus intelligente. Le problème de which rules, c'est que ça coïncide pas forcément avec la documentation.",
+      "text" : "J'ai l'impression qu'on peut faire une architecture which rules beaucoup plus intelligente. Le problème de which rules, c'est que ça coïncide pas forcément avec la documentation."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815067913.881408,
+      "id" : "20208BEC-5A4D-4F7D-8843-94A5883A95B7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, le truc, c'est qu'il faudrait que tu le... Comment dire ? Voilà, le problème, c'est que which rules est un fichier JavaScript qui peut se tromper en fonction de la demande de l'agent. Et en fait, il vaudrait mieux changer ce protocole juste pour le faire correspondre à la documentation de Claude Code, voire de Codex, mais plutôt de Claude Code surtout, puisque là, on est dans un fichier qui s'appelle Claude. Et pour être sûr que ça fonctionne. Je crois que j'avais une documentation sur les fichiers rules qui marchait bien pour charger ou décharger des fichiers de manière plus intelligente que le faire par un JavaScript. Il faudrait qu'en fait ce soit l'agent qui choisisse et pas un script. Parce que le script peut se tromper et l'agent, il y a moins de chances, tu vois, qu'il se trompe.",
+      "text" : "En fait, le truc, c'est qu'il faudrait que tu le... Comment dire ? Voilà, le problème, c'est que which rules est un fichier JavaScript qui peut se tromper en fonction de la demande de l'agent. Et en fait, il vaudrait mieux changer ce protocole juste pour le faire correspondre à la documentation de Claude Code, voire de Codex, mais plutôt de Claude Code surtout, puisque là, on est dans un fichier qui s'appelle Claude. Et pour être sûr que ça fonctionne. Je crois que j'avais une documentation sur les fichiers rules qui marchait bien pour charger ou décharger des fichiers de manière plus intelligente que le faire par un JavaScript. Il faudrait qu'en fait ce soit l'agent qui choisisse et pas un script. Parce que le script peut se tromper et l'agent, il y a moins de chances, tu vois, qu'il se trompe."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815067931.775744,
+      "id" : "A3B70E8B-697D-49F5-ACBC-E9DA1CC613ED",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "propose quelque chose de beaucoup plus intelligent et, par rapport à la documentation et les recommandations d'Anthropic. Et en fonction, on appliquera les modifications et toutes les occurrences à changer.",
+      "text" : "propose quelque chose de beaucoup plus intelligent et, par rapport à la documentation et les recommandations d'Anthropic. Et en fonction, on appliquera les modifications et toutes les occurrences à changer."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815067953.733292,
+      "id" : "3B5512D4-A518-4670-9E82-C68596D1A576",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "le problème actuel à résoudre, c'est que beaucoup de fois, le script which rules se trompe. Donc j'aimerais passer, non pas par du code, mais plutôt par une décision agentique de quel fichier charger ou pas.",
+      "text" : "le problème actuel à résoudre, c'est que beaucoup de fois, le script which rules se trompe. Donc j'aimerais passer, non pas par du code, mais plutôt par une décision agentique de quel fichier charger ou pas."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815068121.299215,
+      "id" : "6A90F205-CD77-48E0-972A-6713C8D3E0C6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "À mon avis, la méthode actuelle n'est pas suffisamment solide pour que l'agent ne se trompe jamais. Il faut trouver une méthode qui fasse que l'agent se trompe jamais dans 100% des cas, en fait.",
+      "text" : "À mon avis, la méthode actuelle n'est pas suffisamment solide pour que l'agent ne se trompe jamais. Il faut trouver une méthode qui fasse que l'agent se trompe jamais dans 100% des cas, en fait."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815068153.580878,
+      "id" : "DD2139AC-BB5D-44E5-A4BA-58B56BFECBCC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Obtenir un score de 99,9% serait déjà une très bonne chose. Mais j'ai l'impression que ta méthode n'est pas assez structurée pour qu'il n'y ait aucune erreur en fonction de tous les fichiers qui sont dans le dossier rules. Mais je crois que tu peux faire une recherche sur la documentation des règles de Claude Code. Et il y avait les fichiers rules, par exemple, qui se jouaient automatiquement un peu comme des fichiers claude.md.",
+      "text" : "Obtenir un score de 99,9% serait déjà une très bonne chose. Mais j'ai l'impression que ta méthode n'est pas assez structurée pour qu'il n'y ait aucune erreur en fonction de tous les fichiers qui sont dans le dossier rules. Mais je crois que tu peux faire une recherche sur la documentation des règles de Claude Code. Et il y avait les fichiers rules, par exemple, qui se jouaient automatiquement un peu comme des fichiers claude.md."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815068170.680892,
+      "id" : "365899D3-8C47-4517-ADA8-5079D92466E7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "essayer de trouver une documentation intéressante qui pourrait résoudre ce problème.",
+      "text" : "essayer de trouver une documentation intéressante qui pourrait résoudre ce problème."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815068407.120404,
+      "id" : "0B6FB632-98F1-4677-829E-47ADB4876FBA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah du coup, en fait, on avait plus ou moins déjà la bonne solution, étant donné que les fichiers sont déjà rangés dans des, comment dire, dans des dossiers rules. Il suffit du coup de mettre le pass complet pour s'en assurer et de dire à l'agent qu'il y a un catalogue de trucs et d'enlever le truc et de consigner en fait tout ce que tu viens de me dire. En mode, tous les mécanismes des règles conditionnelles de Claude, le noter au moment de ce qu'on a modifié et de penser à tout en fait. Et comme ça, tu notes les trois méthodes. Donc les fichiers, ils sont consignés dans rules. Ils sont indiqués avec un pass complet. Enfin, je ne sais pas si la méthodologie demande que ce soit un pass complet ou s'il a déjà par rapport à l'environnement, mais s'il n'y a pas l'environnement, il vaut mieux mettre un pass complet. À mon avis, hein, après je ne sais pas, mais je pense que oui. Et le claude.md global... Donc indiquer dans le skill donc claude.md global ces trois méthodes. Avec un descriptif aussi dans claude.md sur un peu plus complet sur le résumé du fichier.md comme s'il s'agissait d'un skills. Mais sans dire que c'en est un. C'est pas des skills, tu vois, c'est des fichiers de data.",
+      "text" : "Bah du coup, en fait, on avait plus ou moins déjà la bonne solution, étant donné que les fichiers sont déjà rangés dans des, comment dire, dans des dossiers rules. Il suffit du coup de mettre le pass complet pour s'en assurer et de dire à l'agent qu'il y a un catalogue de trucs et d'enlever le truc et de consigner en fait tout ce que tu viens de me dire. En mode, tous les mécanismes des règles conditionnelles de Claude, le noter au moment de ce qu'on a modifié et de penser à tout en fait. Et comme ça, tu notes les trois méthodes. Donc les fichiers, ils sont consignés dans rules. Ils sont indiqués avec un pass complet. Enfin, je ne sais pas si la méthodologie demande que ce soit un pass complet ou s'il a déjà par rapport à l'environnement, mais s'il n'y a pas l'environnement, il vaut mieux mettre un pass complet. À mon avis, hein, après je ne sais pas, mais je pense que oui. Et le claude.md global... Donc indiquer dans le skill donc claude.md global ces trois méthodes. Avec un descriptif aussi dans claude.md sur un peu plus complet sur le résumé du fichier.md comme s'il s'agissait d'un skills. Mais sans dire que c'en est un. C'est pas des skills, tu vois, c'est des fichiers de data."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815068424.740946,
+      "id" : "BE31EBEA-B4E5-435E-A26F-FDB591D8D362",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "faire la distinction entre les fichiers de data qui ont l'extension 1.md et les fichiers de skills qui sont chargés automatiquement en fonction d'une tâche répétitive qui aurait déjà été faite et dont le workflow aurait été approuvé.",
+      "text" : "faire la distinction entre les fichiers de data qui ont l'extension 1.md et les fichiers de skills qui sont chargés automatiquement en fonction d'une tâche répétitive qui aurait déjà été faite et dont le workflow aurait été approuvé."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815068429.905307,
+      "id" : "5D080301-C43D-4BC9-83FF-0585AE2D34BB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc, note tout ça dans Claude.md.",
+      "text" : "Donc, note tout ça dans Claude.md."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815068540.807587,
+      "id" : "B0B3F358-82A9-473C-982C-6A2514D5542C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Toujours pareil, j'ai besoin de visuels pour savoir où on en est au niveau de l'algorithme. Et ensuite, j'ai besoin que tu continues la boucle ou tu listen du coup l'agent Claude qui te donne des nouvelles méthodes de retopologie.",
+      "text" : "Toujours pareil, j'ai besoin de visuels pour savoir où on en est au niveau de l'algorithme. Et ensuite, j'ai besoin que tu continues la boucle ou tu listen du coup l'agent Claude qui te donne des nouvelles méthodes de retopologie."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815068548.83955,
+      "id" : "4B8D7276-0CEF-4DAA-B738-D7497807E330",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il faut que tu trouves aussi un bridge qui permet d'avoir les fichiers directement depuis l'agent cloud.",
+      "text" : "Il faut que tu trouves aussi un bridge qui permet d'avoir les fichiers directement depuis l'agent cloud."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815068555.292502,
+      "id" : "30501E15-2AD3-4911-B613-85ED41F918D0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Enfin, j'imagine que vu que c'est du code, il suffira de passer par GitHub, en fait.",
+      "text" : "Enfin, j'imagine que vu que c'est du code, il suffira de passer par GitHub, en fait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815068825.227138,
+      "id" : "CD5BDAC2-F383-41AE-B85E-7CC020D38ACB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ce qui manque vraiment là, c'est surtout l'aspect straighten des courbes, l'aspect symétrique des choses lorsque les modèles doivent détecter que des objets sont similaires. En fait, l'algorithme... Je sais pas, peut-être l'algorithme devrait partir d'un cube, d'une modélisation plus cubique pour apposer le quad mesh. Enfin, non, pas forcément, ça se trouve, j'ai dit de la merde, mais en fait, le truc, c'est qu'il y a vraiment un problème de straighten au niveau du quad. Et j'imagine que l'agent de recherche te donne des messages. D'ailleurs, explique-moi simplement comment fonctionne le pont.",
+      "text" : "Ce qui manque vraiment là, c'est surtout l'aspect straighten des courbes, l'aspect symétrique des choses lorsque les modèles doivent détecter que des objets sont similaires. En fait, l'algorithme... Je sais pas, peut-être l'algorithme devrait partir d'un cube, d'une modélisation plus cubique pour apposer le quad mesh. Enfin, non, pas forcément, ça se trouve, j'ai dit de la merde, mais en fait, le truc, c'est qu'il y a vraiment un problème de straighten au niveau du quad. Et j'imagine que l'agent de recherche te donne des messages. D'ailleurs, explique-moi simplement comment fonctionne le pont."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815068964.237042,
+      "id" : "65554CED-7FC3-4AA9-8F16-F2BB89311208",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, avoir un aspect, notamment sur les mèches qui sont beaucoup plus hard surface, de base, peut-être, je sais pas, verrouiller les angles, tu vois. Si tu repères qu'il y a deux angles de vraiment à 90 degrés, tu vois, ben là, dans ce cas, faire un truc un peu plus moins lissé, tu vois, et genre plus type hard surface, hard edge, et avoir une distribution topologique beaucoup plus ben, carrée, en fait. Et ouais, essayer de mieux répartir, de mieux smooth les quads pour qu'ils soient bien mis, quoi.",
+      "text" : "En fait, avoir un aspect, notamment sur les mèches qui sont beaucoup plus hard surface, de base, peut-être, je sais pas, verrouiller les angles, tu vois. Si tu repères qu'il y a deux angles de vraiment à 90 degrés, tu vois, ben là, dans ce cas, faire un truc un peu plus moins lissé, tu vois, et genre plus type hard surface, hard edge, et avoir une distribution topologique beaucoup plus ben, carrée, en fait. Et ouais, essayer de mieux répartir, de mieux smooth les quads pour qu'ils soient bien mis, quoi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815069123.32255,
+      "id" : "F684DF3B-EAB8-4A79-A4DA-03F4FCBF903F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "De toute manière, ça doit être parfait. Et tu dois prendre plein de... À mon avis, ce qui manque aussi, c'est plein d'images de référence. Donc, délègue aussi une nouvelle tâche à l'agent cloud pour qu'il commence à prendre des... Je sais pas, au moins entre 1000 et 10 000 images. Enfin, après, le problème, c'est qu'il pourra pas les lire. Donc, ce serait pas forcément pertinent, tu vois. Ouais, ça aurait pas forcément pertinence de mettre beaucoup d'images, mais c'est vrai qu'avoir un index mapping avec n'importe quel type d'objet dont on a validé la topologie, ça permettrait au moins d'avoir à l'agent des feedbacks pour retoucher la topologie et du coup avoir un dataset de topologie d'objets qui soit plus ou moins parfait. Donc tu peux commencer avec des clusters je sais pas, de 128 images, et moi je valide ou pas la topologie, tu vois, surtout par rapport à des meshes existants, et comme ça, ça permet d'avoir des références qui sont déjà index mappées sur des mots que je pourrais dire, et comme ça, tu aurais une référence avec une topologie valide. Mais je sais pas si cette méthode est intelligente, et si elle est intelligente, bah du coup, commencer par 64 images, ensuite passer à 128, ensuite passer à 256, ensuite passer à 512, ensuite passer à 1024, ensuite passer à 2048, et je pense qu'en 2048 objet, de toute manière, ça couvrira 100% des aspects topologiques. À mon avis, même 64, ça couvre tous les aspects topologiques, parce que de toute manière, la topologie, c'est toujours la même chose. C'est simplement une distribution uniforme des quad mesh avec un respect des contours de la paroi de l'objet et aussi une division par identification des components, c'est-à-dire identifier un arche, identifier une forme cubique, identifier une forme de rectangle, identifier une forme... En fait, les primitives shape et les trucs paramétriques donnent déjà des indications par rapport à des références. Donc peut-être que mon plan de chercher des références, il n'est pas pertinent. Et dans ce cas-là, bah, abandonne-le, mais donne quand même plus d'instructions à l'agent de recherche topologique cloudé pour qu'il puisse vraiment aller chercher un maximum de data et que toi, tu puisses améliorer l'algorithme à 100%, quoi.",
+      "text" : "De toute manière, ça doit être parfait. Et tu dois prendre plein de... À mon avis, ce qui manque aussi, c'est plein d'images de référence. Donc, délègue aussi une nouvelle tâche à l'agent cloud pour qu'il commence à prendre des... Je sais pas, au moins entre 1000 et 10 000 images. Enfin, après, le problème, c'est qu'il pourra pas les lire. Donc, ce serait pas forcément pertinent, tu vois. Ouais, ça aurait pas forcément pertinence de mettre beaucoup d'images, mais c'est vrai qu'avoir un index mapping avec n'importe quel type d'objet dont on a validé la topologie, ça permettrait au moins d'avoir à l'agent des feedbacks pour retoucher la topologie et du coup avoir un dataset de topologie d'objets qui soit plus ou moins parfait. Donc tu peux commencer avec des clusters je sais pas, de 128 images, et moi je valide ou pas la topologie, tu vois, surtout par rapport à des meshes existants, et comme ça, ça permet d'avoir des références qui sont déjà index mappées sur des mots que je pourrais dire, et comme ça, tu aurais une référence avec une topologie valide. Mais je sais pas si cette méthode est intelligente, et si elle est intelligente, bah du coup, commencer par 64 images, ensuite passer à 128, ensuite passer à 256, ensuite passer à 512, ensuite passer à 1024, ensuite passer à 2048, et je pense qu'en 2048 objet, de toute manière, ça couvrira 100% des aspects topologiques. À mon avis, même 64, ça couvre tous les aspects topologiques, parce que de toute manière, la topologie, c'est toujours la même chose. C'est simplement une distribution uniforme des quad mesh avec un respect des contours de la paroi de l'objet et aussi une division par identification des components, c'est-à-dire identifier un arche, identifier une forme cubique, identifier une forme de rectangle, identifier une forme... En fait, les primitives shape et les trucs paramétriques donnent déjà des indications par rapport à des références. Donc peut-être que mon plan de chercher des références, il n'est pas pertinent. Et dans ce cas-là, bah, abandonne-le, mais donne quand même plus d'instructions à l'agent de recherche topologique cloudé pour qu'il puisse vraiment aller chercher un maximum de data et que toi, tu puisses améliorer l'algorithme à 100%, quoi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815069635.923618,
+      "id" : "4D7DC738-807B-4522-929C-A1B17335E53B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Attends, mais le quad wild mechanical, il est quasi parfait. C'est quasi la perfection absolue, là.",
+      "text" : "Attends, mais le quad wild mechanical, il est quasi parfait. C'est quasi la perfection absolue, là."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815069686.194652,
+      "id" : "4483C7EF-2742-4049-9E48-96EC412EB7F7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "c'est quasi la perfection absolue. Faut absolument noter cet algorithme et essayer maintenant de le faire sur un autre mesh hard surface. Mais c'est insane, vraiment. Continue d'itérer jusqu'à ce que ce soit parfait à 100% et ensuite passe à Mani pour justement ne pas passer du coup sur un... ne pas passer sur... il faut ensuite passer sur Mani et avoir ce type de perfection du quad wild mechanical. C'est incroyable en tout cas.",
+      "text" : "c'est quasi la perfection absolue. Faut absolument noter cet algorithme et essayer maintenant de le faire sur un autre mesh hard surface. Mais c'est insane, vraiment. Continue d'itérer jusqu'à ce que ce soit parfait à 100% et ensuite passe à Mani pour justement ne pas passer du coup sur un... ne pas passer sur... il faut ensuite passer sur Mani et avoir ce type de perfection du quad wild mechanical. C'est incroyable en tout cas."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815069694.492381,
+      "id" : "38C00B46-BABA-40F4-AA8C-C2AB3857757C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "voire sur la voiture. À mon avis, on aura de meilleurs résultats sur la voiture. Mais de toute façon, il faut faire les trois en parallèle.",
+      "text" : "voire sur la voiture. À mon avis, on aura de meilleurs résultats sur la voiture. Mais de toute façon, il faut faire les trois en parallèle."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815069738.196592,
+      "id" : "9321C15A-7313-4082-90EC-66BB5D6A5AE9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Sachant qu'en plus, la voiture, c'est pas qu'une question de... C'est pas qu'une question de... Quoi de topologie, c'est aussi une question de... C'est aussi une question de draw parfaitement les components avec les lines. D'ailleurs, où on en est sur ce processus. Mais en tout cas, si on peut appliquer quad wild mechanical sur la voiture, avoir ce niveau de perfection en termes de topologie des quads, on a quasi fini. Hein. Il faut encore un tout petit peu straighten les quads sur quad wild et améliorer un tout petit peu l'algorithme, mais c'est quasi bon.",
+      "text" : "Sachant qu'en plus, la voiture, c'est pas qu'une question de... C'est pas qu'une question de... Quoi de topologie, c'est aussi une question de... C'est aussi une question de draw parfaitement les components avec les lines. D'ailleurs, où on en est sur ce processus. Mais en tout cas, si on peut appliquer quad wild mechanical sur la voiture, avoir ce niveau de perfection en termes de topologie des quads, on a quasi fini. Hein. Il faut encore un tout petit peu straighten les quads sur quad wild et améliorer un tout petit peu l'algorithme, mais c'est quasi bon."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815070185.43276,
+      "id" : "755A884F-CAB5-4903-9A8E-2570A9C01E2B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "On est bien d'accord que tu fais toujours deux choses en parallèle, c'est-à-dire depuis la voiture, tu reconstruis et en même temps, tu cherches la méthode de topologie parfaite. Mais on est d'accord qu'il y a encore deux chantiers à faire.",
+      "text" : "On est bien d'accord que tu fais toujours deux choses en parallèle, c'est-à-dire depuis la voiture, tu reconstruis et en même temps, tu cherches la méthode de topologie parfaite. Mais on est d'accord qu'il y a encore deux chantiers à faire."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815070278.432071,
+      "id" : "8C4A0BA8-905D-4FB9-9658-E3C2BC39DDCD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "via l'ancienne déformation. D'ailleurs, comment tu as appelé la méthode qui a permis en 752 phases d'obtenir la voiture depuis la référence six views? Parce qu'en fait, c'était pas mal ça. C'était même pas mal du tout. Je me pose simplement une question. C'est est-ce que ZenRay UV sera encore pertinent une fois qu'on aura la quad parfaite par component? À mon avis, oui, puisque ça nous permettra... Enfin, soit c'est différent comme truc. Mais c'est juste que vu que tu lis beaucoup plus vite que moi, ce serait peut-être pertinent que tu me récapes exactement ce que fait ZenRay UV. Mais ça, tu le fais en parallèle. Tu balances la data à un agent.",
+      "text" : "via l'ancienne déformation. D'ailleurs, comment tu as appelé la méthode qui a permis en 752 phases d'obtenir la voiture depuis la référence six views? Parce qu'en fait, c'était pas mal ça. C'était même pas mal du tout. Je me pose simplement une question. C'est est-ce que ZenRay UV sera encore pertinent une fois qu'on aura la quad parfaite par component? À mon avis, oui, puisque ça nous permettra... Enfin, soit c'est différent comme truc. Mais c'est juste que vu que tu lis beaucoup plus vite que moi, ce serait peut-être pertinent que tu me récapes exactement ce que fait ZenRay UV. Mais ça, tu le fais en parallèle. Tu balances la data à un agent."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815070380.68435,
+      "id" : "81597AC2-906D-4735-A27B-D2389B51AF86",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "D'ailleurs, si c'est possible de le faire directement via un cloud agent, ce serait parfait. Mais le problème, c'est qu'il faudra que tu donnes tous les fichiers locaux au cloud agent. Mais en soi, vu que tu utilises mon architecture ZenRay Progress, c'est peut-être possible à faire de faire des bridges qui balancent des fichiers en cloud, puisque en fait, c'est déjà sur GitHub, si tu veux. Enfin, en fait, c'est n'importe quel fichier local peut aller sur GitHub grâce à ZenRay Progress et grâce au Drive Create. Et ensuite, le Drive Create, tu peux mettre des pointeurs de fichiers pour un agent cloud qui peut lire les fichiers. Et donc, ainsi, l'objectif ici, bah déjà, c'est de créer tous les outils qui permettent de faire ça, techniquement. Et ensuite, c'est de faire en sorte d'avoir... Comment ça s'appelle ? C'est de faire en sorte d'avoir... Eh bien, mon article sur ZenRay UV et toute l'explication de ça. Et donc, tu délègues ça à un agent cloud, Sonnet 5.5, Medium, je pense que ça suffit. Dis-moi si c'est possible ou si c'est pas possible. Mais normalement, oui, c'est possible.",
+      "text" : "D'ailleurs, si c'est possible de le faire directement via un cloud agent, ce serait parfait. Mais le problème, c'est qu'il faudra que tu donnes tous les fichiers locaux au cloud agent. Mais en soi, vu que tu utilises mon architecture ZenRay Progress, c'est peut-être possible à faire de faire des bridges qui balancent des fichiers en cloud, puisque en fait, c'est déjà sur GitHub, si tu veux. Enfin, en fait, c'est n'importe quel fichier local peut aller sur GitHub grâce à ZenRay Progress et grâce au Drive Create. Et ensuite, le Drive Create, tu peux mettre des pointeurs de fichiers pour un agent cloud qui peut lire les fichiers. Et donc, ainsi, l'objectif ici, bah déjà, c'est de créer tous les outils qui permettent de faire ça, techniquement. Et ensuite, c'est de faire en sorte d'avoir... Comment ça s'appelle ? C'est de faire en sorte d'avoir... Eh bien, mon article sur ZenRay UV et toute l'explication de ça. Et donc, tu délègues ça à un agent cloud, Sonnet 5.5, Medium, je pense que ça suffit. Dis-moi si c'est possible ou si c'est pas possible. Mais normalement, oui, c'est possible."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815070458.46654,
+      "id" : "59FD7D5E-2476-40D9-BFC6-D95F87455CE4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "À mon avis, ça nécessite juste de créer les bons outils pour ça. Et donc, toi, dans le thread principal, dans ce thread, attention, ne perds pas les objectifs de vue. Tu continues de construire la voiture. Tu continues de listen l'agent, l'autre agent qui est recherche topologie ZenRay meshes cloud, et tu continues de créer la méthode quad wild mechanical plus toutes les méthodes qu'il y avait dans ZenRay retopologie. Tu vérifies aussi que toutes les occurrences de ZenRay lines n'existent plus et qu'elles ont bien été rename ZenRay retopologie. Et du coup, ZenRay UV, tu me crées aussi l'article parfait, mais ça, c'est dans un autre agent. Donc, il faut bien que tu segmentes les tâches parce qu'il y a énormément de choses à faire là. Et surtout, créer la méthode qui permet de mettre mes fichiers en pointeur directement pour un agent Claude Cloud. Et normalement, c'est possible, puisque tout est sur GitHub.",
+      "text" : "À mon avis, ça nécessite juste de créer les bons outils pour ça. Et donc, toi, dans le thread principal, dans ce thread, attention, ne perds pas les objectifs de vue. Tu continues de construire la voiture. Tu continues de listen l'agent, l'autre agent qui est recherche topologie ZenRay meshes cloud, et tu continues de créer la méthode quad wild mechanical plus toutes les méthodes qu'il y avait dans ZenRay retopologie. Tu vérifies aussi que toutes les occurrences de ZenRay lines n'existent plus et qu'elles ont bien été rename ZenRay retopologie. Et du coup, ZenRay UV, tu me crées aussi l'article parfait, mais ça, c'est dans un autre agent. Donc, il faut bien que tu segmentes les tâches parce qu'il y a énormément de choses à faire là. Et surtout, créer la méthode qui permet de mettre mes fichiers en pointeur directement pour un agent Claude Cloud. Et normalement, c'est possible, puisque tout est sur GitHub."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815070488.184994,
+      "id" : "71B514CA-5C1F-4D29-A4BA-DAE4493D5DF1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est juste peut-être qu'il faut que tu indexes le mapping, et le mapping, enfin, il y a forcément moyen de réussir à faire ça. C'est juste, il faut convertir, si tu veux, les fichiers qui sont shardés dans ZenRay Progress et qui sont mis dans des dossiers sur GitHub, et retrouver en fait leur équivalent via index mapping qui permet de faire ça.",
+      "text" : "C'est juste peut-être qu'il faut que tu indexes le mapping, et le mapping, enfin, il y a forcément moyen de réussir à faire ça. C'est juste, il faut convertir, si tu veux, les fichiers qui sont shardés dans ZenRay Progress et qui sont mis dans des dossiers sur GitHub, et retrouver en fait leur équivalent via index mapping qui permet de faire ça."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815070506.341946,
+      "id" : "18FCE74C-F719-4920-924E-E497843F4E83",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Si tu comprends pas, pose-moi une question. Ne pars pas en mode sans tout comprendre.",
+      "text" : "Si tu comprends pas, pose-moi une question. Ne pars pas en mode sans tout comprendre."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815070740.919436,
+      "id" : "90ECAA41-2AD0-4C24-81DD-C67A0849E0A0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Salut. Quelle que soit votre décision, n'hésitez pas à m'en faire part une fois que vous aurez audité tous les candidats pour votre offre. Et évidemment, je reste disponible si jamais vous avez une question. Et",
+      "text" : "Salut. Quelle que soit votre décision, n'hésitez pas à m'en faire part une fois que vous aurez audité tous les candidats pour votre offre. Et évidemment, je reste disponible si jamais vous avez une question. Et"
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815070863.415911,
+      "id" : "34086845-B230-4D0C-8711-46D30CC901F8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Voici mon site web, maman chérie. Pour le lien de la vidéo, je ne sais pas exactement de laquelle tu parles.",
+      "text" : "Voici mon site web, maman chérie. Pour le lien de la vidéo, je ne sais pas exactement de laquelle tu parles."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815070930.14064,
+      "id" : "CBBF1DF5-17C8-49AE-9B16-08EA899D6998",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "À mon avis, c'est soit texturing cliff, soit procedural grass system, soit asset scattering and placement. Enfin, ça, c'est les projets les plus complexes. Après, dernièrement, je vais essayer de surtout pousser sur le visuel plutôt que la technique.",
+      "text" : "À mon avis, c'est soit texturing cliff, soit procedural grass system, soit asset scattering and placement. Enfin, ça, c'est les projets les plus complexes. Après, dernièrement, je vais essayer de surtout pousser sur le visuel plutôt que la technique."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815070955.308474,
+      "id" : "C50A1650-D815-4736-BD4B-E0F2250F1A7C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Merci, maman.",
+      "text" : "Merci, maman."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815071003.454831,
+      "id" : "42100386-720D-458A-B986-4028A9AE4053",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai toujours le bug quand je partage mon site web, ça affiche ma tête en gros. Et pareil pour les articles. Alors pour les articles, je veux que ça affiche la thumbnail des articles. Et pour le site web, je veux que ça affiche le preview du coup du site web.",
+      "text" : "J'ai toujours le bug quand je partage mon site web, ça affiche ma tête en gros. Et pareil pour les articles. Alors pour les articles, je veux que ça affiche la thumbnail des articles. Et pour le site web, je veux que ça affiche le preview du coup du site web."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815071018.895578,
+      "id" : "0AD930BB-B9FF-447C-8D1A-2A67677234D0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est un peu chiant quand je partage un gros lien, ça envoie tout le temps la photo de ma tête.",
+      "text" : "C'est un peu chiant quand je partage un gros lien, ça envoie tout le temps la photo de ma tête."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815071105.421857,
+      "id" : "1E02DCB8-1BEA-49D7-A070-6537A1A72668",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Là, j'aurai bientôt fini une voiture. Je pense que ça va intéresser pas mal de monde au niveau de l'aspect à la fois organique et à la fois très edge. C'est juste qu'il faut que je fasse en sorte de faire ce qu'on appelle clean up du modèle. Donc, c'est-à-dire faire une topologie propre de l'asset pour que la texture se mette bien dessus et que on puisse l'animer.",
+      "text" : "Là, j'aurai bientôt fini une voiture. Je pense que ça va intéresser pas mal de monde au niveau de l'aspect à la fois organique et à la fois très edge. C'est juste qu'il faut que je fasse en sorte de faire ce qu'on appelle clean up du modèle. Donc, c'est-à-dire faire une topologie propre de l'asset pour que la texture se mette bien dessus et que on puisse l'animer."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815071733.444543,
+      "id" : "C2D49B31-5668-4B07-A314-6234F9ED8C93",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Cette méthode, bah, du coup, ça s'appelle ZenRay meshes. Bah, du coup, ça, c'est le vrai module meshes de ZenRay meshes. C'est create any mesh, any surfaces with an accuracy of 99.9%.",
+      "text" : "Cette méthode, bah, du coup, ça s'appelle ZenRay meshes. Bah, du coup, ça, c'est le vrai module meshes de ZenRay meshes. C'est create any mesh, any surfaces with an accuracy of 99.9%."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815071744.0775,
+      "id" : "F081A0BD-C257-4860-BB9A-AB659D0CE2AF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "il faut que tu consignes du coup tout le code de l'algorithme si ce n'est pas fait.",
+      "text" : "il faut que tu consignes du coup tout le code de l'algorithme si ce n'est pas fait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815071850.354392,
+      "id" : "77F5E4A3-C290-4D05-A9E5-E047D8FF55FD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et ensuite, il faut que tu... Je trouve que Quad Wild Mechanical Seuil 90, il est pas si mal. C'est juste que... c'est juste que certains quads ne sont pas straightened et certains ne sont pas bien uniformisés. Mais en soi, il est vraiment pas mal, hein, Quad Wild Mechanical Seuil 90. Mais c'est juste, je trouve ça bizarre que, que tu l'appelles encore Quad Wild, alors que je t'ai demandé au moins 3 fois de le merge avec ZenRay Lines. Que je comprends pas pourquoi... À moins que Quad Wild soit devenu le nouvel algorithme. Mais c'est pas logique. Et puis il y a un problème de symétrie, hein, sur Quad Wild, de toute manière. Surtout au niveau du visage, ça se voit vraiment beaucoup. Même au niveau du bras, c'est pas exactement les mêmes bras. Donc il faut continuer et que l'algorithme fasse la perfection en termes de quad wild, en termes de quad meshing. Enfin, en termes de rétopologie surtout. Et par contre, sur la voiture, j'ai un problème, c'est que tu me fais disparaître certains components, tu vois. Et ça, c'est pas possible.",
+      "text" : "Et ensuite, il faut que tu... Je trouve que Quad Wild Mechanical Seuil 90, il est pas si mal. C'est juste que... c'est juste que certains quads ne sont pas straightened et certains ne sont pas bien uniformisés. Mais en soi, il est vraiment pas mal, hein, Quad Wild Mechanical Seuil 90. Mais c'est juste, je trouve ça bizarre que, que tu l'appelles encore Quad Wild, alors que je t'ai demandé au moins 3 fois de le merge avec ZenRay Lines. Que je comprends pas pourquoi... À moins que Quad Wild soit devenu le nouvel algorithme. Mais c'est pas logique. Et puis il y a un problème de symétrie, hein, sur Quad Wild, de toute manière. Surtout au niveau du visage, ça se voit vraiment beaucoup. Même au niveau du bras, c'est pas exactement les mêmes bras. Donc il faut continuer et que l'algorithme fasse la perfection en termes de quad wild, en termes de quad meshing. Enfin, en termes de rétopologie surtout. Et par contre, sur la voiture, j'ai un problème, c'est que tu me fais disparaître certains components, tu vois. Et ça, c'est pas possible."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815071906.666939,
+      "id" : "5D3FFF04-EF1D-41FD-AB9B-6AEDFB427419",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et il faut sur la voiture que certains bords des angles soient straighten, tu vois. Ou alors s'ils sont pas straighten, ça veut dire que la liaison entre deux components se fait parfaitement. Mais moi j'aimerais vraiment qu'on focus là sur la voiture pour essayer de la finir, parce qu'au final on l'a toujours pas finie, tu vois. Il faut vraiment qu'elle soit parfaite. Donc l'hybride actuel, est le meilleur de chaque pièce, il est pas mal en soi. Il est pas mal, c'est juste qu'à l'arrière, il y a des parties de la voiture qui ne sont pas affichées, à l'avant aussi. Et voilà, il faut finir.",
+      "text" : "Et il faut sur la voiture que certains bords des angles soient straighten, tu vois. Ou alors s'ils sont pas straighten, ça veut dire que la liaison entre deux components se fait parfaitement. Mais moi j'aimerais vraiment qu'on focus là sur la voiture pour essayer de la finir, parce qu'au final on l'a toujours pas finie, tu vois. Il faut vraiment qu'elle soit parfaite. Donc l'hybride actuel, est le meilleur de chaque pièce, il est pas mal en soi. Il est pas mal, c'est juste qu'à l'arrière, il y a des parties de la voiture qui ne sont pas affichées, à l'avant aussi. Et voilà, il faut finir."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815071969.453343,
+      "id" : "BF26EF9B-42FB-473F-A29C-4BF59A6D0945",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Après, c'est pas forcément le problème du retopologie là. C'est aussi le problème de ZenRay Meshes qui n'a pas forcément fini proprement toutes les parties de la voiture. Mais bon, en soi, théoriquement, bah, si la voiture était parfaite, via ZenRay Meshes, via les 6 top views, enfin 6 views plutôt, c'est pas forcément une vue top, la voiture devrait être parfaite en termes de forme. Or, elle ne l'était pas avant qu'on commence la retopologie. Cependant, la retopologie, elle doit quand même respecter certains aspects, tu vois. Enfin bref, il faut vraiment finir la voiture de manière parfaite. Et il faut que ZenRay Meshes soit capable de fermer proprement un mesh, et que ZenRay Retopology ne le casse pas, tu vois.",
+      "text" : "Après, c'est pas forcément le problème du retopologie là. C'est aussi le problème de ZenRay Meshes qui n'a pas forcément fini proprement toutes les parties de la voiture. Mais bon, en soi, théoriquement, bah, si la voiture était parfaite, via ZenRay Meshes, via les 6 top views, enfin 6 views plutôt, c'est pas forcément une vue top, la voiture devrait être parfaite en termes de forme. Or, elle ne l'était pas avant qu'on commence la retopologie. Cependant, la retopologie, elle doit quand même respecter certains aspects, tu vois. Enfin bref, il faut vraiment finir la voiture de manière parfaite. Et il faut que ZenRay Meshes soit capable de fermer proprement un mesh, et que ZenRay Retopology ne le casse pas, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815071980.49865,
+      "id" : "FACD2CB4-878F-48F4-A617-10BEAB19FE12",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est d'ailleurs le main module de ZenRay Meshes, le fait de reproduire n'importe quelle mèche.",
+      "text" : "C'est d'ailleurs le main module de ZenRay Meshes, le fait de reproduire n'importe quelle mèche."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815073121.788258,
+      "id" : "68EA33F5-AFD3-4DC3-846F-EC18907057FF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, bah du coup, dans ce cas-là, ce sur quoi il faut bosser, c'est déjà, est-ce que tu as tout consigné sur le nom ZenRay mes chaises? Donc, c'est-à-dire, ZenRay mes chaises devient du coup l'outil qui permet de reproduire à 99,9% la voiture par rapport à la ref. Et du coup, bah, faut bosser maintenant sur la voiture parfaite. Sur la voiture parfaite en termes de components. Mais ce n'est pas grâce à une découpe ou à lines qu'on va réussir, je pense. C'est surtout via une analyse précise des formes à placer avant de passer à la retopologie. Et ensuite, même quand on aura la retopologie, ce qu'il faudra faire aussi, puisque c'est une voiture, c'est pouvoir diviser et avoir l'aspect component Lego, tu vois, notamment sur une voiture. Parce qu'une voiture, c'est pas exactement comme un personnage, tu vois. Mais cela dit, ZenRay retopologie, il est insane au final sur les personnages. On arrive à une retopologie quasi parfaite maintenant. Il y a un tout petit peu, je sais pas, je vois pas forcément les doigts, ou même au niveau de la poitrine, il y a peut-être un petit peu trop de quads qui sont pas parfaits. Mais en tout cas, c'est assez insane la manière dont les quads fonctionnent désormais sur ZenRay Retopology. L'algorithme fonctionne vraiment super bien. En revanche, pour la voiture, c'est pas encore ça. Mais je pense que ça vient surtout de ZenRay mes chaises, qui n'arrive pas à reproduire encore une voiture. Donc je sais pas. Peut-être pose-toi des questions de pourquoi la voiture n'est pas encore parfaite. Peut-être qu'il faut ajouter des formes pour bloquer le volume. Peut-être qu'il faut que ce soit un peu plus hard surface, un peu comme ce qu'on a fait tout à l'heure avec, tu te rappelles, c'était le quad wild mechanical au niveau de l'arche. En fait, à ce moment-là précis, on a mis le quad wild au niveau de l'arche et ça nous a permis d'avoir une meilleure retopologie, tu vois? Et d'ailleurs, j'ai toujours pas vu l'arche hein, depuis qu'on a merge toutes les méthodes de ZenRay Retopology. En fait, ce qu'on ne sait pas encore, c'est si ça fait vraiment bien les hard surface mesh. Mais à mon avis, pour la voiture et pour un aspect un peu mechanical de la voiture, il va falloir faire un truc peut-être un peu moins organique et un peu plus edge sharp, tu vois. En mode, peut-être c'est le capot, peut-être qu'il faut. En fait, c'est un peu comme ce qu'on avait fait aussi au niveau de ZenRay Lines, tu vois, quand on avait fait des schémas qui arrondissaient les angles. En fait, là, ce qu'il nous faut, c'est carrément un outil qui, depuis une référence, dessine tous les components de la voiture de manière parfaite. Mais en soi, il faut pas refaire ça, tu vois, parce que ça nous prendrait trop de temps. Mais ce qu'il faut, c'est un outil de signition, un espèce de scalpel qui fait que, ça fonctionne parfaitement, tu vois. Mais en soi, on y est presque, hein, on y est vraiment presque. Ce qu'il faut là, c'est vraiment finir la voiture en améliorant l'aspect, comment dire? Peut-être l'aspect scalpel qui vient couper les components, mais je suis pas sûr, hein. Je suis pas sûr, à mon avis, c'est plutôt. C'est plutôt, faut savoir que la voiture, il y a certains endroits qui sont comment dire? En fait, peut-être que en fait l'algorithme devrait savoir qu'est-ce qui est une face plus ou moins hard edge, mais en fait sur une voiture, c'est tout est mechanical, tu vois. Ah, je sais pas comment faire. Bon, pour l'instant, ne code rien. Interrogeons-nous d'abord sur soit déléguer à un agent la recherche pour bien faire les. Bien finir. En fait, là, ce qu'il faut surtout finir, c'est l'aspect voiture parfaite, en fait. C'est l'aspect voiture parfaite par rapport à ça. Mais à la limite, moi, je t'invite vraiment à déléguer la recherche à un agent. Et ensuite à l'auto-analyser exactement comme ce qu'on a fait pour l'agent Claude, qui est toujours en recherche topologique de Mesh Cloud en fait. À mon avis, tu devrais faire ça.",
+      "text" : "Ok, bah du coup, dans ce cas-là, ce sur quoi il faut bosser, c'est déjà, est-ce que tu as tout consigné sur le nom ZenRay mes chaises? Donc, c'est-à-dire, ZenRay mes chaises devient du coup l'outil qui permet de reproduire à 99,9% la voiture par rapport à la ref. Et du coup, bah, faut bosser maintenant sur la voiture parfaite. Sur la voiture parfaite en termes de components. Mais ce n'est pas grâce à une découpe ou à lines qu'on va réussir, je pense. C'est surtout via une analyse précise des formes à placer avant de passer à la retopologie. Et ensuite, même quand on aura la retopologie, ce qu'il faudra faire aussi, puisque c'est une voiture, c'est pouvoir diviser et avoir l'aspect component Lego, tu vois, notamment sur une voiture. Parce qu'une voiture, c'est pas exactement comme un personnage, tu vois. Mais cela dit, ZenRay retopologie, il est insane au final sur les personnages. On arrive à une retopologie quasi parfaite maintenant. Il y a un tout petit peu, je sais pas, je vois pas forcément les doigts, ou même au niveau de la poitrine, il y a peut-être un petit peu trop de quads qui sont pas parfaits. Mais en tout cas, c'est assez insane la manière dont les quads fonctionnent désormais sur ZenRay Retopology. L'algorithme fonctionne vraiment super bien. En revanche, pour la voiture, c'est pas encore ça. Mais je pense que ça vient surtout de ZenRay mes chaises, qui n'arrive pas à reproduire encore une voiture. Donc je sais pas. Peut-être pose-toi des questions de pourquoi la voiture n'est pas encore parfaite. Peut-être qu'il faut ajouter des formes pour bloquer le volume. Peut-être qu'il faut que ce soit un peu plus hard surface, un peu comme ce qu'on a fait tout à l'heure avec, tu te rappelles, c'était le quad wild mechanical au niveau de l'arche. En fait, à ce moment-là précis, on a mis le quad wild au niveau de l'arche et ça nous a permis d'avoir une meilleure retopologie, tu vois? Et d'ailleurs, j'ai toujours pas vu l'arche hein, depuis qu'on a merge toutes les méthodes de ZenRay Retopology. En fait, ce qu'on ne sait pas encore, c'est si ça fait vraiment bien les hard surface mesh. Mais à mon avis, pour la voiture et pour un aspect un peu mechanical de la voiture, il va falloir faire un truc peut-être un peu moins organique et un peu plus edge sharp, tu vois. En mode, peut-être c'est le capot, peut-être qu'il faut. En fait, c'est un peu comme ce qu'on avait fait aussi au niveau de ZenRay Lines, tu vois, quand on avait fait des schémas qui arrondissaient les angles. En fait, là, ce qu'il nous faut, c'est carrément un outil qui, depuis une référence, dessine tous les components de la voiture de manière parfaite. Mais en soi, il faut pas refaire ça, tu vois, parce que ça nous prendrait trop de temps. Mais ce qu'il faut, c'est un outil de signition, un espèce de scalpel qui fait que, ça fonctionne parfaitement, tu vois. Mais en soi, on y est presque, hein, on y est vraiment presque. Ce qu'il faut là, c'est vraiment finir la voiture en améliorant l'aspect, comment dire? Peut-être l'aspect scalpel qui vient couper les components, mais je suis pas sûr, hein. Je suis pas sûr, à mon avis, c'est plutôt. C'est plutôt, faut savoir que la voiture, il y a certains endroits qui sont comment dire? En fait, peut-être que en fait l'algorithme devrait savoir qu'est-ce qui est une face plus ou moins hard edge, mais en fait sur une voiture, c'est tout est mechanical, tu vois. Ah, je sais pas comment faire. Bon, pour l'instant, ne code rien. Interrogeons-nous d'abord sur soit déléguer à un agent la recherche pour bien faire les. Bien finir. En fait, là, ce qu'il faut surtout finir, c'est l'aspect voiture parfaite, en fait. C'est l'aspect voiture parfaite par rapport à ça. Mais à la limite, moi, je t'invite vraiment à déléguer la recherche à un agent. Et ensuite à l'auto-analyser exactement comme ce qu'on a fait pour l'agent Claude, qui est toujours en recherche topologique de Mesh Cloud en fait. À mon avis, tu devrais faire ça."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815073167.72864,
+      "id" : "5FC40726-D44F-454B-8111-FF11C316E4E2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais pour l'instant, ne code rien. Essaie de d'abord visualiser un peu comment est-ce qu'on pourrait faire les choses. En mode, comment est-ce qu'on pourrait faire pour passer d'une voiture qui a peut-être un peu des formes un peu trop organiques à des formes vraiment hard surface parfaites. Pour vraiment avoir une perfect car en termes de finition, des formes, etc. Tu vois. À mon avis, il y a des recherches à faire, tu vois. Si tu regardes n'importe quelle voiture, la finition, c'est vraiment ultra important.",
+      "text" : "Mais pour l'instant, ne code rien. Essaie de d'abord visualiser un peu comment est-ce qu'on pourrait faire les choses. En mode, comment est-ce qu'on pourrait faire pour passer d'une voiture qui a peut-être un peu des formes un peu trop organiques à des formes vraiment hard surface parfaites. Pour vraiment avoir une perfect car en termes de finition, des formes, etc. Tu vois. À mon avis, il y a des recherches à faire, tu vois. Si tu regardes n'importe quelle voiture, la finition, c'est vraiment ultra important."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815073217.847203,
+      "id" : "9BD100D7-0F32-4719-8C74-C80F9E9C1A67",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc à mon avis, il faut absolument améliorer et faire que ça. Se poser toutes les questions, le qui, quoi, comment, de comment améliorer ZenRay mes chaises, donc l'outil qui est reproduit à 99,9% à partir d'une référence. Et ce, sur différents modèles de voitures. Mais pas forcément sur les modèles de voitures que je t'ai envoyés. Les modèles de voitures que je t'ai envoyés, là, actuellement, c'est juste pour que tu comprennes qu'il y a une finition en termes de visualisation de ce qu'on voit et de ce qu'était la référence et de notre modèle actuel qui n'est pas bon. Tandis que, par exemple, Mani, au final, puisque c'était déjà le modèle d'Epic Games, on ne veut pas aller au-delà, tu vois. C'est déjà très bien.",
+      "text" : "Donc à mon avis, il faut absolument améliorer et faire que ça. Se poser toutes les questions, le qui, quoi, comment, de comment améliorer ZenRay mes chaises, donc l'outil qui est reproduit à 99,9% à partir d'une référence. Et ce, sur différents modèles de voitures. Mais pas forcément sur les modèles de voitures que je t'ai envoyés. Les modèles de voitures que je t'ai envoyés, là, actuellement, c'est juste pour que tu comprennes qu'il y a une finition en termes de visualisation de ce qu'on voit et de ce qu'était la référence et de notre modèle actuel qui n'est pas bon. Tandis que, par exemple, Mani, au final, puisque c'était déjà le modèle d'Epic Games, on ne veut pas aller au-delà, tu vois. C'est déjà très bien."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815073238.836762,
+      "id" : "1F02E729-B957-43AB-94C3-F6CDB27FD6B2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "ZenRay measures",
+      "text" : "ZenRay measures"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815073243.311302,
+      "id" : "4650460D-36CA-45D4-A7C5-0781CDE3FDFE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "ZenRay meshes.",
+      "text" : "ZenRay meshes."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815073247.955053,
+      "id" : "165ACF11-EB50-4A0F-B56E-446ADBF40A3A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mesh's",
+      "text" : "Mesh's"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815073644.311751,
+      "id" : "C712EFE0-9F46-44FC-A2D6-A74C110F02F8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc là, tu fais quoi, toi? Tu attends que la recherche de la voiture te permette d'améliorer. En fait, tu attends les résultats des deux recherches.",
+      "text" : "Donc là, tu fais quoi, toi? Tu attends que la recherche de la voiture te permette d'améliorer. En fait, tu attends les résultats des deux recherches."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815074135.144572,
+      "id" : "E0D64120-DB66-4300-87EC-00AA388DC042",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est bizarre parce qu'il y a une régression sur ZenRay UV, mais arrête de t'en occuper parce que sinon tu vas mettre trop de... de token slope dans la discussion. Enfin ouais, il y a une vraie régression parce que à la base l'ancienne planche de découpe qui était en local, je sais plus si elle était déjà cloudée dans Assets, mais en tout cas elle était beaucoup mieux, enfin elle découpait beaucoup mieux Mani, surtout que enfin là t'as mis 1024 pixels mètres, enfin c'est un peu bizarre parce que les caractères, il y avait une instruction qui disait que tu découpes toujours à beaucoup mieux, mais bon c'est pas grave. Il doit y avoir des paramètres de ZenRay UV que t'as pas vu, mais bon de toute manière on s'en occupe plus là. À la limite retrouve la vraie planche de ZenRay UV qui était déjà pré-générée. Elle est peut-être soit dans Asset, soit encore sur mon disque local. Et en fait, on va attendre la fin de la recherche de ZenRay Meshes, et ensuite on codera en séquentiel pour améliorer l'algorithme et pour finir la voiture. Donc voici nos prochaines tâches.",
+      "text" : "C'est bizarre parce qu'il y a une régression sur ZenRay UV, mais arrête de t'en occuper parce que sinon tu vas mettre trop de... de token slope dans la discussion. Enfin ouais, il y a une vraie régression parce que à la base l'ancienne planche de découpe qui était en local, je sais plus si elle était déjà cloudée dans Assets, mais en tout cas elle était beaucoup mieux, enfin elle découpait beaucoup mieux Mani, surtout que enfin là t'as mis 1024 pixels mètres, enfin c'est un peu bizarre parce que les caractères, il y avait une instruction qui disait que tu découpes toujours à beaucoup mieux, mais bon c'est pas grave. Il doit y avoir des paramètres de ZenRay UV que t'as pas vu, mais bon de toute manière on s'en occupe plus là. À la limite retrouve la vraie planche de ZenRay UV qui était déjà pré-générée. Elle est peut-être soit dans Asset, soit encore sur mon disque local. Et en fait, on va attendre la fin de la recherche de ZenRay Meshes, et ensuite on codera en séquentiel pour améliorer l'algorithme et pour finir la voiture. Donc voici nos prochaines tâches."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815074141.640588,
+      "id" : "5BF2DA84-629D-4602-975B-91E6CF4846D2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Parfaitement.",
+      "text" : "Parfaitement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815074364.293342,
+      "id" : "3467CD5F-28FA-46B4-8EDD-7D0529D59E47",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, fais un vrai ZenRay Assets avec le vrai ZenRay UV. Mais je comprends pas du coup pourquoi... Pourquoi il y a une telle... Pourquoi, puisque notre ZenRay UV était quasi parfait, pourquoi est-ce que là... pourquoi est-ce que là, quand tu as recompute les islands d'UV, pourquoi ça a fait un résultat aussi cassé? C'est bizarre.",
+      "text" : "Du coup, fais un vrai ZenRay Assets avec le vrai ZenRay UV. Mais je comprends pas du coup pourquoi... Pourquoi il y a une telle... Pourquoi, puisque notre ZenRay UV était quasi parfait, pourquoi est-ce que là... pourquoi est-ce que là, quand tu as recompute les islands d'UV, pourquoi ça a fait un résultat aussi cassé? C'est bizarre."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815074374.739192,
+      "id" : "2FCE5735-F6D4-4283-BF57-5761EE44452B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "push tout dans ZenRay Assets via ZenRay UV, un vrai projet.",
+      "text" : "push tout dans ZenRay Assets via ZenRay UV, un vrai projet."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815074895.152294,
+      "id" : "0010C645-BC62-46A3-8596-9E7B86D431FE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu progresses vraiment? Ce qui serait cool, c'est que tu notes, c'est que tu mettes des schémas tandis que tu continues l'explication. Parce que sans images, c'est difficile de voir que tu progresses vraiment.",
+      "text" : "Est-ce que tu progresses vraiment? Ce qui serait cool, c'est que tu notes, c'est que tu mettes des schémas tandis que tu continues l'explication. Parce que sans images, c'est difficile de voir que tu progresses vraiment."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815074903.240871,
+      "id" : "64479DF3-FFB9-4117-BC45-64CC23EE4B2B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "continue et ensuite livre à l'agent ton rapport final.",
+      "text" : "continue et ensuite livre à l'agent ton rapport final."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815076038.843816,
+      "id" : "26932A94-2931-46CA-881A-0E281FC5E979",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais pourquoi il n'y a toujours pas les miniatures sur mes shorts?",
+      "text" : "Mais pourquoi il n'y a toujours pas les miniatures sur mes shorts?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815076434.679103,
+      "id" : "DFF94424-7789-4858-95CE-05CF96228EDC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Actuellement, je suis... mon frère est platine sur League of Legends. Et j'aimerais faire en sorte que je puisse le coacher et même mécaniquement sur un champion à haut win rate, voire deux champions max à haut win rate, pour faire un OTP sur les mécaniques de jeu et pour pouvoir passer de... On est environ stock à platine 2 et on aimerait passer émeraude dans un premier temps et surtout diamant. Et ma question en fait, c'est rédiger un guide qui donne les fondamentaux et les bases du jeu sur League of Legends pour faire en sorte de gagner les parties. Et voilà. Et mon but est de rédiger un guide étape par étape avec une web search des meilleures méta, des meilleures stratégies à jouer. J'aimerais que tu me dises comment bien jouer les parties. Est-ce qu'il faut focus les gold? Est-ce qu'il faut focus la vision? Est-ce qu'il faut focus les teamfights? Si oui, comment faire? Comment setup les choses, etc. Il faut impérativement qu'on gagne.",
+      "text" : "Actuellement, je suis... mon frère est platine sur League of Legends. Et j'aimerais faire en sorte que je puisse le coacher et même mécaniquement sur un champion à haut win rate, voire deux champions max à haut win rate, pour faire un OTP sur les mécaniques de jeu et pour pouvoir passer de... On est environ stock à platine 2 et on aimerait passer émeraude dans un premier temps et surtout diamant. Et ma question en fait, c'est rédiger un guide qui donne les fondamentaux et les bases du jeu sur League of Legends pour faire en sorte de gagner les parties. Et voilà. Et mon but est de rédiger un guide étape par étape avec une web search des meilleures méta, des meilleures stratégies à jouer. J'aimerais que tu me dises comment bien jouer les parties. Est-ce qu'il faut focus les gold? Est-ce qu'il faut focus la vision? Est-ce qu'il faut focus les teamfights? Si oui, comment faire? Comment setup les choses, etc. Il faut impérativement qu'on gagne."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815076474.878249,
+      "id" : "7284148A-BD36-43F4-B5F5-6C837F47E8BF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et voilà. Après, ça, c'est juste pour me détendre le dimanche. Parce que le reste du temps, je vais essayer de partir au Japon. Donc, il ne faut pas non plus que cet objectif me détourne totalement de mes objectifs. Et je peux me permettre uniquement de gagner. Et si je... En fait, si je perds, je serais extrêmement frustré parce que je me dirais que j'ai perdu du temps. Après, on peut toujours se dire qu'on perd du temps en jouant à des jeux vidéo. Et ce qu'il faut, c'est apprécier la sensation de progression. Moi, je veux jouer avec discipline pour simplement gagner les parties.",
+      "text" : "Et voilà. Après, ça, c'est juste pour me détendre le dimanche. Parce que le reste du temps, je vais essayer de partir au Japon. Donc, il ne faut pas non plus que cet objectif me détourne totalement de mes objectifs. Et je peux me permettre uniquement de gagner. Et si je... En fait, si je perds, je serais extrêmement frustré parce que je me dirais que j'ai perdu du temps. Après, on peut toujours se dire qu'on perd du temps en jouant à des jeux vidéo. Et ce qu'il faut, c'est apprécier la sensation de progression. Moi, je veux jouer avec discipline pour simplement gagner les parties."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815076512.327091,
+      "id" : "D8999729-C3DE-4F3D-95DC-75065BF4F9E5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est pour ça que j'ai besoin d'un guide jungle qui permet de vraiment mettre beaucoup d'intensité dans le jeu et être un joueur avec un niveau master, même si il n'y a pas forcément les mécaniques qui suivent derrière. Au moins avoir passé à environ un win rate de 80% pour atteindre le diamant, ça je pense que c'est faisable. Mais il me faut vraiment un guide détaillé. Après, sur ce guide détaillé, une fois que tu as fini, j'aimerais que tu le réécrives pour qu'il soit simple à lire et qu'il soit au présent et bien écrit.",
+      "text" : "C'est pour ça que j'ai besoin d'un guide jungle qui permet de vraiment mettre beaucoup d'intensité dans le jeu et être un joueur avec un niveau master, même si il n'y a pas forcément les mécaniques qui suivent derrière. Au moins avoir passé à environ un win rate de 80% pour atteindre le diamant, ça je pense que c'est faisable. Mais il me faut vraiment un guide détaillé. Après, sur ce guide détaillé, une fois que tu as fini, j'aimerais que tu le réécrives pour qu'il soit simple à lire et qu'il soit au présent et bien écrit."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815076608.612952,
+      "id" : "E6A7E624-72FE-4105-A371-F3B9E93A7460",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais est-ce que la research de la topologie, elle a été prise en compte pour l'amélioration du module de retopologie de ZenRay retopologie, ou bien il n'y avait pas forcément de la data intéressante depuis? Parce que la recherche est terminée, hein. Je crois que ça t'a donné un rapport, mais est-ce que tu as travaillé de manière à ce que tu puisses améliorer l'algorithme jusqu'à la perfection? Il me semble que c'était pas encore la perfection. Après, j'aurais préféré que tu travailles sur la recherche en hard surface et pour finir la voiture, mais bon, je pense qu'il faut surtout aussi finir ZenRay topologie.",
+      "text" : "Mais est-ce que la research de la topologie, elle a été prise en compte pour l'amélioration du module de retopologie de ZenRay retopologie, ou bien il n'y avait pas forcément de la data intéressante depuis? Parce que la recherche est terminée, hein. Je crois que ça t'a donné un rapport, mais est-ce que tu as travaillé de manière à ce que tu puisses améliorer l'algorithme jusqu'à la perfection? Il me semble que c'était pas encore la perfection. Après, j'aurais préféré que tu travailles sur la recherche en hard surface et pour finir la voiture, mais bon, je pense qu'il faut surtout aussi finir ZenRay topologie."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815078103.221267,
+      "id" : "9908C45A-BA27-4ACA-896A-41AA1362A02B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Alors, je vais te poser plusieurs questions, mais tu vas ajouter la data directement dans le document de jeu. Par exemple, je pense jouer Shogat, mais il me faut un autre pick et j'ai pas envie de jouer Ramus, ni Braillard, ni Warwick. Donc il me faut un autre pick que ce champion, mais ça ne me dérange pas de jouer Shogat puisqu'il a un taux de victoire élevé. Et en plus, je pense que le champion est relativement bon. Par contre, j'ai besoin que tu me donnes l'ordre de ses spells et un peu comment jouer le champion, surtout si je peux ou pas gank des trucs. Tu vois, parce que je connais pas du tout le champion, ni son passif, ni son R, etc. Enfin, il faut que tu me donnes les trucs à faire. Et moi, je veux surtout jouer le win rate, donc je m'en fous de tout le reste. Pour moi, c'est juste des mathématiques. Enfin, moi, mon petit frère, hein, bien sûr. Enfin, je coach mon petit frère. Et... du coup, ouais, faut que tu me donnes tout ce que je dois faire pour. Il faut que je focus les objectifs lors de l'expérience. La vision et je combats uniquement pour un objectif, surtout en tant que jungle. Clear complet. En finissant du côté où tu veux agir, ok. Premier gank à 3 minutes 30. Suivre le jungler ennemi. Donc soit contre gank, soit farmer les ganks ennemis. Ah, le carapateur uniquement si le mid et les proches peuvent aider. Ok. Les larves à 8 minutes 30. Ok. Premier Drake. Milieu de partie. Ok, moi j'ai envie de jouer de manière hyper intelligente et je veux pas perdre les games. Donc je pense que je vais jouer Shogat, mais il me faut un autre champion. Et il faut que tu me dises comment jouer Shogat et l'autre champion.",
+      "text" : "Alors, je vais te poser plusieurs questions, mais tu vas ajouter la data directement dans le document de jeu. Par exemple, je pense jouer Shogat, mais il me faut un autre pick et j'ai pas envie de jouer Ramus, ni Braillard, ni Warwick. Donc il me faut un autre pick que ce champion, mais ça ne me dérange pas de jouer Shogat puisqu'il a un taux de victoire élevé. Et en plus, je pense que le champion est relativement bon. Par contre, j'ai besoin que tu me donnes l'ordre de ses spells et un peu comment jouer le champion, surtout si je peux ou pas gank des trucs. Tu vois, parce que je connais pas du tout le champion, ni son passif, ni son R, etc. Enfin, il faut que tu me donnes les trucs à faire. Et moi, je veux surtout jouer le win rate, donc je m'en fous de tout le reste. Pour moi, c'est juste des mathématiques. Enfin, moi, mon petit frère, hein, bien sûr. Enfin, je coach mon petit frère. Et... du coup, ouais, faut que tu me donnes tout ce que je dois faire pour. Il faut que je focus les objectifs lors de l'expérience. La vision et je combats uniquement pour un objectif, surtout en tant que jungle. Clear complet. En finissant du côté où tu veux agir, ok. Premier gank à 3 minutes 30. Suivre le jungler ennemi. Donc soit contre gank, soit farmer les ganks ennemis. Ah, le carapateur uniquement si le mid et les proches peuvent aider. Ok. Les larves à 8 minutes 30. Ok. Premier Drake. Milieu de partie. Ok, moi j'ai envie de jouer de manière hyper intelligente et je veux pas perdre les games. Donc je pense que je vais jouer Shogat, mais il me faut un autre champion. Et il faut que tu me dises comment jouer Shogat et l'autre champion."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815078248.673635,
+      "id" : "DC952AA3-CB55-4F26-BC21-BA9781D433EA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Maintenant, tu intègres les résultats des deux recherches et tu continues de coder pour améliorer l'outil et tu me fournis des images à mesure à ce que tu avances et tu finis pas la boucle avant, minuit. Et tu continues d'itérer. Et à mon avis, tu devrais déléguer un agent dans ce thread qui améliore ZenRay mes chaises et l'autre agent qui améliore ZenRay mes chaises, le module topologie. Et les deux threads sont liés par le fait qu'il faut le faire par les recherches. Après, si tu penses pouvoir gérer les deux threads, reste en séquentiel dans cette... dans ce thread. Ouais. Reste en séquentiel dans ce thread et commence par ZenRay mes chaises et ensuite tu passeras à ZenRay topologie par rapport à la recherche. Quoique, hein, je sais pas. Non, dans, ouais, voilà, c'est ça. Dans ce thread, tu push ZenRay mes chaises, donc le fait de reproduire n'importe quelle mèche à 99% grâce à la recherche qui vient d'être finie. Et dans un agent que tu délègues en Sonnet 5.5i, donc juste à côté, en background task, donc c'est un autre agent, tu mets du coup un agent sur le travail de ZenRay Retopology par rapport à la recherche qui vient d'être finie. Go. Et bon travail. Et ne t'arrête pas jusqu'à minuit sur les deux agents. Et les deux agents tournent en 5. Sonnet 5.5",
+      "text" : "Maintenant, tu intègres les résultats des deux recherches et tu continues de coder pour améliorer l'outil et tu me fournis des images à mesure à ce que tu avances et tu finis pas la boucle avant, minuit. Et tu continues d'itérer. Et à mon avis, tu devrais déléguer un agent dans ce thread qui améliore ZenRay mes chaises et l'autre agent qui améliore ZenRay mes chaises, le module topologie. Et les deux threads sont liés par le fait qu'il faut le faire par les recherches. Après, si tu penses pouvoir gérer les deux threads, reste en séquentiel dans cette... dans ce thread. Ouais. Reste en séquentiel dans ce thread et commence par ZenRay mes chaises et ensuite tu passeras à ZenRay topologie par rapport à la recherche. Quoique, hein, je sais pas. Non, dans, ouais, voilà, c'est ça. Dans ce thread, tu push ZenRay mes chaises, donc le fait de reproduire n'importe quelle mèche à 99% grâce à la recherche qui vient d'être finie. Et dans un agent que tu délègues en Sonnet 5.5i, donc juste à côté, en background task, donc c'est un autre agent, tu mets du coup un agent sur le travail de ZenRay Retopology par rapport à la recherche qui vient d'être finie. Go. Et bon travail. Et ne t'arrête pas jusqu'à minuit sur les deux agents. Et les deux agents tournent en 5. Sonnet 5.5"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815078394.001008,
+      "id" : "B0B75445-DE81-42B3-969A-B7E58BE57FAA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donne-moi la liste des champions qui ont plus de le plus de win rate. Et fais-moi une liste de max 8 champions. Et comme ça, je choisis le deuxième que je joue en Shogat. Là, tu me fais uniquement la liste.",
+      "text" : "Donne-moi la liste des champions qui ont plus de le plus de win rate. Et fais-moi une liste de max 8 champions. Et comme ça, je choisis le deuxième que je joue en Shogat. Là, tu me fais uniquement la liste."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815078418.695715,
+      "id" : "7FD2EDD7-6E70-4FD7-AD11-E592CE3EE066",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ça me semble bizarre ta liste, parce que ça me semble bizarre que Darius ait autant de pourcents de victoire, surtout en jungler.",
+      "text" : "Ça me semble bizarre ta liste, parce que ça me semble bizarre que Darius ait autant de pourcents de victoire, surtout en jungler."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815078472.126646,
+      "id" : "FA7AFF21-F8B9-4CA3-ABCB-450D7CD3184B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "On va jouer du coup Shogat en principal, Wukong en premier, et Lilia si les deux sont bannis ou s'il nous faut un AP.",
+      "text" : "On va jouer du coup Shogat en principal, Wukong en premier, et Lilia si les deux sont bannis ou s'il nous faut un AP."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815078480.42834,
+      "id" : "408033BF-5CC2-4356-B7B4-C19C2F88BFD7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Par contre, il faut que tu m'expliques le champion exactement comment il fonctionne.",
+      "text" : "Par contre, il faut que tu m'expliques le champion exactement comment il fonctionne."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815078490.907833,
+      "id" : "4FD108F9-33EB-4C19-9CDA-DC6DC015DEF0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Quelles sont les forces et quelles sont les faiblesses? Est-ce que le champion est fort en early? Est-ce qu'il est fort en mid ou est-ce qu'il est fort en late?",
+      "text" : "Quelles sont les forces et quelles sont les faiblesses? Est-ce que le champion est fort en early? Est-ce qu'il est fort en mid ou est-ce qu'il est fort en late?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815078563.202362,
+      "id" : "8C6D5327-F474-421A-8B92-CE5ABFE83F61",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "se pose la question du plaisir vs le bien qu'on peut apporter à l'humanité.",
+      "text" : "se pose la question du plaisir vs le bien qu'on peut apporter à l'humanité."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815078677.166571,
+      "id" : "28EA46B8-82CC-421C-A9C2-55A4D1286F60",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu me recommandes de jouer avec le son, ou alors le son n'est pas nécessaire et il vaut mieux que je maintienne mon attention sur la vision de jeu?",
+      "text" : "Est-ce que tu me recommandes de jouer avec le son, ou alors le son n'est pas nécessaire et il vaut mieux que je maintienne mon attention sur la vision de jeu?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815078695.374041,
+      "id" : "BBB623BC-DC25-4CED-BC47-C8C2EF349B6C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je me demande si les joueurs professionnels jouent avec le son ou non. Parce que comme ça, je pourrais me mettre soit une musique, soit quelque chose de qui me maintient très très calme, afin de garder mon sang-froid.",
+      "text" : "Je me demande si les joueurs professionnels jouent avec le son ou non. Parce que comme ça, je pourrais me mettre soit une musique, soit quelque chose de qui me maintient très très calme, afin de garder mon sang-froid."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815078892.605605,
+      "id" : "BD3F4237-2471-482F-88A8-01B346B5D41F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, si le jungler ennemi",
+      "text" : "Ok, si le jungler ennemi"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815078900.183736,
+      "id" : "600EDB7E-3C3A-44A8-B6BC-B84D39975436",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, et si le jungler ennemi prend Shogat, qu'est-ce que je prends en tant que jungler?",
+      "text" : "Ok, et si le jungler ennemi prend Shogat, qu'est-ce que je prends en tant que jungler?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815078905.701819,
+      "id" : "E5D0545D-7E7B-478D-B35B-50133329F2D9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Wukong ou Lilia?",
+      "text" : "Wukong ou Lilia?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815078932.090299,
+      "id" : "37A30CCC-F241-46A4-9D5D-C0F27622C4E3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "dans le document, il faut aussi que tu me donnes... dans le document, il faut aussi que tu me donnes... comment on appelle ça, les runes de chaque champion que je vais",
+      "text" : "dans le document, il faut aussi que tu me donnes... dans le document, il faut aussi que tu me donnes... comment on appelle ça, les runes de chaque champion que je vais"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815078970.934432,
+      "id" : "B6A38F0A-5463-4B28-A13C-D744262E8395",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai oublié de te demander les items. Est-ce que tu peux mettre les items et potentiellement les items avec les icônes que tu peux aller chercher sur Google Search? Si tu peux faire ça, c'est parfait.",
+      "text" : "J'ai oublié de te demander les items. Est-ce que tu peux mettre les items et potentiellement les items avec les icônes que tu peux aller chercher sur Google Search? Si tu peux faire ça, c'est parfait."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815081148.877245,
+      "id" : "8CC4B994-AFD9-4C77-A7D6-FC9F26B2D948",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Première game gagnée. Ce qu'il faudra retenir, c'est que faut jamais abandonner. Enfin, bref, ça c'est logique.",
+      "text" : "Première game gagnée. Ce qu'il faudra retenir, c'est que faut jamais abandonner. Enfin, bref, ça c'est logique."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815081164.571531,
+      "id" : "425C9255-BC8A-4C7B-B669-13959D7B4A6D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai joué Wukong. Tiens, un tableau du win rate. Comme ça, je te note petit à petit à quel point on en est. Donc là, première game, winné",
+      "text" : "J'ai joué Wukong. Tiens, un tableau du win rate. Comme ça, je te note petit à petit à quel point on en est. Donc là, première game, winné"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815081511.633012,
+      "id" : "C6CCF06D-BFA3-43B7-9BD8-692732710A89",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Faut que tu m'expliques pourquoi il faut jouer un build aussi tank avec Shogat, et ensuite, et pourquoi tu joues Boot of Swiftness aussi? Est-ce que c'est parce que Shogat manque de move speed? Là, j'ai pris pick Shogat, mais je me pose une question. Qu'est-ce que je dois... Est-ce que tu peux mettre aussi les objets secondaires? En fait, tu mets trois variations d'objets secondaires en fonction si on joue contre de la D, et trois variations d'objets secondaires si on joue contre de la P. Et ensuite, tu m'expliques vers un petit paragraphe d'objets où tu expliques pourquoi tu joues tel objet sur, sur Shogat, enfin sur tous les champions en fait, enfin sur Shogat ou Kongelilia.",
+      "text" : "Faut que tu m'expliques pourquoi il faut jouer un build aussi tank avec Shogat, et ensuite, et pourquoi tu joues Boot of Swiftness aussi? Est-ce que c'est parce que Shogat manque de move speed? Là, j'ai pris pick Shogat, mais je me pose une question. Qu'est-ce que je dois... Est-ce que tu peux mettre aussi les objets secondaires? En fait, tu mets trois variations d'objets secondaires en fonction si on joue contre de la D, et trois variations d'objets secondaires si on joue contre de la P. Et ensuite, tu m'expliques vers un petit paragraphe d'objets où tu expliques pourquoi tu joues tel objet sur, sur Shogat, enfin sur tous les champions en fait, enfin sur Shogat ou Kongelilia."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815083907.824199,
+      "id" : "C67769A5-755D-4639-920F-32DEAE15CD6D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "La deuxième game est perdue. Je pense que j'ai pas assez focus sur les objectifs et il faut que tu remettes en premier dans le truc pas mal de comment dire. En fait, il faut que tu mettes des toggles pour clear le document et que je puisse focus sur des sections avec un sommaire et que ce soit cliquable. Le problème actuellement, c'est que comment dire, on n'a pas assez. Ouais, on n'a pas assez focus sur les objectifs et en fait j'aurais dû prendre plus d'objectifs pour ma team. Mais bon, c'était la première fois que je jouais Shogat et en ranked. Donc bon, la game est perdue, mais ça va.",
+      "text" : "La deuxième game est perdue. Je pense que j'ai pas assez focus sur les objectifs et il faut que tu remettes en premier dans le truc pas mal de comment dire. En fait, il faut que tu mettes des toggles pour clear le document et que je puisse focus sur des sections avec un sommaire et que ce soit cliquable. Le problème actuellement, c'est que comment dire, on n'a pas assez. Ouais, on n'a pas assez focus sur les objectifs et en fait j'aurais dû prendre plus d'objectifs pour ma team. Mais bon, c'était la première fois que je jouais Shogat et en ranked. Donc bon, la game est perdue, mais ça va."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815084020.256044,
+      "id" : "5E821585-4589-41BF-9B60-AE9A3D7E4E2F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Par contre, je me suis fait surprendre par Gwen parce que en fait, elle était bien meilleure que moi en fait. Elle était bien meilleure que moi, Gwen. Gwen était bien meilleure que moi, ce qui fait que... comment dire? Ce qui fait qu'elle a été meilleure, quoi. Enfin, je sais pas comment dire, mais... bref. Elle était bien meilleure que moi, donc il faut que tu m'expliques pourquoi elle, elle m'a autant défoncé. En fait, elle, m'a complètement ouverte. Et elle jouait full AP. Je sais pas si j'aurais pas dû foncer sur elle. Mais après, je focusais surtout la Jana. Et la Jana jouait très bien. Donc bon.",
+      "text" : "Par contre, je me suis fait surprendre par Gwen parce que en fait, elle était bien meilleure que moi en fait. Elle était bien meilleure que moi, Gwen. Gwen était bien meilleure que moi, ce qui fait que... comment dire? Ce qui fait qu'elle a été meilleure, quoi. Enfin, je sais pas comment dire, mais... bref. Elle était bien meilleure que moi, donc il faut que tu m'expliques pourquoi elle, elle m'a autant défoncé. En fait, elle, m'a complètement ouverte. Et elle jouait full AP. Je sais pas si j'aurais pas dû foncer sur elle. Mais après, je focusais surtout la Jana. Et la Jana jouait très bien. Donc bon."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815084041.508287,
+      "id" : "184C4446-BA0F-4A23-B0DA-495733EC7EA5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je pense que là, ce qui va me manquer, c'est déjà focus sur la priorité numéro 1. Et ensuite connaître un peu les match-ups qui peuvent vraiment détruire un Shogat, même s'il est très tanky.",
+      "text" : "Je pense que là, ce qui va me manquer, c'est déjà focus sur la priorité numéro 1. Et ensuite connaître un peu les match-ups qui peuvent vraiment détruire un Shogat, même s'il est très tanky."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815084223.462738,
+      "id" : "7A2823D1-2AF4-4232-AE04-A6E51AC919B8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que du coup, tu peux mettre, s'il te plaît, les items... attends, banne champion. Est-ce que tu peux mettre... C'est ça. C'est le logitech. Showbot. You have to open. Showbot ou open. Quelqu'un? Est-ce que tu peux mettre les icônes des items? Quand je t'ai demandé de mettre contrat D et contrat P, j'aurais préféré que via Google Search, tu mettes directement les icônes du vrai jeu, s'il te plaît.",
+      "text" : "Est-ce que du coup, tu peux mettre, s'il te plaît, les items... attends, banne champion. Est-ce que tu peux mettre... C'est ça. C'est le logitech. Showbot. You have to open. Showbot ou open. Quelqu'un? Est-ce que tu peux mettre les icônes des items? Quand je t'ai demandé de mettre contrat D et contrat P, j'aurais préféré que via Google Search, tu mettes directement les icônes du vrai jeu, s'il te plaît."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815086531.492259,
+      "id" : "58A5C1C4-C061-4B41-B25D-D0702B0B617F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, troisième game, c'est gagné avec Shogat. Par contre... Par contre... Par contre... troisième game, c'est gagné avec Shogat. Mais par contre, comment dire... j'ai pas mis assez de dégâts. En fait, en teamfight, je teamfight pas très bien mécaniquement. Et des fois, ça peut jouer la game, en fait. Par contre, sur les objectifs, là, j'ai vraiment carré. À chaque fois, j'ai abandonné ma jungle pour focus les objectifs. Et je pense que ça, c'est très, très",
+      "text" : "Ok, troisième game, c'est gagné avec Shogat. Par contre... Par contre... Par contre... troisième game, c'est gagné avec Shogat. Mais par contre, comment dire... j'ai pas mis assez de dégâts. En fait, en teamfight, je teamfight pas très bien mécaniquement. Et des fois, ça peut jouer la game, en fait. Par contre, sur les objectifs, là, j'ai vraiment carré. À chaque fois, j'ai abandonné ma jungle pour focus les objectifs. Et je pense que ça, c'est très, très"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815086766.282572,
+      "id" : "5381DB14-3B24-4A08-AD8A-10C55680DFE4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Calcule si RiffMaker serait vraiment un bon ajout sur Shogat en calculant mathématiquement très précisément les dégâts, et ou ajoute un autre item, ou alors reste sur RiffMaker après avoir fait les calculs. C'est purement des maths en soi.",
+      "text" : "Calcule si RiffMaker serait vraiment un bon ajout sur Shogat en calculant mathématiquement très précisément les dégâts, et ou ajoute un autre item, ou alors reste sur RiffMaker après avoir fait les calculs. C'est purement des maths en soi."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815087140.128462,
+      "id" : "0F538D28-6DF2-42C9-B1BA-EC9A4118CFBB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Parfois, j'ai un bug sur le Q-Click et je peux plus faire clic droit. J'ai l'impression que c'est quand je déconnecte et je reconnecte ma souris, mais comment faire pour ne pas perdre dans ce genre de cadre? Parce que je suis obligé de quitter le jeu et de me reconnecter, c'est super chiant.",
+      "text" : "Parfois, j'ai un bug sur le Q-Click et je peux plus faire clic droit. J'ai l'impression que c'est quand je déconnecte et je reconnecte ma souris, mais comment faire pour ne pas perdre dans ce genre de cadre? Parce que je suis obligé de quitter le jeu et de me reconnecter, c'est super chiant."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815087223.801112,
+      "id" : "A403768C-9C22-48F2-99E4-38BF37FA6E61",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais essaie de voir si c'est vraiment un problème de ma souris. J'ai l'impression que c'est un bug connu, mais c'est trop chiant.",
+      "text" : "Mais essaie de voir si c'est vraiment un problème de ma souris. J'ai l'impression que c'est un bug connu, mais c'est trop chiant."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815087343.995748,
+      "id" : "9F9D2992-2FBA-4B07-8AFB-9320D00D5A4B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais tu te fous de ma gueule. La voiture finished est limite pire que la voiture before. En fait, ce que t'as pas compris, c'est qu'il y a certains composants qui méritent d'être droits, mais il y en a d'autres qui ne doivent pas l'être. Donc en fait, t'as pas compris du tout le but de ce que je voulais. Et en plus, le but, c'était de finir le modèle. Et surtout, il fallait le faire par rapport à la ref. En fait, j'ai l'impression que tu gages du compute depuis tout à l'heure et que tu fais uniquement de la merde, c'est grave.",
+      "text" : "Mais tu te fous de ma gueule. La voiture finished est limite pire que la voiture before. En fait, ce que t'as pas compris, c'est qu'il y a certains composants qui méritent d'être droits, mais il y en a d'autres qui ne doivent pas l'être. Donc en fait, t'as pas compris du tout le but de ce que je voulais. Et en plus, le but, c'était de finir le modèle. Et surtout, il fallait le faire par rapport à la ref. En fait, j'ai l'impression que tu gages du compute depuis tout à l'heure et que tu fais uniquement de la merde, c'est grave."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815087377.612861,
+      "id" : "CB24589A-EBA8-434E-BC79-BD64335A89F8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Attention à ne pas faire de régression. La référence est bien meilleure que ZenRay Retopology dans certains cas. Tu dois jamais faire un travail pire que le travail de référence. Donc fais en sorte de clean up les choses et fais en sorte que les choses soient propres.",
+      "text" : "Attention à ne pas faire de régression. La référence est bien meilleure que ZenRay Retopology dans certains cas. Tu dois jamais faire un travail pire que le travail de référence. Donc fais en sorte de clean up les choses et fais en sorte que les choses soient propres."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815087459.174845,
+      "id" : "CE512CB8-E180-417F-BD66-1E19E12D88F3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, tu te fous de ma gueule parce que depuis le début, depuis qu'on est arrivé à l'étape 752, la seule chose qui reste à faire, c'est de clean up le modèle. Et c'est un truc que tu as fait à aucun moment. Donc en fait, ce que tu devais faire, c'est simplement clean up le modèle. Mais puisqu'on a lancé des agents, des centaines d'agents, des millions de tokens, etc., et que tu n'arrives toujours pas à faire cette étape de finition, je me demande vraiment comment on va faire, parce que là, on est sur un hard bottleneck, il n'y a aucune méthode qui fonctionne. J'ai essayé de te faire faire des micro-components, ça n'a pas marché. J'ai essayé de te faire découper chaque truc, ça n'a pas marché. J'espère que tu as consigné quand même toutes les méthodes qui n'ont pas marché, hein, parce que sinon, on est vraiment, t'es vraiment l'agent le plus con au monde. J'ai essayé des millions et des millions de trucs, et là, tu n'arrives toujours pas, tu vois. Donc là, je commence vraiment à désespérer.",
+      "text" : "En fait, tu te fous de ma gueule parce que depuis le début, depuis qu'on est arrivé à l'étape 752, la seule chose qui reste à faire, c'est de clean up le modèle. Et c'est un truc que tu as fait à aucun moment. Donc en fait, ce que tu devais faire, c'est simplement clean up le modèle. Mais puisqu'on a lancé des agents, des centaines d'agents, des millions de tokens, etc., et que tu n'arrives toujours pas à faire cette étape de finition, je me demande vraiment comment on va faire, parce que là, on est sur un hard bottleneck, il n'y a aucune méthode qui fonctionne. J'ai essayé de te faire faire des micro-components, ça n'a pas marché. J'ai essayé de te faire découper chaque truc, ça n'a pas marché. J'espère que tu as consigné quand même toutes les méthodes qui n'ont pas marché, hein, parce que sinon, on est vraiment, t'es vraiment l'agent le plus con au monde. J'ai essayé des millions et des millions de trucs, et là, tu n'arrives toujours pas, tu vois. Donc là, je commence vraiment à désespérer."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815087719.826645,
+      "id" : "55163BAA-5558-4148-AD8E-994496E44A9F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah si, à un moment je t'ai demandé, t'as commencé à faire la porte et t'as commencé à faire la porte et toutes les parties droite ou gauche du truc. Donc si, t'as essayé. Il me semble que t'as essayé, hein. Ou alors tu peux réessayer là avec tout ce que tu connais désormais. En mode, si t'arrives pas à faire un truc, si t'arrives pas à faire un truc, simplement, bah, tu repars sur quelque chose de plus petit. Et ça, c'est la règle de base dans Claude.md. Mais le truc, c'est que, enfin, je sais pas comment on va réussir à faire ça, puisque ta run, littéralement, au moins 100 $ de token de Sonnet 5.5 high pour faire une recherche de voiture hard surface. Et toute cette recherche, ça a donné quoi? Pourquoi tu sais toujours pas faire des voitures hard surface en fait? Parce que le truc, c'est AnyMesh, etc. Mais enfin, on en est où en fait? Enfin, c'est du foutage de gueule. Genre, t'es quand même censé réussir les tâches que je te demande. Moi, ce que je voulais, c'est. Et puis, de toute manière, il y avait ZenRay Lines. Pourquoi t'as abandonné ZenRay Lines? Enfin, c'est trop bizarre la manière dont tu travailles. On dirait que tu fais un truc, ensuite tu oublies, et ensuite tu refais la même chose. Donc j'ai l'impression que tu te fous de ma gueule. Sorry.",
+      "text" : "Bah si, à un moment je t'ai demandé, t'as commencé à faire la porte et t'as commencé à faire la porte et toutes les parties droite ou gauche du truc. Donc si, t'as essayé. Il me semble que t'as essayé, hein. Ou alors tu peux réessayer là avec tout ce que tu connais désormais. En mode, si t'arrives pas à faire un truc, si t'arrives pas à faire un truc, simplement, bah, tu repars sur quelque chose de plus petit. Et ça, c'est la règle de base dans Claude.md. Mais le truc, c'est que, enfin, je sais pas comment on va réussir à faire ça, puisque ta run, littéralement, au moins 100 $ de token de Sonnet 5.5 high pour faire une recherche de voiture hard surface. Et toute cette recherche, ça a donné quoi? Pourquoi tu sais toujours pas faire des voitures hard surface en fait? Parce que le truc, c'est AnyMesh, etc. Mais enfin, on en est où en fait? Enfin, c'est du foutage de gueule. Genre, t'es quand même censé réussir les tâches que je te demande. Moi, ce que je voulais, c'est. Et puis, de toute manière, il y avait ZenRay Lines. Pourquoi t'as abandonné ZenRay Lines? Enfin, c'est trop bizarre la manière dont tu travailles. On dirait que tu fais un truc, ensuite tu oublies, et ensuite tu refais la même chose. Donc j'ai l'impression que tu te fous de ma gueule. Sorry."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815087789.967122,
+      "id" : "6C67BDD7-0003-41F6-9B8A-D4C3C938A67E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai oublié ce que je voulais dire. Ah merde, putain.",
+      "text" : "J'ai oublié ce que je voulais dire. Ah merde, putain."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815087797.929209,
+      "id" : "EDBE0400-5B77-4537-B1F7-0F622234855D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je joue contre un Volibear, quelle doit être ma stratégie? Append là dans le document.",
+      "text" : "Je joue contre un Volibear, quelle doit être ma stratégie? Append là dans le document."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815088766.580125,
+      "id" : "DEC4AF87-3902-4A2D-8BC8-990F9D6DE101",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais non, mais",
+      "text" : "Mais non, mais"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815088776.62954,
+      "id" : "044465B3-1373-4408-9688-E96D5259F749",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais non, mais j'ai encore le problème où je peux plus cibler sur League of Legends. C'est trop chiant ce bug. En pleine partie, là, je peux plus cibler.",
+      "text" : "Mais non, mais j'ai encore le problème où je peux plus cibler sur League of Legends. C'est trop chiant ce bug. En pleine partie, là, je peux plus cibler."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815089959.205656,
+      "id" : "ACD21C46-F185-4520-A100-66609B3FD05E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, je viens de gagner la game avec Shogat. Là, pour le coup, j'ai plutôt bien joué. Cependant, je pense que faut vraiment que je respecte mon full clear. Et que des fois, je prends pas de décision parce que j'essaie de groupe avec ma team, étant donné que je suis le tank de l'équipe. Mais des fois, peut-être qu'il vaut mieux farmer, mais... Mais bon. Après, tu vois, je préfère aller avec ma team. Mais... C'est vrai que ce genre de indécision, ça va me faire... Ça va me faire perdre quelques games, à mon avis. Donc, bon. Faut jouer de la bonne manière, à mon avis.",
+      "text" : "Ok, je viens de gagner la game avec Shogat. Là, pour le coup, j'ai plutôt bien joué. Cependant, je pense que faut vraiment que je respecte mon full clear. Et que des fois, je prends pas de décision parce que j'essaie de groupe avec ma team, étant donné que je suis le tank de l'équipe. Mais des fois, peut-être qu'il vaut mieux farmer, mais... Mais bon. Après, tu vois, je préfère aller avec ma team. Mais... C'est vrai que ce genre de indécision, ça va me faire... Ça va me faire perdre quelques games, à mon avis. Donc, bon. Faut jouer de la bonne manière, à mon avis."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815090330.235713,
+      "id" : "99FD84BD-4ADF-41E5-AC28-DEF0886C945A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Moi, je pense que, en fait, faut faire Je pense qu'en fait, faut arrêter de faire des conneries. L'outil de retopologie, je pense qu'on peut le faire aboutir. Mais par contre, l'outil de construction de géométrie, je pense qu'il faut absolument utiliser... Je pense qu'il faut absolument... utiliser les outils internes à Houdini, en fait. Je suis sûr qu'il y a des outils internes à Houdini qui permettent de créer n'importe quelle forme. Donc en fait, on s'est un peu trompé. Voilà. Là, il y a une série de character creation. Je viens de trouver l'épisode 4. Donc rien que... Ouais, voilà, c'est exactement ça. Il faut trouver un workflow de character creation. Il faut le recopier. Donc il faut prendre... déléguer, voilà, c'est ça. Déléguer à des agents Haiku. Donc, voilà ce qu'on va faire. Ça va être parfait. J'ai une super idée. On va. Je te donne un lien. Toi, tu récupères tous les épisodes qui sont sur la chaîne d'Houdini. Ensuite, on télécharge toutes les vidéos de ça. Ensuite, on extrait chaque frame de ça. De chaque frame, non, pas chaque frame, chaque seconde des vidéos. Attention, ça va faire beaucoup de vidéos, donc optimise-les quand même, parce que sinon, j'aurai pas assez de gigas sur mon disque dur. Parce que là, j'ai que 328 gigas sur mon disque dur, il faut faire attention. Donc, on extrait chaque frame. On récupère le workflow de character creation. On utilise toutes les nodes qui permettent de faire ça. Donc dans le workflow, tu vas regarder quelle node il utilise, pourquoi, à quoi ça lui sert, en partant de 1 à la dernière vidéo. Une fois qu'on a ça, et bien ça veut dire qu'on a un workflow de character creation. Donc, en fait, puisque le character creation, c'est du organique, et puisque le component, c'était déjà plus ou moins bien, et bien dans ce cas-là, on pourra recréer n'importe quelle forme. Et oui, et c'est ça qui est fort. Parce que, en fait, là, on va, toi, tu délègues un agent qui peut recréer n'importe quel character creation avec les nodes uniquement qui sont utilisées dans le workflow. Donc, tu analyses chaque vidéo frame par frame. Ça, c'est hyper fort. En fait, c'est comme si tu t'appropriais le workflow, mais sans faire d'erreur, tu vois. Donc, tu t'appropries le workflow. Et voilà. Et du coup, tu délègues le reading comprehensions de toutes les lectures de frame à des agents Haiku, mais de manière séquentielle. Des agents Haiku qui décrivent chaque image et qui décrivent... Enfin, ils n'ont pas besoin de décrire chaque image, ils ont juste besoin de les lire. Et ensuite, ils décrivent le workflow et ils te le rendent à toi. Et toi, tu écris toutes les notes dont tu as besoin. Tu consignes, évidemment, dans ZenRay Meshes avec une nouvelle section qui s'appelle Creator Creation Dracard Houdini 22. Tu peux créditer aussi l'auteur, mais je ne sais pas qui c'est l'auteur. Bon, l'auteur, il n'est pas connu, donc on va pas s'embêter à créditer l'auteur. Et voilà. Et donc, normalement, on pourra, de manière procédurale, recréer n'importe quelle forme géométrique. Alors, il y aura à mon avis, il y a quelques clics qui ont été faits, mais c'est vraiment procédural. Donc, ça va être super. Ça va être vraiment, vraiment cool. Donc, fais en sorte que tout soit parfait. Et dès que tu peux déléguer un agent Haiku 5.5, tu le fais. Le but, c'est de pouvoir recréer déjà, ne serait-ce que le crocodile, en suivant étape par étape le workflow. Et une fois que tu as reproduit le crocodile, tu passes à la reproduction de la voiture avec une topologie parfaite. Parce qu'en plus, la méthode procédurale permet d'obtenir déjà la topologie. Donc, fais ça.",
+      "text" : "Moi, je pense que, en fait, faut faire Je pense qu'en fait, faut arrêter de faire des conneries. L'outil de retopologie, je pense qu'on peut le faire aboutir. Mais par contre, l'outil de construction de géométrie, je pense qu'il faut absolument utiliser... Je pense qu'il faut absolument... utiliser les outils internes à Houdini, en fait. Je suis sûr qu'il y a des outils internes à Houdini qui permettent de créer n'importe quelle forme. Donc en fait, on s'est un peu trompé. Voilà. Là, il y a une série de character creation. Je viens de trouver l'épisode 4. Donc rien que... Ouais, voilà, c'est exactement ça. Il faut trouver un workflow de character creation. Il faut le recopier. Donc il faut prendre... déléguer, voilà, c'est ça. Déléguer à des agents Haiku. Donc, voilà ce qu'on va faire. Ça va être parfait. J'ai une super idée. On va. Je te donne un lien. Toi, tu récupères tous les épisodes qui sont sur la chaîne d'Houdini. Ensuite, on télécharge toutes les vidéos de ça. Ensuite, on extrait chaque frame de ça. De chaque frame, non, pas chaque frame, chaque seconde des vidéos. Attention, ça va faire beaucoup de vidéos, donc optimise-les quand même, parce que sinon, j'aurai pas assez de gigas sur mon disque dur. Parce que là, j'ai que 328 gigas sur mon disque dur, il faut faire attention. Donc, on extrait chaque frame. On récupère le workflow de character creation. On utilise toutes les nodes qui permettent de faire ça. Donc dans le workflow, tu vas regarder quelle node il utilise, pourquoi, à quoi ça lui sert, en partant de 1 à la dernière vidéo. Une fois qu'on a ça, et bien ça veut dire qu'on a un workflow de character creation. Donc, en fait, puisque le character creation, c'est du organique, et puisque le component, c'était déjà plus ou moins bien, et bien dans ce cas-là, on pourra recréer n'importe quelle forme. Et oui, et c'est ça qui est fort. Parce que, en fait, là, on va, toi, tu délègues un agent qui peut recréer n'importe quel character creation avec les nodes uniquement qui sont utilisées dans le workflow. Donc, tu analyses chaque vidéo frame par frame. Ça, c'est hyper fort. En fait, c'est comme si tu t'appropriais le workflow, mais sans faire d'erreur, tu vois. Donc, tu t'appropries le workflow. Et voilà. Et du coup, tu délègues le reading comprehensions de toutes les lectures de frame à des agents Haiku, mais de manière séquentielle. Des agents Haiku qui décrivent chaque image et qui décrivent... Enfin, ils n'ont pas besoin de décrire chaque image, ils ont juste besoin de les lire. Et ensuite, ils décrivent le workflow et ils te le rendent à toi. Et toi, tu écris toutes les notes dont tu as besoin. Tu consignes, évidemment, dans ZenRay Meshes avec une nouvelle section qui s'appelle Creator Creation Dracard Houdini 22. Tu peux créditer aussi l'auteur, mais je ne sais pas qui c'est l'auteur. Bon, l'auteur, il n'est pas connu, donc on va pas s'embêter à créditer l'auteur. Et voilà. Et donc, normalement, on pourra, de manière procédurale, recréer n'importe quelle forme géométrique. Alors, il y aura à mon avis, il y a quelques clics qui ont été faits, mais c'est vraiment procédural. Donc, ça va être super. Ça va être vraiment, vraiment cool. Donc, fais en sorte que tout soit parfait. Et dès que tu peux déléguer un agent Haiku 5.5, tu le fais. Le but, c'est de pouvoir recréer déjà, ne serait-ce que le crocodile, en suivant étape par étape le workflow. Et une fois que tu as reproduit le crocodile, tu passes à la reproduction de la voiture avec une topologie parfaite. Parce qu'en plus, la méthode procédurale permet d'obtenir déjà la topologie. Donc, fais ça."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815092371.393893,
+      "id" : "54D3BB7D-8891-41A8-AF2C-273F2F66B7C7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Putain, je viens de perdre avec Shogat. C'est chiant. J'avais pris tous les objectifs. Malheureusement, il y avait un Rengar ennemi que j'ai totalement counter, ce qui est étonnant, étant donné que Rengar est bien meilleur en early. En fait, mon ADC faisait que mourir et mon top laner c'était un brand et du coup ils ont scroll la game. Je sais pas trop ce que j'aurais pu faire. J'ai encore eu le bug de la souris, mais j'ai compris pourquoi il y avait ce bug. En fait, c'est un problème de mémoire. C'est un problème de mémoire et du coup j'ai quitté le programme. Mais c'est bizarre parce que j'ai 77%. C'est bizarre",
+      "text" : "Putain, je viens de perdre avec Shogat. C'est chiant. J'avais pris tous les objectifs. Malheureusement, il y avait un Rengar ennemi que j'ai totalement counter, ce qui est étonnant, étant donné que Rengar est bien meilleur en early. En fait, mon ADC faisait que mourir et mon top laner c'était un brand et du coup ils ont scroll la game. Je sais pas trop ce que j'aurais pu faire. J'ai encore eu le bug de la souris, mais j'ai compris pourquoi il y avait ce bug. En fait, c'est un problème de mémoire. C'est un problème de mémoire et du coup j'ai quitté le programme. Mais c'est bizarre parce que j'ai 77%. C'est bizarre"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815092810.473503,
+      "id" : "C92E7E3F-0DE5-42E4-984D-57C1AF24E1D0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Tout est consigné. Bravo, excellent travail. Juste un truc qui a été mal fait, c'est la... C'est cette image. Je sais pas trop à quoi ça correspond. Mais c'est un peu bizarre. Après, j'imagine que la géométrie aussi était un peu bizarre de base. Mais c'est pas normal que tu fasses une topologie comme ça de toute manière. Et ensuite, consigne tout et finis proprement.",
+      "text" : "Tout est consigné. Bravo, excellent travail. Juste un truc qui a été mal fait, c'est la... C'est cette image. Je sais pas trop à quoi ça correspond. Mais c'est un peu bizarre. Après, j'imagine que la géométrie aussi était un peu bizarre de base. Mais c'est pas normal que tu fasses une topologie comme ça de toute manière. Et ensuite, consigne tout et finis proprement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815092894.881736,
+      "id" : "EDE64E40-919A-4FCB-A1AF-005CB5A74E5C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah non, commence par l'épisode 1 du coup. Si tous les épisodes sont désormais consignés, bah dans ce cas-là, tu commences à l'épisode 1. Tu commences à l'épisode 1, tu fais tous les épisodes dans l'ordre, et il faut s'assurer que... En fait, faut s'assurer juste que tu peux reproduire un dragon. Ça, c'est ton rôle. Et normalement, t'as aucun problème à le faire.",
+      "text" : "Bah non, commence par l'épisode 1 du coup. Si tous les épisodes sont désormais consignés, bah dans ce cas-là, tu commences à l'épisode 1. Tu commences à l'épisode 1, tu fais tous les épisodes dans l'ordre, et il faut s'assurer que... En fait, faut s'assurer juste que tu peux reproduire un dragon. Ça, c'est ton rôle. Et normalement, t'as aucun problème à le faire."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815092904.598028,
+      "id" : "F0176167-F82E-431E-B326-CCE1A6856D15",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je sais pas, c'est un espèce de dragon crocodile, c'est un peu chelou.",
+      "text" : "Je sais pas, c'est un espèce de dragon crocodile, c'est un peu chelou."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815093004.160533,
+      "id" : "8FF5BCF8-F708-47EE-A03E-923066DEC41A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Attends, c'est bizarre parce que là, tu es censé suivre un tuto sur Houdini et t'as pas lancé la scène Houdini. Je veux que les graphes soient parfaits et identiques aussi.",
+      "text" : "Attends, c'est bizarre parce que là, tu es censé suivre un tuto sur Houdini et t'as pas lancé la scène Houdini. Je veux que les graphes soient parfaits et identiques aussi."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815093073.97682,
+      "id" : "9E40417E-6F53-43C6-9132-5EBD444601BF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je me posais juste une question qui n'a pas de rapport avec le document, mais c'est est-ce qu'un Ryzen 5 7600X, c'est meilleur que un i7-10700K? Deux cas de figure. Un cas de figure où tu fais du gaming, un cas de figure où tu utilises une application lourde comme Houdini et, je sais pas, par exemple, tu fais des simulations ou du rendu Karma CPU, et une application où tu lances des threads en parallèle. Donc, par exemple, la compilation d'un build C++ ou ce genre de choses. Lesquels sont les plus performants? Et comparer aussi au M5 Max M5.",
+      "text" : "Je me posais juste une question qui n'a pas de rapport avec le document, mais c'est est-ce qu'un Ryzen 5 7600X, c'est meilleur que un i7-10700K? Deux cas de figure. Un cas de figure où tu fais du gaming, un cas de figure où tu utilises une application lourde comme Houdini et, je sais pas, par exemple, tu fais des simulations ou du rendu Karma CPU, et une application où tu lances des threads en parallèle. Donc, par exemple, la compilation d'un build C++ ou ce genre de choses. Lesquels sont les plus performants? Et comparer aussi au M5 Max M5."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815094804.450571,
+      "id" : "4AE06983-5932-4578-A67B-144AA5F1FBDF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Tu te fous de ma gueule, je t'ai demandé de finir le dragon en faisant épisode par épisode tout le graphe. Et là, en plus, il n'y a rien dans la scène. Tu te fous de ma gueule.",
+      "text" : "Tu te fous de ma gueule, je t'ai demandé de finir le dragon en faisant épisode par épisode tout le graphe. Et là, en plus, il n'y a rien dans la scène. Tu te fous de ma gueule."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815094827.380067,
+      "id" : "623370A9-D1EC-434B-96A2-0609D4E90446",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Allez, fais la boucle sans t'arrêter pour finir le dragon. Et ensuite, passe à la voiture avec le dragon. Mais tu dois faire tous les épisodes, créer tous les graphes. Ça va te prendre du temps. Hein. Tu pourras pas le faire en un coup. Donc prends ton temps, vérifie épisode par épisode que tu as fait tous les graphes et on avance.",
+      "text" : "Allez, fais la boucle sans t'arrêter pour finir le dragon. Et ensuite, passe à la voiture avec le dragon. Mais tu dois faire tous les épisodes, créer tous les graphes. Ça va te prendre du temps. Hein. Tu pourras pas le faire en un coup. Donc prends ton temps, vérifie épisode par épisode que tu as fait tous les graphes et on avance."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815095605.625459,
+      "id" : "6CB0C9DE-225B-41A2-A84B-67B04C3B3746",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Putain, j'ai reperdu une game là avec Shogat. Mets à jour le tableau. Attends, je vais dire toutes les games que j'ai gagnées. La game, je viens de la perdre pour Shogat. Je viens de perdre la game de Shogat.",
+      "text" : "Putain, j'ai reperdu une game là avec Shogat. Mets à jour le tableau. Attends, je vais dire toutes les games que j'ai gagnées. La game, je viens de la perdre pour Shogat. Je viens de perdre la game de Shogat."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815095635.454018,
+      "id" : "425D5899-B05A-46CE-A33B-7802E6D2829B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Soyons positifs, on va gagner toutes les prochaines. Le problème là, c'est qu'on est plate 3, et faut au minimum que je passe émeraude cette nuit, ou alors que je m'en rapproche. Donc là, tu vois, il est minuit 27, et il va falloir qu'on joue très très très bien à partir de maintenant. Rappelle-moi simplement 3 objectifs, afin que j'augmente mon win rate.",
+      "text" : "Soyons positifs, on va gagner toutes les prochaines. Le problème là, c'est qu'on est plate 3, et faut au minimum que je passe émeraude cette nuit, ou alors que je m'en rapproche. Donc là, tu vois, il est minuit 27, et il va falloir qu'on joue très très très bien à partir de maintenant. Rappelle-moi simplement 3 objectifs, afin que j'augmente mon win rate."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815095806.161543,
+      "id" : "4770603E-DF12-44CB-824B-B4A8734E0AB8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Si tu fais crash Houdini, c'est génial.",
+      "text" : "Si tu fais crash Houdini, c'est génial."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815095968.924146,
+      "id" : "235AECAB-FFE1-4239-90D6-DDFD295CDC3C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Oui, sauf que en fait, je joue uniquement ce soir et je ne jouerai pas les autres jours. C'est pour ça que en fait, là, ce soir, il faut avoir un mindset de persévérance et de savoir comment gagner les prochains games. En fait, d'accord avec toi, qu'il faut s'arrêter sur le fait de si on commence à trop perdre. Mais le but, là, c'est vraiment juste on garde son calme en toute situation. Peu importe qu'on gagne, peu importe qu'on perde. Et juste qu'on gagne la prochaine. C'est un mindset où il faut exécuter et passer à la suivante. Tu vois. C'est plutôt ça le truc. C'est pas s'arrêter et se dire « Ah mince, j'ai perdu, je suis frustré. » En fait, on s'en fiche de la frustration. Ce qu'on veut, c'est simplement gagner. Alors après, il faut gagner avec un état d'esprit positif. Tu vois. Sinon, on va juste perdre comme une merde. Tu vois. Mais en soi, il vaut mieux être positif.",
+      "text" : "Oui, sauf que en fait, je joue uniquement ce soir et je ne jouerai pas les autres jours. C'est pour ça que en fait, là, ce soir, il faut avoir un mindset de persévérance et de savoir comment gagner les prochains games. En fait, d'accord avec toi, qu'il faut s'arrêter sur le fait de si on commence à trop perdre. Mais le but, là, c'est vraiment juste on garde son calme en toute situation. Peu importe qu'on gagne, peu importe qu'on perde. Et juste qu'on gagne la prochaine. C'est un mindset où il faut exécuter et passer à la suivante. Tu vois. C'est plutôt ça le truc. C'est pas s'arrêter et se dire « Ah mince, j'ai perdu, je suis frustré. » En fait, on s'en fiche de la frustration. Ce qu'on veut, c'est simplement gagner. Alors après, il faut gagner avec un état d'esprit positif. Tu vois. Sinon, on va juste perdre comme une merde. Tu vois. Mais en soi, il vaut mieux être positif."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815098531.485576,
+      "id" : "CA303AF6-75D9-4A41-9204-73D368CC91D9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bon, bah, c'est n'importe quoi. T'arrives à rien au niveau mesh. C'est un peu catastrophique. Le problème, c'est que notre promesse de any meshes, elle avance pas, quoi. Je sais pas comment on va faire. Je sais pas comment on peut faire pour améliorer ZenRay meshes, pour au moins avoir des résultats convaincants. Parce qu'en fait, pour des bâtiments, ça fonctionne un peu, mais pour... pour tout ce qui est organique, vraiment, t'arrives pas du tout. Hein. Même semi-hard surface, t'arrives pas non plus. Hein. Reprends la voiture et essaie vraiment de diviser atomiquement le plus petit component possible pour le finir proprement. Et ensuite, tu passes à autre chose. Et tu reprends la ref. Mais vraiment, tu divises atomiquement les tâches. Limite, tu fais le truc le plus petit possible. Pense au plus petit, pense niveau atomique. Reprends la voiture et itère, mais reprends vraiment atomiquement. Essaie de te poser la question à chaque fois, j'arrive pas à faire ça, comment est-ce que je peux faire pour y arriver? Et tu fais du back and forth pour y arriver, tu vois. Tu peux reprendre soit la version 752, mais en fait, un humain, il va y arriver. Donc faut aussi que tu te poses la question, mais comment est-ce qu'un humain... il va arriver à faire du mesh modeling. Parce que là, t'es moins fort qu'un humain. Tu te rends compte? Donc, il faut quand même que tu te respectes un peu, tu vois.",
+      "text" : "Bon, bah, c'est n'importe quoi. T'arrives à rien au niveau mesh. C'est un peu catastrophique. Le problème, c'est que notre promesse de any meshes, elle avance pas, quoi. Je sais pas comment on va faire. Je sais pas comment on peut faire pour améliorer ZenRay meshes, pour au moins avoir des résultats convaincants. Parce qu'en fait, pour des bâtiments, ça fonctionne un peu, mais pour... pour tout ce qui est organique, vraiment, t'arrives pas du tout. Hein. Même semi-hard surface, t'arrives pas non plus. Hein. Reprends la voiture et essaie vraiment de diviser atomiquement le plus petit component possible pour le finir proprement. Et ensuite, tu passes à autre chose. Et tu reprends la ref. Mais vraiment, tu divises atomiquement les tâches. Limite, tu fais le truc le plus petit possible. Pense au plus petit, pense niveau atomique. Reprends la voiture et itère, mais reprends vraiment atomiquement. Essaie de te poser la question à chaque fois, j'arrive pas à faire ça, comment est-ce que je peux faire pour y arriver? Et tu fais du back and forth pour y arriver, tu vois. Tu peux reprendre soit la version 752, mais en fait, un humain, il va y arriver. Donc faut aussi que tu te poses la question, mais comment est-ce qu'un humain... il va arriver à faire du mesh modeling. Parce que là, t'es moins fort qu'un humain. Tu te rends compte? Donc, il faut quand même que tu te respectes un peu, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815098605.985765,
+      "id" : "BFEDA488-9098-42C7-9379-3217CA3FCD8F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "il faut que dès le prochain batch, la voiture, tu aies au moins fini un component parfait. Pas forcément en termes de retopologie, mais surtout en termes de forme. C'est ça le plus important. Tu as suffisamment de data maintenant pour analyser ce dont tu as besoin au moment où tu en as besoin. Si tu as besoin de rechercher de la data par rapport à quelque chose qu'on a déjà lu, tu lances un petit Haiku 5.5 max et tu récupères la data et ensuite tu itères de manière atomique sur les plus petits composants en premier, tu vois, par exemple. Tu vois, tu modélises une vis, tu vois, ou tu modélises un bout de la roue et ensuite tu dupliques le bout que tu as modélisé, tu vois, enfin, tu réfléchis. Tu vois. Le but, c'est que tu aies une voiture et il y a déjà tellement de compute et tellement d'aide que tu as que franchement, tu n'as aucune excuse. Et en plus, tu as carte blanche, tu peux faire ce que tu veux. Donc, c'est pas possible que tu n'arrives même pas à faire au moins une voiture.",
+      "text" : "il faut que dès le prochain batch, la voiture, tu aies au moins fini un component parfait. Pas forcément en termes de retopologie, mais surtout en termes de forme. C'est ça le plus important. Tu as suffisamment de data maintenant pour analyser ce dont tu as besoin au moment où tu en as besoin. Si tu as besoin de rechercher de la data par rapport à quelque chose qu'on a déjà lu, tu lances un petit Haiku 5.5 max et tu récupères la data et ensuite tu itères de manière atomique sur les plus petits composants en premier, tu vois, par exemple. Tu vois, tu modélises une vis, tu vois, ou tu modélises un bout de la roue et ensuite tu dupliques le bout que tu as modélisé, tu vois, enfin, tu réfléchis. Tu vois. Le but, c'est que tu aies une voiture et il y a déjà tellement de compute et tellement d'aide que tu as que franchement, tu n'as aucune excuse. Et en plus, tu as carte blanche, tu peux faire ce que tu veux. Donc, c'est pas possible que tu n'arrives même pas à faire au moins une voiture."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815098660.528556,
+      "id" : "328B820D-FC5B-4291-A91A-55115EA54E80",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Moi, à mon avis, pour modéliser, tu devrais utiliser les outils d'Houdini qui sont faits justement pour la modélisation.",
+      "text" : "Moi, à mon avis, pour modéliser, tu devrais utiliser les outils d'Houdini qui sont faits justement pour la modélisation."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815098782.835081,
+      "id" : "BC121581-6816-4D96-BDB1-0240186A029F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et non, mais là, tu repars pour faire de la merde. Enfin, là, tu as bien conscience que tu recommences à zéro. Moi, je vais rien dire. Mais... Et t'as fait une roue, elle est même pas droite.",
+      "text" : "Et non, mais là, tu repars pour faire de la merde. Enfin, là, tu as bien conscience que tu recommences à zéro. Moi, je vais rien dire. Mais... Et t'as fait une roue, elle est même pas droite."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815098978.281488,
+      "id" : "B4F44B66-C3C7-4D16-8723-0A58E2E89546",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais t'as fait une roue, elle est même pas à droite. C'est grave là. Ah non, c'est la capture qui fait qu'elle est pas à droite, mais t'as mis un truc qui obstrue la vue du truc. Genre honnêtement, je vais péter un câble. Hein. Genre, je sais pas quoi. Je sais pas ce que tu peux réussir à faire, hein, puisque t'arrives pas à faire du modeling. Je sais pas. ZenRay mes chaises et. Je sais pas. Il y a des centaines et des centaines de sections et. T'arrives pas à faire une putain de roue. Je sais pas quoi faire. En fait, c'est un problème de finition, mais je sais pas comment t'expliquer, quoi. Peut-être c'est des règles de la modélisation. Peut-être c'est les règles de la modélisation que tu captes pas, mais enfin, tu les as forcément écrites quelque part, tu vois. Alors là, par exemple, t'as créé une roue. Bah déjà, le design n'est pas top. Et au-delà de ça, les cylindres sont pas bons. Et les faces ne sont pas fermées. Ça ressemble pas à la référence. Je sais pas. Je sais pas quoi faire. Moi. Pas quoi faire. Je sais pas quoi faire. Je te dis à chaque fois des choses, tu les fais pas. Il y a des millions de cash sur cette session. Même faire une roue, t'y arrives pas. Essaie d'utiliser ZenRay mes chaises pour refaire la roue de manière atomique. On va pas se désespérer. T'es débile, t'es débile. Ça, on n'y peut rien. Par contre, moi, je suis pas débile. Donc, je vais jouer avec tes limites. Utilise ZenRay mes chaises pour refaire la roue de manière atomique avec tout ce qu'on a appris. Uniquement la roue.",
+      "text" : "Mais t'as fait une roue, elle est même pas à droite. C'est grave là. Ah non, c'est la capture qui fait qu'elle est pas à droite, mais t'as mis un truc qui obstrue la vue du truc. Genre honnêtement, je vais péter un câble. Hein. Genre, je sais pas quoi. Je sais pas ce que tu peux réussir à faire, hein, puisque t'arrives pas à faire du modeling. Je sais pas. ZenRay mes chaises et. Je sais pas. Il y a des centaines et des centaines de sections et. T'arrives pas à faire une putain de roue. Je sais pas quoi faire. En fait, c'est un problème de finition, mais je sais pas comment t'expliquer, quoi. Peut-être c'est des règles de la modélisation. Peut-être c'est les règles de la modélisation que tu captes pas, mais enfin, tu les as forcément écrites quelque part, tu vois. Alors là, par exemple, t'as créé une roue. Bah déjà, le design n'est pas top. Et au-delà de ça, les cylindres sont pas bons. Et les faces ne sont pas fermées. Ça ressemble pas à la référence. Je sais pas. Je sais pas quoi faire. Moi. Pas quoi faire. Je sais pas quoi faire. Je te dis à chaque fois des choses, tu les fais pas. Il y a des millions de cash sur cette session. Même faire une roue, t'y arrives pas. Essaie d'utiliser ZenRay mes chaises pour refaire la roue de manière atomique. On va pas se désespérer. T'es débile, t'es débile. Ça, on n'y peut rien. Par contre, moi, je suis pas débile. Donc, je vais jouer avec tes limites. Utilise ZenRay mes chaises pour refaire la roue de manière atomique avec tout ce qu'on a appris. Uniquement la roue."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815098994.671302,
+      "id" : "7E5C5114-E631-44FA-8995-C5B3C040DC0A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et continue d'itérer sur ZenRay Meshes en utilisant le meilleur algorithme qui fait qu'il reproduit un objet. Et fais-le à partir de la ref uniquement sur la roue.",
+      "text" : "Et continue d'itérer sur ZenRay Meshes en utilisant le meilleur algorithme qui fait qu'il reproduit un objet. Et fais-le à partir de la ref uniquement sur la roue."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815099300.553748,
+      "id" : "878264FE-727A-40DD-A194-B28AFD5AF6DC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je viens encore de perdre. Là, le problème, c'est que j'ai pas assez focus sur les objectifs et j'ai super mal joué mécaniquement. Ce qui fait que le Lee Sin a pris un avantage en early. Mais c'était pas forcément de ma faute. C'est juste que je me suis mis à farmer et du coup, ma botlane a fait que mourir en boucle. Et je les ai pas forcément aidés. Donc là, on a perdu. Bon, après, genre, il y avait 15 kills à 0. Et j'étais le seul à vouloir jouer la game, tu vois. Donc bon, c'était pas forcément gagnable. Ce qu'il faut là, c'est se remettre dans un élan de victoire et que tu me motives pour que je puisse continuer à gagner.",
+      "text" : "Je viens encore de perdre. Là, le problème, c'est que j'ai pas assez focus sur les objectifs et j'ai super mal joué mécaniquement. Ce qui fait que le Lee Sin a pris un avantage en early. Mais c'était pas forcément de ma faute. C'est juste que je me suis mis à farmer et du coup, ma botlane a fait que mourir en boucle. Et je les ai pas forcément aidés. Donc là, on a perdu. Bon, après, genre, il y avait 15 kills à 0. Et j'étais le seul à vouloir jouer la game, tu vois. Donc bon, c'était pas forcément gagnable. Ce qu'il faut là, c'est se remettre dans un élan de victoire et que tu me motives pour que je puisse continuer à gagner."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815103722.550009,
+      "id" : "E9A0C566-A55A-4B3F-ABC8-E4C072B11205",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, je viens de gagner la game de tout à l'heure. Mais par contre, il y a mon support qui est mail. Et je sais pas comment ça se joue. Je sais pas quels sont ses sorts.",
+      "text" : "Ok, je viens de gagner la game de tout à l'heure. Mais par contre, il y a mon support qui est mail. Et je sais pas comment ça se joue. Je sais pas quels sont ses sorts."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815103730.722045,
+      "id" : "F1CB6CC8-6C57-4760-BAE8-C27655F3CB9B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et je joue contre une Elise. Elise, c'est un peu chiant contre Shogun, j'ai l'impression.",
+      "text" : "Et je joue contre une Elise. Elise, c'est un peu chiant contre Shogun, j'ai l'impression."
     }
   ],
   "modes" : [
