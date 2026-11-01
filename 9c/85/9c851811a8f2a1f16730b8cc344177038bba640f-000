@@ -21509,6 +21509,516 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Est-ce que dans le doc, t'as mis comment bien jouer Kaïsa, etc.",
       "text" : "Est-ce que dans le doc, t'as mis comment bien jouer Kaïsa, etc."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815232110.408573,
+      "id" : "D3FE3CCC-530A-40C1-98CD-36C876A74D57",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ah, je comprends. Si vous restez intéressé sur le disque dur 4 TB, cependant, je peux toujours vous l'envoyer. Merci beaucoup de m'avoir prévenu.",
+      "text" : "Ah, je comprends. Si vous restez intéressé sur le disque dur 4 TB, cependant, je peux toujours vous l'envoyer. Merci beaucoup de m'avoir prévenu."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815232131.871437,
+      "id" : "5613A25F-B899-4BBB-A782-EE90FF31C838",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Si vous avez un autre PC dans le futur, n'hésitez pas à me prévenir. Je reste intéressé par l'acquisition d'un modèle similaire. Merci beaucoup.",
+      "text" : "Si vous avez un autre PC dans le futur, n'hésitez pas à me prévenir. Je reste intéressé par l'acquisition d'un modèle similaire. Merci beaucoup."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815233222.175442,
+      "id" : "05692841-4151-463F-897F-62B486EE7B14",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je sais du coup ce qu'on va faire pour ZenRay Meshes pour améliorer les trucs. C'est qu'en fait, on va créer un détecteur micro-components. Et en fait, on va créer un détecteur micro-components, c'est-à-dire ça part de la 6 views. Et en fait, ça va créer l'architecture parfaite parmi un dataset de micro-components 3D qui sera accurate à 100% à chaque fois en fait. Et en fait, cette grille de lecture, elle permettra ensuite de prédécouper dans une galerie de collection tous les micro-components et là où ils doivent aller. Et en fait, cette nouvelle architecture, via la sheet, elle permettra ensuite de générer par prompt, de générer un prompt parmi toute la galerie de sheet qui sera générée, tu vois. Donc, c'est-à-dire, par exemple, on part de la 6 top views. Et en fait, on pré-génère, alors via une vue transparente, sans doute wireframe, une description de tous les micro-components. Ensuite, on génère plusieurs prompts dans une galerie par icône du micro-component, avec chaque micro-component qui possède lui-même 6 vues topside. Mais afin d'éviter de créer une trop grosse sheet, on met maximum, 4 micro-components, voire 8 micro-components par sheet, voire 16 maximum s'ils sont vraiment tout petits et à très peu de détails. Donc on demande une feuille de référence. Et avec cette nouvelle méthode, en fait, on pourra recréer n'importe quelle mèche et voir à terme aussi des mèches organiques. Donc, je ne sais pas si j'ai été clair, mais en soi, tu pré-génères la vue, tu pré-génères en fait la vue, tu pré-génères la vue. Non, tu pars de la 6 top views, tu pré-génères des micro-components, et ensuite l'algorithme, via les nodes de Houdini pour du hard surface, ou via tout l'apprentissage de ZenRay Meshes jusqu'à maintenant, génère le component parfait pour le component à modéliser. Et une fois qu'on a ça, bah, ça veut dire qu'on peut modéliser any meshes. Tu vois, donc ça c'est très intelligent à faire. Le seul truc c'est qu'on va avoir besoin de l'algorithme qui nous permet de générer 16, 8 ou 4 lignes de 6 éléments à chaque fois parmi le truc. Donc il faut coder ça. Et surtout, il faut que la galerie d'identification des components par masque, elles soient hyper précises. Donc je te conseille d'utiliser des masques semi-transparents pour faire la galerie de sheets, donc c'est-à-dire les feuilles de préparation du design, et tu demandes dans les prompts du coup une vue wireframe pour que l'outil puisse reproduire à la perfection le components modélisé. Et voilà. En fait, le but, c'est de diviser atomiquement le travail de reproduction, de modélisation, afin d'être sûr qu'il puisse reproduire n'importe quoi. Donc, par exemple, là, une voiture, ben, on la divise, et tu reprends tout le travail existant sur ZenRay Meshes pour créer ça et aller au plus loin possible. Et ensuite, il faudra faire toute la chaîne de production. C'est-à-dire, on part d'une 6 top views de tout le modèle, donc là, c'est la voiture, en l'occurrence. Ensuite, on pré-génère la galerie avec... Enfin, oui, en fait, en deuxième, c'est plutôt on pré-génère un document. Du coup, ça veut dire aussi que tous les documents devront être au bon endroit et bien triés et bien organisés. Tous les documents de design, de référence et de plan donc d'ingénierie ou d'architecture devront être recensés dans le même projet, voire un HTML sommaire qui... append au fur et à mesure les références, tu vois. Le plus simple, c'est de faire un document HTML pour chaque projet, tu vois. Voilà. Donc, je récapitule la chaîne de valeur de production qu'on va créer. Donc, c'est premièrement, on a la 6 top views du modèle de la voiture. Ensuite, on pré-génère parfaitement, ça doit être parfait à 99% sans te tromper, donc c'est là où tu vas devoir mettre beaucoup de compute sur ça. On pré-génère du coup les masques semi-transparents pour créer une galerie et une légende des micro-components. Ensuite, on pré-génère une grille qui attendra du coup les micro-components via une page de plusieurs images qui attendra les micro-components dans une galerie d'icônes, si tu veux, mais voilà. Ensuite, une fois que... Donc, ensuite, on demande le prompt pour chaque modèle. Pour chaque micro-components, on fait un prompt précis qui va décrire, du coup, en scale perfect et en attribution de proportion des valeurs, etc. On demande du coup de remplir la grille qui a été pré-générée. Donc ça, j'ai juste du coup à glisser mon document HTML dans ChatGPT et il va comprendre. Ou alors juste à copier, avoir un bouton qui copie l'image puisque le prompt est déjà sur chaque image. Donc c'est là où tu dois beaucoup travailler sur le design du document. Ensuite, et évidemment le document doit être consigné dans la méthode ZenRay Meshes. Ensuite, on fait en sorte d'avoir le prompt qui est généré par l'intelligence artificielle. Donc, on obtient nos images qui viennent se mettre parfaitement au bon endroit. À mon avis, on génère une galerie directement plutôt que de générer individuellement chaque micro-component, tu vois. Mais si une attribution des valeurs entre les différentes views, donc les différentes 6 views attendues, n'est pas bon, bah dans ce cas-là, on fait plutôt... On viendra demander une vérification pour être sûr que le modèle attendu soit le bon. Ensuite... Ensuite, on obtient notre galerie des components. Ensuite, ZenRay Meshes s'occupe de vraiment les modéliser. On les garde de manière individuelle en termes de micro-components pour les vérifier en 3D par rapport à leur image. On fait là aussi un protocole de vérification dans la chaîne de valeur de ZenRay Meshes. Et enfin, on vient les placer parfaitement à l'endroit qui leur est attribué. Donc, voilà. Et à terme, cette chaîne de valeur et de production, mais là, on ne le fait pas aujourd'hui parce que ça va être déjà très très long de construire tout ça. À terme, la valeur de production, ce sera de faire en sorte que ça marche aussi pour les personnages, tu vois. Mais là, on n'y est pas encore. Donc, mais tu vois, si on divise tous les personnages par rapport à tous leurs components, on pourra réussir à le faire.",
+      "text" : "Je sais du coup ce qu'on va faire pour ZenRay Meshes pour améliorer les trucs. C'est qu'en fait, on va créer un détecteur micro-components. Et en fait, on va créer un détecteur micro-components, c'est-à-dire ça part de la 6 views. Et en fait, ça va créer l'architecture parfaite parmi un dataset de micro-components 3D qui sera accurate à 100% à chaque fois en fait. Et en fait, cette grille de lecture, elle permettra ensuite de prédécouper dans une galerie de collection tous les micro-components et là où ils doivent aller. Et en fait, cette nouvelle architecture, via la sheet, elle permettra ensuite de générer par prompt, de générer un prompt parmi toute la galerie de sheet qui sera générée, tu vois. Donc, c'est-à-dire, par exemple, on part de la 6 top views. Et en fait, on pré-génère, alors via une vue transparente, sans doute wireframe, une description de tous les micro-components. Ensuite, on génère plusieurs prompts dans une galerie par icône du micro-component, avec chaque micro-component qui possède lui-même 6 vues topside. Mais afin d'éviter de créer une trop grosse sheet, on met maximum, 4 micro-components, voire 8 micro-components par sheet, voire 16 maximum s'ils sont vraiment tout petits et à très peu de détails. Donc on demande une feuille de référence. Et avec cette nouvelle méthode, en fait, on pourra recréer n'importe quelle mèche et voir à terme aussi des mèches organiques. Donc, je ne sais pas si j'ai été clair, mais en soi, tu pré-génères la vue, tu pré-génères en fait la vue, tu pré-génères la vue. Non, tu pars de la 6 top views, tu pré-génères des micro-components, et ensuite l'algorithme, via les nodes de Houdini pour du hard surface, ou via tout l'apprentissage de ZenRay Meshes jusqu'à maintenant, génère le component parfait pour le component à modéliser. Et une fois qu'on a ça, bah, ça veut dire qu'on peut modéliser any meshes. Tu vois, donc ça c'est très intelligent à faire. Le seul truc c'est qu'on va avoir besoin de l'algorithme qui nous permet de générer 16, 8 ou 4 lignes de 6 éléments à chaque fois parmi le truc. Donc il faut coder ça. Et surtout, il faut que la galerie d'identification des components par masque, elles soient hyper précises. Donc je te conseille d'utiliser des masques semi-transparents pour faire la galerie de sheets, donc c'est-à-dire les feuilles de préparation du design, et tu demandes dans les prompts du coup une vue wireframe pour que l'outil puisse reproduire à la perfection le components modélisé. Et voilà. En fait, le but, c'est de diviser atomiquement le travail de reproduction, de modélisation, afin d'être sûr qu'il puisse reproduire n'importe quoi. Donc, par exemple, là, une voiture, ben, on la divise, et tu reprends tout le travail existant sur ZenRay Meshes pour créer ça et aller au plus loin possible. Et ensuite, il faudra faire toute la chaîne de production. C'est-à-dire, on part d'une 6 top views de tout le modèle, donc là, c'est la voiture, en l'occurrence. Ensuite, on pré-génère la galerie avec... Enfin, oui, en fait, en deuxième, c'est plutôt on pré-génère un document. Du coup, ça veut dire aussi que tous les documents devront être au bon endroit et bien triés et bien organisés. Tous les documents de design, de référence et de plan donc d'ingénierie ou d'architecture devront être recensés dans le même projet, voire un HTML sommaire qui... append au fur et à mesure les références, tu vois. Le plus simple, c'est de faire un document HTML pour chaque projet, tu vois. Voilà. Donc, je récapitule la chaîne de valeur de production qu'on va créer. Donc, c'est premièrement, on a la 6 top views du modèle de la voiture. Ensuite, on pré-génère parfaitement, ça doit être parfait à 99% sans te tromper, donc c'est là où tu vas devoir mettre beaucoup de compute sur ça. On pré-génère du coup les masques semi-transparents pour créer une galerie et une légende des micro-components. Ensuite, on pré-génère une grille qui attendra du coup les micro-components via une page de plusieurs images qui attendra les micro-components dans une galerie d'icônes, si tu veux, mais voilà. Ensuite, une fois que... Donc, ensuite, on demande le prompt pour chaque modèle. Pour chaque micro-components, on fait un prompt précis qui va décrire, du coup, en scale perfect et en attribution de proportion des valeurs, etc. On demande du coup de remplir la grille qui a été pré-générée. Donc ça, j'ai juste du coup à glisser mon document HTML dans ChatGPT et il va comprendre. Ou alors juste à copier, avoir un bouton qui copie l'image puisque le prompt est déjà sur chaque image. Donc c'est là où tu dois beaucoup travailler sur le design du document. Ensuite, et évidemment le document doit être consigné dans la méthode ZenRay Meshes. Ensuite, on fait en sorte d'avoir le prompt qui est généré par l'intelligence artificielle. Donc, on obtient nos images qui viennent se mettre parfaitement au bon endroit. À mon avis, on génère une galerie directement plutôt que de générer individuellement chaque micro-component, tu vois. Mais si une attribution des valeurs entre les différentes views, donc les différentes 6 views attendues, n'est pas bon, bah dans ce cas-là, on fait plutôt... On viendra demander une vérification pour être sûr que le modèle attendu soit le bon. Ensuite... Ensuite, on obtient notre galerie des components. Ensuite, ZenRay Meshes s'occupe de vraiment les modéliser. On les garde de manière individuelle en termes de micro-components pour les vérifier en 3D par rapport à leur image. On fait là aussi un protocole de vérification dans la chaîne de valeur de ZenRay Meshes. Et enfin, on vient les placer parfaitement à l'endroit qui leur est attribué. Donc, voilà. Et à terme, cette chaîne de valeur et de production, mais là, on ne le fait pas aujourd'hui parce que ça va être déjà très très long de construire tout ça. À terme, la valeur de production, ce sera de faire en sorte que ça marche aussi pour les personnages, tu vois. Mais là, on n'y est pas encore. Donc, mais tu vois, si on divise tous les personnages par rapport à tous leurs components, on pourra réussir à le faire."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815234489.004578,
+      "id" : "D391E31F-FBFD-4669-8E8E-145834297E9E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, parfait. Parfait. What? Salut à tous, c'est Exerve. On se retrouve aujourd'hui pour un petit let's play de découverte complètement imprévu. Vraiment, je ne m'attendais pas à vous parler de valeur mortis sur ma chaîne. Pour plusieurs raisons, parce que y a des tonnes de jeux qui sortent en ce moment et clairement, il faut faire des choix. Et la raison pour laquelle je ne me suis pas spécialement intéressé à celui-ci, c'est que certes, c'est un soul-like, c'est d'ailleurs pour ça, je pense, que j'ai reçu une clé, parce que je ne l'avais pas demandé, hein, c'est le studio qui me l'a envoyé spontanément. J'imagine qu'ils ont cherché des chaînes qui parlaient de souls-like et je suis tombé dans la liste, évidemment. Donc ça me fait plaisir, hein, toujours quand je suis reconnu pour ça. Mais en gros, moi, les jeux à la première personne, si vous suivez la chaîne depuis quelques temps, c'est un style de jeu auquel j'ai beaucoup de mal, vraiment. J'ai du mal à y jouer, que ce soit au clavier-souris ou même à la manette. J'ai du mal à viser, tout simplement. Et donc, en général, c'est le genre de jeu",
+      "text" : "Ok, parfait. Parfait. What? Salut à tous, c'est Exerve. On se retrouve aujourd'hui pour un petit let's play de découverte complètement imprévu. Vraiment, je ne m'attendais pas à vous parler de valeur mortis sur ma chaîne. Pour plusieurs raisons, parce que y a des tonnes de jeux qui sortent en ce moment et clairement, il faut faire des choix. Et la raison pour laquelle je ne me suis pas spécialement intéressé à celui-ci, c'est que certes, c'est un soul-like, c'est d'ailleurs pour ça, je pense, que j'ai reçu une clé, parce que je ne l'avais pas demandé, hein, c'est le studio qui me l'a envoyé spontanément. J'imagine qu'ils ont cherché des chaînes qui parlaient de souls-like et je suis tombé dans la liste, évidemment. Donc ça me fait plaisir, hein, toujours quand je suis reconnu pour ça. Mais en gros, moi, les jeux à la première personne, si vous suivez la chaîne depuis quelques temps, c'est un style de jeu auquel j'ai beaucoup de mal, vraiment. J'ai du mal à y jouer, que ce soit au clavier-souris ou même à la manette. J'ai du mal à viser, tout simplement. Et donc, en général, c'est le genre de jeu"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815235465.159189,
+      "id" : "0C987AF3-E27A-44F1-978D-B426F515EB84",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il y a encore la... En fait, le problème, c'est que les masques ne sont pas encore à 99,9% de précision. Du coup, il faut que tu améliores l'algorithme jusqu'à ce que ce soit le cas et fais une boucle jusqu'à ce que ce soit parfait. Et par contre, dans le document en soi, par rapport aux grilles et les feuilles à remplir, je pense pas que tu devrais mettre une pré-génération des images, puisque en fait, comment dire? Puisque en fait comment dire comment dire voilà c'est je pense pas que tu devrais pré-générer les feuilles de du modèle puisque Bah puisque elles sont pas parfaites en fait. Donc en fait là tu mets une incohérence dans le prompt, tu vois, parce que tu pré-génères avec une forme 3D géométrique, alors que justement on veut que ce soit le AI Gen qui nous donne la forme géométrique. Et en plus les masques sont pas encore à 99,9%. Donc il faut que tu le fasses très très proprement. Et fais pareil avec Mani à mon avis. Comme ça, on détecte si ça marche bien sur une forme organique aussi.",
+      "text" : "Il y a encore la... En fait, le problème, c'est que les masques ne sont pas encore à 99,9% de précision. Du coup, il faut que tu améliores l'algorithme jusqu'à ce que ce soit le cas et fais une boucle jusqu'à ce que ce soit parfait. Et par contre, dans le document en soi, par rapport aux grilles et les feuilles à remplir, je pense pas que tu devrais mettre une pré-génération des images, puisque en fait, comment dire? Puisque en fait comment dire comment dire voilà c'est je pense pas que tu devrais pré-générer les feuilles de du modèle puisque Bah puisque elles sont pas parfaites en fait. Donc en fait là tu mets une incohérence dans le prompt, tu vois, parce que tu pré-génères avec une forme 3D géométrique, alors que justement on veut que ce soit le AI Gen qui nous donne la forme géométrique. Et en plus les masques sont pas encore à 99,9%. Donc il faut que tu le fasses très très proprement. Et fais pareil avec Mani à mon avis. Comme ça, on détecte si ça marche bien sur une forme organique aussi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815235484.226537,
+      "id" : "47B1442D-1216-424D-B0C5-668E90AFAED9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais à mon avis, tu as déjà pas mal d'outils de détection qui sont censés marcher, notamment dans ZenRay Meshes. Mais c'est pas mal du tout, du coup.",
+      "text" : "Mais à mon avis, tu as déjà pas mal d'outils de détection qui sont censés marcher, notamment dans ZenRay Meshes. Mais c'est pas mal du tout, du coup."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815235565.973445,
+      "id" : "B53F4435-4FD3-479D-96AD-877074644CC1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "le problème, c'est qu'on n'a pas de... on n'a pas le modèle Mani sur une grille avec un fond gris, etc. Donc peut-être que il faudrait que je te... que tu me... que tu me redonnes le prompt qui génère les six views avec Mani. Et comme ça, je vais faire une génération en six views. Et ensuite, tu pré-compute, enfin que tu refais l'algorithme sur lui. Mais d'abord, donne-moi Mani en une image, plus... quoique, en fait, depuis Houdini, à mon avis, tu peux générer une grille de 6 images avec Mani sur la vue, sur les 6 vues attendues, en fait. Depuis Houdini, tu fais un karma CPU en 1080p. Tu génères une grille avec une unité d'un cube à côté.",
+      "text" : "le problème, c'est qu'on n'a pas de... on n'a pas le modèle Mani sur une grille avec un fond gris, etc. Donc peut-être que il faudrait que je te... que tu me... que tu me redonnes le prompt qui génère les six views avec Mani. Et comme ça, je vais faire une génération en six views. Et ensuite, tu pré-compute, enfin que tu refais l'algorithme sur lui. Mais d'abord, donne-moi Mani en une image, plus... quoique, en fait, depuis Houdini, à mon avis, tu peux générer une grille de 6 images avec Mani sur la vue, sur les 6 vues attendues, en fait. Depuis Houdini, tu fais un karma CPU en 1080p. Tu génères une grille avec une unité d'un cube à côté."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815235587.230246,
+      "id" : "9FCA89DB-301B-45F9-82F0-EE7560D2F7FB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et ensuite, tu améliores l'algorithme, etc.",
+      "text" : "Et ensuite, tu améliores l'algorithme, etc."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815235720.093451,
+      "id" : "531A969D-1A52-4F21-86F2-03CB79E10115",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'aimerais que tu notes dans Claude.md, dans chaque travail, chaque document, chaque méthodologie, comme ZenRay 8 ou ZenRay, ZenRay UV ou ZenRay Meshes, ou peu importe le travail à l'avenir, tu vois, notamment dans le cadre de ZenRay Edit, et même on fait souvent des dossiers TMP. Mais en fait, il faudrait toujours générer tout ce qu'on a créé dans le projet. Il faudrait faire un document de synthèse HTML et le noter dans la priorité de Claude.md. Comme ça, en fait, on aurait un document qui recense toutes les informations qu'on a fait. Et tu peux aussi le lier aux méthodes feedback. C'est un peu la même chose, tu vois. Attends ma validation, mais en fait, j'aimerais que tu te souviennes que, en fait, on utilise des feedbacks, mais on utilise aussi pas mal de choses. Qu'est-ce que je veux dire? Oui, en fait, on utilise pas mal de choses intelligentes, dans le sens où le document HTML de synthèse, il doit vraiment être important pour résumer tout un projet. Mais en fait, c'est comme si on créait un PDF ou un docx, sauf que là, on crée un HTML directement parce que c'est plus moderne et ça me permet d'avoir les visuels de tout le projet, etc. Je pense que tu vas comprendre ce que je veux. Et attends ma validation avant de le créer. Et essaie de comprendre le",
+      "text" : "J'aimerais que tu notes dans Claude.md, dans chaque travail, chaque document, chaque méthodologie, comme ZenRay 8 ou ZenRay, ZenRay UV ou ZenRay Meshes, ou peu importe le travail à l'avenir, tu vois, notamment dans le cadre de ZenRay Edit, et même on fait souvent des dossiers TMP. Mais en fait, il faudrait toujours générer tout ce qu'on a créé dans le projet. Il faudrait faire un document de synthèse HTML et le noter dans la priorité de Claude.md. Comme ça, en fait, on aurait un document qui recense toutes les informations qu'on a fait. Et tu peux aussi le lier aux méthodes feedback. C'est un peu la même chose, tu vois. Attends ma validation, mais en fait, j'aimerais que tu te souviennes que, en fait, on utilise des feedbacks, mais on utilise aussi pas mal de choses. Qu'est-ce que je veux dire? Oui, en fait, on utilise pas mal de choses intelligentes, dans le sens où le document HTML de synthèse, il doit vraiment être important pour résumer tout un projet. Mais en fait, c'est comme si on créait un PDF ou un docx, sauf que là, on crée un HTML directement parce que c'est plus moderne et ça me permet d'avoir les visuels de tout le projet, etc. Je pense que tu vas comprendre ce que je veux. Et attends ma validation avant de le créer. Et essaie de comprendre le"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815236606.431128,
+      "id" : "766720AA-F68E-4415-BC4C-FAD83B8B4617",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Quels sont les avantages ou inconvénients Quels sont les avantages et inconvénients de manger du gras de jambon, et est-ce que le gras de jambon possède des oméga 3 ou plutôt des oméga 6 qui en excès provoquent de l'inflammation? Ou bien c'est le contraire, une consommation modérée du gras de jambon peut justement soutenir une réduction de l'inflammation ou pas? Et quels sont les avantages et inconvénients? Est-il intéressant de manger du gras de jambon pour le cerveau étant lui-même composé de gras, ou bien je mélange un peu les choses?",
+      "text" : "Quels sont les avantages ou inconvénients Quels sont les avantages et inconvénients de manger du gras de jambon, et est-ce que le gras de jambon possède des oméga 3 ou plutôt des oméga 6 qui en excès provoquent de l'inflammation? Ou bien c'est le contraire, une consommation modérée du gras de jambon peut justement soutenir une réduction de l'inflammation ou pas? Et quels sont les avantages et inconvénients? Est-il intéressant de manger du gras de jambon pour le cerveau étant lui-même composé de gras, ou bien je mélange un peu les choses?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815236627.931794,
+      "id" : "26DF3688-BB22-44C6-A93E-413938FE8CE6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'aimerais scientifiquement et dans un aspect de longévité du sport savoir si le gras de jambon, par exemple le gras de jambon corse ou le gras de jambon, on va dire cuit, est plus ou moins la même chose. Et quel est l'intérêt d'un apport protéique",
+      "text" : "J'aimerais scientifiquement et dans un aspect de longévité du sport savoir si le gras de jambon, par exemple le gras de jambon corse ou le gras de jambon, on va dire cuit, est plus ou moins la même chose. Et quel est l'intérêt d'un apport protéique"
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815237621.969112,
+      "id" : "078C0466-241F-4C67-B1D1-4CC4A13914FD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah, parle-moi plutôt de l'architecture de assets qui relie feedback, mais aussi les projets TMP, aussi la lecture cloud, aussi les articles, et enfin mon désir de créer un document de synthèse. Donc c'est tout ça qu'il faut coordonner en fait. Donc dans le fichier claude.md, certes, mais est-ce qu'il n'y a pas d'autres endroits où il faut le faire?",
+      "text" : "Bah, parle-moi plutôt de l'architecture de assets qui relie feedback, mais aussi les projets TMP, aussi la lecture cloud, aussi les articles, et enfin mon désir de créer un document de synthèse. Donc c'est tout ça qu'il faut coordonner en fait. Donc dans le fichier claude.md, certes, mais est-ce qu'il n'y a pas d'autres endroits où il faut le faire?"
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815237631.808131,
+      "id" : "70BE5C82-D745-489E-BAA1-DDAEA9AF81EC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Parce que ce que je ne sais pas, c'est comment fonctionne Asset, tu vois. Est-ce qu'il est fait par une lecture agentique ou est-ce que c'est du code, tu vois.",
+      "text" : "Parce que ce que je ne sais pas, c'est comment fonctionne Asset, tu vois. Est-ce qu'il est fait par une lecture agentique ou est-ce que c'est du code, tu vois."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815238139.951306,
+      "id" : "1D6EAA9D-AAD3-4E97-8811-75D7A97FAFD7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Sur ce jeu, j'aimerais que tu appliques directement l'application du patch Xinput afin de faire en sorte que je puisse jouer directement avec mon contrôleur DualSense PS5 directement sur Crossover. Je suis sûr qu'il y a une solution, et d'ailleurs on l'a déjà fait sur un jeu similaire, mais je ne sais plus lequel.",
+      "text" : "Sur ce jeu, j'aimerais que tu appliques directement l'application du patch Xinput afin de faire en sorte que je puisse jouer directement avec mon contrôleur DualSense PS5 directement sur Crossover. Je suis sûr qu'il y a une solution, et d'ailleurs on l'a déjà fait sur un jeu similaire, mais je ne sais plus lequel."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815238166.686175,
+      "id" : "E17A73AB-993B-4E3E-93A5-3C3902C343BA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il faudrait ensuite documenter dans un document HTML de synthèse ton travail, une fois que le patch fonctionne.",
+      "text" : "Il faudrait ensuite documenter dans un document HTML de synthèse ton travail, une fois que le patch fonctionne."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815238443.773615,
+      "id" : "C3629B08-8B4D-48E2-9BB9-A4E80E0E64B5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah alors dans ce cas-là, ce qui manque dans la reconstruction du HTML et dans notre méthode, c'est de savoir traquer tous les fichiers du projet et savoir les identifier, sous un tableau cohérent mais qui prennent peu d'espace à l'ouverture du fichier, un peu ce que fait déjà le code de assets, tout en ayant un résumé. Et aussi consigner la date de chaque entrée du document HTML à la manière de feedback afin de savoir à quel moment tout a été écrit et construit, etc. Ainsi, on pourra directement comprendre comment ça fonctionne. En revanche, si je trouve que feedback.md conserve les demandes et les corrections, ça c'est plutôt bien. Rules aussi, c'est très bien. Mais ce que là où je suis pas fan, c'est project1.md. Je trouve que c'est un peu une redite de ce qui existe déjà. Et surtout, project1.md n'est pas un nom de fichier parlant. Donc, je sais pas. Je sais pas si project1.md a vraiment une vraie utilité, étant donné que Rules fait déjà un peu la même chose. Parce qu'en fait, si tu consignes, si Rules contient les consignes permanentes, en fait, il pourrait aussi contenir les connaissances du projet. Donc voilà. Donc maintenant, tu t'occupes de tout consigner avec les nouveautés. Mais il faut vraiment que ce soit parfaitement écrit et qu'il n'y ait aucune erreur et que tu ne fasses pas d'erreur de design dans la conception de ce qui va être consigné.",
+      "text" : "Bah alors dans ce cas-là, ce qui manque dans la reconstruction du HTML et dans notre méthode, c'est de savoir traquer tous les fichiers du projet et savoir les identifier, sous un tableau cohérent mais qui prennent peu d'espace à l'ouverture du fichier, un peu ce que fait déjà le code de assets, tout en ayant un résumé. Et aussi consigner la date de chaque entrée du document HTML à la manière de feedback afin de savoir à quel moment tout a été écrit et construit, etc. Ainsi, on pourra directement comprendre comment ça fonctionne. En revanche, si je trouve que feedback.md conserve les demandes et les corrections, ça c'est plutôt bien. Rules aussi, c'est très bien. Mais ce que là où je suis pas fan, c'est project1.md. Je trouve que c'est un peu une redite de ce qui existe déjà. Et surtout, project1.md n'est pas un nom de fichier parlant. Donc, je sais pas. Je sais pas si project1.md a vraiment une vraie utilité, étant donné que Rules fait déjà un peu la même chose. Parce qu'en fait, si tu consignes, si Rules contient les consignes permanentes, en fait, il pourrait aussi contenir les connaissances du projet. Donc voilà. Donc maintenant, tu t'occupes de tout consigner avec les nouveautés. Mais il faut vraiment que ce soit parfaitement écrit et qu'il n'y ait aucune erreur et que tu ne fasses pas d'erreur de design dans la conception de ce qui va être consigné."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815238532.78457,
+      "id" : "62CF3213-3888-4B8E-A2B2-15D9142B8B6B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, c'est un peu l'équivalent nouveau de ce qu'on faisait sur l'article avec le ton neutre. Sauf que c'est beaucoup plus... on va essayer de partir sur beaucoup plus de visuels dans le document HTML. Ce qu'il faut ne surtout pas faire, c'est faire en sorte que le document HTML soit comme un... soit comme un document MD horrible, .md horrible à lire, tu vois. Ce qu'il faut, c'est intégrer un maximum de visuels via des SVG, via des diagrammes et via, via le ton neutre, etc. Tu vois. Y a déjà des skills qui te permettent de l'écrire. Mais il faut qu'il reste à jour à chaque nouvelle modification du projet, etc.",
+      "text" : "En fait, c'est un peu l'équivalent nouveau de ce qu'on faisait sur l'article avec le ton neutre. Sauf que c'est beaucoup plus... on va essayer de partir sur beaucoup plus de visuels dans le document HTML. Ce qu'il faut ne surtout pas faire, c'est faire en sorte que le document HTML soit comme un... soit comme un document MD horrible, .md horrible à lire, tu vois. Ce qu'il faut, c'est intégrer un maximum de visuels via des SVG, via des diagrammes et via, via le ton neutre, etc. Tu vois. Y a déjà des skills qui te permettent de l'écrire. Mais il faut qu'il reste à jour à chaque nouvelle modification du projet, etc."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815239347.471198,
+      "id" : "EB2DEE9E-E154-45C8-B495-B701B56752A2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ouais. Est-ce que tu peux faire une deep research, enfin pas forcément une deep research, mais une recherche Google assez conséquente afin de voir quelles sont à date les meilleures, the best AI games réalisées par les joueurs? Non, pas réalisées par les joueurs, réalisées par des développeurs qui auraient codé quelque chose en vibe coding, mais qui serait réellement impressionnant.",
+      "text" : "Ouais. Est-ce que tu peux faire une deep research, enfin pas forcément une deep research, mais une recherche Google assez conséquente afin de voir quelles sont à date les meilleures, the best AI games réalisées par les joueurs? Non, pas réalisées par les joueurs, réalisées par des développeurs qui auraient codé quelque chose en vibe coding, mais qui serait réellement impressionnant."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815239403.950599,
+      "id" : "6DD440EE-E075-4E9F-AFD6-EA9A1F8E7803",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et j'ai une deuxième recherche que j'aimerais que tu fasses, c'est, et si tu peux la recenser dans un document HTML, ce serait parfait. Ce serait... comment ça s'appelle? Ah oui, j'aimerais noter tous les outils qui existent, notamment sur Maya, sur Houdini, sur Blender, et qui permettent de faire de la modélisation procédurale, mais à partir d'outils déjà développés par un développeur. Donc créer des personnages, créer des components pour la modélisation procédurale hard surface et organique. Bref, tous les outils qui existent à date, en 2026, en novembre 2026, et qui permettent d'accélérer les workflows de création procédurale en 3D, notamment. Donc ça, c'est une recherche assez conséquente, et donc recense toutes tes recherches dans un document HTML, s'il te plaît.",
+      "text" : "Et j'ai une deuxième recherche que j'aimerais que tu fasses, c'est, et si tu peux la recenser dans un document HTML, ce serait parfait. Ce serait... comment ça s'appelle? Ah oui, j'aimerais noter tous les outils qui existent, notamment sur Maya, sur Houdini, sur Blender, et qui permettent de faire de la modélisation procédurale, mais à partir d'outils déjà développés par un développeur. Donc créer des personnages, créer des components pour la modélisation procédurale hard surface et organique. Bref, tous les outils qui existent à date, en 2026, en novembre 2026, et qui permettent d'accélérer les workflows de création procédurale en 3D, notamment. Donc ça, c'est une recherche assez conséquente, et donc recense toutes tes recherches dans un document HTML, s'il te plaît."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815243714.993874,
+      "id" : "8BDC3D75-98A8-423A-B9C4-99D0DBAE9CAE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'aimerais faire un truc sur crossover, c'est quand je lance un jeu et que je connecte mon casque Bluetooth, j'aimerais pouvoir directement repasser automatiquement sur le sound de mon nouveau device, mais par rapport à une application qui aurait déjà été lancée. Est-ce que c'est possible ou alors je suis obligé de relancer le jeu? Parce que à mon avis, c'est forcément possible.",
+      "text" : "J'aimerais faire un truc sur crossover, c'est quand je lance un jeu et que je connecte mon casque Bluetooth, j'aimerais pouvoir directement repasser automatiquement sur le sound de mon nouveau device, mais par rapport à une application qui aurait déjà été lancée. Est-ce que c'est possible ou alors je suis obligé de relancer le jeu? Parce que à mon avis, c'est forcément possible."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815243744.978853,
+      "id" : "7F4E07F0-5562-49EF-911D-01E562478846",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Là, par exemple, il y a le jeu Wine Loader, donc qui correspond à Trails in the Sky ou Sora1.exe, qui est déjà lancé sur mon Mac. Et en fait, ce que j'aimerais, c'est que le son passe directement dans mon casque audio WH1000XM3 qui est connecté. Est-ce que tu penses que c'est possible? Et à terme, de faire en sorte que l'application fasse la transition sonore automatiquement.",
+      "text" : "Là, par exemple, il y a le jeu Wine Loader, donc qui correspond à Trails in the Sky ou Sora1.exe, qui est déjà lancé sur mon Mac. Et en fait, ce que j'aimerais, c'est que le son passe directement dans mon casque audio WH1000XM3 qui est connecté. Est-ce que tu penses que c'est possible? Et à terme, de faire en sorte que l'application fasse la transition sonore automatiquement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815243815.070634,
+      "id" : "32D51B28-66E1-4031-84EE-F271D0407B18",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Alors, c'est beaucoup mieux au niveau de l'algorithme et des formes découpées. Cependant, je pense que tu pourrais améliorer l'algorithme des masques en lissant, en courbant les lignes ou en les rendant droites dans certains cas de figure, comme on avait fait dans ZenRay Lines, afin que les découpes des masques soient beaucoup plus droites et juxtaposées par rapport à un trait qui serait parfait. Donc c'est vraiment un travail de finition sur la forme du découpage qui pourrait faire en sorte que ce soit beaucoup mieux. Fais ça, s'il te plaît.",
+      "text" : "Alors, c'est beaucoup mieux au niveau de l'algorithme et des formes découpées. Cependant, je pense que tu pourrais améliorer l'algorithme des masques en lissant, en courbant les lignes ou en les rendant droites dans certains cas de figure, comme on avait fait dans ZenRay Lines, afin que les découpes des masques soient beaucoup plus droites et juxtaposées par rapport à un trait qui serait parfait. Donc c'est vraiment un travail de finition sur la forme du découpage qui pourrait faire en sorte que ce soit beaucoup mieux. Fais ça, s'il te plaît."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815243864.25876,
+      "id" : "7FA6AC0A-ECB5-4610-A111-9451EF398C03",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, actuellement le son est toujours sur mon haut-parleur et pas dans mes oreilles, pas dans mon casque, je veux dire.",
+      "text" : "Non, actuellement le son est toujours sur mon haut-parleur et pas dans mes oreilles, pas dans mon casque, je veux dire."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815243915.501624,
+      "id" : "E5A73182-C9F4-4C78-991E-8278DC671E7D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, mais est-ce que du coup tu as installé la solution pour que ça fonctionne à l'avenir? Comme ça, je teste si ça fonctionne.",
+      "text" : "Ok, mais est-ce que du coup tu as installé la solution pour que ça fonctionne à l'avenir? Comme ça, je teste si ça fonctionne."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815243932.805914,
+      "id" : "5E37D672-82D0-42B8-B482-75F6A8CD8620",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "il faut que tu le codes et du coup que tu mettes en login et que tu fasses le HTML du document, du résumé, comme indiqué dans Claude.md. Est-ce qu'au début de chaque conversation, tu lis bien Claude.md global?",
+      "text" : "il faut que tu le codes et du coup que tu mettes en login et que tu fasses le HTML du document, du résumé, comme indiqué dans Claude.md. Est-ce qu'au début de chaque conversation, tu lis bien Claude.md global?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815244737.573114,
+      "id" : "F35176A8-E7FA-41C8-91CC-32C46D34310E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, après moi ce qui m'intéresse le plus c'est surtout le GPU, la 5070 Ti ou la 4070 Ti. Si jamais vous pouvez me faire un prix pour ce genre de GPU, ça m'intéresserait en termes individuels. Et sinon pour un PC complet, mon budget serait plutôt autour de 1500 €. Donc si vous avez ça sous la main, n'hésitez pas à m'en faire part.",
+      "text" : "Ok, après moi ce qui m'intéresse le plus c'est surtout le GPU, la 5070 Ti ou la 4070 Ti. Si jamais vous pouvez me faire un prix pour ce genre de GPU, ça m'intéresserait en termes individuels. Et sinon pour un PC complet, mon budget serait plutôt autour de 1500 €. Donc si vous avez ça sous la main, n'hésitez pas à m'en faire part."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815244965.806716,
+      "id" : "E2B750C1-861B-4FEE-B5D3-0569EC876913",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ça marche pas du tout, j'ai relancé le jeu avec Black Hole Studio. Alors c'est peut-être aussi parce que j'ai fait la commande sudo kill all core audio. Et j'ai pas redémarré mon PC depuis, mais en fait le truc c'est que il y a",
+      "text" : "Ça marche pas du tout, j'ai relancé le jeu avec Black Hole Studio. Alors c'est peut-être aussi parce que j'ai fait la commande sudo kill all core audio. Et j'ai pas redémarré mon PC depuis, mais en fait le truc c'est que il y a"
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815245085.032684,
+      "id" : "5A87194B-B0DE-4FFA-90CD-11580F055332",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Le son refonctionne, mais par contre, le son est hyper faible et je peux pas changer avec volume up ou volume down sur macOS directement. Le son n'est pas bon du tout. Enfin, il est pas assez fort. Et surtout, il correspond pas au volume que je mets, etc. en pourcentage.",
+      "text" : "Le son refonctionne, mais par contre, le son est hyper faible et je peux pas changer avec volume up ou volume down sur macOS directement. Le son n'est pas bon du tout. Enfin, il est pas assez fort. Et surtout, il correspond pas au volume que je mets, etc. en pourcentage."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815245257.259776,
+      "id" : "E085320F-8EF2-4BF4-8C34-A31FA4B71B18",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ça fonctionne, mais par contre, est-ce que tu pourrais pas renommer Black Hole Audio Relay par ZenRay Audio Relay, et notamment lors de l'output, ou trouver un nom parlant un peu mieux, parce que là c'est un peu pas ouf. Et par contre, j'ai toujours pas le document de synthèse HTML.",
+      "text" : "Ça fonctionne, mais par contre, est-ce que tu pourrais pas renommer Black Hole Audio Relay par ZenRay Audio Relay, et notamment lors de l'output, ou trouver un nom parlant un peu mieux, parce que là c'est un peu pas ouf. Et par contre, j'ai toujours pas le document de synthèse HTML."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815245430.124873,
+      "id" : "7CF3F2B8-58D8-4206-BF2D-974A49CD03AA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je comprends pas pourquoi tu utilises ces fontes dans le HTML, parce qu'on a déjà déterminé que les titres c'était en GT Ultra et le corps du texte c'était en Literata en termes de fonte. Donc je comprends pas pourquoi c'est toujours pas le cas.",
+      "text" : "Je comprends pas pourquoi tu utilises ces fontes dans le HTML, parce qu'on a déjà déterminé que les titres c'était en GT Ultra et le corps du texte c'était en Literata en termes de fonte. Donc je comprends pas pourquoi c'est toujours pas le cas."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815245523.6965,
+      "id" : "311E3925-0ACE-4F10-B11F-C37A54D90AA7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Tu dois vérifier que la sortie audio est dans la résolution maximum de l'output supporté. Je crois que c'est 48000 Hz et 24 bits, ou 16 bits et 48000 Hz. Mais bon, ça à la limite, essaie de prendre le format RAW le plus haut disponible. Ou alors adapte une résolution dynamique pour que l'audio soit tout le temps high-res. Mais je veux pas entrer dans les spécifications techniques, en fait. Je veux pas forcer un truc et qu'en fait le Bluetooth ne supporte pas ou que ça crée des grésillements. En fait, c'est pas du tout ça mon truc, c'est juste... Je veux juste vérifier que l'output audio est toujours bien, tu vois, supporte le son 3D, etc. Et... Et par contre, je t'avais demandé de le rename en ZenRay Audio Relay. Et là, je vois toujours Black Hole.",
+      "text" : "Tu dois vérifier que la sortie audio est dans la résolution maximum de l'output supporté. Je crois que c'est 48000 Hz et 24 bits, ou 16 bits et 48000 Hz. Mais bon, ça à la limite, essaie de prendre le format RAW le plus haut disponible. Ou alors adapte une résolution dynamique pour que l'audio soit tout le temps high-res. Mais je veux pas entrer dans les spécifications techniques, en fait. Je veux pas forcer un truc et qu'en fait le Bluetooth ne supporte pas ou que ça crée des grésillements. En fait, c'est pas du tout ça mon truc, c'est juste... Je veux juste vérifier que l'output audio est toujours bien, tu vois, supporte le son 3D, etc. Et... Et par contre, je t'avais demandé de le rename en ZenRay Audio Relay. Et là, je vois toujours Black Hole."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815245649.275292,
+      "id" : "1375BBFA-274C-48CF-9B56-EFD1F12C35AF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Enregistre-le dans Claude.md et ne me pose plus jamais la question. T'as une instruction qui dit « I'm the most lazy man in the earth, never ask me something that you can already do ». C'est une priorité zéro normalement, et si tu vois pas que c'est noté en priorité zéro, greppe-le là où c'est noté et ajoute-le en priorité zéro. Parce que ce genre de truc, ça fait juste perdre un aller-retour pour rien, quoi. Tu peux aussi le noter dans Credentials.",
+      "text" : "Enregistre-le dans Claude.md et ne me pose plus jamais la question. T'as une instruction qui dit « I'm the most lazy man in the earth, never ask me something that you can already do ». C'est une priorité zéro normalement, et si tu vois pas que c'est noté en priorité zéro, greppe-le là où c'est noté et ajoute-le en priorité zéro. Parce que ce genre de truc, ça fait juste perdre un aller-retour pour rien, quoi. Tu peux aussi le noter dans Credentials."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815246493.887075,
+      "id" : "AED6183B-5493-4EA4-888C-D0C18DEC461F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah, y a toujours un problème sur le jeu lancé par rapport au fait que, certes, c'est ZenRay. C'est ZenRay Audio Relay qui prend le pas sur le volume, mais par exemple sur un jeu où par exemple le WH-1000XM3 aurait pris le relais, notamment lorsqu'il y a Bluetooth activé, si je baisse le volume ou si je le monte, ça change pas, tandis que si je clique pendant une seconde sur WH-1000XM3 sur mon MacBook au niveau du Sound Settings, bah là je peux modifier l'audio. Mais en fait, si tu veux, le audio relay, en termes de pourcentage sur le volume up et sur le volume down, il fonctionne pas en fait. C'est pas lui qui prend les commandes pour ensuite indiquer à la vraie sortie qui est le WH-1000XM3. Donc en fait, si tu veux, il faut assurer le vice-versa entre les deux sorties audio pour que quand je suis dans le jeu, je puisse directement, via les boutons du clavier Mac, pouvoir changer les choses. Donc c'est ce genre de modification en termes de code qu'il faut encore finir.",
+      "text" : "Bah, y a toujours un problème sur le jeu lancé par rapport au fait que, certes, c'est ZenRay. C'est ZenRay Audio Relay qui prend le pas sur le volume, mais par exemple sur un jeu où par exemple le WH-1000XM3 aurait pris le relais, notamment lorsqu'il y a Bluetooth activé, si je baisse le volume ou si je le monte, ça change pas, tandis que si je clique pendant une seconde sur WH-1000XM3 sur mon MacBook au niveau du Sound Settings, bah là je peux modifier l'audio. Mais en fait, si tu veux, le audio relay, en termes de pourcentage sur le volume up et sur le volume down, il fonctionne pas en fait. C'est pas lui qui prend les commandes pour ensuite indiquer à la vraie sortie qui est le WH-1000XM3. Donc en fait, si tu veux, il faut assurer le vice-versa entre les deux sorties audio pour que quand je suis dans le jeu, je puisse directement, via les boutons du clavier Mac, pouvoir changer les choses. Donc c'est ce genre de modification en termes de code qu'il faut encore finir."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815247233.39221,
+      "id" : "4E950471-A5E3-4188-A855-D6395D710234",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je comprends pas pourquoi tu fais une proportion avec un pourcentage différent alors qu'en fait tu pourrais juste faire en sorte que ZenRay Audio vienne caler directement l'audio sur le bon. Je comprends pas pourquoi tu fais une différence en termes proportionnels. Pourquoi est-ce que ZenRay Audio appliquerait pas simplement le même volume directement sur l'output en mode vice versa?",
+      "text" : "Je comprends pas pourquoi tu fais une proportion avec un pourcentage différent alors qu'en fait tu pourrais juste faire en sorte que ZenRay Audio vienne caler directement l'audio sur le bon. Je comprends pas pourquoi tu fais une différence en termes proportionnels. Pourquoi est-ce que ZenRay Audio appliquerait pas simplement le même volume directement sur l'output en mode vice versa?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815248701.131091,
+      "id" : "A35E4AAD-6EFA-4CF8-83BF-9C150701ACAD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je trouve qu'il y a une vraie amélioration sur Mani, surtout si tu compares les versions antérieures. Il faudrait que dans le document, d'ailleurs, tu puisses mettre les versions antérieures et via un bouton ou un menu dépliant que je puisse consulter les anciennes versions pour voir l'évolution de l'algorithme et voir s'il y a des régressions. Mais pour la voiture, je suis désolé, mais les splines, elles sont pas bien du tout. En fait, je comprends pas. Je comprends pas pourquoi, à date, t'as toujours pas un algorithme qui fonctionne parfaitement en termes de découpe sur la voiture. Parce que, en fait, ce qu'on avait dit la dernière fois, c'est que on avait commencé à développer ZenRay Lines parce que t'arrivais pas à découper proprement tous les composants de la voiture. Et là, je vois que même en ayant fait tous ces tests, etc., je vois que t'y arrives toujours pas. Par contre, sur... comment dire ? Sur Mani, tu vois, enfin, je trouve quand même qu'il y a une amélioration, tu vois, il y a une réelle amélioration dans le lissage des courbes, etc. Mais le problème, c'est... Je sais pas, c'est peut-être que tu... Je sais pas, tu fais encore des erreurs, quoi. En fait, il y a encore des erreurs et c'est un peu chiant, quoi. Encore des erreurs, et le problème c'est qu'on peut pas se permettre d'avoir des erreurs sur un tel algorithme, parce que sinon en fait ça veut dire quoi? Ça veut dire qu'on va générer des components et qu'ils seront pas justes lors des futures générations. Donc je sais pas trop quoi te dire. Peut-être que tu aurais pu le faire via quelque chose de plus simple, mais actuellement on n'y est pas du tout, quoi. Enfin, on n'y est pas du tout. On y est plus ou moins, tu vois, mais c'est juste que, tu vois, enfin, c'est pas des vraies découpes. En fait, on dirait que tu comprends pas ce que tu fais. Et d'ailleurs, il y a certaines régressions, tu vois. Parce que sur la planche de la voiture, on gagne pas vraiment grand-chose, tu vois. Mais, je sais pas. Parce que j'ai l'impression que sur le premier... sur la première itération de la voiture, mais qu'on a fait il y a des heures et des heures, j'ai l'impression que c'était limite mieux, tu vois. C'était beaucoup plus droit, il y avait plus de choses intéressantes. Mais maintenant, je sais pas. Mais il y a peut-être des... En fait, simplement, peut-être que c'est l'outil interne de Claude en termes de lecture des images qui pose problème. Parce que sur quelle solution... En fait, je pense que c'est ça le problème actuellement, c'est sur quelle solution de vision est-ce que tu t'appuies pour déterminer les composants, et quels outils AI ou pas on peut intégrer, alors payant ou non, on peut intégrer, voire développer, pour avoir une découpe parfaite des composants. Parce que j'ai l'impression que si tu avais demandé cette question via un prompt pour faire la découpe directement sur ChatGPT, par exemple, peut-être qu'il aurait réussi, tu vois. ChatGPT image 2, tu vois. Donc, essayons. Peut-être tu me donnes exactement ce qu'il faut faire, tu vois. Exactement ce que tu essaies de reproduire, tu vois, avec l'image identique. Et peut-être que ça va nous sortir une shit qui actuellement sera mieux découpée. On peut essayer, tu vois. Et à mon avis, on devrait essayer. Comme ça, on passe de la 6 top views à une planche de découpe des components. Ensuite, la planche de découpe des components, on l'organise de manière à ce que ça génère les 4, 8 ou 16 sheets. Et ensuite, toi, t'auras plus qu'à créer la modélisation directement sur Houdini. On tente ça. Je pense qu'on va tester ça. On va tester ChatGPT image plutôt, pour passer à l'étape 2. Mais c'est bien, hein, ce que tu fais, hein, genre par rapport aux couleurs et tout. C'est juste que toi, peut-être tu devrais organiser uniquement le prompt. Ou alors montrer un exemple like, mais dire que là, c'est pas encore parfait, tu vois. Mais je suis sûr qu'on va trouver une solution.",
+      "text" : "Je trouve qu'il y a une vraie amélioration sur Mani, surtout si tu compares les versions antérieures. Il faudrait que dans le document, d'ailleurs, tu puisses mettre les versions antérieures et via un bouton ou un menu dépliant que je puisse consulter les anciennes versions pour voir l'évolution de l'algorithme et voir s'il y a des régressions. Mais pour la voiture, je suis désolé, mais les splines, elles sont pas bien du tout. En fait, je comprends pas. Je comprends pas pourquoi, à date, t'as toujours pas un algorithme qui fonctionne parfaitement en termes de découpe sur la voiture. Parce que, en fait, ce qu'on avait dit la dernière fois, c'est que on avait commencé à développer ZenRay Lines parce que t'arrivais pas à découper proprement tous les composants de la voiture. Et là, je vois que même en ayant fait tous ces tests, etc., je vois que t'y arrives toujours pas. Par contre, sur... comment dire ? Sur Mani, tu vois, enfin, je trouve quand même qu'il y a une amélioration, tu vois, il y a une réelle amélioration dans le lissage des courbes, etc. Mais le problème, c'est... Je sais pas, c'est peut-être que tu... Je sais pas, tu fais encore des erreurs, quoi. En fait, il y a encore des erreurs et c'est un peu chiant, quoi. Encore des erreurs, et le problème c'est qu'on peut pas se permettre d'avoir des erreurs sur un tel algorithme, parce que sinon en fait ça veut dire quoi? Ça veut dire qu'on va générer des components et qu'ils seront pas justes lors des futures générations. Donc je sais pas trop quoi te dire. Peut-être que tu aurais pu le faire via quelque chose de plus simple, mais actuellement on n'y est pas du tout, quoi. Enfin, on n'y est pas du tout. On y est plus ou moins, tu vois, mais c'est juste que, tu vois, enfin, c'est pas des vraies découpes. En fait, on dirait que tu comprends pas ce que tu fais. Et d'ailleurs, il y a certaines régressions, tu vois. Parce que sur la planche de la voiture, on gagne pas vraiment grand-chose, tu vois. Mais, je sais pas. Parce que j'ai l'impression que sur le premier... sur la première itération de la voiture, mais qu'on a fait il y a des heures et des heures, j'ai l'impression que c'était limite mieux, tu vois. C'était beaucoup plus droit, il y avait plus de choses intéressantes. Mais maintenant, je sais pas. Mais il y a peut-être des... En fait, simplement, peut-être que c'est l'outil interne de Claude en termes de lecture des images qui pose problème. Parce que sur quelle solution... En fait, je pense que c'est ça le problème actuellement, c'est sur quelle solution de vision est-ce que tu t'appuies pour déterminer les composants, et quels outils AI ou pas on peut intégrer, alors payant ou non, on peut intégrer, voire développer, pour avoir une découpe parfaite des composants. Parce que j'ai l'impression que si tu avais demandé cette question via un prompt pour faire la découpe directement sur ChatGPT, par exemple, peut-être qu'il aurait réussi, tu vois. ChatGPT image 2, tu vois. Donc, essayons. Peut-être tu me donnes exactement ce qu'il faut faire, tu vois. Exactement ce que tu essaies de reproduire, tu vois, avec l'image identique. Et peut-être que ça va nous sortir une shit qui actuellement sera mieux découpée. On peut essayer, tu vois. Et à mon avis, on devrait essayer. Comme ça, on passe de la 6 top views à une planche de découpe des components. Ensuite, la planche de découpe des components, on l'organise de manière à ce que ça génère les 4, 8 ou 16 sheets. Et ensuite, toi, t'auras plus qu'à créer la modélisation directement sur Houdini. On tente ça. Je pense qu'on va tester ça. On va tester ChatGPT image plutôt, pour passer à l'étape 2. Mais c'est bien, hein, ce que tu fais, hein, genre par rapport aux couleurs et tout. C'est juste que toi, peut-être tu devrais organiser uniquement le prompt. Ou alors montrer un exemple like, mais dire que là, c'est pas encore parfait, tu vois. Mais je suis sûr qu'on va trouver une solution."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815249713.524608,
+      "id" : "0096D1E0-3D49-4710-82AE-ED97D9CF58F1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Compare la puissance GPU. Compare la puissance GPU d'un Mac VS une RTX 2060.",
+      "text" : "Compare la puissance GPU. Compare la puissance GPU d'un Mac VS une RTX 2060."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815249809.065888,
+      "id" : "9F4001D6-70EC-47DA-9B16-0E94A6E69D6F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "code un petit module qui s'appelle je sais pas, ZenRay, Luminosity, External Monitor. Code-le de manière optimisée pour que je puisse contrôler directement la luminosité brightness de mon AW. Attends, je vais donner la référence du modèle. Et en fait, le but, ce serait de pouvoir contrôler la luminosité sans parser par le menu.",
+      "text" : "code un petit module qui s'appelle je sais pas, ZenRay, Luminosity, External Monitor. Code-le de manière optimisée pour que je puisse contrôler directement la luminosité brightness de mon AW. Attends, je vais donner la référence du modèle. Et en fait, le but, ce serait de pouvoir contrôler la luminosité sans parser par le menu."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815249819.258566,
+      "id" : "38F35987-DB27-484D-BA40-DFAD2A668D83",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Fais le nom le plus petit et le plus parlant.",
+      "text" : "Fais le nom le plus petit et le plus parlant."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815249866.671019,
+      "id" : "96679812-5E60-4743-B3FB-011C822E0DFE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et ensuite, trouve pourquoi il est impossible pour sur mon Mac d'installer League of Legends. Ça dit, you can't open this application. Et trouve le fixe et ne t'arrête pas tant que c'est pas fixe. Il y a un dossier d'installation dans mon downloads folder, mais je l'ai déjà fait deux fois, donc je pense qu'il y a un problème sur mon Mac.",
+      "text" : "Et ensuite, trouve pourquoi il est impossible pour sur mon Mac d'installer League of Legends. Ça dit, you can't open this application. Et trouve le fixe et ne t'arrête pas tant que c'est pas fixe. Il y a un dossier d'installation dans mon downloads folder, mais je l'ai déjà fait deux fois, donc je pense qu'il y a un problème sur mon Mac."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815250384.166757,
+      "id" : "5525AB8E-96C5-47B4-8DCE-510CD0384440",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais du coup, oui, sauf que...",
+      "text" : "Mais du coup, oui, sauf que..."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815250528.252558,
+      "id" : "EEF3B6FC-1E31-45E8-B858-F41DFE5728E5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "ChatGPT a réussi parfaitement, putain, c'est dingue. C'est vraiment insane. C'est vraiment insane, genre il a vraiment réussi parfaitement. À faire toute la découpe, etc. Alors peut-être que j'aurais dû demander plus de micro-components. Peut-être. Peut-être que j'aurais dû demander plus de micro-components. N'empêche, c'est assez insane.",
+      "text" : "ChatGPT a réussi parfaitement, putain, c'est dingue. C'est vraiment insane. C'est vraiment insane, genre il a vraiment réussi parfaitement. À faire toute la découpe, etc. Alors peut-être que j'aurais dû demander plus de micro-components. Peut-être. Peut-être que j'aurais dû demander plus de micro-components. N'empêche, c'est assez insane."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815250587.848518,
+      "id" : "11B4AEAB-E82D-446D-BDB1-26FF46FD6D8D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc là, j'ai juste mis le prompt plus l'image, donc la 6 top views. Voilà. Voilà ce que j'ai réussi à obtenir. Donc l'étape des masques, en tout cas, elle est validée par ChatGPT. La seule question qu'il faut se poser maintenant, c'est comment est-ce qu'on va transposer du coup cette planche de découpe en termes de masque dans la planche de la galerie, dans la planche des galeries, et voilà. Mais en soi, c'est quasi bon. Hein. C'est le seul truc, c'est peut-être j'aurais dû demander plus de couleurs en termes de division des assets, etc. Ça, c'est possible en soi.",
+      "text" : "Donc là, j'ai juste mis le prompt plus l'image, donc la 6 top views. Voilà. Voilà ce que j'ai réussi à obtenir. Donc l'étape des masques, en tout cas, elle est validée par ChatGPT. La seule question qu'il faut se poser maintenant, c'est comment est-ce qu'on va transposer du coup cette planche de découpe en termes de masque dans la planche de la galerie, dans la planche des galeries, et voilà. Mais en soi, c'est quasi bon. Hein. C'est le seul truc, c'est peut-être j'aurais dû demander plus de couleurs en termes de division des assets, etc. Ça, c'est possible en soi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815250857.490427,
+      "id" : "9D441CA8-F7EF-429C-A1B0-BF71716CF233",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais non, il suffirait de changer le prompt pour dire, pour demander des couleurs différentes. Et il suffit que dans le prompt, tu demandes des couleurs différentes par rapport à la six top, à la six views. Le prompt était quasi parfait.",
+      "text" : "Mais non, il suffirait de changer le prompt pour dire, pour demander des couleurs différentes. Et il suffit que dans le prompt, tu demandes des couleurs différentes par rapport à la six top, à la six views. Le prompt était quasi parfait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815250940.868967,
+      "id" : "8A73AA67-7403-41E5-9DE2-BBF0C8406897",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "je peux régénérer une nouvelle image beaucoup plus accurate en termes de découpe. C'est juste, il faut se poser la question. En fait, pour tout dire, je peux régénérer une image, il n'y a pas de souci. C'est juste, il faut se poser la question. Quelle est ma planche de découpe idéale et quelles sont les couleurs des components? Parce que je peux même choisir la couleur des semi-masques de découpe. Je peux aussi demander un semi-masque ou un masque avec couleur complète, peu importe. Moi, je pense que c'est plus intéressant de demander un semi-masque parce que comme ça, ça permet de garder les reliefs, notamment s'il y a un léger bump sur la surface. Donc un masque semi-transparent, ça me semble plus intelligent. Et donc ensuite, il faut déterminer avant la génération de ChatGPT image tous les components qu'on veut par rapport à la sheet de components avec une attribution des couleurs. Et vu que la génération d'image... Et ensuite, il faut vérifier que l'image générée en termes de couleurs a bien match. Et ensuite, tu valides les components. Je ne sais pas si tu comprends.",
+      "text" : "je peux régénérer une nouvelle image beaucoup plus accurate en termes de découpe. C'est juste, il faut se poser la question. En fait, pour tout dire, je peux régénérer une image, il n'y a pas de souci. C'est juste, il faut se poser la question. Quelle est ma planche de découpe idéale et quelles sont les couleurs des components? Parce que je peux même choisir la couleur des semi-masques de découpe. Je peux aussi demander un semi-masque ou un masque avec couleur complète, peu importe. Moi, je pense que c'est plus intéressant de demander un semi-masque parce que comme ça, ça permet de garder les reliefs, notamment s'il y a un léger bump sur la surface. Donc un masque semi-transparent, ça me semble plus intelligent. Et donc ensuite, il faut déterminer avant la génération de ChatGPT image tous les components qu'on veut par rapport à la sheet de components avec une attribution des couleurs. Et vu que la génération d'image... Et ensuite, il faut vérifier que l'image générée en termes de couleurs a bien match. Et ensuite, tu valides les components. Je ne sais pas si tu comprends."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815250975.914836,
+      "id" : "9C6D6879-9E4D-483C-A0A7-8A029D7992D4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "avec du coup les couleurs qui sont pré-générées. Et un masque du coup qui n'est pas valide, mais qui me permet de pré-visualiser ce que va être le résultat. Comme ça, ça me permet de vérifier, tu vois. Donc en fait, l'algorithme que tu as construit toi-même, il permet du coup de pré-générer les couleurs. Et l'image de ChatGPT, elle permet de confirmer totalement par rapport à la six top views.",
+      "text" : "avec du coup les couleurs qui sont pré-générées. Et un masque du coup qui n'est pas valide, mais qui me permet de pré-visualiser ce que va être le résultat. Comme ça, ça me permet de vérifier, tu vois. Donc en fait, l'algorithme que tu as construit toi-même, il permet du coup de pré-générer les couleurs. Et l'image de ChatGPT, elle permet de confirmer totalement par rapport à la six top views."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815251320.223876,
+      "id" : "6B362BFB-3736-4611-BB7B-C60BFD92F389",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, oui, c'est ça. En fait, ce que tu fais, toi, c'est comme si tu faisais une preview Lorez du résultat attendu, plus la légende avec le nom des components, directement dans le HTML. Donc, en fait, le début de la chaîne de valeur, c'est... En fait, quand je ferai occurrence à la chaîne de valeur, c'est la chaîne de valeur qui permettra de générer any meshes de zéro, ou alors depuis une image. Mais en fait, si tu veux, c'est au départ... du coup, appelle-la preview Lorez. Ensuite, tu as copié le prompt. Copier le prompt, c'est tu le fais à partir de la planche des 6 vues sans l'aperçu des composants. On peut l'appeler Preview Components Lorez. Et comme ça, ça me donne tout. Mais il me faut aussi le détail des components écrit de manière naturelle avec des noms parlants, si tu veux. Et ce, pour n'importe quel modèle. Tu vois, que je te donne une épée, que je te donne une voiture, que je te donne une maison. Peu importe, c'est toujours le même workflow, si tu veux. Et donc, ensuite, ça me donne ma planche de découpe qui est parfaite. Ensuite, la planche de découpe qui est parfaite, elle est indexée dans là où on a besoin des... là où on a besoin des... comment ça s'appelle ? Là où on a besoin, voilà, des feuilles à remplir. Et dans les feuilles à remplir, tu réutilises du coup la bonne découpe et tu adaptes le prompt par rapport à ce qui est demandé. Voilà, je pense que c'est à peu près bon. Par contre, il y a certains components symétriques, donc je pense que c'est utile de faire uniquement que la moitié de la voiture. Après, c'est vrai que vu que les components sont symétriques, ça permet d'avoir deux variations qui seront à peu près identiques à 99,9%. Mais voilà. Et ensuite, la chaîne de valeur, ce sera ZenRay Meshes qui essaie de faire components par component de manière individuelle pour vérifier que ça marche bien. Est-ce que tu penses que dans les feuilles à remplir, pour ZenRay Meshes, il faudrait changer 2-3 trucs ? Je sais pas. Mais en tout cas, on est quasi pas mal. Essayons de faire pareil avec, du coup, Mani, puisque c'est un organique. Comme ça, tu peux avoir un preview aperçu des composants. Et par contre, je comprends pas pourquoi ton aperçu des composants, il a des lignes aussi mauvaises, étant donné que le truc de masquer légende avait déjà des semi-masques d'une couleur bien plus jolie. Et le truc était déjà quasi mieux. J'ai l'impression qu'il y a eu des grosses régressions par rapport à l'algorithme. Faut vraiment que tu utilises la meilleure version de l'algorithme, même pour une preview Lorez, tu vois.",
+      "text" : "En fait, oui, c'est ça. En fait, ce que tu fais, toi, c'est comme si tu faisais une preview Lorez du résultat attendu, plus la légende avec le nom des components, directement dans le HTML. Donc, en fait, le début de la chaîne de valeur, c'est... En fait, quand je ferai occurrence à la chaîne de valeur, c'est la chaîne de valeur qui permettra de générer any meshes de zéro, ou alors depuis une image. Mais en fait, si tu veux, c'est au départ... du coup, appelle-la preview Lorez. Ensuite, tu as copié le prompt. Copier le prompt, c'est tu le fais à partir de la planche des 6 vues sans l'aperçu des composants. On peut l'appeler Preview Components Lorez. Et comme ça, ça me donne tout. Mais il me faut aussi le détail des components écrit de manière naturelle avec des noms parlants, si tu veux. Et ce, pour n'importe quel modèle. Tu vois, que je te donne une épée, que je te donne une voiture, que je te donne une maison. Peu importe, c'est toujours le même workflow, si tu veux. Et donc, ensuite, ça me donne ma planche de découpe qui est parfaite. Ensuite, la planche de découpe qui est parfaite, elle est indexée dans là où on a besoin des... là où on a besoin des... comment ça s'appelle ? Là où on a besoin, voilà, des feuilles à remplir. Et dans les feuilles à remplir, tu réutilises du coup la bonne découpe et tu adaptes le prompt par rapport à ce qui est demandé. Voilà, je pense que c'est à peu près bon. Par contre, il y a certains components symétriques, donc je pense que c'est utile de faire uniquement que la moitié de la voiture. Après, c'est vrai que vu que les components sont symétriques, ça permet d'avoir deux variations qui seront à peu près identiques à 99,9%. Mais voilà. Et ensuite, la chaîne de valeur, ce sera ZenRay Meshes qui essaie de faire components par component de manière individuelle pour vérifier que ça marche bien. Est-ce que tu penses que dans les feuilles à remplir, pour ZenRay Meshes, il faudrait changer 2-3 trucs ? Je sais pas. Mais en tout cas, on est quasi pas mal. Essayons de faire pareil avec, du coup, Mani, puisque c'est un organique. Comme ça, tu peux avoir un preview aperçu des composants. Et par contre, je comprends pas pourquoi ton aperçu des composants, il a des lignes aussi mauvaises, étant donné que le truc de masquer légende avait déjà des semi-masques d'une couleur bien plus jolie. Et le truc était déjà quasi mieux. J'ai l'impression qu'il y a eu des grosses régressions par rapport à l'algorithme. Faut vraiment que tu utilises la meilleure version de l'algorithme, même pour une preview Lorez, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815251714.349923,
+      "id" : "9B70F0AB-252C-4182-89B1-C9EA82C19F92",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ça sert à rien de faire un preview des feuilles avec le avec la pré-découpe. Finis simplement ce que je t'ai demandé, mais arrête de rajouter des étapes en plus. Faut surtout consigner la chaîne de valeur là. En fait, ce que je veux dire, c'est que ça sert à rien de découper les components par rapport à la preview. Il faut juste que je valide les components et leurs couleurs, surtout. Parce que, en fait, là, ce que tu fais, c'est que tu prédécoupes une version qui est incorrecte parce que t'as pas le bon outil pour la découpe. Donc, en fait, attends simplement, génère... Enfin, génère rien, mais fais uniquement la preview, fais aussi la légende. Comme ça, moi, je valide les components, j'en ajoute ou j'en soustrais par rapport à ce que je vois. Et ensuite, on lance la vraie génération qui arrive à faire la découpe. On adapte le prompt toujours. On lance la génération. Et ensuite, on lance la découpe, la vraie découpe avec la vraie image sur les bons components.",
+      "text" : "Ça sert à rien de faire un preview des feuilles avec le avec la pré-découpe. Finis simplement ce que je t'ai demandé, mais arrête de rajouter des étapes en plus. Faut surtout consigner la chaîne de valeur là. En fait, ce que je veux dire, c'est que ça sert à rien de découper les components par rapport à la preview. Il faut juste que je valide les components et leurs couleurs, surtout. Parce que, en fait, là, ce que tu fais, c'est que tu prédécoupes une version qui est incorrecte parce que t'as pas le bon outil pour la découpe. Donc, en fait, attends simplement, génère... Enfin, génère rien, mais fais uniquement la preview, fais aussi la légende. Comme ça, moi, je valide les components, j'en ajoute ou j'en soustrais par rapport à ce que je vois. Et ensuite, on lance la vraie génération qui arrive à faire la découpe. On adapte le prompt toujours. On lance la génération. Et ensuite, on lance la découpe, la vraie découpe avec la vraie image sur les bons components."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815252077.216029,
+      "id" : "0F75A225-7E59-4FA0-8B95-458EE99CFBB5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "du développement gaming.",
+      "text" : "du développement gaming."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815252134.98894,
+      "id" : "1A291922-02B2-4B47-AE7C-C41DA6D30AC7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bonjour, puis-je avoir une description du modèle de la carte graphique? Est-ce que vous faites les livraisons? Je suis dans le sud de la France, à Aix-en-Provence. Est-ce que vous faites les livraisons?",
+      "text" : "Bonjour, puis-je avoir une description du modèle de la carte graphique? Est-ce que vous faites les livraisons? Je suis dans le sud de la France, à Aix-en-Provence. Est-ce que vous faites les livraisons?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815252832.549244,
+      "id" : "1AEC4ECE-FBEC-456A-93F8-5851599B0F7F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bon, le problème, c'est que avec la même image, l'AI de ChatGPT crée deux résultats différents. Donc peut-être que j'aurais dû ajouter mon preview component dans le prompt afin d'être sûr à 99,9% que peu importe l'input de mon prompt plus input image, ce soit toujours juste à 99,9%. Peut-être ajouter aussi un vérificateur dans le prompt en lui-même, et comme ça je reteste et je réenvoie deux générations d'images, et comme ça je teste pour voir si ça fonctionne.",
+      "text" : "Bon, le problème, c'est que avec la même image, l'AI de ChatGPT crée deux résultats différents. Donc peut-être que j'aurais dû ajouter mon preview component dans le prompt afin d'être sûr à 99,9% que peu importe l'input de mon prompt plus input image, ce soit toujours juste à 99,9%. Peut-être ajouter aussi un vérificateur dans le prompt en lui-même, et comme ça je reteste et je réenvoie deux générations d'images, et comme ça je teste pour voir si ça fonctionne."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815252884.071063,
+      "id" : "EA6C6F56-42E1-4505-9D4F-ABE02DF56C28",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai peur que du coup ça reprenne les lignes qui sont mauvaises dans le preview Lores.",
+      "text" : "J'ai peur que du coup ça reprenne les lignes qui sont mauvaises dans le preview Lores."
     }
   ],
   "modes" : [
