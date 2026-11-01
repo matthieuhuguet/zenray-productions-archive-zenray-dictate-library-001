@@ -22019,6 +22019,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "J'ai peur que du coup ça reprenne les lignes qui sont mauvaises dans le preview Lores.",
       "text" : "J'ai peur que du coup ça reprenne les lignes qui sont mauvaises dans le preview Lores."
+    },
+    {
+      "application" : "com.riotgames.LeagueofLegends.GameClient",
+      "date" : 815257947.711842,
+      "id" : "F74159D6-D992-44ED-87E9-C62A9351ED0E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Par contre, pourquoi il n'y a pas...",
+      "text" : "Par contre, pourquoi il n'y a pas..."
+    },
+    {
+      "application" : "com.riotgames.LeagueofLegends.GameClient",
+      "date" : 815257987.01192,
+      "id" : "DE9E91D7-0F0F-49F4-84D4-3F9C85BF098C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "que à la limite add keys abilities quick cast with indicator self cast. Ah oui, si il y a le clic-clic. Il est configuré de base. Ok. Ok.",
+      "text" : "que à la limite add keys abilities quick cast with indicator self cast. Ah oui, si il y a le clic-clic. Il est configuré de base. Ok. Ok."
     }
   ],
   "modes" : [
