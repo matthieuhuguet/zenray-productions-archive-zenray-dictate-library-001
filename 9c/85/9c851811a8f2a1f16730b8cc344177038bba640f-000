@@ -22039,6 +22039,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "que à la limite add keys abilities quick cast with indicator self cast. Ah oui, si il y a le clic-clic. Il est configuré de base. Ok. Ok.",
       "text" : "que à la limite add keys abilities quick cast with indicator self cast. Ah oui, si il y a le clic-clic. Il est configuré de base. Ok. Ok."
+    },
+    {
+      "application" : "com.riotgames.LeagueofLegends.GameClient",
+      "date" : 815258198.604905,
+      "id" : "09DCCA53-906C-434B-B236-E69D8424988F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ouais.",
+      "text" : "Ouais."
     }
   ],
   "modes" : [
