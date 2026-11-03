@@ -24139,6 +24139,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Ce qui serait cool via ma scie qui copie mon clipboard, c'est d'avoir un raccourci qui me permet d'avoir qui me permet de sélectionner l'ancien prompt dans mon, enfin pas forcément prompt, mais l'ancien clipboard dans mon clipboard actuel. C'est-à-dire pouvoir intervertir un clipboard d'un autre. C'est-à-dire par exemple, je sais pas, par exemple on fait, je sais pas quel raccourci serait utile pour faire ça, mais ce serait par exemple, je copie une image, et ensuite je copie un prompt, et quand je fais CTRL-V, et je sais pas, par exemple, je fais commande plus B, je sais pas, parce que c'est à côté du V, bah ça copie l'avant-dernier, tu vois. Et ensuite, ça remet dans mon clipboard celui-ci comme actuel, et je peux le CTRL-V. Et sinon, je fais CTRL-B, et l'antérieur devient le nouveau, tu vois. Mais ça le fait que sur deux unités, tu vois. C'est-à-dire, par exemple, j'ai le mot chat, que je copie, et j'ai le mot chien, que je copie aussi. Et quand j'appuie sur commande B, ça me met dans mon clipboard chat, mais ça met l'avant-dernier en mode chien. Je sais pas si tu comprends. Mais ça le copie direct, tu vois. C'est ça qu'il faut coder. Et ma version de Massy, c'est une version, je crois, qui s'appelle ZenRay Massy. Donc en fait, c'est une version que j'ai optimisée et que j'ai compilée moi-même pour qu'elle prenne moins de mémoire. Donc en fait, tu peux itérer directement dessus en reprenant le processus qui est actif. Normalement, je t'ai tout bien expliqué. J'attends ta validation pour savoir si tu as tout bien compris. Ensuite, code-moi ça.",
       "text" : "Ce qui serait cool via ma scie qui copie mon clipboard, c'est d'avoir un raccourci qui me permet d'avoir qui me permet de sélectionner l'ancien prompt dans mon, enfin pas forcément prompt, mais l'ancien clipboard dans mon clipboard actuel. C'est-à-dire pouvoir intervertir un clipboard d'un autre. C'est-à-dire par exemple, je sais pas, par exemple on fait, je sais pas quel raccourci serait utile pour faire ça, mais ce serait par exemple, je copie une image, et ensuite je copie un prompt, et quand je fais CTRL-V, et je sais pas, par exemple, je fais commande plus B, je sais pas, parce que c'est à côté du V, bah ça copie l'avant-dernier, tu vois. Et ensuite, ça remet dans mon clipboard celui-ci comme actuel, et je peux le CTRL-V. Et sinon, je fais CTRL-B, et l'antérieur devient le nouveau, tu vois. Mais ça le fait que sur deux unités, tu vois. C'est-à-dire, par exemple, j'ai le mot chat, que je copie, et j'ai le mot chien, que je copie aussi. Et quand j'appuie sur commande B, ça me met dans mon clipboard chat, mais ça met l'avant-dernier en mode chien. Je sais pas si tu comprends. Mais ça le copie direct, tu vois. C'est ça qu'il faut coder. Et ma version de Massy, c'est une version, je crois, qui s'appelle ZenRay Massy. Donc en fait, c'est une version que j'ai optimisée et que j'ai compilée moi-même pour qu'elle prenne moins de mémoire. Donc en fait, tu peux itérer directement dessus en reprenant le processus qui est actif. Normalement, je t'ai tout bien expliqué. J'attends ta validation pour savoir si tu as tout bien compris. Ensuite, code-moi ça."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815432196.538991,
+      "id" : "E5A47C53-29C2-41CC-B7A8-F11DC685A63E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "le problème de cette étape, c'est qu'il va réajouter le bug d'ombrage. Donc en fait, il faut surtout faire un filtre high pass haut pour essayer de gommer les derniers bugs d'ombrage. Et ce, en Python directement, pour avoir une précision complète. Mais sans remettre les problèmes d'ombrage. Si tu re-input via Python l'image, tu vas remettre des problèmes d'ombrage. Donc en fait, il faut surtout faire un filtre high pass pour que la heatmap soit finalisée, tu vois.",
+      "text" : "le problème de cette étape, c'est qu'il va réajouter le bug d'ombrage. Donc en fait, il faut surtout faire un filtre high pass haut pour essayer de gommer les derniers bugs d'ombrage. Et ce, en Python directement, pour avoir une précision complète. Mais sans remettre les problèmes d'ombrage. Si tu re-input via Python l'image, tu vas remettre des problèmes d'ombrage. Donc en fait, il faut surtout faire un filtre high pass pour que la heatmap soit finalisée, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815432253.541961,
+      "id" : "767228C0-F7C7-42FD-A0BC-A77E5061E7A7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "de manière à ce que peu importe le prompt, peu importe la génération, la heatmap finale soit toujours la même.",
+      "text" : "de manière à ce que peu importe le prompt, peu importe la génération, la heatmap finale soit toujours la même."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815432385.970198,
+      "id" : "9432114A-184E-47B8-B590-7EE412799B47",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais est-ce qu'on est sûr que c'est vraiment le mot-clé sigma qui va faire en sorte que, peu importe le prompt que je lance, ça fasse la même 8 à chaque fois? Parce qu'en fait, le problème actuel, c'est qu'à chaque fois que je relance une nouvelle génération, ça fait une 8 map différente actuellement, puisque ça utilise l'AI gen, tu vois. En fait, le but du Python en étape finale, c'est que toutes les 8 au final se ressemblent puisqu'elles réutilisent l'étape 1, tu vois. Mais le but de l'AI gen, c'est de gommer le gommage, tu vois. Ce que l'AI gen réussit à faire, tu vois.",
+      "text" : "Mais est-ce qu'on est sûr que c'est vraiment le mot-clé sigma qui va faire en sorte que, peu importe le prompt que je lance, ça fasse la même 8 à chaque fois? Parce qu'en fait, le problème actuel, c'est qu'à chaque fois que je relance une nouvelle génération, ça fait une 8 map différente actuellement, puisque ça utilise l'AI gen, tu vois. En fait, le but du Python en étape finale, c'est que toutes les 8 au final se ressemblent puisqu'elles réutilisent l'étape 1, tu vois. Mais le but de l'AI gen, c'est de gommer le gommage, tu vois. Ce que l'AI gen réussit à faire, tu vois."
     }
   ],
   "modes" : [
