@@ -23339,6 +23339,146 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Hello, I have a subscribed payment subscription yearly, and today I see that my account is only on free. Can you reactivate my subscription in pro tier and also reimburse me the amount that you, because you did not provide the service? I need a fast answer.",
       "text" : "Hello, I have a subscribed payment subscription yearly, and today I see that my account is only on free. Can you reactivate my subscription in pro tier and also reimburse me the amount that you, because you did not provide the service? I need a fast answer."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815409634.073218,
+      "id" : "736E620A-125A-46E3-95B9-EAACC97B04E2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "I never cancel my subscription. I still need it. And also, I have not been reimbursed. Can you please contact a human or reimburse me? It's intolerable.",
+      "text" : "I never cancel my subscription. I still need it. And also, I have not been reimbursed. Can you please contact a human or reimburse me? It's intolerable."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815409664.856769,
+      "id" : "4C4330AA-BBDB-4A02-B58E-413EF6949CF6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "As a proof, I didn't receive any mail from your company. So you need to offer something in return as a gesture or a commercial touch.",
+      "text" : "As a proof, I didn't receive any mail from your company. So you need to offer something in return as a gesture or a commercial touch."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815409912.775607,
+      "id" : "B605B9C2-8217-4FD1-9E14-47B9A17ABF62",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Résume-moi ce document de synthèse dans un artefact et fais en sorte que chaque section soit extrêmement bien détaillée et bien rédigée au présent, et surtout qu'elle soit agréable à lire de manière à comprendre de A à Z tout le sujet dont il est question dans l'article sans rien omettre.",
+      "text" : "Résume-moi ce document de synthèse dans un artefact et fais en sorte que chaque section soit extrêmement bien détaillée et bien rédigée au présent, et surtout qu'elle soit agréable à lire de manière à comprendre de A à Z tout le sujet dont il est question dans l'article sans rien omettre."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815410606.512415,
+      "id" : "C86B9C27-5291-405E-80EE-AFA13E67E33E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Le groupe Artifact a-t-il craqué Phantom Blade Zero en 3 heures seulement? Est-ce que c'est vraiment le cas ou est-ce que c'est une erreur?",
+      "text" : "Le groupe Artifact a-t-il craqué Phantom Blade Zero en 3 heures seulement? Est-ce que c'est vraiment le cas ou est-ce que c'est une erreur?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815411134.462961,
+      "id" : "7E612554-884A-419B-B5AE-515648B67172",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En effet, actuellement, Audio Relay utilise le micro de manière permanente. Mais...",
+      "text" : "En effet, actuellement, Audio Relay utilise le micro de manière permanente. Mais..."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815411250.633147,
+      "id" : "C9EE1E77-2788-4B3B-B0C4-9CB2E05C3CED",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, enlève l'animation 0.3. Et ce qu'on va faire, c'est que pour l'animation 0.2 et l'animation 0.3, donc garde l'animation 0.1. Et pour du coup ces deux animations, en fait, on va essayer de créer une vague de sinus en termes de masque qui fait apparaître les lettres. Mais dans le dans les lettres en entier, si tu veux. En fait, ce que je veux, c'est pas qu'il y ait un masque derrière qui génère le truc, c'est que ça prenne l'entièreté de la lettre et que ça fasse comme un sinus, comme si c'était un serpent qui venait animer le texte, notamment au milieu, mais sur tous les éléments, tandis qu'ils apparaissent en mode fade-in. Donc c'est ce genre d'animation. Et ensuite, tu crées une variation pour l'animation 0.3.",
+      "text" : "En fait, enlève l'animation 0.3. Et ce qu'on va faire, c'est que pour l'animation 0.2 et l'animation 0.3, donc garde l'animation 0.1. Et pour du coup ces deux animations, en fait, on va essayer de créer une vague de sinus en termes de masque qui fait apparaître les lettres. Mais dans le dans les lettres en entier, si tu veux. En fait, ce que je veux, c'est pas qu'il y ait un masque derrière qui génère le truc, c'est que ça prenne l'entièreté de la lettre et que ça fasse comme un sinus, comme si c'était un serpent qui venait animer le texte, notamment au milieu, mais sur tous les éléments, tandis qu'ils apparaissent en mode fade-in. Donc c'est ce genre d'animation. Et ensuite, tu crées une variation pour l'animation 0.3."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815411356.890971,
+      "id" : "DC12619D-17C1-4259-8040-2296311EBFE4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "délègue chaque section à un agent Haiku afin qu'il rédige simplement les choses de manière simple, en présent, au présent et de manière agréable à lire sans omettre aucune information. Et délègue plusieurs agents en même temps sans non plus compromettre un budget token complètement faramineux, mais fait en sorte que ce soit rédigé rapidement s'il te plaît, afin d'avoir le document de synthèse lui aussi écrit en pas en .md mais en HTML.",
+      "text" : "délègue chaque section à un agent Haiku afin qu'il rédige simplement les choses de manière simple, en présent, au présent et de manière agréable à lire sans omettre aucune information. Et délègue plusieurs agents en même temps sans non plus compromettre un budget token complètement faramineux, mais fait en sorte que ce soit rédigé rapidement s'il te plaît, afin d'avoir le document de synthèse lui aussi écrit en pas en .md mais en HTML."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815411534.442268,
+      "id" : "BA0921B6-2E65-4671-98F2-F5F624E05CE9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "De toute manière, continue de watch le processus tant que ZenRay Assets n'a pas fini de sauvegarder tous ces éléments et qu'il n'y a plus aucune opération en attente.",
+      "text" : "De toute manière, continue de watch le processus tant que ZenRay Assets n'a pas fini de sauvegarder tous ces éléments et qu'il n'y a plus aucune opération en attente."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815411625.117533,
+      "id" : "A4A7AF43-60DE-4E5E-8F84-7078420892A8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais ce que j'aurais aimé, c'est qu'il ne fasse plus jamais aucune erreur et que juste il compile en parallèle. Enfin, pas qu'il compile en parallèle, mais que chaque projet soit envoyé en termes de notification et de manière propre. Parce que par exemple, par exemple, quand je upload un film, j'ai un message qui me donne la progression du truc. Et bien là, j'aimerais avoir la même chose, c'est-à-dire la progression dans une notification à droite de mon ordinateur, et que je sache que le processus est toujours en activation. Alors que là, actuellement, il faut que j'aille cliquer dans le widget UI en haut à droite de ma notification sur l'icône, que je regarde si il n'y a aucune opération en attente, et très régulièrement, il y a toujours des opérations en attente, et c'est ce genre de truc que je ne veux plus jamais voir. Tiens. En fait, il faut que les choses se plotent de manière très juste, etc. Et j'ai un autre bug sur ZenRay Assets, c'est que quand je scrolle vers le bas, ça remonte à chaque fois au tout début. Et enfin, il y a un dernier truc à régler, c'est que la fonte utilisée est sans doute Inter et Anthropic Serif, tandis que je voudrais que tu mettes plutôt la fonte GT Ultra et sur les nombres. Enfin, simplement GT Ultra partout sur le widget. Donc voilà.",
+      "text" : "Mais ce que j'aurais aimé, c'est qu'il ne fasse plus jamais aucune erreur et que juste il compile en parallèle. Enfin, pas qu'il compile en parallèle, mais que chaque projet soit envoyé en termes de notification et de manière propre. Parce que par exemple, par exemple, quand je upload un film, j'ai un message qui me donne la progression du truc. Et bien là, j'aimerais avoir la même chose, c'est-à-dire la progression dans une notification à droite de mon ordinateur, et que je sache que le processus est toujours en activation. Alors que là, actuellement, il faut que j'aille cliquer dans le widget UI en haut à droite de ma notification sur l'icône, que je regarde si il n'y a aucune opération en attente, et très régulièrement, il y a toujours des opérations en attente, et c'est ce genre de truc que je ne veux plus jamais voir. Tiens. En fait, il faut que les choses se plotent de manière très juste, etc. Et j'ai un autre bug sur ZenRay Assets, c'est que quand je scrolle vers le bas, ça remonte à chaque fois au tout début. Et enfin, il y a un dernier truc à régler, c'est que la fonte utilisée est sans doute Inter et Anthropic Serif, tandis que je voudrais que tu mettes plutôt la fonte GT Ultra et sur les nombres. Enfin, simplement GT Ultra partout sur le widget. Donc voilà."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815412222.326213,
+      "id" : "F3A385A1-5366-48FA-98E1-9B91C00179F2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'aimerais aussi, après, que tu fasses en sorte que sur la partie des articles, des assets qui sont sur le site Progress, j'aimerais faire en sorte que la page soit en grand, avec une UI de type carré. C'est-à-dire que tu cliques sur article, ça te lance la grande... ça te lance un article comme s'il était carré dans une page. Enfin, tu gardes la sidebar de gauche qui est... qui relie, tu vois, dans... avec un carré arrondi, tu vois. Mais en fait, l'article, il prend l'entièreté du projet. Et en fait, tu as simplement une petite flèche de retour vers la gauche qui te permet de quitter cette vue. Et je vais te donner l'icône du carré dans les images pour que tu comprennes comment ça se fit par rapport à la gauche, tu vois.",
+      "text" : "J'aimerais aussi, après, que tu fasses en sorte que sur la partie des articles, des assets qui sont sur le site Progress, j'aimerais faire en sorte que la page soit en grand, avec une UI de type carré. C'est-à-dire que tu cliques sur article, ça te lance la grande... ça te lance un article comme s'il était carré dans une page. Enfin, tu gardes la sidebar de gauche qui est... qui relie, tu vois, dans... avec un carré arrondi, tu vois. Mais en fait, l'article, il prend l'entièreté du projet. Et en fait, tu as simplement une petite flèche de retour vers la gauche qui te permet de quitter cette vue. Et je vais te donner l'icône du carré dans les images pour que tu comprennes comment ça se fit par rapport à la gauche, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815412267.469422,
+      "id" : "59306C67-2C3A-4A56-85D2-D62712CA9921",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc en fait, c'est simplement que l'article prend tout l'espace nécessaire jusqu'à la sidebar de gauche avec simplement une icône qui lui permet de revenir en arrière, et comme ça, ça permet d'avoir beaucoup plus d'espace quand je lis mes articles, alors qu'actuellement c'est dans une toute petite bulle et c'est pas très agréable à lire pour les projets. Donc ça, c'est le design qu'il faut faire dans Asset. Sachant que Asset, il a déjà les petites vues galeries, et ensuite, bah, quand tu cliques sur article, du coup, ça lance complètement cette vue en grand écran. Tu vois.",
+      "text" : "Donc en fait, c'est simplement que l'article prend tout l'espace nécessaire jusqu'à la sidebar de gauche avec simplement une icône qui lui permet de revenir en arrière, et comme ça, ça permet d'avoir beaucoup plus d'espace quand je lis mes articles, alors qu'actuellement c'est dans une toute petite bulle et c'est pas très agréable à lire pour les projets. Donc ça, c'est le design qu'il faut faire dans Asset. Sachant que Asset, il a déjà les petites vues galeries, et ensuite, bah, quand tu cliques sur article, du coup, ça lance complètement cette vue en grand écran. Tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815412277.056158,
+      "id" : "284B8C42-3CF1-4A7C-BEEF-76143339AD8D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "avec la sidebar de gauche qui reste togglable avec tab.",
+      "text" : "avec la sidebar de gauche qui reste togglable avec tab."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815412363.0978,
+      "id" : "9B2873AF-0A4C-49C2-9CAC-A62B9528AA8A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est pas ça que je voulais. Là, ce que tu as fait, c'est que tu as fait un transform qui fait apparaître les lettres en vagues, alors que ce que je voulais, c'est que les lettres en elles-mêmes se révèlent par rapport à leur opacité, mais sur la lettre elle-même par rapport à une vague. Donc c'est une animation complètement différente qu'il faut faire. Il n'y a pas de transform, à part un léger scaling d'apparition, notamment en termes de fade-in et d'opacité, mais c'est surtout l'opacité qui révèle les lettres comme un sinus et qui fait un effet de vague.",
+      "text" : "C'est pas ça que je voulais. Là, ce que tu as fait, c'est que tu as fait un transform qui fait apparaître les lettres en vagues, alors que ce que je voulais, c'est que les lettres en elles-mêmes se révèlent par rapport à leur opacité, mais sur la lettre elle-même par rapport à une vague. Donc c'est une animation complètement différente qu'il faut faire. Il n'y a pas de transform, à part un léger scaling d'apparition, notamment en termes de fade-in et d'opacité, mais c'est surtout l'opacité qui révèle les lettres comme un sinus et qui fait un effet de vague."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815412587.335668,
+      "id" : "DA4A4A5E-F8D7-49A5-869E-AD8B9531CAF2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais du coup, à date, c'est quoi le meilleur projet pour recompiler? Parce qu'en fait, en novembre et en octobre 2026, il y a une révolution dans l'IA qui fait que désormais en fait, la compilation est des sources de jeu et... Merde, j'ai oublié ce que je voulais dire.",
+      "text" : "Mais du coup, à date, c'est quoi le meilleur projet pour recompiler? Parce qu'en fait, en novembre et en octobre 2026, il y a une révolution dans l'IA qui fait que désormais en fait, la compilation est des sources de jeu et... Merde, j'ai oublié ce que je voulais dire."
     }
   ],
   "modes" : [
