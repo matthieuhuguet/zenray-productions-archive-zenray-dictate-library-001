@@ -23479,6 +23479,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Mais du coup, à date, c'est quoi le meilleur projet pour recompiler? Parce qu'en fait, en novembre et en octobre 2026, il y a une révolution dans l'IA qui fait que désormais en fait, la compilation est des sources de jeu et... Merde, j'ai oublié ce que je voulais dire.",
       "text" : "Mais du coup, à date, c'est quoi le meilleur projet pour recompiler? Parce qu'en fait, en novembre et en octobre 2026, il y a une révolution dans l'IA qui fait que désormais en fait, la compilation est des sources de jeu et... Merde, j'ai oublié ce que je voulais dire."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815413557.403681,
+      "id" : "0BB12BDA-35E7-4061-9F40-9D5CD5C9AE32",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah du coup, c'est toujours pas en grand écran. Est-ce que tu es sûr que tu as déployé? Oh, c'est trop stylé! C'est vraiment stylé. C'est vraiment stylé. C'est nickel. L'océan technologique. On va jouer à Zelda. Mais qui a rien compris. Bon, c'est déployé, frérot. C'est long de déployer un truc. On avait fini?",
+      "text" : "Bah du coup, c'est toujours pas en grand écran. Est-ce que tu es sûr que tu as déployé? Oh, c'est trop stylé! C'est vraiment stylé. C'est vraiment stylé. C'est nickel. L'océan technologique. On va jouer à Zelda. Mais qui a rien compris. Bon, c'est déployé, frérot. C'est long de déployer un truc. On avait fini?"
     }
   ],
   "modes" : [
