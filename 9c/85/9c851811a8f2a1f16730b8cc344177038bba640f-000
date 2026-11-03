@@ -24499,6 +24499,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Ouais, j'ai compris qu'il fallait prendre M4 Retinex. Même pas besoin de la variation C en fait. Donc update le prompt et update le Python. Et je vais relancer la génération de trois images avec le nouveau prompt du coup.",
       "text" : "Ouais, j'ai compris qu'il fallait prendre M4 Retinex. Même pas besoin de la variation C en fait. Donc update le prompt et update le Python. Et je vais relancer la génération de trois images avec le nouveau prompt du coup."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815441458.820642,
+      "id" : "C978AA2E-6B51-4081-9596-EC4D77138A9B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "faut enlever ce genre de détails sur le prompt parce que ça fonctionnera pas. Puis j'ai l'impression que tu mets trop de calculs dans l'étape 4. Il faut que tu simplifies l'étape 4 pour reprendre les tous les concepts dont on a parlé, mais sans indiquer une méthode spécifique. Parce que sinon, en fait, le Python de ChatGPT va faire un truc différent à chaque fois. Il faut que tu simplifies l'étape 4.",
+      "text" : "faut enlever ce genre de détails sur le prompt parce que ça fonctionnera pas. Puis j'ai l'impression que tu mets trop de calculs dans l'étape 4. Il faut que tu simplifies l'étape 4 pour reprendre les tous les concepts dont on a parlé, mais sans indiquer une méthode spécifique. Parce que sinon, en fait, le Python de ChatGPT va faire un truc différent à chaque fois. Il faut que tu simplifies l'étape 4."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815441583.580068,
+      "id" : "53A111F7-288B-45E2-A9F0-C5A372E40F5D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "D'accord, mais est-ce que le prompt Python, tu as bien mis l'équivalence de Python, Copernicus et Houdini, non, pardon, et Substance Painter, afin qu'on puisse comprendre?",
+      "text" : "D'accord, mais est-ce que le prompt Python, tu as bien mis l'équivalence de Python, Copernicus et Houdini, non, pardon, et Substance Painter, afin qu'on puisse comprendre?"
     }
   ],
   "modes" : [
