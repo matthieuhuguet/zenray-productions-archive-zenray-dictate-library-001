@@ -24389,6 +24389,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Bah, testons alors le prompt, notamment via l'étape 4, où on met plutôt à la fois la V2, qui, à mon avis, il faut retenir cette version, et à la fois, du coup, le nouveau terme que tu as choisi, c'est-à-dire la correction de champ plat, flat field, et transfert de couleur Reinhard. Du coup, c'est pas en lab, parce que lab, c'était la V1, je crois. Et du coup, moi, ce que je pense en termes de color matching, le mieux parmi les trois, c'est surtout la V2, j'ai l'impression. Donc, adapte le prompt, il va falloir le modifier, du coup. Et je vais le tester, et on continuera uniquement quand j'ai testé.",
       "text" : "Bah, testons alors le prompt, notamment via l'étape 4, où on met plutôt à la fois la V2, qui, à mon avis, il faut retenir cette version, et à la fois, du coup, le nouveau terme que tu as choisi, c'est-à-dire la correction de champ plat, flat field, et transfert de couleur Reinhard. Du coup, c'est pas en lab, parce que lab, c'était la V1, je crois. Et du coup, moi, ce que je pense en termes de color matching, le mieux parmi les trois, c'est surtout la V2, j'ai l'impression. Donc, adapte le prompt, il va falloir le modifier, du coup. Et je vais le tester, et on continuera uniquement quand j'ai testé."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815439712.003393,
+      "id" : "5133D0BA-160E-4192-9E35-B5BE489B3E27",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais du coup, est-ce que tu peux m'expliquer ce que ça veut dire Reinhardt Lab, du coup?",
+      "text" : "Mais du coup, est-ce que tu peux m'expliquer ce que ça veut dire Reinhardt Lab, du coup?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815439723.02214,
+      "id" : "735D9F81-57F8-4052-80E7-8D737DDE8FA0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est lié à la 3D ou pas du tout?",
+      "text" : "C'est lié à la 3D ou pas du tout?"
     }
   ],
   "modes" : [
