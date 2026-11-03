@@ -24519,6 +24519,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "D'accord, mais est-ce que le prompt Python, tu as bien mis l'équivalence de Python, Copernicus et Houdini, non, pardon, et Substance Painter, afin qu'on puisse comprendre?",
       "text" : "D'accord, mais est-ce que le prompt Python, tu as bien mis l'équivalence de Python, Copernicus et Houdini, non, pardon, et Substance Painter, afin qu'on puisse comprendre?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815442213.571451,
+      "id" : "74C27381-BDEE-4DF6-A0D6-5779D5540D2C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, j'ai lancé... du coup, j'ai lancé C1 et C... J'ai lancé C1 et C2 avec le nouveau prompt et j'ai mis l'ancien prompt sur C3. Mais j'ai l'impression que c'est C3 qui m'a donné les meilleurs résultats par rapport à la base color. Donc peut-être qu'il faudrait remettre le prompt sur l'ancienne méthode qui au final est un peu plus détaillée mais donne un meilleur résultat. J'ai lancé deux nouvelles générations de prompt et on va voir si au final ça fait pas un peu un meilleur résultat plus on décrit le truc. Et si c'est le cas, bah du coup on fera pareil avec la 8, dans le sens où tout à l'heure je t'avais demandé de justement pas mettre la méthode spécifique de rolling ball, mais au final je pense qu'on va la mettre. Enfin je sais pas encore, mais mais en tout cas, en fait, il faut attendre les résultats du nouveau prompt, enfin de l'ancien prompt sur les deux nouvelles générations. Mais en attendant, ce que tu peux faire, c'est déjà noter dans un coin de ta mémoire tout ça, toute ma réflexion, et lancer du coup l'uniformizer base color.",
+      "text" : "Du coup, j'ai lancé... du coup, j'ai lancé C1 et C... J'ai lancé C1 et C2 avec le nouveau prompt et j'ai mis l'ancien prompt sur C3. Mais j'ai l'impression que c'est C3 qui m'a donné les meilleurs résultats par rapport à la base color. Donc peut-être qu'il faudrait remettre le prompt sur l'ancienne méthode qui au final est un peu plus détaillée mais donne un meilleur résultat. J'ai lancé deux nouvelles générations de prompt et on va voir si au final ça fait pas un peu un meilleur résultat plus on décrit le truc. Et si c'est le cas, bah du coup on fera pareil avec la 8, dans le sens où tout à l'heure je t'avais demandé de justement pas mettre la méthode spécifique de rolling ball, mais au final je pense qu'on va la mettre. Enfin je sais pas encore, mais mais en tout cas, en fait, il faut attendre les résultats du nouveau prompt, enfin de l'ancien prompt sur les deux nouvelles générations. Mais en attendant, ce que tu peux faire, c'est déjà noter dans un coin de ta mémoire tout ça, toute ma réflexion, et lancer du coup l'uniformizer base color."
     }
   ],
   "modes" : [
