@@ -24429,6 +24429,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Au niveau du prompt, c'est beaucoup mieux. Enfin, j'ai l'impression que c'est vraiment intelligent l'équivalence de ce que tu as mis par rapport à Reinhardt Lab et Ciel Lab. Malgré tout, j'ai l'impression que la base color arrive assez sombre vis-à-vis d'une flat color, enfin d'une base color dans un autre logiciel. Donc c'est peut-être normal, mais je sais pas, j'ai l'impression que c'est un peu sombre. Parce que je pense pas qu'il y ait forcément d'intérêt à ce que la base color soit aussi sombre. Donc je me pose la question de savoir si c'est vraiment intelligent que ce soit comme ça.",
       "text" : "Au niveau du prompt, c'est beaucoup mieux. Enfin, j'ai l'impression que c'est vraiment intelligent l'équivalence de ce que tu as mis par rapport à Reinhardt Lab et Ciel Lab. Malgré tout, j'ai l'impression que la base color arrive assez sombre vis-à-vis d'une flat color, enfin d'une base color dans un autre logiciel. Donc c'est peut-être normal, mais je sais pas, j'ai l'impression que c'est un peu sombre. Parce que je pense pas qu'il y ait forcément d'intérêt à ce que la base color soit aussi sombre. Donc je me pose la question de savoir si c'est vraiment intelligent que ce soit comme ça."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815440183.43697,
+      "id" : "8B9D63F3-DB33-4ED7-B914-6A4D624D880C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Parce que dans les deux prompts, au final, la couleur semble vraiment pas mal, etc. Mais il y a quand même un petit problème au niveau de... De la luminosité, j'ai l'impression. Peut-être qu'il y a un étalon standard qui permettrait, en une phrase, tu vois, de faire comprendre à l'algorithme Python de ChatGPT, de manière assez universelle, d'essayer d'uniformiser peut-être sur une luminosité un peu plus haute. Mais après, tu peux aussi m'expliquer qu'en fait, finalement, avoir une saturation assez basse sur un fichier qui n'est pas un fichier EXR ou HDR, ça permet d'avoir tout aussi bien quelque chose d'assez précis. C'est juste que je sais pas. J'ai l'impression que parfois, il n'y a pas forcément d'étalon sur la saturation globale de la map. Parce qu'au final, là, tu vois, tu as les trois résultats. Mais est-ce que, tu vois, ils sont pas vraiment harmonisés de base sur le ChatGPT. Donc je me dis, il y a forcément un truc à faire ou une instruction qui manque, tu vois.",
+      "text" : "Parce que dans les deux prompts, au final, la couleur semble vraiment pas mal, etc. Mais il y a quand même un petit problème au niveau de... De la luminosité, j'ai l'impression. Peut-être qu'il y a un étalon standard qui permettrait, en une phrase, tu vois, de faire comprendre à l'algorithme Python de ChatGPT, de manière assez universelle, d'essayer d'uniformiser peut-être sur une luminosité un peu plus haute. Mais après, tu peux aussi m'expliquer qu'en fait, finalement, avoir une saturation assez basse sur un fichier qui n'est pas un fichier EXR ou HDR, ça permet d'avoir tout aussi bien quelque chose d'assez précis. C'est juste que je sais pas. J'ai l'impression que parfois, il n'y a pas forcément d'étalon sur la saturation globale de la map. Parce qu'au final, là, tu vois, tu as les trois résultats. Mais est-ce que, tu vois, ils sont pas vraiment harmonisés de base sur le ChatGPT. Donc je me dis, il y a forcément un truc à faire ou une instruction qui manque, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815440202.757955,
+      "id" : "15BD2042-6628-4072-B06D-30F867B4D085",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pourtant, là, la troisième génération, elle arrive avec un éclairage beaucoup plus élevé. Donc j'ai l'impression qu'on n'a pas mis de consignes au niveau de l'éclairage global, tu vois. Sur des maps qui se voudront être SDR, j'ai l'impression.",
+      "text" : "Pourtant, là, la troisième génération, elle arrive avec un éclairage beaucoup plus élevé. Donc j'ai l'impression qu'on n'a pas mis de consignes au niveau de l'éclairage global, tu vois. Sur des maps qui se voudront être SDR, j'ai l'impression."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815440216.717059,
+      "id" : "8761B8A9-8567-4A87-9967-05CCBD6C02A8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "peut-être fais un test par toi-même et essaie de, encore une fois, modifier le prompt via mes images.",
+      "text" : "peut-être fais un test par toi-même et essaie de, encore une fois, modifier le prompt via mes images."
     }
   ],
   "modes" : [
