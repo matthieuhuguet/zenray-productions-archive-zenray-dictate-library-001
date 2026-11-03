@@ -24409,6 +24409,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "C'est lié à la 3D ou pas du tout?",
       "text" : "C'est lié à la 3D ou pas du tout?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815439881.214662,
+      "id" : "B0976FA7-A822-4097-AC44-06212B9019E5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "D'accord, ok, pourquoi pas. Mais ce que je comprends pas, c'est... comment dire? C'est un peu l'aspect... C'est est-ce que dans le...",
+      "text" : "D'accord, ok, pourquoi pas. Mais ce que je comprends pas, c'est... comment dire? C'est un peu l'aspect... C'est est-ce que dans le..."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815440073.759893,
+      "id" : "E290B57F-37B6-4A0A-A49B-EE55F8800B42",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Au niveau du prompt, c'est beaucoup mieux. Enfin, j'ai l'impression que c'est vraiment intelligent l'équivalence de ce que tu as mis par rapport à Reinhardt Lab et Ciel Lab. Malgré tout, j'ai l'impression que la base color arrive assez sombre vis-à-vis d'une flat color, enfin d'une base color dans un autre logiciel. Donc c'est peut-être normal, mais je sais pas, j'ai l'impression que c'est un peu sombre. Parce que je pense pas qu'il y ait forcément d'intérêt à ce que la base color soit aussi sombre. Donc je me pose la question de savoir si c'est vraiment intelligent que ce soit comme ça.",
+      "text" : "Au niveau du prompt, c'est beaucoup mieux. Enfin, j'ai l'impression que c'est vraiment intelligent l'équivalence de ce que tu as mis par rapport à Reinhardt Lab et Ciel Lab. Malgré tout, j'ai l'impression que la base color arrive assez sombre vis-à-vis d'une flat color, enfin d'une base color dans un autre logiciel. Donc c'est peut-être normal, mais je sais pas, j'ai l'impression que c'est un peu sombre. Parce que je pense pas qu'il y ait forcément d'intérêt à ce que la base color soit aussi sombre. Donc je me pose la question de savoir si c'est vraiment intelligent que ce soit comme ça."
     }
   ],
   "modes" : [
