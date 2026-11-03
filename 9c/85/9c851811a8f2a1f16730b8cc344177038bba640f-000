@@ -23759,6 +23759,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Putain.",
       "text" : "Putain."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815422268.751629,
+      "id" : "0BEA322C-4FC8-45B3-8A61-D5CE54D0EB52",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "résumé audio approfondi qui lit tous les passages de toute l'étude et qui propose une analyse approfondie à 100%, enfin, qui peut durer jusqu'à une heure pour vraiment résumer tout comme un podcast extrêmement complet. Tu peux aller jusqu'au nombre de temps maximal. Si le podcast doit durer 3 heures, ben dans ce cas-là, il dure 3 heures. Si, en revanche, il dure une heure, c'est déjà bien, etc. Fais le podcast le plus long en termes de duration et explique pourquoi.",
+      "text" : "résumé audio approfondi qui lit tous les passages de toute l'étude et qui propose une analyse approfondie à 100%, enfin, qui peut durer jusqu'à une heure pour vraiment résumer tout comme un podcast extrêmement complet. Tu peux aller jusqu'au nombre de temps maximal. Si le podcast doit durer 3 heures, ben dans ce cas-là, il dure 3 heures. Si, en revanche, il dure une heure, c'est déjà bien, etc. Fais le podcast le plus long en termes de duration et explique pourquoi."
     }
   ],
   "modes" : [
