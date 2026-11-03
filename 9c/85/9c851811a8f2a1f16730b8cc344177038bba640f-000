@@ -23139,6 +23139,206 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Ok, mais quid de mon document de synthèse qui, du coup, devrait réunir à la fois la conversation de Claude que j'ai eue tout à l'heure et celle-ci? Normalement, le document de synthèse est toujours obligatoire à chaque fin de projet. Et ensuite, tu pushes tout dans le cloud sur Assets.",
       "text" : "Ok, mais quid de mon document de synthèse qui, du coup, devrait réunir à la fois la conversation de Claude que j'ai eue tout à l'heure et celle-ci? Normalement, le document de synthèse est toujours obligatoire à chaque fin de projet. Et ensuite, tu pushes tout dans le cloud sur Assets."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815401560.041798,
+      "id" : "DC97FD09-5E4C-475E-A28E-756A84DF8013",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je me posais la question, est-ce que c'est intéressant de manger une orange en tant que sportif, ou bien est-ce que tu déconseilles fortement de manger une orange? Je me pose la question. Parce que c'est bien, mais en même temps, une orange, ça reste compliqué, quoi. Parce que ça contient beaucoup de sucre, donc je sais pas.",
+      "text" : "Je me posais la question, est-ce que c'est intéressant de manger une orange en tant que sportif, ou bien est-ce que tu déconseilles fortement de manger une orange? Je me pose la question. Parce que c'est bien, mais en même temps, une orange, ça reste compliqué, quoi. Parce que ça contient beaucoup de sucre, donc je sais pas."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815401592.340273,
+      "id" : "0529E7D4-1965-4FEF-905E-2CFEC9101870",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et aujourd'hui, j'ai aussi mangé des lentilles avec des pâtes et du jambon corse. Donc, faut aussi se poser la question si c'est intéressant pour un sportif ou pas forcément.",
+      "text" : "Et aujourd'hui, j'ai aussi mangé des lentilles avec des pâtes et du jambon corse. Donc, faut aussi se poser la question si c'est intéressant pour un sportif ou pas forcément."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815401652.432613,
+      "id" : "F4206809-30ED-446F-A55E-9AF72C66FB66",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "D'accord. Mais du coup, il faudrait manger max une orange par jour, ou alors c'est un mythe et on peut aller jusqu'à deux, trois oranges. Ce que je sais pas au final.",
+      "text" : "D'accord. Mais du coup, il faudrait manger max une orange par jour, ou alors c'est un mythe et on peut aller jusqu'à deux, trois oranges. Ce que je sais pas au final."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815401716.739219,
+      "id" : "029BC618-B7B5-4689-B21E-D43B714F3FB3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Moi, le seul truc, c'est qu'il faut que je fasse attention au sucre parce que sinon, en fait, on voit pas mes abdos. Parce qu'en fait, si tu veux, je fais des tractions calisthénie et tout, et je remonte les genoux au niveau des pectoraux, voire encore plus haut, et je fais un mouvement complet, tu vois. Et ça, j'ai l'impression que ça entraîne mes abdos pour l'amplitude. Mais le problème, c'est quand je mange beaucoup de sucre. Alors après, tu vas me dire, c'est surtout les pâtes, je pense, qui forment la petite couche de graisse et pas forcément l'orange. Mais j'aimerais un peu débunker les trucs en mode. Parce qu'en fait, il y a deux trucs qu'il faut que je fasse plus, c'est faire plus d'abdos, mais aussi réduire un peu la couche de sucre que j'ai au niveau des abdos, tu vois. Mais pourtant, j'ai 26 ans et je suis plutôt fit, tu vois. Mais je vois pas encore mes abdos et ça me frustre pas mal. Je sais pas quoi faire.",
+      "text" : "Moi, le seul truc, c'est qu'il faut que je fasse attention au sucre parce que sinon, en fait, on voit pas mes abdos. Parce qu'en fait, si tu veux, je fais des tractions calisthénie et tout, et je remonte les genoux au niveau des pectoraux, voire encore plus haut, et je fais un mouvement complet, tu vois. Et ça, j'ai l'impression que ça entraîne mes abdos pour l'amplitude. Mais le problème, c'est quand je mange beaucoup de sucre. Alors après, tu vas me dire, c'est surtout les pâtes, je pense, qui forment la petite couche de graisse et pas forcément l'orange. Mais j'aimerais un peu débunker les trucs en mode. Parce qu'en fait, il y a deux trucs qu'il faut que je fasse plus, c'est faire plus d'abdos, mais aussi réduire un peu la couche de sucre que j'ai au niveau des abdos, tu vois. Mais pourtant, j'ai 26 ans et je suis plutôt fit, tu vois. Mais je vois pas encore mes abdos et ça me frustre pas mal. Je sais pas quoi faire."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815401750.304501,
+      "id" : "C0379E9B-6FDB-4DD6-AA64-A56C4FA7A1F0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais je pense qu'en termes d'exercice, je fais déjà un peu ce qu'il y a de mieux. Le seul truc, c'est parfois, je fais le reverse crunch sur un bench un peu incliné. Et ça, ça me force énormément sur les abdos, mais j'ai l'impression que je force surtout sur le dos. Donc j'ai l'impression que le hanging leg, où je fais un peu une sorte de traction plus calisthénie, j'ai l'impression que ça force... Enfin, c'est pas que ça force plus sur les abdos, mais c'est que je maîtrise mieux le mouvement, du coup je fais une meilleure exécution.",
+      "text" : "Mais je pense qu'en termes d'exercice, je fais déjà un peu ce qu'il y a de mieux. Le seul truc, c'est parfois, je fais le reverse crunch sur un bench un peu incliné. Et ça, ça me force énormément sur les abdos, mais j'ai l'impression que je force surtout sur le dos. Donc j'ai l'impression que le hanging leg, où je fais un peu une sorte de traction plus calisthénie, j'ai l'impression que ça force... Enfin, c'est pas que ça force plus sur les abdos, mais c'est que je maîtrise mieux le mouvement, du coup je fais une meilleure exécution."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815402026.834478,
+      "id" : "6069124B-39C4-47EA-86DF-B221249149D5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai lu un chiffre qui dit qu'à partir du 30 ans, de 30 ans, tu perds environ 1% de synthèse du collagène par tes, par ta récupération, etc. et par la synthèse de tes tissus du corps. Mais du coup, je me pose la question, est-ce que à 64 ans, par exemple, à 60 ans, simplement, est-ce que ça veut dire que du coup, tu as perdu 30% de ta synthèse? Ou alors tu peux perdre 1 à 2% et du coup tu serais plutôt simplement à 30% de ta récupération des synthèses des tissus par rapport au collagène et à la vitamine C et la synthèse, tu vois. En fait, je me pose la question et j'imagine que ça dépend pour les individus parce que tu as des individus qui sont plutôt ridés et tu as des gens qui sont moins ridés. Mais en règle générale, à 60 ans, tout le monde a des rides, tu vois, plus ou moins.",
+      "text" : "J'ai lu un chiffre qui dit qu'à partir du 30 ans, de 30 ans, tu perds environ 1% de synthèse du collagène par tes, par ta récupération, etc. et par la synthèse de tes tissus du corps. Mais du coup, je me pose la question, est-ce que à 64 ans, par exemple, à 60 ans, simplement, est-ce que ça veut dire que du coup, tu as perdu 30% de ta synthèse? Ou alors tu peux perdre 1 à 2% et du coup tu serais plutôt simplement à 30% de ta récupération des synthèses des tissus par rapport au collagène et à la vitamine C et la synthèse, tu vois. En fait, je me pose la question et j'imagine que ça dépend pour les individus parce que tu as des individus qui sont plutôt ridés et tu as des gens qui sont moins ridés. Mais en règle générale, à 60 ans, tout le monde a des rides, tu vois, plus ou moins."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815404062.641051,
+      "id" : "F9D83508-3850-47A3-B30F-9CA8095D9266",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Alors, j'aimerais travailler du coup sur progress dans la section shelf du coup. Dans la section shelf et mettre un tracker. Enfin, en fait, si tu veux, actuellement il y a des status sur games, donc dans in progress backlog, et j'aimerais faire en sorte que déjà j'aimerais faire en sorte que la fonte des titres soit, même celui de shelf, soit en GT Ultra. Ensuite, j'aimerais faire en sorte de créer une nouvelle section qui s'appellerait Unreleased, et donc dans cette section j'aimerais mettre Grand Theft Auto 6, The Witcher 4, Untitled, Fumito Ueda. Tous ces jeux que je te cite, ils sont dans backlog actuellement. Stranger Than Heaven, je crois d'ailleurs qu'il y a deux cartes pour Stranger Than Heaven, donc la centralisée. Ensuite, ce que j'aimerais faire pour les icônes, c'est une fois que elles ont fetch l'API et qu'elle renvoie la vraie image, et eh ben tu la sauvegardes dans un fallback qui devient la version par défaut pour la carte. C'est à dire que, en fait, au lieu de charger à chaque fois et de demander une API, une fois que tu as fetch l'API, ben tu sauvegardes l'image sur mon drive et tu la stores sur GitHub afin, dans un repository, afin que plus jamais elle ne reparte et qu'elle puisse s'afficher ultra rapidement par défaut par la suite. Et par exemple, il y a pas mal d'icônes qui actuellement sont cassées sur mon site, donc j'aimerais les corriger. Donc on reprend la liste des titres à mettre dans la section Unreleased. Il y a Okami Sequel, Intergalactic, The Dusk Blouds, Black Miss Zongkui. Black Miss Zongkui, c'est la mauvaise icône. Après, on va fixer toutes les icônes. J'aimerais pour les icônes faire utiliser simplement un Google Search Image et prendre la première image. Resident Evil Veronica, Fable, Final Fantasy VII Rebellion, God of War Lofé. Stellar Blade Blood Rain, encore une fois il y a deux fois l'icône. Persona 6 Résonance, Persona 4 Revival, Contrôle Résonante, et il y a aussi une icône de contrôle et contrôle résonante qui sont pas bien mises, donc il faut les fixer. Et du coup, et il y a pas mal de fois E Plague Tale Legacy aussi, qui est E Plague Tale Legacy Résonance, je crois, qu'il faut fixer aussi. Donc voilà tout ce qu'il faut fixer sur l'icône, enfin sur toute la partie shelf.",
+      "text" : "Alors, j'aimerais travailler du coup sur progress dans la section shelf du coup. Dans la section shelf et mettre un tracker. Enfin, en fait, si tu veux, actuellement il y a des status sur games, donc dans in progress backlog, et j'aimerais faire en sorte que déjà j'aimerais faire en sorte que la fonte des titres soit, même celui de shelf, soit en GT Ultra. Ensuite, j'aimerais faire en sorte de créer une nouvelle section qui s'appellerait Unreleased, et donc dans cette section j'aimerais mettre Grand Theft Auto 6, The Witcher 4, Untitled, Fumito Ueda. Tous ces jeux que je te cite, ils sont dans backlog actuellement. Stranger Than Heaven, je crois d'ailleurs qu'il y a deux cartes pour Stranger Than Heaven, donc la centralisée. Ensuite, ce que j'aimerais faire pour les icônes, c'est une fois que elles ont fetch l'API et qu'elle renvoie la vraie image, et eh ben tu la sauvegardes dans un fallback qui devient la version par défaut pour la carte. C'est à dire que, en fait, au lieu de charger à chaque fois et de demander une API, une fois que tu as fetch l'API, ben tu sauvegardes l'image sur mon drive et tu la stores sur GitHub afin, dans un repository, afin que plus jamais elle ne reparte et qu'elle puisse s'afficher ultra rapidement par défaut par la suite. Et par exemple, il y a pas mal d'icônes qui actuellement sont cassées sur mon site, donc j'aimerais les corriger. Donc on reprend la liste des titres à mettre dans la section Unreleased. Il y a Okami Sequel, Intergalactic, The Dusk Blouds, Black Miss Zongkui. Black Miss Zongkui, c'est la mauvaise icône. Après, on va fixer toutes les icônes. J'aimerais pour les icônes faire utiliser simplement un Google Search Image et prendre la première image. Resident Evil Veronica, Fable, Final Fantasy VII Rebellion, God of War Lofé. Stellar Blade Blood Rain, encore une fois il y a deux fois l'icône. Persona 6 Résonance, Persona 4 Revival, Contrôle Résonante, et il y a aussi une icône de contrôle et contrôle résonante qui sont pas bien mises, donc il faut les fixer. Et du coup, et il y a pas mal de fois E Plague Tale Legacy aussi, qui est E Plague Tale Legacy Résonance, je crois, qu'il faut fixer aussi. Donc voilà tout ce qu'il faut fixer sur l'icône, enfin sur toute la partie shelf."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815404435.889403,
+      "id" : "3BE8B546-533A-43C5-8020-E8FEF4A611EC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'aimerais faire un état de l'art sur tous les et créer un nouveau document artifact pour comprendre un peu ce qui s'est passé par rapport aux recherches récentes par rapport à l'évolution de l'IA Mac Game List et tous les jeux qui ont été faits notamment sur intelligence artificielle, parce qu'il paraît qu'il y a eu pas mal de chamboulements au niveau de l'émulation aussi, sur le piratage des jeux, etc. En fait, j'aimerais comprendre l'état de l'art et le lier au phénomène de jeux comme Crackwatch, Mac Game List, les jeux disponibles sur Mac. J'ai entendu dire qu'il y avait maintenant Bloodborne sur Mac et sur PC, qu'on pouvait compiler nativement des jeux Switch directement sur Mac. Est-ce que c'est possible par exemple avec des jeux récents comme Final Fantasy Resonance ou encore Fire Emblem Engage? Est-ce que c'est possible avec même les jeux Nintendo Switch 2? Qu'est-ce qui est possible de faire? Qu'est-ce qui n'est pas possible de faire? Est-ce que c'est une forme de rétro-ingénierie? Est-ce que c'est un décryptage du code assembly? En fait, j'aimerais que tu me fasses une longue recherche, mais qu'ensuite tu fasses une synthèse du document de recherche. Donc dans une première partie, tu cherches vraiment tout, et ensuite tu fais la synthèse agréable à lire pour quelqu'un qui voudrait se renseigner sur le sujet sur environ 10 minutes, mais quand même avec une densité complète du sujet. Et donc voilà, ma question c'était... Et j'aimerais aussi ajouter dans la recherche tous les jeux qui sont sortis cette année, les jeux qui se sont le mieux vendus, le marché indé, le marché PC, et surtout ce qui m'intéresse le plus, c'est les jeux qui ont le mieux fonctionné en termes de critique. Et pas forcément en termes de critique, mais plutôt... Enfin, en fait, ce que je veux, c'est pas une liste métacritique en mode jusqu'à 90, les jeux qui ont plus de 90 et les autres, tu vois, c'est plutôt... Quels étaient les jeux attendus, comme par exemple Control Resonant, A Plague Tale Legacy, GTA 6, etc. Après, mets-moi aussi un tracker sur les jeux qui sont pas encore sortis et où on n'a pas encore d'avis, mais quels étaient les créateurs qui étaient attendus par rapport à l'industrie? Quels ont été les jeux qui y ont été sortis? Est-ce que l'industrie a pu délivrer autant de promesses? Est-ce que les jeux finalement ils ont déçu? Est-ce que les jeux finalement ils ont plu? En fait, je veux un état de l'art de l'industrie et de ses chamboulements par rapport aux jeux qui sont sortis. En fait, en accent sur deux choses: les jeux qui sont sortis cette année et qui valent le coup en termes de critique, et la révolution de l'IA par rapport à la transcription des jeux sur Mac et sur d'autres supports. Mais surtout sur Mac, surtout si tu le relis par rapport à l'évolution de l'IA et les composants qui coûtent de plus en plus cher, pour faire en sorte de comprendre, si les jeux actuellement sont bien. Tu vois, enfin, c'est pas ça, non, c'est plutôt, est-ce que les jeux aujourd'hui sont, comment dire, quels sont les jeux accessibles sur Mac aujourd'hui à l'ère du piratage? Parce que il y a une forme de... Je sais qu'avec Claude, maintenant, tu peux prendre un ancien jeu et le rendre sur une version native de n'importe quel support, tu vois. Et c'est ça qui m'intéresse, en fait. Et c'est de dire, si demain, par exemple, il y a un jeu comme Final Fantasy Resonance qui sort, ou n'importe quel autre jeu... Est-ce qu'il sera directement émulable sur un Mac? Et si oui ou sinon, pourquoi, tu vois? Parce que même cette année, tu vois, il y a des jeux AAA qui sont sortis et qui sont déjà disponibles sur Mac. Et est-ce que c'est que une question de temps avant que ce soit disponible sur d'autres supports, etc. Donc c'est ça qui m'intéresse. C'est ça qui m'intéresse comme recherche.",
+      "text" : "J'aimerais faire un état de l'art sur tous les et créer un nouveau document artifact pour comprendre un peu ce qui s'est passé par rapport aux recherches récentes par rapport à l'évolution de l'IA Mac Game List et tous les jeux qui ont été faits notamment sur intelligence artificielle, parce qu'il paraît qu'il y a eu pas mal de chamboulements au niveau de l'émulation aussi, sur le piratage des jeux, etc. En fait, j'aimerais comprendre l'état de l'art et le lier au phénomène de jeux comme Crackwatch, Mac Game List, les jeux disponibles sur Mac. J'ai entendu dire qu'il y avait maintenant Bloodborne sur Mac et sur PC, qu'on pouvait compiler nativement des jeux Switch directement sur Mac. Est-ce que c'est possible par exemple avec des jeux récents comme Final Fantasy Resonance ou encore Fire Emblem Engage? Est-ce que c'est possible avec même les jeux Nintendo Switch 2? Qu'est-ce qui est possible de faire? Qu'est-ce qui n'est pas possible de faire? Est-ce que c'est une forme de rétro-ingénierie? Est-ce que c'est un décryptage du code assembly? En fait, j'aimerais que tu me fasses une longue recherche, mais qu'ensuite tu fasses une synthèse du document de recherche. Donc dans une première partie, tu cherches vraiment tout, et ensuite tu fais la synthèse agréable à lire pour quelqu'un qui voudrait se renseigner sur le sujet sur environ 10 minutes, mais quand même avec une densité complète du sujet. Et donc voilà, ma question c'était... Et j'aimerais aussi ajouter dans la recherche tous les jeux qui sont sortis cette année, les jeux qui se sont le mieux vendus, le marché indé, le marché PC, et surtout ce qui m'intéresse le plus, c'est les jeux qui ont le mieux fonctionné en termes de critique. Et pas forcément en termes de critique, mais plutôt... Enfin, en fait, ce que je veux, c'est pas une liste métacritique en mode jusqu'à 90, les jeux qui ont plus de 90 et les autres, tu vois, c'est plutôt... Quels étaient les jeux attendus, comme par exemple Control Resonant, A Plague Tale Legacy, GTA 6, etc. Après, mets-moi aussi un tracker sur les jeux qui sont pas encore sortis et où on n'a pas encore d'avis, mais quels étaient les créateurs qui étaient attendus par rapport à l'industrie? Quels ont été les jeux qui y ont été sortis? Est-ce que l'industrie a pu délivrer autant de promesses? Est-ce que les jeux finalement ils ont déçu? Est-ce que les jeux finalement ils ont plu? En fait, je veux un état de l'art de l'industrie et de ses chamboulements par rapport aux jeux qui sont sortis. En fait, en accent sur deux choses: les jeux qui sont sortis cette année et qui valent le coup en termes de critique, et la révolution de l'IA par rapport à la transcription des jeux sur Mac et sur d'autres supports. Mais surtout sur Mac, surtout si tu le relis par rapport à l'évolution de l'IA et les composants qui coûtent de plus en plus cher, pour faire en sorte de comprendre, si les jeux actuellement sont bien. Tu vois, enfin, c'est pas ça, non, c'est plutôt, est-ce que les jeux aujourd'hui sont, comment dire, quels sont les jeux accessibles sur Mac aujourd'hui à l'ère du piratage? Parce que il y a une forme de... Je sais qu'avec Claude, maintenant, tu peux prendre un ancien jeu et le rendre sur une version native de n'importe quel support, tu vois. Et c'est ça qui m'intéresse, en fait. Et c'est de dire, si demain, par exemple, il y a un jeu comme Final Fantasy Resonance qui sort, ou n'importe quel autre jeu... Est-ce qu'il sera directement émulable sur un Mac? Et si oui ou sinon, pourquoi, tu vois? Parce que même cette année, tu vois, il y a des jeux AAA qui sont sortis et qui sont déjà disponibles sur Mac. Et est-ce que c'est que une question de temps avant que ce soit disponible sur d'autres supports, etc. Donc c'est ça qui m'intéresse. C'est ça qui m'intéresse comme recherche."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815404609.91965,
+      "id" : "769CE79F-2955-4C96-8E1C-BDE81C41B9BE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Sans lancer une recherche de ce genre, est-ce que tu peux me dire, c'est ta seule instruction, hein. Fais attention à bien tout lire avant de lancer la recherche, parce que tu veux pas, je veux pas justement que tu lances ce genre de recherche. Ma question est tout autre. Ma question, c'est ce genre de recherche, si tu lances une deep research avec ChatGPT, Gemini ou Claude, combien ça te coûte VS une requête classique où tu dirais pas le mot deep research? Parce que je sais que sur Claude, sur ChatGPT et Gemini, tu as directement l'option de pouvoir cocher l'option deep research, tandis qu'avec Claude, tu n'as pas cette instruction et l'agent va par lui-même comprendre qu'il doit rechercher pendant plus longtemps. Mais en règle générale, combien ça coûte à l'utilisateur final en termes de dollars si, par exemple, il utilisait une API, VS le fait de ne pas justement dire de faire une deep research?",
+      "text" : "Sans lancer une recherche de ce genre, est-ce que tu peux me dire, c'est ta seule instruction, hein. Fais attention à bien tout lire avant de lancer la recherche, parce que tu veux pas, je veux pas justement que tu lances ce genre de recherche. Ma question est tout autre. Ma question, c'est ce genre de recherche, si tu lances une deep research avec ChatGPT, Gemini ou Claude, combien ça te coûte VS une requête classique où tu dirais pas le mot deep research? Parce que je sais que sur Claude, sur ChatGPT et Gemini, tu as directement l'option de pouvoir cocher l'option deep research, tandis qu'avec Claude, tu n'as pas cette instruction et l'agent va par lui-même comprendre qu'il doit rechercher pendant plus longtemps. Mais en règle générale, combien ça coûte à l'utilisateur final en termes de dollars si, par exemple, il utilisait une API, VS le fait de ne pas justement dire de faire une deep research?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815405034.410407,
+      "id" : "25A98921-CB86-491D-934E-D7338AC5A66E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Super, ta petite barre de chronologie, mais fais en sorte qu'il y a un hover si je clique sur la couleur ou si je clique sur l'étiquette. Et ensuite, une fois que je suis plus loin, par exemple dans une autre section, fais en sorte qu'elle s'affiche sur la gauche, du coup sans les étiquettes, mais juste avec les couleurs et le texte écrit à la verticale. Donc c'est-à-dire... pas à l'horizontale mais à la verticale directement sur la barre directement, et ensuite mets des couleurs plutôt pâles plutôt par exemple tu as mis un espèce de rouge marron pour Dropped, mais plutôt un rouge pâle, et mets vert pâle, violet pâle. Pour backlog, mais plutôt un turquoise peut-être, tu vois. Et pour progress, un bleu pâle. Et du coup, un turquoise pâle pour backlog. Enfin, quoique, il y a trop de nuances de vert. Peut-être un jaune ou un orange. Ouais, pour backlog, peut-être un orange plutôt. Un orange pâle.",
+      "text" : "Super, ta petite barre de chronologie, mais fais en sorte qu'il y a un hover si je clique sur la couleur ou si je clique sur l'étiquette. Et ensuite, une fois que je suis plus loin, par exemple dans une autre section, fais en sorte qu'elle s'affiche sur la gauche, du coup sans les étiquettes, mais juste avec les couleurs et le texte écrit à la verticale. Donc c'est-à-dire... pas à l'horizontale mais à la verticale directement sur la barre directement, et ensuite mets des couleurs plutôt pâles plutôt par exemple tu as mis un espèce de rouge marron pour Dropped, mais plutôt un rouge pâle, et mets vert pâle, violet pâle. Pour backlog, mais plutôt un turquoise peut-être, tu vois. Et pour progress, un bleu pâle. Et du coup, un turquoise pâle pour backlog. Enfin, quoique, il y a trop de nuances de vert. Peut-être un jaune ou un orange. Ouais, pour backlog, peut-être un orange plutôt. Un orange pâle."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815405167.741109,
+      "id" : "8DD76934-FACF-4092-9881-81636F6D26E8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ajoute Samba et Lupin dans Shelf Movies. Mets la note de 84 pour Lupin. Fais pareil du coup ce que je viens de te dire par rapport à Google Search et le fait de store les images et les afficher rapidement. Pour animé, manga, movies et docs et books aussi. Qu'est-ce que je voulais dire? Qu'est-ce que je voulais dire?",
+      "text" : "Ajoute Samba et Lupin dans Shelf Movies. Mets la note de 84 pour Lupin. Fais pareil du coup ce que je viens de te dire par rapport à Google Search et le fait de store les images et les afficher rapidement. Pour animé, manga, movies et docs et books aussi. Qu'est-ce que je voulais dire? Qu'est-ce que je voulais dire?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815406020.28745,
+      "id" : "633F8A3E-7865-4036-9063-3DE2676517B1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, mais alors je vais te demander quelque chose de différent. Comment est-ce que je fais pour installer un projet ISO sur mon Mac?",
+      "text" : "Ok, mais alors je vais te demander quelque chose de différent. Comment est-ce que je fais pour installer un projet ISO sur mon Mac?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815407899.344853,
+      "id" : "21A35FD1-04B6-4670-B128-149B0BC1D00A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En plein écran, notamment en jeu, j'ai toujours la petite pastille orange à cause du Mac qui m'affiche des notifications. Mais sans cacher mes notifications, j'aimerais juste créer un module de code qui permettrait de... ou alors désactiver une option simplement, qui permettrait en fait de cacher, lorsque je suis en plein écran, cette petite pastille orange. Ou alors qu'il l'afficherait uniquement lorsqu'une notification vient d'apparaître, et puis ça disparaîtrait en 5 secondes. Genre par exemple, quand je prends un screen, ce serait pas mal. Mais j'aimerais la faire disparaître à terme. C'est sûr qu'il y a une option sur le Mac pour la faire disparaître en plein écran.",
+      "text" : "En plein écran, notamment en jeu, j'ai toujours la petite pastille orange à cause du Mac qui m'affiche des notifications. Mais sans cacher mes notifications, j'aimerais juste créer un module de code qui permettrait de... ou alors désactiver une option simplement, qui permettrait en fait de cacher, lorsque je suis en plein écran, cette petite pastille orange. Ou alors qu'il l'afficherait uniquement lorsqu'une notification vient d'apparaître, et puis ça disparaîtrait en 5 secondes. Genre par exemple, quand je prends un screen, ce serait pas mal. Mais j'aimerais la faire disparaître à terme. C'est sûr qu'il y a une option sur le Mac pour la faire disparaître en plein écran."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815408203.808224,
+      "id" : "7CF56E73-FE08-4DFF-A276-8D2198A780BF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Tu vas directement me créer ce motion de manière ultra, ultra stylisée et avec l'apparition et l'utilisation du repérage de la fonte procédurale afin de recréer la fonte parfaitement. Je veux que tu me donnes une sheet où tu me montres toute la fonte qui aurait été reproduite par rapport à l'identification des images. Et comme ça, tu appliques le skill ZenRay Motion et tu le crées directement dans une nouvelle section de l'application.",
+      "text" : "Tu vas directement me créer ce motion de manière ultra, ultra stylisée et avec l'apparition et l'utilisation du repérage de la fonte procédurale afin de recréer la fonte parfaitement. Je veux que tu me donnes une sheet où tu me montres toute la fonte qui aurait été reproduite par rapport à l'identification des images. Et comme ça, tu appliques le skill ZenRay Motion et tu le crées directement dans une nouvelle section de l'application."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815408271.50647,
+      "id" : "618BEC66-177C-41D9-9270-C8AE452D953C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "relance le service s'il n'est pas actif et trouve l'identification du problème et fixe de manière permanente le fait que actuellement le service assets indique que le service est indisponible. Je ne veux plus jamais voir ce bug, donc continue de fixe tant que le problème n'est pas fini. Et fais un document de synthèse du coup pour le fixe que tu as fait sur FF7 First Light.",
+      "text" : "relance le service s'il n'est pas actif et trouve l'identification du problème et fixe de manière permanente le fait que actuellement le service assets indique que le service est indisponible. Je ne veux plus jamais voir ce bug, donc continue de fixe tant que le problème n'est pas fini. Et fais un document de synthèse du coup pour le fixe que tu as fait sur FF7 First Light."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815408541.943149,
+      "id" : "158D3E38-BF59-435C-907A-F08742998CAA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ce que je voulais faire, du coup, c'est traiter la mémoire. Parce qu'actuellement, sur mon Mac, j'ai un gros problème de mémoire. Alors, évidemment, là, j'ai un jeu qui me prend 18 Go de mémoire vive, mais ce n'est pas le sujet. En fait, il faudrait recenser via index mapping l'identification de tous les processus, notamment sur le Mac, qui ne sont pas nécessaires à son développement. Et qui prennent beaucoup de mémoire, parce que j'ai quand même beaucoup de mémoire sur mon Mac, j'ai 48 Go au total, mais j'ai l'impression qu'il y a pas mal de petits services qui prennent de la mémoire sans jamais la rendre. Alors évidemment, j'ai besoin de certaines applications comme Finder, comme Google Chrome, comme Claude, comme ChatGPT, comme Spotify, etc. Mais je pense qu'il y a pas mal de petits services qu'on pourrait kill. Comme par exemple, je vois que par exemple, il y a des services de widgets, il y a des services dont je n'ai pas forcément besoin. Et surtout, je trouve ça bizarre que ça prenne autant de mémoire. Donc, il faudrait faire recenser toute la mémoire vive qui est actuellement utilisée par le PC pour faire en sorte de libérer l'espace à terme.",
+      "text" : "Ce que je voulais faire, du coup, c'est traiter la mémoire. Parce qu'actuellement, sur mon Mac, j'ai un gros problème de mémoire. Alors, évidemment, là, j'ai un jeu qui me prend 18 Go de mémoire vive, mais ce n'est pas le sujet. En fait, il faudrait recenser via index mapping l'identification de tous les processus, notamment sur le Mac, qui ne sont pas nécessaires à son développement. Et qui prennent beaucoup de mémoire, parce que j'ai quand même beaucoup de mémoire sur mon Mac, j'ai 48 Go au total, mais j'ai l'impression qu'il y a pas mal de petits services qui prennent de la mémoire sans jamais la rendre. Alors évidemment, j'ai besoin de certaines applications comme Finder, comme Google Chrome, comme Claude, comme ChatGPT, comme Spotify, etc. Mais je pense qu'il y a pas mal de petits services qu'on pourrait kill. Comme par exemple, je vois que par exemple, il y a des services de widgets, il y a des services dont je n'ai pas forcément besoin. Et surtout, je trouve ça bizarre que ça prenne autant de mémoire. Donc, il faudrait faire recenser toute la mémoire vive qui est actuellement utilisée par le PC pour faire en sorte de libérer l'espace à terme."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815408784.83063,
+      "id" : "28CADF48-CAC5-49C1-BB64-1688E0A2AF84",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "il fallait du coup faire un document de synthèse, me le donner et identifier pourquoi Asset ne fonctionne plus. Et il fallait faire un document de synthèse par rapport à 007 First Light, donc n'hésite pas à relire l'intégralité de la conversation.",
+      "text" : "il fallait du coup faire un document de synthèse, me le donner et identifier pourquoi Asset ne fonctionne plus. Et il fallait faire un document de synthèse par rapport à 007 First Light, donc n'hésite pas à relire l'intégralité de la conversation."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815409168.695412,
+      "id" : "04FBA423-7A7C-47E6-B41B-5AE5FD6CC001",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il y a un problème sur la découpe des lettres, elle n'est pas pixel perfect, donc recommence et sois beaucoup plus rigoureux sur le fait de proposer une cheat qui est exactement identique. Tu vois qu'il y a un problème sur le N, et d'ailleurs tu l'as notifié puisque il y a du rouge. Donc à mon avis, tu dois recommencer quoi.",
+      "text" : "Il y a un problème sur la découpe des lettres, elle n'est pas pixel perfect, donc recommence et sois beaucoup plus rigoureux sur le fait de proposer une cheat qui est exactement identique. Tu vois qu'il y a un problème sur le N, et d'ailleurs tu l'as notifié puisque il y a du rouge. Donc à mon avis, tu dois recommencer quoi."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815409285.343211,
+      "id" : "020C3509-A89C-4A14-9E91-D48E6E2C203B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, mais est-ce que tout le projet a été index mappé et surtout publié sur mon dossier assets dans Progress? Parce que sinon, il faut que tu fasses tout l'index mapping proprement et que tu pushes tout avec la fiche d'inventaire. Enfin, pas la fiche d'inventaire, pardon, mais le document de synthèse, du coup, qui devient l'article, en fait. Il faut aussi consigner dans le skill qu'à chaque fin de travail, tu vois, et même dans le skill CTRL S et dans le skill... Bah, je sais pas, en fait, faudrait surtout dire dans Claude.md, à chaque fois, il faut que tu conclues le travail par un document de synthèse et par le fait de push dans ZenRay Assets, tu vois. De manière assez systématique, en fait.",
+      "text" : "Ok, mais est-ce que tout le projet a été index mappé et surtout publié sur mon dossier assets dans Progress? Parce que sinon, il faut que tu fasses tout l'index mapping proprement et que tu pushes tout avec la fiche d'inventaire. Enfin, pas la fiche d'inventaire, pardon, mais le document de synthèse, du coup, qui devient l'article, en fait. Il faut aussi consigner dans le skill qu'à chaque fin de travail, tu vois, et même dans le skill CTRL S et dans le skill... Bah, je sais pas, en fait, faudrait surtout dire dans Claude.md, à chaque fois, il faut que tu conclues le travail par un document de synthèse et par le fait de push dans ZenRay Assets, tu vois. De manière assez systématique, en fait."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815409480.130777,
+      "id" : "88B6E23B-D608-41B8-9B0A-18180253A2AD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Hello, I have a subscribed payment subscription yearly, and today I see that my account is only on free. Can you reactivate my subscription in pro tier and also reimburse me the amount that you, because you did not provide the service? I need a fast answer.",
+      "text" : "Hello, I have a subscribed payment subscription yearly, and today I see that my account is only on free. Can you reactivate my subscription in pro tier and also reimburse me the amount that you, because you did not provide the service? I need a fast answer."
     }
   ],
   "modes" : [
