@@ -24109,6 +24109,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Ok, bah le prompt est parfait. Le prompt est parfait, donc consigne-le. Mais consigne aussi les steps dans la chaîne de valeur de manière logique.",
       "text" : "Ok, bah le prompt est parfait. Le prompt est parfait, donc consigne-le. Mais consigne aussi les steps dans la chaîne de valeur de manière logique."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815431475.097764,
+      "id" : "33531326-2E2E-4311-BED3-DCA8A6D9A055",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, le prompt qui a marché, c'est celui-ci. Mais je pense pas que l'ajouter au prompt précédent, simplement de la hate, ça marche. J'imagine qu'il faut le faire en deux prompts pour que ça fonctionne. Donc, edit le prompt précédent pour dire ça. Donc, sur cette étape, en fait, une fois qu'on a la hate map qui a tous les détails qui a été généré en Python, eh bien, on fait une passe de AI gen pour faire en sorte d'avoir la map en Python parfaitement. À la limite, sur le prompt précédent, depuis mon image ref en couleur, j'aurais pu tester de faire ça aussi. Donc tu vas déjà tu vas consigner ce prompt qui fonctionne si on le fait en deux étapes, et on va tester de le faire en une seule étape tout à l'heure avec ces nouvelles informations.",
+      "text" : "Du coup, le prompt qui a marché, c'est celui-ci. Mais je pense pas que l'ajouter au prompt précédent, simplement de la hate, ça marche. J'imagine qu'il faut le faire en deux prompts pour que ça fonctionne. Donc, edit le prompt précédent pour dire ça. Donc, sur cette étape, en fait, une fois qu'on a la hate map qui a tous les détails qui a été généré en Python, eh bien, on fait une passe de AI gen pour faire en sorte d'avoir la map en Python parfaitement. À la limite, sur le prompt précédent, depuis mon image ref en couleur, j'aurais pu tester de faire ça aussi. Donc tu vas déjà tu vas consigner ce prompt qui fonctionne si on le fait en deux étapes, et on va tester de le faire en une seule étape tout à l'heure avec ces nouvelles informations."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815431556.148562,
+      "id" : "80F724ED-9E66-47AE-A2CD-A7E4973F9B97",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah du coup, pourquoi tu me redonnes pas l'ancien prompt? Je viens littéralement de te le demander.",
+      "text" : "Bah du coup, pourquoi tu me redonnes pas l'ancien prompt? Je viens littéralement de te le demander."
     }
   ],
   "modes" : [
