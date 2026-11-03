@@ -23849,6 +23849,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Et ensuite, est-ce que un fichier directement hosté sur mon G Drive est accessible depuis l'interface ZenRay Progress en termes de fallback et de streaming? J'imagine que oui, mais je ne sais pas exactement techniquement comment ça marche. Parce que par exemple, pour le fichier streaming, on fait un manifeste qui est directement lu depuis GitHub, je ne sais plus quoi. Mais du coup, comment ça se passe dans ce cas de figure?",
       "text" : "Et ensuite, est-ce que un fichier directement hosté sur mon G Drive est accessible depuis l'interface ZenRay Progress en termes de fallback et de streaming? J'imagine que oui, mais je ne sais pas exactement techniquement comment ça marche. Parce que par exemple, pour le fichier streaming, on fait un manifeste qui est directement lu depuis GitHub, je ne sais plus quoi. Mais du coup, comment ça se passe dans ce cas de figure?"
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815425394.260958,
+      "id" : "66E5DCE6-5EFC-45AC-8366-EEB729515660",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, mais c'est pas ça ma question. C'est par exemple, est-ce que si un jour la copie GitHub disparaissait complètement, bon, imaginons une rupture de réseau Microsoft ou GitHub ferme ses portes, est-ce que le drive G-Drive prendrait le relais immédiatement sur tous les assets et sur tous les fichiers de Create?",
+      "text" : "Non, mais c'est pas ça ma question. C'est par exemple, est-ce que si un jour la copie GitHub disparaissait complètement, bon, imaginons une rupture de réseau Microsoft ou GitHub ferme ses portes, est-ce que le drive G-Drive prendrait le relais immédiatement sur tous les assets et sur tous les fichiers de Create?"
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815425499.787126,
+      "id" : "FC8E1A38-8E5E-4301-A1FB-7058B82CC6DC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "D'accord, mais en termes de bande passante, est-ce que du coup les fichiers... En termes de bande passante, si par exemple je lis directement un fichier qui est hébergé sur Google Drive, je ne sais pas quelle API d'ailleurs tu utilises, puisque sur GitHub, on utilise l'API raw.github, ou alors l'API... Ah, j'ai oublié quelle API on utilisait, mais... Ah oui, si, c'est JS Deliver. Mais du coup, si on utilise Cloudflare et Gdrive uniquement, quelle API, en termes de bande passante, il utilise pour lire les manifestes, notamment dans le cadre du streaming ou dans le cadre d'une collection de photos, etc.",
+      "text" : "D'accord, mais en termes de bande passante, est-ce que du coup les fichiers... En termes de bande passante, si par exemple je lis directement un fichier qui est hébergé sur Google Drive, je ne sais pas quelle API d'ailleurs tu utilises, puisque sur GitHub, on utilise l'API raw.github, ou alors l'API... Ah, j'ai oublié quelle API on utilisait, mais... Ah oui, si, c'est JS Deliver. Mais du coup, si on utilise Cloudflare et Gdrive uniquement, quelle API, en termes de bande passante, il utilise pour lire les manifestes, notamment dans le cadre du streaming ou dans le cadre d'une collection de photos, etc."
     }
   ],
   "modes" : [
