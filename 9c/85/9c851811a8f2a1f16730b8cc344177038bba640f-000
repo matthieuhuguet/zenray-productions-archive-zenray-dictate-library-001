@@ -24329,6 +24329,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Le but, c'est de pouvoir à terme faire des bridges et que l'environnement l'environnement virtuel machine de Claude en Cloud, C-L-A-U-D-E, puisse avoir directement tous les fichiers locaux, les générer dans son propre environnement, et puis ensuite pouvoir faire la passerelle directement et pouvoir les re-télécharger depuis mon Mac. En soi, cette architecture cloud de bridge est quasi déjà toute construite, mais il faut juste la finaliser et rendre l'UI hyper attrayante, notamment directement dans la sidebar de gauche de ZenRay Progress pour qu'ils comprennent tout ce qu'il faut faire. Mais encore une fois, tu délègues tout ce travail d'architecture, etc. à l'agent cloud, c'est pas à toi de le faire. D'ailleurs, utilise plutôt un agent Opus 5.5 Medium plutôt.",
       "text" : "Le but, c'est de pouvoir à terme faire des bridges et que l'environnement l'environnement virtuel machine de Claude en Cloud, C-L-A-U-D-E, puisse avoir directement tous les fichiers locaux, les générer dans son propre environnement, et puis ensuite pouvoir faire la passerelle directement et pouvoir les re-télécharger depuis mon Mac. En soi, cette architecture cloud de bridge est quasi déjà toute construite, mais il faut juste la finaliser et rendre l'UI hyper attrayante, notamment directement dans la sidebar de gauche de ZenRay Progress pour qu'ils comprennent tout ce qu'il faut faire. Mais encore une fois, tu délègues tout ce travail d'architecture, etc. à l'agent cloud, c'est pas à toi de le faire. D'ailleurs, utilise plutôt un agent Opus 5.5 Medium plutôt."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815438543.075985,
+      "id" : "DE732E75-095E-4E53-A439-5C31920595EA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, comment tu as appelé le fichier Je reviens au travail de tout à l'heure, mais comment est-ce que déjà tu as... C'est trop beau. Ah oui,",
+      "text" : "Du coup, comment tu as appelé le fichier Je reviens au travail de tout à l'heure, mais comment est-ce que déjà tu as... C'est trop beau. Ah oui,"
     }
   ],
   "modes" : [
