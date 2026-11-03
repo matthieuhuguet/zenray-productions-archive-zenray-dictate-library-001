@@ -23809,6 +23809,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "En fait, c'est exactement ça. Il faut dire à ChatGPT d'utiliser un script Python et de faire et d'utiliser les deux en même temps, et ça fait une heatmap qui est quasi parfaite. Donc voilà, on a trouvé la solution, consigne là. Et voilà.",
       "text" : "En fait, c'est exactement ça. Il faut dire à ChatGPT d'utiliser un script Python et de faire et d'utiliser les deux en même temps, et ça fait une heatmap qui est quasi parfaite. Donc voilà, on a trouvé la solution, consigne là. Et voilà."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815425142.018906,
+      "id" : "567C760E-58C7-471E-B645-02526C024073",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu peux m'expliquer en un seul paragraphe, tandis que tu continues le monitor, comment est-ce que tu fais actuellement pour mettre tous les fichiers qui sont sur GitHub sur G-Drive? Et fais attention parce que mon disque dur n'a plus que 92 Go. Donc à mesure à ce que tu uploades les choses, il faudra évidemment sans doute faire en sorte de clean up les assets. Mais c'est vraiment cool.",
+      "text" : "Est-ce que tu peux m'expliquer en un seul paragraphe, tandis que tu continues le monitor, comment est-ce que tu fais actuellement pour mettre tous les fichiers qui sont sur GitHub sur G-Drive? Et fais attention parce que mon disque dur n'a plus que 92 Go. Donc à mesure à ce que tu uploades les choses, il faudra évidemment sans doute faire en sorte de clean up les assets. Mais c'est vraiment cool."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815425149.150005,
+      "id" : "774E69FB-0484-44C7-BDC4-6A1E4DDFDD7F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Explique-moi en fait comment tu fais le bridge de GitHub à G-Drive.",
+      "text" : "Explique-moi en fait comment tu fais le bridge de GitHub à G-Drive."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815425182.470725,
+      "id" : "E49D02BF-C6AC-42A6-83AB-342E88067034",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "que j'imagine qu'il y a pas, il y a certains fichiers qui sont pas sur le Mac local et que tu vas les récupérer, notamment tous les fichiers qui étaient dans Create et qui font évidemment plus de 5 terabytes. Mais la question que je me pose, c'est que là, tu vois, tu mets tous les assets du coup dans directement dans G-Drive, mais quid de tous les assets globaux de progress qui font évidemment plus de 5 terabytes? Comment tu vas faire pour tout clouder sur mon 5 TB?",
+      "text" : "que j'imagine qu'il y a pas, il y a certains fichiers qui sont pas sur le Mac local et que tu vas les récupérer, notamment tous les fichiers qui étaient dans Create et qui font évidemment plus de 5 terabytes. Mais la question que je me pose, c'est que là, tu vois, tu mets tous les assets du coup dans directement dans G-Drive, mais quid de tous les assets globaux de progress qui font évidemment plus de 5 terabytes? Comment tu vas faire pour tout clouder sur mon 5 TB?"
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815425215.039976,
+      "id" : "462D9297-4CE1-433E-8337-1F736BDC789A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et ensuite, est-ce que un fichier directement hosté sur mon G Drive est accessible depuis l'interface ZenRay Progress en termes de fallback et de streaming? J'imagine que oui, mais je ne sais pas exactement techniquement comment ça marche. Parce que par exemple, pour le fichier streaming, on fait un manifeste qui est directement lu depuis GitHub, je ne sais plus quoi. Mais du coup, comment ça se passe dans ce cas de figure?",
+      "text" : "Et ensuite, est-ce que un fichier directement hosté sur mon G Drive est accessible depuis l'interface ZenRay Progress en termes de fallback et de streaming? J'imagine que oui, mais je ne sais pas exactement techniquement comment ça marche. Parce que par exemple, pour le fichier streaming, on fait un manifeste qui est directement lu depuis GitHub, je ne sais plus quoi. Mais du coup, comment ça se passe dans ce cas de figure?"
     }
   ],
   "modes" : [
