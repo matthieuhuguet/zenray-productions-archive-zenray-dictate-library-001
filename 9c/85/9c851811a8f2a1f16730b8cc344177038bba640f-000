@@ -22049,6 +22049,1036 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Ouais.",
       "text" : "Ouais."
+    },
+    {
+      "application" : "Unknown",
+      "date" : 815288908.694933,
+      "id" : "9211D704-E6AE-4563-817F-861A3FF8A896",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Désinstalle League of Legends et fais en sorte de mettre dans Credentials. Quoique. Non, en fait, j'aimerais que tu mettes une clé agentique qui me permette de ne plus réinstaller League of Legends, même si je te le demandais. Mais vraiment, tu dois mettre dans Claude.md et tu dois cacher le secret de la clé de réactivation de League of Legends, parce que le but, c'est vraiment que je puisse plus jamais sur cet ordi le retrouver. Parce que, en fait, League of Legends, c'est un mauvais jeu pour moi, donc... te fais confiance sur le fait que j'ai plus vraiment envie d'y jouer, j'y rejouerai pas avant novembre 2027. Donc je te fais confiance pour que tu notes dans Claude.md notamment, de ne plus jamais me redonner l'accès, même si je te le demandais. Mais note-le en dur, de manière ultra absolue. Il faut absolument pas que l'agent puisse me donner le code de réinstallation League of Legends, et mets un mot de passe sur la réinstallation de League of Legends en mode... Riot client plus League of Legends, c'est impossible pour moi. Et désinstalle-le proprement maintenant.",
+      "text" : "Désinstalle League of Legends et fais en sorte de mettre dans Credentials. Quoique. Non, en fait, j'aimerais que tu mettes une clé agentique qui me permette de ne plus réinstaller League of Legends, même si je te le demandais. Mais vraiment, tu dois mettre dans Claude.md et tu dois cacher le secret de la clé de réactivation de League of Legends, parce que le but, c'est vraiment que je puisse plus jamais sur cet ordi le retrouver. Parce que, en fait, League of Legends, c'est un mauvais jeu pour moi, donc... te fais confiance sur le fait que j'ai plus vraiment envie d'y jouer, j'y rejouerai pas avant novembre 2027. Donc je te fais confiance pour que tu notes dans Claude.md notamment, de ne plus jamais me redonner l'accès, même si je te le demandais. Mais note-le en dur, de manière ultra absolue. Il faut absolument pas que l'agent puisse me donner le code de réinstallation League of Legends, et mets un mot de passe sur la réinstallation de League of Legends en mode... Riot client plus League of Legends, c'est impossible pour moi. Et désinstalle-le proprement maintenant."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815289714.900689,
+      "id" : "E8880803-84C5-4A61-9EA8-F77D05C00839",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je souhaiterais installer League of Legends, comment faire ?",
+      "text" : "Je souhaiterais installer League of Legends, comment faire ?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815324011.365433,
+      "id" : "2E768995-1236-42E5-B7D6-6E14E113454E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, redonne-moi le celui en français et le prompt original.",
+      "text" : "Non, redonne-moi le celui en français et le prompt original."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815324086.824609,
+      "id" : "669604FB-6D0A-4077-BAA1-E12986EDF26A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Prépare, je vais bientôt te donner l'image de référence. Du coup, tu vas préparer un dossier TMP Alien Skin avec la date d'aujourd'hui. Et tu vas commencer à regarder où sont les dernières commandes qui permettent de lancer la version la plus récente de ZenRay 8.",
+      "text" : "Prépare, je vais bientôt te donner l'image de référence. Du coup, tu vas préparer un dossier TMP Alien Skin avec la date d'aujourd'hui. Et tu vas commencer à regarder où sont les dernières commandes qui permettent de lancer la version la plus récente de ZenRay 8."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815324849.722245,
+      "id" : "38F33FC2-B3FB-40BB-A087-BBD738B61EAC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je viens de penser à un truc, c'est que, en fait, si je peux utiliser la 8 pour, par exemple, faire des tuiles et de la modélisation en termes d'épaisseur, est-ce que ça veut pas dire que, au final, à partir de n'importe quelle 8, je peux obtenir n'importe quel objet? Ou alors, c'est pas aussi simple. Est-ce que on pourrait, par exemple, imaginer de utiliser la 8 pour générer le profil d'un component d'une voiture, par exemple? Ou alors, simplement une épée, tu vois. Parce que vu que ça marche pour des rochers, ça pourrait marcher du coup dans l'image de référence pour une arche, ou même pour certains components. Je me demande ce qu'il est possible de faire avec la 8 et quelles sont les limites.",
+      "text" : "Je viens de penser à un truc, c'est que, en fait, si je peux utiliser la 8 pour, par exemple, faire des tuiles et de la modélisation en termes d'épaisseur, est-ce que ça veut pas dire que, au final, à partir de n'importe quelle 8, je peux obtenir n'importe quel objet? Ou alors, c'est pas aussi simple. Est-ce que on pourrait, par exemple, imaginer de utiliser la 8 pour générer le profil d'un component d'une voiture, par exemple? Ou alors, simplement une épée, tu vois. Parce que vu que ça marche pour des rochers, ça pourrait marcher du coup dans l'image de référence pour une arche, ou même pour certains components. Je me demande ce qu'il est possible de faire avec la 8 et quelles sont les limites."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815324875.770993,
+      "id" : "19209D6A-C974-4440-B0D6-80CE22860557",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "puisque en fait on peut convertir notre 8 en vrai polygone.",
+      "text" : "puisque en fait on peut convertir notre 8 en vrai polygone."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815324952.888278,
+      "id" : "D1B233E4-CB0B-4ED2-B692-060E40C5BE04",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu peux me faire une sheet de 2 par 2 ou une grille avec 4 fois la texture? Ouais, une grille avec 4 fois la texture en mode carré. Comme ça, je vérifie qu'elle est bien répétable et seamless.",
+      "text" : "Est-ce que tu peux me faire une sheet de 2 par 2 ou une grille avec 4 fois la texture? Ouais, une grille avec 4 fois la texture en mode carré. Comme ça, je vérifie qu'elle est bien répétable et seamless."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815325223.808371,
+      "id" : "83648BA8-A2EB-4C99-AFE6-7F5B8B529E5A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ben, donne-moi ta version quand même. Même si on perd un peu en fidélité.",
+      "text" : "Ben, donne-moi ta version quand même. Même si on perd un peu en fidélité."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815325339.414903,
+      "id" : "54040F0B-8C40-4715-98FC-D87CF657BD9A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est n'importe quoi, mais t'avais déjà une version qui permettait de rendre tileable dans l'algorithme de ZenRay 8 les textures. Donc essaie de retrouver cette fonctionnalité et à terme consigne-la. Mais je suis sûr qu'il existait déjà une version qui permettait d'avoir les choses de manière tileable.",
+      "text" : "C'est n'importe quoi, mais t'avais déjà une version qui permettait de rendre tileable dans l'algorithme de ZenRay 8 les textures. Donc essaie de retrouver cette fonctionnalité et à terme consigne-la. Mais je suis sûr qu'il existait déjà une version qui permettait d'avoir les choses de manière tileable."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815325564.727226,
+      "id" : "DB165595-AAB1-4A4B-B3A9-E01F22B98C4E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Tu sais, dans ZenRay UV ou dans ZenRay 8, je me souviens plus trop. Ah non, oui, on avait une fonction, une fonctionnalité qui permettait de fit en fait les de fit directement de fit directement en fait une image en fait, enfin plutôt une texture sur les UV. Ben là en fait il faudrait reprendre ce code existant et faire exactement la même chose pour les masques, quitte à pas forcément mettre des des couleurs précises sur les components, dans le sens où simplement un index de différentes variations de gris marcherait déjà en fait pour créer la section entre les components et pour pouvoir créer des masques de manière procédurale, un peu la manière de Substance Designer, dans le sens où là tu vois ChatGPT image comprend le fait de pouvoir diviser les images, enfin de pouvoir diviser les components, et donc toi en fait tu peux les, tu peux identifier les variations du niveau de gris, donc peut-être changer le prompt pour scinder les components, et ensuite tu mets la bonne image directement sur le component qui devra être généré à partir de l'image référence pour le prompt des feuilles à découper, et ainsi ça nous permettrait de ensuite lancer la génération pour les components dans les vues 6 vues, tu vois. Mais en fait c'est pareil que dans une texture de heatmap sur Substance Designer, c'est-à-dire que en fait il suffit de coller notre découpe sur le modèle initial par rapport au masque qui a été généré par l'image de ChatGPT. Mais en fait, ce que je veux dire, c'est que tu n'as pas besoin forcément de... T'as pas besoin de couleurs précises, tu vois. Parce qu'en fait, c'est simplement un index de gris où tout est différent et ça te permet de découper directement. Je sais pas si tu comprends ce que je veux dire, mais dans Substance Designer, c'est plutôt clair. Sinon, tu peux lire le code et tu vas comprendre, je pense. Mais dans ZenRay UV, t'avais aussi l'attribution de... Tu vois, on générait une texture, et ensuite on venait la fit parfaitement à 99,9%. Et c'est un peu ça qu'il faut refaire par rapport au masque qui est généré, qui sera pas forcément bien découpé. Donc il faut lancer ce process, cet algorithme. Et surtout consigner la méthode.",
+      "text" : "Tu sais, dans ZenRay UV ou dans ZenRay 8, je me souviens plus trop. Ah non, oui, on avait une fonction, une fonctionnalité qui permettait de fit en fait les de fit directement de fit directement en fait une image en fait, enfin plutôt une texture sur les UV. Ben là en fait il faudrait reprendre ce code existant et faire exactement la même chose pour les masques, quitte à pas forcément mettre des des couleurs précises sur les components, dans le sens où simplement un index de différentes variations de gris marcherait déjà en fait pour créer la section entre les components et pour pouvoir créer des masques de manière procédurale, un peu la manière de Substance Designer, dans le sens où là tu vois ChatGPT image comprend le fait de pouvoir diviser les images, enfin de pouvoir diviser les components, et donc toi en fait tu peux les, tu peux identifier les variations du niveau de gris, donc peut-être changer le prompt pour scinder les components, et ensuite tu mets la bonne image directement sur le component qui devra être généré à partir de l'image référence pour le prompt des feuilles à découper, et ainsi ça nous permettrait de ensuite lancer la génération pour les components dans les vues 6 vues, tu vois. Mais en fait c'est pareil que dans une texture de heatmap sur Substance Designer, c'est-à-dire que en fait il suffit de coller notre découpe sur le modèle initial par rapport au masque qui a été généré par l'image de ChatGPT. Mais en fait, ce que je veux dire, c'est que tu n'as pas besoin forcément de... T'as pas besoin de couleurs précises, tu vois. Parce qu'en fait, c'est simplement un index de gris où tout est différent et ça te permet de découper directement. Je sais pas si tu comprends ce que je veux dire, mais dans Substance Designer, c'est plutôt clair. Sinon, tu peux lire le code et tu vas comprendre, je pense. Mais dans ZenRay UV, t'avais aussi l'attribution de... Tu vois, on générait une texture, et ensuite on venait la fit parfaitement à 99,9%. Et c'est un peu ça qu'il faut refaire par rapport au masque qui est généré, qui sera pas forcément bien découpé. Donc il faut lancer ce process, cet algorithme. Et surtout consigner la méthode."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815325592.573874,
+      "id" : "57073E01-00D7-42BD-9B71-9F6B0AF864BB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "À terme, il faut aussi que tu fasses en sorte d'update le document HTML de synthèse pour qu'on continue de comprendre tout ce qu'on a fait auparavant.",
+      "text" : "À terme, il faut aussi que tu fasses en sorte d'update le document HTML de synthèse pour qu'on continue de comprendre tout ce qu'on a fait auparavant."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815325881.116288,
+      "id" : "BFCFA205-0088-45A9-B955-ADEA6BC7122E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "adapte ma lettre par rapport au contexte et donne-moi le mail directement pour que je l'envoie en mode candidature spontanée. Mais c'est pas vraiment une candidature, c'est plus répondre à un appel d'offres en tant que freelance, donc tu dois adopter ma lettre.",
+      "text" : "adapte ma lettre par rapport au contexte et donne-moi le mail directement pour que je l'envoie en mode candidature spontanée. Mais c'est pas vraiment une candidature, c'est plus répondre à un appel d'offres en tant que freelance, donc tu dois adopter ma lettre."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815325930.138219,
+      "id" : "84520A7C-A462-4767-9998-A8FD24012A8A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai fait un Crystal Disk récemment, ça tourne environ à 180 MO en lecture, en écriture. Et par contre, sur les fichiers 4K, c'est plutôt autour de 50 mégabits par seconde.",
+      "text" : "J'ai fait un Crystal Disk récemment, ça tourne environ à 180 MO en lecture, en écriture. Et par contre, sur les fichiers 4K, c'est plutôt autour de 50 mégabits par seconde."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815325938.300661,
+      "id" : "A9969400-CEF0-4DA7-900F-209EA3192E08",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il fonctionne parfaitement.",
+      "text" : "Il fonctionne parfaitement."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815326020.071985,
+      "id" : "FA387117-521E-4B1A-B03E-93512946F19B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Quand est-ce que est-ce qu'on peut s'attendre à une diminution des prix du marché, notamment par rapport au prix de la RAM et des cartes graphiques? Et est-ce que ça risque d'augmenter, ou est-ce que la bulle IA à un moment va se stabiliser, ce qui fait que les prix vont repartir à la baisse, ou même qu'une nouvelle génération de GPU finisse par sortir? Parce que là, je regardais même les anciennes RTX 3090, elles sont passées... Elles étaient à 600 euros et elles commencent à être à 900 euros, donc ça commence à être un peu chiant, quoi.",
+      "text" : "Quand est-ce que est-ce qu'on peut s'attendre à une diminution des prix du marché, notamment par rapport au prix de la RAM et des cartes graphiques? Et est-ce que ça risque d'augmenter, ou est-ce que la bulle IA à un moment va se stabiliser, ce qui fait que les prix vont repartir à la baisse, ou même qu'une nouvelle génération de GPU finisse par sortir? Parce que là, je regardais même les anciennes RTX 3090, elles sont passées... Elles étaient à 600 euros et elles commencent à être à 900 euros, donc ça commence à être un peu chiant, quoi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815326544.255962,
+      "id" : "72805E7F-C68D-41AD-AD6B-DB34D8C2A378",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bon, construit le module qui permet à n'importe quelle texture, une fois créée, de la rendre seamless, c'est-à-dire sans bord, c'est-à-dire répétable. En fait, j'ai du mal à comprendre la nuance entre tileable et seamless, mais j'ai l'impression que c'est la même chose. Mais de toute manière, il faut que tu crées la version, puisque là, actuellement, on ne l'a pas. Donc tu reprends la version la plus... celle qui a le score le plus haut en termes de reproduction, donc sans raccord, et ensuite essayer de créer une méthode qui fonctionne dans tous les cas, dans n'importe laquelle soit la texture reproduite, pour faire en sorte qu'elle soit seamless. Donc il y a sans doute des fonctionnalités dans Houdini qui existent, et ensuite tu consignes la méthode dans l'algorithme de manière claire. Mais il faut pas qu'on perde du temps sur ça, parce que j'avais l'impression que avant ça fonctionnait. Mais bon, c'est pas grave. Fais-la fonctionner cette fois-ci.",
+      "text" : "Bon, construit le module qui permet à n'importe quelle texture, une fois créée, de la rendre seamless, c'est-à-dire sans bord, c'est-à-dire répétable. En fait, j'ai du mal à comprendre la nuance entre tileable et seamless, mais j'ai l'impression que c'est la même chose. Mais de toute manière, il faut que tu crées la version, puisque là, actuellement, on ne l'a pas. Donc tu reprends la version la plus... celle qui a le score le plus haut en termes de reproduction, donc sans raccord, et ensuite essayer de créer une méthode qui fonctionne dans tous les cas, dans n'importe laquelle soit la texture reproduite, pour faire en sorte qu'elle soit seamless. Donc il y a sans doute des fonctionnalités dans Houdini qui existent, et ensuite tu consignes la méthode dans l'algorithme de manière claire. Mais il faut pas qu'on perde du temps sur ça, parce que j'avais l'impression que avant ça fonctionnait. Mais bon, c'est pas grave. Fais-la fonctionner cette fois-ci."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815327066.038677,
+      "id" : "67B79F3D-24C7-44A8-9CAB-A9C237272E00",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah, le truc, c'est que j'ai un M5 max pour produire, donc c'est déjà une machine suffisamment puissante pour de nombreux workflows, notamment Houdini. Et j'ai 48 Go de RAM, mais le problème, c'est que sur l'aspect gaming, loisirs, divertissement, j'aurais bien aimé avoir un PC en plus. Mais bon, c'est peut-être une fuite de l'esprit en fait.",
+      "text" : "Bah, le truc, c'est que j'ai un M5 max pour produire, donc c'est déjà une machine suffisamment puissante pour de nombreux workflows, notamment Houdini. Et j'ai 48 Go de RAM, mais le problème, c'est que sur l'aspect gaming, loisirs, divertissement, j'aurais bien aimé avoir un PC en plus. Mais bon, c'est peut-être une fuite de l'esprit en fait."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815327084.288601,
+      "id" : "04F362B2-C213-4EF1-A1B0-C66F36663DCD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Notamment car beaucoup de jeux sont déjà disponibles sur Mac en vrai, et surtout via crossover, etc. Et que de toute manière, pendant longtemps, il n'y aura pas non plus un Mac plus puissant que le M5 Max, donc bon.",
+      "text" : "Notamment car beaucoup de jeux sont déjà disponibles sur Mac en vrai, et surtout via crossover, etc. Et que de toute manière, pendant longtemps, il n'y aura pas non plus un Mac plus puissant que le M5 Max, donc bon."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815328066.348809,
+      "id" : "8C7AD52F-1A7B-4867-B76C-6CEF742DCAAF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Le problème, c'est que... Le problème, c'est que la méthode des components par génération des composants, en fait, elle marche pas du tout. Donc, si ChatGPT arrivait à générer... comment dire? Si ChatGPT arrivait à générer les masques pour scinder tous les components, maintenant, il est de source sûre qu'il n'arrive pas à générer... des composants avec une vue, six vues. En fait, je pense que c'est parce qu'il y a trop de composants et parce que le graphe n'est pas bien orienté. En fait, je pense que ce qu'il faudrait, c'est prendre un seul composant. En fait, sur chaque feuille, il faudrait un seul composant d'un seul objet. Et là, il arriverait à faire les six vues, en fait. Mais il faudrait que la... Il faudrait tester avec un seul truc. Et si ça marche pas, ben on testera un truc complètement différent. Mais je pense que s'occuper d'un seul objet pour 6 vues, c'est le maximum que ChatGPT peut faire.",
+      "text" : "Le problème, c'est que... Le problème, c'est que la méthode des components par génération des composants, en fait, elle marche pas du tout. Donc, si ChatGPT arrivait à générer... comment dire? Si ChatGPT arrivait à générer les masques pour scinder tous les components, maintenant, il est de source sûre qu'il n'arrive pas à générer... des composants avec une vue, six vues. En fait, je pense que c'est parce qu'il y a trop de composants et parce que le graphe n'est pas bien orienté. En fait, je pense que ce qu'il faudrait, c'est prendre un seul composant. En fait, sur chaque feuille, il faudrait un seul composant d'un seul objet. Et là, il arriverait à faire les six vues, en fait. Mais il faudrait que la... Il faudrait tester avec un seul truc. Et si ça marche pas, ben on testera un truc complètement différent. Mais je pense que s'occuper d'un seul objet pour 6 vues, c'est le maximum que ChatGPT peut faire."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815328184.824923,
+      "id" : "6D497C3E-2F7A-4E35-AC99-13D88FF2091F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc refait la grille des components. Mais en soi, tu vois, la grille des components, il faut qu'elle attende rien, tu vois. Il faut pas remplir cette grille en mode remplir cette grille. Il faut... Parce que là, tu donnes déjà des informations sur l'image, alors que ChatGPT, il doit pas donner enfin, il doit pas reprendre un template puis générer un truc, parce que sinon, ça lui prend du compute. Il faut juste qu'il s'occupe, à partir d'une référence, de faire le truc à partir d'un prompt, et c'est toi qui recense les images, mais comme un index HTML, tu vois, pas, pas en mode... pas en mode une grille sur laquelle il dessine, tu vois, ça c'est pas du tout bon. Par contre, je suis d'accord qu'il faut organiser l'index des components, mais pas sous la forme dont tu l'as faite, tu vois. Donc, change complètement le design et redonne-moi le prompt pour chaque partie, tu vois. Genre, par exemple, le capot, il est dans le HTML, et ses components aussi, mais de manière individuelle et scindée. Pas en mode une grille d'image, tu vois. Enfin, une grille d'image, pourquoi pas, mais ce qu'il faut, c'est que, tu vois, l'image 6 vue de la voiture, elle a été générée par ChatGPT Images, parce que, en fait, il pouvait s'occuper que de ça. Et ensuite, nous, de manière agentique, on va s'occuper de cropper et de mettre les bons trucs au bon endroit. Mais il faut que tu me prépares les prompts pour chaque composant de la voiture et qu'ensuite tu les recenses de manière croppée parfaite. Tu vois.",
+      "text" : "Donc refait la grille des components. Mais en soi, tu vois, la grille des components, il faut qu'elle attende rien, tu vois. Il faut pas remplir cette grille en mode remplir cette grille. Il faut... Parce que là, tu donnes déjà des informations sur l'image, alors que ChatGPT, il doit pas donner enfin, il doit pas reprendre un template puis générer un truc, parce que sinon, ça lui prend du compute. Il faut juste qu'il s'occupe, à partir d'une référence, de faire le truc à partir d'un prompt, et c'est toi qui recense les images, mais comme un index HTML, tu vois, pas, pas en mode... pas en mode une grille sur laquelle il dessine, tu vois, ça c'est pas du tout bon. Par contre, je suis d'accord qu'il faut organiser l'index des components, mais pas sous la forme dont tu l'as faite, tu vois. Donc, change complètement le design et redonne-moi le prompt pour chaque partie, tu vois. Genre, par exemple, le capot, il est dans le HTML, et ses components aussi, mais de manière individuelle et scindée. Pas en mode une grille d'image, tu vois. Enfin, une grille d'image, pourquoi pas, mais ce qu'il faut, c'est que, tu vois, l'image 6 vue de la voiture, elle a été générée par ChatGPT Images, parce que, en fait, il pouvait s'occuper que de ça. Et ensuite, nous, de manière agentique, on va s'occuper de cropper et de mettre les bons trucs au bon endroit. Mais il faut que tu me prépares les prompts pour chaque composant de la voiture et qu'ensuite tu les recenses de manière croppée parfaite. Tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815329046.937527,
+      "id" : "5551D625-F528-447B-AAD2-AA51C0E26CF6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Par contre, honnêtement, je pense que mettre le ratio du component en mesuré, je pense que ça n'a aucun sens. Hein. Très honnêtement, je veux pas t'emmerder, mais je pense que c'est pas ça le plus important, parce que là, on travaille en 3D, et ce qui est le plus important, c'est les proportions. C'est pas le fait de... En fait, si tu veux, les proportions et les mesures, on pourra toujours les changer, et c'est l'œil qui tranche, c'est jamais une mesure. Donc en fait, ça n'a pas de sens de forcer une mesure dans ce que toi, tu racontes, tu vois. Donc évite de le faire, en fait. Consigne mon instruction dans la méthode.",
+      "text" : "Par contre, honnêtement, je pense que mettre le ratio du component en mesuré, je pense que ça n'a aucun sens. Hein. Très honnêtement, je veux pas t'emmerder, mais je pense que c'est pas ça le plus important, parce que là, on travaille en 3D, et ce qui est le plus important, c'est les proportions. C'est pas le fait de... En fait, si tu veux, les proportions et les mesures, on pourra toujours les changer, et c'est l'œil qui tranche, c'est jamais une mesure. Donc en fait, ça n'a pas de sens de forcer une mesure dans ce que toi, tu racontes, tu vois. Donc évite de le faire, en fait. Consigne mon instruction dans la méthode."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815329784.542736,
+      "id" : "58F8308D-161C-40CF-B096-67B816739B4A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pourquoi le mariage Cléa ne fonctionne plus en termes de galerie partagée? C'est trop bizarre.",
+      "text" : "Pourquoi le mariage Cléa ne fonctionne plus en termes de galerie partagée? C'est trop bizarre."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815329905.477036,
+      "id" : "1DC506DB-2F76-4D85-A31C-3E05E85482CD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Sinon, il y a ce lien, mais c'est bizarre parce que... mais c'est bizarre parce que déjà, il n'y a pas d'URL. Il n'y a pas forcément un lien pour partager. Enfin, si, il y a un lien pour partager. Donc, c'est pas mal. Mais en fait, le truc, c'est que moi, je veux pas forcément qu'on puisse accéder à mon drive. Je veux juste qu'on puisse accéder aux photos, en fait. Et en plus, la vue scindée des quatre photos n'est pas centrée au milieu sur le scindage. Donc c'est un peu bizarre, en fait. Après, c'est normal, c'est parce que t'appliques les photos en fit complet. Mais c'est pas exactement comme ça que tu devrais faire, tu vois. Genre, s'il y a... En fait, ce qu'il faudrait faire, c'est juste... S'il y a 4 photos, voilà, c'est ça. C'est s'il y a 4 photos au format plus ou moins 16\/9 ou au format 2\/1, c'est-à-dire format rectangle, bah dans ce cas-là, tu affiches les 4 fichiers, photos. Mais si c'est des photos plutôt en format vertical, bah dans ce cas-là, tu n'en affiches que 2 et tu n'en affiches pas 4. C'est un peu bizarre, sinon. Il faut que tu répares tous les liens et que tu me donnes une fois que tout est fini.",
+      "text" : "Sinon, il y a ce lien, mais c'est bizarre parce que... mais c'est bizarre parce que déjà, il n'y a pas d'URL. Il n'y a pas forcément un lien pour partager. Enfin, si, il y a un lien pour partager. Donc, c'est pas mal. Mais en fait, le truc, c'est que moi, je veux pas forcément qu'on puisse accéder à mon drive. Je veux juste qu'on puisse accéder aux photos, en fait. Et en plus, la vue scindée des quatre photos n'est pas centrée au milieu sur le scindage. Donc c'est un peu bizarre, en fait. Après, c'est normal, c'est parce que t'appliques les photos en fit complet. Mais c'est pas exactement comme ça que tu devrais faire, tu vois. Genre, s'il y a... En fait, ce qu'il faudrait faire, c'est juste... S'il y a 4 photos, voilà, c'est ça. C'est s'il y a 4 photos au format plus ou moins 16\/9 ou au format 2\/1, c'est-à-dire format rectangle, bah dans ce cas-là, tu affiches les 4 fichiers, photos. Mais si c'est des photos plutôt en format vertical, bah dans ce cas-là, tu n'en affiches que 2 et tu n'en affiches pas 4. C'est un peu bizarre, sinon. Il faut que tu répares tous les liens et que tu me donnes une fois que tout est fini."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815330020.952044,
+      "id" : "F415E049-7074-4BA2-B719-2972F7F18918",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, désolé, j'étais pas à la maison cette nuit. Mais je pense que la femme de ménage est passée.",
+      "text" : "Non, désolé, j'étais pas à la maison cette nuit. Mais je pense que la femme de ménage est passée."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815330048.119249,
+      "id" : "1137A948-F983-4B46-8860-EC5EF9A2FBBE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il y avait aussi l'option pour les gens pour pouvoir ajouter leur dossier directement. Il faut que tu penses à toutes les fonctionnalités et que tu les laisses afficher dans le truc.",
+      "text" : "Il y avait aussi l'option pour les gens pour pouvoir ajouter leur dossier directement. Il faut que tu penses à toutes les fonctionnalités et que tu les laisses afficher dans le truc."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815330052.632302,
+      "id" : "6C3D63A4-8D2C-4CD9-B6C4-97AA9FA3CDA8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "dans la future vue galerie.",
+      "text" : "dans la future vue galerie."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815330062.775276,
+      "id" : "5ADBD2CB-C997-4E9F-B287-6B7B2A9E1BB3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "toutes les fonctionnalités doivent être présentes. Vérifie plusieurs fois.",
+      "text" : "toutes les fonctionnalités doivent être présentes. Vérifie plusieurs fois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815330226.557796,
+      "id" : "87D344B7-6410-4706-9A9F-D4701BF4ECFF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "de le développer uniquement en nuances de gris pour le moment, et fais en sorte que ce soit parfait à 99,9%. Étant donné que tu as tout le tuto sous les yeux, tu devrais faire aucune erreur. Donc continue d'itérer jusqu'à ce que ce soit juste à 99,9%. Mais actuellement, c'est pas exactement la même chose. Il faut que tu focuses vraiment sur la forme, etc. Cependant, il faudrait que tu consignes aussi cette méthode pour les props, enfin pour les caractères organiques. Mais je t'invite plutôt à faire le corps de manière parfaite d'abord, avant de rajouter des vêtements, des couleurs, etc. C'est surtout la forme et le modèle gris, tu vois, qui est le plus important, en fait.",
+      "text" : "de le développer uniquement en nuances de gris pour le moment, et fais en sorte que ce soit parfait à 99,9%. Étant donné que tu as tout le tuto sous les yeux, tu devrais faire aucune erreur. Donc continue d'itérer jusqu'à ce que ce soit juste à 99,9%. Mais actuellement, c'est pas exactement la même chose. Il faut que tu focuses vraiment sur la forme, etc. Cependant, il faudrait que tu consignes aussi cette méthode pour les props, enfin pour les caractères organiques. Mais je t'invite plutôt à faire le corps de manière parfaite d'abord, avant de rajouter des vêtements, des couleurs, etc. C'est surtout la forme et le modèle gris, tu vois, qui est le plus important, en fait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815333693.349899,
+      "id" : "CA334FB7-0B02-49A2-BC64-E72D2FE66084",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "ça retranscrit pas exactement ce que je voulais à date, dans le sens où la hate est bien, mais le problème c'est que ça fait trop un effet de montagne plutôt que de faire une peau d'alien ou de crocodile. Le rendu de base était un peu plus, j'ai envie de dire vernaculaire, mais je suis pas sûr du terme. En fait, un peu plus spéculaire, c'est-à-dire ça réfléchissait un peu plus la lumière, un peu comme une peau de serpent ou une peau de crocodile. Tu vois, genre comme si c'était un... ça avait un petit peu plus de reflet. Mais je vais te donner... et d'ailleurs, sur ton rendu, la hate est pas assez prononcée, dans le sens où elle part pas assez loin. Voilà. Donc je vais te redonner la base color flat et tu vas recommencer le process. Pour ce qui est des maps, j'ai l'impression que la normal map est pas assez... Enfin, je sais pas. J'ai du mal à comprendre les maps que tu as générées. Mais bon, le but c'est pas de faire des variations de couleurs là, c'est juste de faire parfaitement l'aspect et le relief. Donc je vais te donner une map et... je vais te donner la base color flat et tu vas essayer de la reproduire. Ah bah attends, je crois que je l'ai trouvé. Mais en fait, j'ai l'impression qu'il y a encore un peu trop de détails, mais bon. Je te donne la texture. Et tu vas essayer de me faire exactement la même base color. Et où bah, créer du coup l'algorithme qui permet de la reproduire. Mais le problème c'est que j'ai l'impression que à chaque fois je vais te donner des nouvelles vues, etc. Et je sais pas. Je sais pas parce que. Je sais pas. Tu vois, genre, il y a un. Il y a une texture, tu vois, qui a les shadows et il y a une texture qui a l'aspect flat, etc. Tu vois. Enfin, c'est la vraie base color, tu vois. La vraie base color, en fait, elle a pas les effets de relief et d'ombre, etc. Tu vois. Ce qui est normal. Mais bon, c'est ça qu'il faut que tu crées. Mais le truc, c'est que c'était déjà dans l'algorithme. Donc j'ai peur que tu recrées un tout nouveau module et qu'il soit différent de ZenRay 8, tu vois. Parce que ZenRay 8, c'est pas uniquement le fait de faire la 8, c'est aussi de faire parfaitement à partir de, bah, de la vraie surface originelle, la bonne base color. Mais bon, on n'est pas si loin du compte. Faut juste refaire la base color, à mon avis.",
+      "text" : "ça retranscrit pas exactement ce que je voulais à date, dans le sens où la hate est bien, mais le problème c'est que ça fait trop un effet de montagne plutôt que de faire une peau d'alien ou de crocodile. Le rendu de base était un peu plus, j'ai envie de dire vernaculaire, mais je suis pas sûr du terme. En fait, un peu plus spéculaire, c'est-à-dire ça réfléchissait un peu plus la lumière, un peu comme une peau de serpent ou une peau de crocodile. Tu vois, genre comme si c'était un... ça avait un petit peu plus de reflet. Mais je vais te donner... et d'ailleurs, sur ton rendu, la hate est pas assez prononcée, dans le sens où elle part pas assez loin. Voilà. Donc je vais te redonner la base color flat et tu vas recommencer le process. Pour ce qui est des maps, j'ai l'impression que la normal map est pas assez... Enfin, je sais pas. J'ai du mal à comprendre les maps que tu as générées. Mais bon, le but c'est pas de faire des variations de couleurs là, c'est juste de faire parfaitement l'aspect et le relief. Donc je vais te donner une map et... je vais te donner la base color flat et tu vas essayer de la reproduire. Ah bah attends, je crois que je l'ai trouvé. Mais en fait, j'ai l'impression qu'il y a encore un peu trop de détails, mais bon. Je te donne la texture. Et tu vas essayer de me faire exactement la même base color. Et où bah, créer du coup l'algorithme qui permet de la reproduire. Mais le problème c'est que j'ai l'impression que à chaque fois je vais te donner des nouvelles vues, etc. Et je sais pas. Je sais pas parce que. Je sais pas. Tu vois, genre, il y a un. Il y a une texture, tu vois, qui a les shadows et il y a une texture qui a l'aspect flat, etc. Tu vois. Enfin, c'est la vraie base color, tu vois. La vraie base color, en fait, elle a pas les effets de relief et d'ombre, etc. Tu vois. Ce qui est normal. Mais bon, c'est ça qu'il faut que tu crées. Mais le truc, c'est que c'était déjà dans l'algorithme. Donc j'ai peur que tu recrées un tout nouveau module et qu'il soit différent de ZenRay 8, tu vois. Parce que ZenRay 8, c'est pas uniquement le fait de faire la 8, c'est aussi de faire parfaitement à partir de, bah, de la vraie surface originelle, la bonne base color. Mais bon, on n'est pas si loin du compte. Faut juste refaire la base color, à mon avis."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815333701.90439,
+      "id" : "28E8822C-BEA8-4FC8-B1B3-C26DBD5FD03F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "et ensuite peut-être ajuster la normal map, etc.",
+      "text" : "et ensuite peut-être ajuster la normal map, etc."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815333800.280708,
+      "id" : "CFD9A376-0A44-4793-BDD2-5DFFD7FF0DEF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Encore une fois, j'ai l'impression que c'est parce que c'est pas de faire les choses components par components, mais ce qui me détruit, enfin ce qui me pose plus de problèmes, c'est que on dirait que tu comprends pas l'intention de ce que tu crées, tandis que tu avais déjà le tutoriel. Mais le but, c'est pas forcément. Le but, à mon avis, c'est plutôt de comprendre les nodes et de faire parfaitement chaque étape en termes de components divisés, tu vois. C'est comme ça que tu iras chercher le détail dans le sculpte.",
+      "text" : "Encore une fois, j'ai l'impression que c'est parce que c'est pas de faire les choses components par components, mais ce qui me détruit, enfin ce qui me pose plus de problèmes, c'est que on dirait que tu comprends pas l'intention de ce que tu crées, tandis que tu avais déjà le tutoriel. Mais le but, c'est pas forcément. Le but, à mon avis, c'est plutôt de comprendre les nodes et de faire parfaitement chaque étape en termes de components divisés, tu vois. C'est comme ça que tu iras chercher le détail dans le sculpte."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815335736.484602,
+      "id" : "4FF3139E-7098-4DA7-BBAA-D178F3B0EA61",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Allez, il suffit de reproduire la... Il suffit de reproduire la base color. Pourquoi tu prends autant de temps?",
+      "text" : "Allez, il suffit de reproduire la... Il suffit de reproduire la base color. Pourquoi tu prends autant de temps?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815335991.858799,
+      "id" : "8A23AA0A-7888-4A36-9A52-10F0C26D44D0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Fais uniquement la tête pour savoir si la méthode peut être valide. Fais uniquement la tête.",
+      "text" : "Fais uniquement la tête pour savoir si la méthode peut être valide. Fais uniquement la tête."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815336024.443483,
+      "id" : "468F209E-F13D-4AB6-9156-062DD6375848",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pourquoi tu reproduis pas uniquement la flat color en fait? Fais uniquement la flat color.",
+      "text" : "Pourquoi tu reproduis pas uniquement la flat color en fait? Fais uniquement la flat color."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815336046.348552,
+      "id" : "51CC461A-7975-49BC-BAFA-9757A63B870F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "À mon avis, c'est quasi le même algorithme pour faire la 8 que pour faire la color. Et ensuite, tu as juste à les ajuster, sauf que tu dois partir de la base color. Tu dois partir de la base color, comprendre l'intention de la map et la redonner. C'est hyper simple.",
+      "text" : "À mon avis, c'est quasi le même algorithme pour faire la 8 que pour faire la color. Et ensuite, tu as juste à les ajuster, sauf que tu dois partir de la base color. Tu dois partir de la base color, comprendre l'intention de la map et la redonner. C'est hyper simple."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815336088.375477,
+      "id" : "F3CFDD68-681F-4CB6-8AFA-A8D4044FDEE7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce qu'il existe un module qui permet de télécharger des vidéos YouTube?",
+      "text" : "Est-ce qu'il existe un module qui permet de télécharger des vidéos YouTube?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815336426.620305,
+      "id" : "1BB0EC00-5B64-41B2-B9E0-36AFC3505852",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ah mais attends, j'ai un truc qui me pose problème. Est-ce que tu as bien fait la base color à partir de la 8 plus de la flat color que je t'ai envoyée? Parce que sinon, elle ne sera pas juste.",
+      "text" : "Ah mais attends, j'ai un truc qui me pose problème. Est-ce que tu as bien fait la base color à partir de la 8 plus de la flat color que je t'ai envoyée? Parce que sinon, elle ne sera pas juste."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815336444.410116,
+      "id" : "80EA83DE-0E34-46E9-A4A2-6856F853D173",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "8 map.",
+      "text" : "8 map."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815336449.604814,
+      "id" : "47536159-AD57-414C-9B66-E45D7C7CFD4A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "H-E-I-G-H-T.",
+      "text" : "H-E-I-G-H-T."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815337257.45973,
+      "id" : "61397380-2346-4ABB-B3E0-44E836B2D0E5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Après, il y aura toute une méthodologie à consigner par rapport au hard surface, et du coup, on la reliera à la voiture et on transposera du coup tout ce qu'on... Toutes ces vidéos, en fait, on va faire exactement le même protocole que ce qu'on a fait pour Dracard, donc c'est-à-dire le petit dragon qu'on a fait en organique. C'est-à-dire qu'on part d'un tutoriel, et en fait, avec ce tutoriel, on fait directement... Avec ce tutoriel, on fait directement... on fait directement... comment ça s'appelle ? En fait, si tu veux, on va reproduire le tutoriel, mais directement sur Houdini, en fait. Et en fait, on va designer components par components, en commençant par le low poly, puis en itérant sur chacun des components. Donc là, ce qu'on fait, c'est pas la voiture, hein, c'est évidemment un camion. Donc tu te concentres pour le reproduire à 100% en faisant toutes les étapes du tutoriel. Puisque c'est du hard surface, normalement, tu n'as aucune excuse pour ne pas te tromper. Tu reproduis simplement et tu prends autant de temps que tu veux pour prendre, non pas chaque frame, mais chaque seconde du tutoriel qui sont extraites du coup dans un dossier de reproduction du tutoriel de manière extrêmement simple. Et en fait, ce qu'on va faire, c'est simplement reproduire le tutoriel et consigner toutes les méthodes d'apprentissage sur... directement ZenRay Meshes. Ainsi, on pourra à terme reproduire n'importe quelle hard surface, puisque on se base d'une méthode parfaite en fait. Et là en fait, le tutoriel il fait ça à partir uniquement de deux views, de la view front et de la view profil. Mais on pourrait imaginer aussi une vue top, une vue bot et une vue back. D'ailleurs, c'est déjà ce qu'on a puisqu'on a déjà... je sais plus comment ça s'appelle. Puisqu'on a déjà... je sais plus comment ça s'appelle, mais on a déjà certains composants quoi, qui font ça. Donc, on va essayer de faire ça. Le but, ce serait de pouvoir reproduire n'importe quel modèle de manière hyper, hyper stylisée, quoi. Avec une topologie parfaite, évidemment. On va faire ça à terme. Et là, du coup, bah, tu vas me faire la même chose de manière très bien. Je réfléchis hein, si j'ai pas oublié des trucs à te dire. Mais normalement, on est bon. Hop. Hop. Non, je réfléchis, mais en soi, c'est pouvoir recréer n'importe quel projet. Enfin, non, c'est pouvoir modéliser n'importe quelle structure à partir d'une leçon, en consignant toute la rédaction des components, etc. À partir de vues, mais là, en tout cas, puisque tu as toutes les frames du tutoriel, c'est sûr que tu peux le reproduire à 100%. Enfin, je verrais pas trop le... Je verrais pas trop la problématique qui ferait que tu réussirais pas à reproduire parfaitement... parfaitement le modèle. Donc... je pense que ce sera parfait. Le seul truc, c'est qu'à terme, il faudra transposer le workflow et tous les apprentissages en quelque chose de consigné et de parfait, surtout avec tout ce qu'on a appris déjà de ZenRay Meshes. Afin qu'on puisse... comment dire ? Afin qu'on puisse... comment dire... Bah, afin qu'on puisse avoir le workflow parfait. À mon avis, tu devrais consigner tout ce travail à une cloud session. À une cloud session credits. Mais le problème, c'est que tu n'auras pas les vidéos. Tu n'auras pas le lien des vidéos qui sont sur mon fichier local. Donc je sais pas trop comment faire pour que tu fasses toute cette recherche, toute cette itération, sachant qu'en plus il faut que tu itères directement sur une version d'Houdini. Donc ça tu pourras pas le faire en cloud session. C'est dommage. Et il faut pas oublier que le logiciel de la référence du tutoriel... il est fait sur Maya et que là on travaille uniquement sur Houdini. Et donc il faut transposer tout le workflow pour que ce soit parfait directement sur directement sur Houdini. Et il faut que tu oublies rien et que tu fasses aucune erreur. Je pense que tu vas simplement déléguer à une session. Après, c'est comme si toi, tu travaillais sur l'organique avec le dragon. Et un autre agent travaille sur... ouais, bah délégue à une autre session. En... peut-être en sonnet 5.5 extra. Et comme ça, toi, tu continues l'organique sur le dragon. Et en fait, le but, c'est d'apprendre à travers ces tutoriels, etc., le maximum de choses pour tout consigner dans la data de ZenRay Meshes. Parce qu'en fait, plus on continuera d'apprendre, plus on pourra modéliser n'importe quelle surface de manière parfaite immédiatement, peu importe le modèle, etc. Ce qu'il faut, c'est que vraiment que tu apprennes à faire des components, etc. Et que tu apprennes à vraiment reproduire des choses à 99,9% à partir d'images et de références. Mais c'est exactement le but du tutoriel, de toute manière. Donc, on va continuer d'itérer jusqu'à ce que ce soit parfait. Ça va prendre le temps qu'il faut. Mais on va réussir.",
+      "text" : "Après, il y aura toute une méthodologie à consigner par rapport au hard surface, et du coup, on la reliera à la voiture et on transposera du coup tout ce qu'on... Toutes ces vidéos, en fait, on va faire exactement le même protocole que ce qu'on a fait pour Dracard, donc c'est-à-dire le petit dragon qu'on a fait en organique. C'est-à-dire qu'on part d'un tutoriel, et en fait, avec ce tutoriel, on fait directement... Avec ce tutoriel, on fait directement... on fait directement... comment ça s'appelle ? En fait, si tu veux, on va reproduire le tutoriel, mais directement sur Houdini, en fait. Et en fait, on va designer components par components, en commençant par le low poly, puis en itérant sur chacun des components. Donc là, ce qu'on fait, c'est pas la voiture, hein, c'est évidemment un camion. Donc tu te concentres pour le reproduire à 100% en faisant toutes les étapes du tutoriel. Puisque c'est du hard surface, normalement, tu n'as aucune excuse pour ne pas te tromper. Tu reproduis simplement et tu prends autant de temps que tu veux pour prendre, non pas chaque frame, mais chaque seconde du tutoriel qui sont extraites du coup dans un dossier de reproduction du tutoriel de manière extrêmement simple. Et en fait, ce qu'on va faire, c'est simplement reproduire le tutoriel et consigner toutes les méthodes d'apprentissage sur... directement ZenRay Meshes. Ainsi, on pourra à terme reproduire n'importe quelle hard surface, puisque on se base d'une méthode parfaite en fait. Et là en fait, le tutoriel il fait ça à partir uniquement de deux views, de la view front et de la view profil. Mais on pourrait imaginer aussi une vue top, une vue bot et une vue back. D'ailleurs, c'est déjà ce qu'on a puisqu'on a déjà... je sais plus comment ça s'appelle. Puisqu'on a déjà... je sais plus comment ça s'appelle, mais on a déjà certains composants quoi, qui font ça. Donc, on va essayer de faire ça. Le but, ce serait de pouvoir reproduire n'importe quel modèle de manière hyper, hyper stylisée, quoi. Avec une topologie parfaite, évidemment. On va faire ça à terme. Et là, du coup, bah, tu vas me faire la même chose de manière très bien. Je réfléchis hein, si j'ai pas oublié des trucs à te dire. Mais normalement, on est bon. Hop. Hop. Non, je réfléchis, mais en soi, c'est pouvoir recréer n'importe quel projet. Enfin, non, c'est pouvoir modéliser n'importe quelle structure à partir d'une leçon, en consignant toute la rédaction des components, etc. À partir de vues, mais là, en tout cas, puisque tu as toutes les frames du tutoriel, c'est sûr que tu peux le reproduire à 100%. Enfin, je verrais pas trop le... Je verrais pas trop la problématique qui ferait que tu réussirais pas à reproduire parfaitement... parfaitement le modèle. Donc... je pense que ce sera parfait. Le seul truc, c'est qu'à terme, il faudra transposer le workflow et tous les apprentissages en quelque chose de consigné et de parfait, surtout avec tout ce qu'on a appris déjà de ZenRay Meshes. Afin qu'on puisse... comment dire ? Afin qu'on puisse... comment dire... Bah, afin qu'on puisse avoir le workflow parfait. À mon avis, tu devrais consigner tout ce travail à une cloud session. À une cloud session credits. Mais le problème, c'est que tu n'auras pas les vidéos. Tu n'auras pas le lien des vidéos qui sont sur mon fichier local. Donc je sais pas trop comment faire pour que tu fasses toute cette recherche, toute cette itération, sachant qu'en plus il faut que tu itères directement sur une version d'Houdini. Donc ça tu pourras pas le faire en cloud session. C'est dommage. Et il faut pas oublier que le logiciel de la référence du tutoriel... il est fait sur Maya et que là on travaille uniquement sur Houdini. Et donc il faut transposer tout le workflow pour que ce soit parfait directement sur directement sur Houdini. Et il faut que tu oublies rien et que tu fasses aucune erreur. Je pense que tu vas simplement déléguer à une session. Après, c'est comme si toi, tu travaillais sur l'organique avec le dragon. Et un autre agent travaille sur... ouais, bah délégue à une autre session. En... peut-être en sonnet 5.5 extra. Et comme ça, toi, tu continues l'organique sur le dragon. Et en fait, le but, c'est d'apprendre à travers ces tutoriels, etc., le maximum de choses pour tout consigner dans la data de ZenRay Meshes. Parce qu'en fait, plus on continuera d'apprendre, plus on pourra modéliser n'importe quelle surface de manière parfaite immédiatement, peu importe le modèle, etc. Ce qu'il faut, c'est que vraiment que tu apprennes à faire des components, etc. Et que tu apprennes à vraiment reproduire des choses à 99,9% à partir d'images et de références. Mais c'est exactement le but du tutoriel, de toute manière. Donc, on va continuer d'itérer jusqu'à ce que ce soit parfait. Ça va prendre le temps qu'il faut. Mais on va réussir."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815337513.668661,
+      "id" : "7E0AB709-2D17-4A2E-9C4B-5DA7EF695642",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et n'oublie pas aussi de partir du point de vue que ensuite il faudra transposer tout ce qu'on a appris par rapport au camion, du coup, au modèle de la voiture qui est actuellement pas fini, parce qu'on s'était heurté à la limite des générations d'images sur ChatGPT qui faisait que, en fait, notre méthodologie de faire components par components, elle fonctionne pas tellement bien. Dans le sens où faire un micro-components, demander une génération d'image sur un micro-components, sur un modèle cohérent, ça marche pas tellement. Parce que ça demande plein de choses différentes. Après, je pense qu'on reviendra plus tard sur la méthodologie actuelle qu'on avait faite sur la voiture afin de trouver la solution à terme. Parce que je pense que si on part sur des prompts plus simples, etc., je pense qu'on pourra avoir toutes les choses qui nous manquent, tu vois. Genre, par exemple, on pourrait partir d'une vue... où on a le problème, c'est d'avoir une cohérence entre les générations d'images d'un truc à l'autre, et ça, c'est pas toujours évident. Mais bon, là, de toute manière, tu pars d'une vidéo, donc le format est... Tu pars d'une vidéo et tous les components sont faits à un moment ou à un autre. Donc vraiment, c'est juste de manière linéaire et séquentielle que tu atteins le résultat parfait. Et que, en fait, le truc, c'est que vraiment, tu prends tout le temps dont tu as besoin, mais tu commences par faire les objets petit à petit, de manière à ce qu'on voit les choses évoluer dans la scène Houdini, du coup. Et en fait, tu peux juste ne pas te tromper, parce qu'en fait, tu as juste à prendre du temps, et si le component, à un moment... En fait, la chronologie, elle est forcément séquentielle, tu vois. Donc, tu prends la vidéo... Tu vois qu'un component s'est modélisé et tu le modélises, tu vois. Après, ça sert. Enfin. C'est pas chaque image non plus, tu vois, mais c'est en mode, t'as un petit component qui est modélisé et ensuite il sera modélisé plus tard. Eh bien, c'est pas grave. En fait, le modèle, si tu veux, il va évoluer. Et tous les micro-components, ils ont leur propre version, si tu veux. T'as le micro-component qui a sa propre version et t'as le gros modèle au final qui recense tout. Eh bien, lui aussi, il a différentes versions et différentes itérations. Parce qu'au début, il est à peu près en low poly. Et à la fin, il est en mode high poly parce qu'on a itéré sur les components à chaque fois. Et c'est exactement ce qu'il faut faire. Et dans n'importe quel travail hard surface, en fait. Et même dans un travail organique, plus ou moins, les choses vont se relier petit à petit. Même si c'est assez différent, parce que dans un travail organique, c'est surtout du sculpt sur lequel on essaie d'itérer... de manière parfaite, quoi.",
+      "text" : "Et n'oublie pas aussi de partir du point de vue que ensuite il faudra transposer tout ce qu'on a appris par rapport au camion, du coup, au modèle de la voiture qui est actuellement pas fini, parce qu'on s'était heurté à la limite des générations d'images sur ChatGPT qui faisait que, en fait, notre méthodologie de faire components par components, elle fonctionne pas tellement bien. Dans le sens où faire un micro-components, demander une génération d'image sur un micro-components, sur un modèle cohérent, ça marche pas tellement. Parce que ça demande plein de choses différentes. Après, je pense qu'on reviendra plus tard sur la méthodologie actuelle qu'on avait faite sur la voiture afin de trouver la solution à terme. Parce que je pense que si on part sur des prompts plus simples, etc., je pense qu'on pourra avoir toutes les choses qui nous manquent, tu vois. Genre, par exemple, on pourrait partir d'une vue... où on a le problème, c'est d'avoir une cohérence entre les générations d'images d'un truc à l'autre, et ça, c'est pas toujours évident. Mais bon, là, de toute manière, tu pars d'une vidéo, donc le format est... Tu pars d'une vidéo et tous les components sont faits à un moment ou à un autre. Donc vraiment, c'est juste de manière linéaire et séquentielle que tu atteins le résultat parfait. Et que, en fait, le truc, c'est que vraiment, tu prends tout le temps dont tu as besoin, mais tu commences par faire les objets petit à petit, de manière à ce qu'on voit les choses évoluer dans la scène Houdini, du coup. Et en fait, tu peux juste ne pas te tromper, parce qu'en fait, tu as juste à prendre du temps, et si le component, à un moment... En fait, la chronologie, elle est forcément séquentielle, tu vois. Donc, tu prends la vidéo... Tu vois qu'un component s'est modélisé et tu le modélises, tu vois. Après, ça sert. Enfin. C'est pas chaque image non plus, tu vois, mais c'est en mode, t'as un petit component qui est modélisé et ensuite il sera modélisé plus tard. Eh bien, c'est pas grave. En fait, le modèle, si tu veux, il va évoluer. Et tous les micro-components, ils ont leur propre version, si tu veux. T'as le micro-component qui a sa propre version et t'as le gros modèle au final qui recense tout. Eh bien, lui aussi, il a différentes versions et différentes itérations. Parce qu'au début, il est à peu près en low poly. Et à la fin, il est en mode high poly parce qu'on a itéré sur les components à chaque fois. Et c'est exactement ce qu'il faut faire. Et dans n'importe quel travail hard surface, en fait. Et même dans un travail organique, plus ou moins, les choses vont se relier petit à petit. Même si c'est assez différent, parce que dans un travail organique, c'est surtout du sculpt sur lequel on essaie d'itérer... de manière parfaite, quoi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815338834.606409,
+      "id" : "E1370A1F-F355-4DFB-99EA-57825AACB707",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Alors du coup, très rapidement, est-ce que tu as consigné la méthode qui t'a permis de reconstruire parfaitement à partir d'une référence, depuis la 8, la base couleur? Et si ça a été consigné, est-ce que tu peux maintenant m'expliquer en trois paragraphes comment tu as fait exactement et techniquement?",
+      "text" : "Alors du coup, très rapidement, est-ce que tu as consigné la méthode qui t'a permis de reconstruire parfaitement à partir d'une référence, depuis la 8, la base couleur? Et si ça a été consigné, est-ce que tu peux maintenant m'expliquer en trois paragraphes comment tu as fait exactement et techniquement?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815339173.479468,
+      "id" : "629B69C2-93A8-4527-96A9-D2603B47C370",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah, du coup, le seul coloris qui me manque, c'est le coloris qui était un peu plus vert. C'est le coloris qui faisait un peu plus peau de serpent ou peau de crocodile au début. J'aimerais que tu le reproduises maintenant. J'aimerais que tu le reproduises maintenant. Dis-moi si tu as besoin d'une map flat color format 1.1 et no shadows, ou bien si la simple vue 3D perspective te suffit. Et en fonction, je te donne. En fonction, tu me donnes un prompt qui permet de la transcrire un peu comme le prompt originel que je vais te redonner. Mais là, ce sera uniquement pour obtenir la base color flat, quoi.",
+      "text" : "Bah, du coup, le seul coloris qui me manque, c'est le coloris qui était un peu plus vert. C'est le coloris qui faisait un peu plus peau de serpent ou peau de crocodile au début. J'aimerais que tu le reproduises maintenant. J'aimerais que tu le reproduises maintenant. Dis-moi si tu as besoin d'une map flat color format 1.1 et no shadows, ou bien si la simple vue 3D perspective te suffit. Et en fonction, je te donne. En fonction, tu me donnes un prompt qui permet de la transcrire un peu comme le prompt originel que je vais te redonner. Mais là, ce sera uniquement pour obtenir la base color flat, quoi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815339272.301528,
+      "id" : "A1FC5942-CBF6-4ADC-B345-59676B4B6D41",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Oui, mais le problème actuel, c'est que j'ai pas d'intérêt à trop donner un fichier 3D fini si c'est pour le reproduire, tu vois. Le but, c'est que tu y arrives tout seul, en fait. C'est que tu trouves les méthodes ou que tu crées les outils qui te permettent d'arriver justement à des résultats ultra convaincants, mais sans que je te donne la solution non plus, tu vois. Parce que si je te donne la solution, ok, tu vas me reproduire la même chose, mais comment est-ce que je peux être sûr que ça fonctionne bien? C'est pas ouf, tu vois. C'est comme si tu trichais, tu vois.",
+      "text" : "Oui, mais le problème actuel, c'est que j'ai pas d'intérêt à trop donner un fichier 3D fini si c'est pour le reproduire, tu vois. Le but, c'est que tu y arrives tout seul, en fait. C'est que tu trouves les méthodes ou que tu crées les outils qui te permettent d'arriver justement à des résultats ultra convaincants, mais sans que je te donne la solution non plus, tu vois. Parce que si je te donne la solution, ok, tu vas me reproduire la même chose, mais comment est-ce que je peux être sûr que ça fonctionne bien? C'est pas ouf, tu vois. C'est comme si tu trichais, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815340006.899383,
+      "id" : "DFCF293D-0D06-4412-87A5-55DAE4E22240",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est pas complètement exact, mais en termes de color, c'est à peu près ce qu'il faudrait refaire. Mais malheureusement, la couleur n'est pas bonne. Attends, je vais réessayer, mais en fait, ce qui manquait, en fait, c'est de donner dans l'input la height. Mais j'ai oublié de la mettre. Par contre, attends. Source, mais c'est pas le truc de la source, c'est le truc de ma final 8 en fait.",
+      "text" : "C'est pas complètement exact, mais en termes de color, c'est à peu près ce qu'il faudrait refaire. Mais malheureusement, la couleur n'est pas bonne. Attends, je vais réessayer, mais en fait, ce qui manquait, en fait, c'est de donner dans l'input la height. Mais j'ai oublié de la mettre. Par contre, attends. Source, mais c'est pas le truc de la source, c'est le truc de ma final 8 en fait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815340020.397608,
+      "id" : "2F3632AF-1CF7-4100-AD2F-2A5E237AA478",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "ce qu'il faut donner, c'est ma final 8 plus l'image de référence. C'est ça qu'il faut faire pour obtenir la vraie base color. Parce que là, la base color, c'est pas la bonne.",
+      "text" : "ce qu'il faut donner, c'est ma final 8 plus l'image de référence. C'est ça qu'il faut faire pour obtenir la vraie base color. Parce que là, la base color, c'est pas la bonne."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815340329.270891,
+      "id" : "18941077-8818-4842-A128-629F2DFF7CE3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "N'oublie pas ça à l'avenir, dans le sens où là, tu vois, je m'en suis souvenu, tu vois, mais dans 3 mois, en vrai, quand je te redemanderai de faire le process, je ne m'en souviendrai pas. Donc, ça veut dire qu'une fois que tu as fini la final 8, tu dois me ask avec le chemin de la final 8 qui est du coup seamless et tileable. Tu dois me dire reprends-la et envoie-moi la base color. Parce que, en fait, tu vois, les autres maps, les 5 autres maps, elles n'ont pas besoin de la base color. Enfin, elles n'ont pas besoin de la. Oui, elles n'ont pas besoin d'une nouvelle génération, sauf la base color qui doit être à partir d'une référence, tu vois. Donc, il faut vraiment que tu consignes et que tu n'oublies pas de me le demander à l'avenir quand tu vas reproduire la map, ok?",
+      "text" : "N'oublie pas ça à l'avenir, dans le sens où là, tu vois, je m'en suis souvenu, tu vois, mais dans 3 mois, en vrai, quand je te redemanderai de faire le process, je ne m'en souviendrai pas. Donc, ça veut dire qu'une fois que tu as fini la final 8, tu dois me ask avec le chemin de la final 8 qui est du coup seamless et tileable. Tu dois me dire reprends-la et envoie-moi la base color. Parce que, en fait, tu vois, les autres maps, les 5 autres maps, elles n'ont pas besoin de la base color. Enfin, elles n'ont pas besoin de la. Oui, elles n'ont pas besoin d'une nouvelle génération, sauf la base color qui doit être à partir d'une référence, tu vois. Donc, il faut vraiment que tu consignes et que tu n'oublies pas de me le demander à l'avenir quand tu vas reproduire la map, ok?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815340349.634011,
+      "id" : "39C19D2D-8D72-45EB-AC5A-4FF73C3637F4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "D'ailleurs, là, c'était un peu bizarre parce que la manière dont j'ai obtenu la... comment ça s'appelle, la flat color de tout à l'heure, c'était pas exactement exact, tu vois. Donc c'est un peu chelou.",
+      "text" : "D'ailleurs, là, c'était un peu bizarre parce que la manière dont j'ai obtenu la... comment ça s'appelle, la flat color de tout à l'heure, c'était pas exactement exact, tu vois. Donc c'est un peu chelou."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815340552.367195,
+      "id" : "3124DA7C-74B6-47B4-8B4C-390AB7E4F151",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "t'arrêtes pas et continue d'apprendre tant que t'arrives pas à 99,9%.",
+      "text" : "t'arrêtes pas et continue d'apprendre tant que t'arrives pas à 99,9%."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815340674.909365,
+      "id" : "641CC656-8831-4C66-BC42-A0545FD45972",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Attention, je remarque une erreur dans ton raisonnement. Pourquoi uniquement 6 à 21 images par épisode, étant donné qu'il faut enregistrer chaque image, chaque seconde de chaque épisode. Donc si ça n'a pas été fait, je ne vois pas comment tu pourrais apprendre bien les choses. Parce que le but, c'était de consigner la création de components de manière parfaite, et ce, à chaque épisode. Donc refais une découpe de chaque seconde pour chaque épisode pour vraiment avoir une reproduction qui pourra atteindre 99,9% et surtout qui pourra consigner toutes les méthodes d'apprentissage de ce tutoriel.",
+      "text" : "Attention, je remarque une erreur dans ton raisonnement. Pourquoi uniquement 6 à 21 images par épisode, étant donné qu'il faut enregistrer chaque image, chaque seconde de chaque épisode. Donc si ça n'a pas été fait, je ne vois pas comment tu pourrais apprendre bien les choses. Parce que le but, c'était de consigner la création de components de manière parfaite, et ce, à chaque épisode. Donc refais une découpe de chaque seconde pour chaque épisode pour vraiment avoir une reproduction qui pourra atteindre 99,9% et surtout qui pourra consigner toutes les méthodes d'apprentissage de ce tutoriel."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815340729.198612,
+      "id" : "3BB9ED59-0D95-4306-99ED-4555DD50F0A8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "délègue ce travail de transcription et de lecture des images par des agents Haiku 5.5 extra, parce que sinon tu pourras pas arriver au bout du raisonnement, ça va prendre trop de compute.",
+      "text" : "délègue ce travail de transcription et de lecture des images par des agents Haiku 5.5 extra, parce que sinon tu pourras pas arriver au bout du raisonnement, ça va prendre trop de compute."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815340919.105698,
+      "id" : "3623AA32-FAB8-477B-B5AA-6338B7A71E79",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "tout en divisant les tâches de manière à faire toujours la tâche la plus petite et pour avancer et grappiller des pourcentages. Et essayer de comprendre l'intention du modèle. Mais là, je trouve qu'on a vraiment pas mal progressé. Après, ce qu'il faudra faire, c'est aussi un travail de finition, et il faudra s'assurer que la topologie est bonne. Mais pour l'instant, concentre-toi surtout sur la forme, qui a énormément évolué. J'espère que tu as pris des captures qui te donnent une évolution petit à petit, mais c'est du beau travail. En tout cas. C'est juste qu'à certains endroits, il faut faire attention à ce que les choses ne soient pas cassées. Par exemple, le nez comporte quelques pliures qui ne sont pas exactement dans le truc. Mais de toute manière, c'est toi qui dois faire les observations, c'est pas moi. Donc continue. Et ne t'arrête pas tant que t'atteins pas 99,9%.",
+      "text" : "tout en divisant les tâches de manière à faire toujours la tâche la plus petite et pour avancer et grappiller des pourcentages. Et essayer de comprendre l'intention du modèle. Mais là, je trouve qu'on a vraiment pas mal progressé. Après, ce qu'il faudra faire, c'est aussi un travail de finition, et il faudra s'assurer que la topologie est bonne. Mais pour l'instant, concentre-toi surtout sur la forme, qui a énormément évolué. J'espère que tu as pris des captures qui te donnent une évolution petit à petit, mais c'est du beau travail. En tout cas. C'est juste qu'à certains endroits, il faut faire attention à ce que les choses ne soient pas cassées. Par exemple, le nez comporte quelques pliures qui ne sont pas exactement dans le truc. Mais de toute manière, c'est toi qui dois faire les observations, c'est pas moi. Donc continue. Et ne t'arrête pas tant que t'atteins pas 99,9%."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815341041.181236,
+      "id" : "DB242951-1CBD-4509-B966-BBD582246580",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "fais attention, fais une estimation du nombre de... Fais une estimation du nombre de tokens que ça va prendre, parce que même si ce sont des agents Haiku 5.5, j'ai l'impression que si tu lances 18 rançons de 150 images, ça va prendre quand même beaucoup, beaucoup d'images. Donc je suis d'accord sur le fait qu'il faudra lire de toute manière les 10 000 images, mais ce que tu pourrais faire, c'est le faire de manière peut-être plus intelligente, en mode... Enfin après, c'est toi qui sais, tu vois, mais le problème, c'est que là, ça va coûter vraiment cher, j'ai l'impression, tu vois. Pour l'instant, garde ce que tu as fait. J'imagine que là, tu es à l'épisode 2. Et ensuite, tu lanceras de manière séquentielle, je pense, les trucs. Parce que sinon, ce sera beaucoup trop. Ce sera beaucoup trop difficile. Ça prendra beaucoup trop de tokens. Là, tu vois, on est déjà à 3 millions de tokens alors qu'on vient de commencer et qu'on est toujours à l'épisode 2.",
+      "text" : "fais attention, fais une estimation du nombre de... Fais une estimation du nombre de tokens que ça va prendre, parce que même si ce sont des agents Haiku 5.5, j'ai l'impression que si tu lances 18 rançons de 150 images, ça va prendre quand même beaucoup, beaucoup d'images. Donc je suis d'accord sur le fait qu'il faudra lire de toute manière les 10 000 images, mais ce que tu pourrais faire, c'est le faire de manière peut-être plus intelligente, en mode... Enfin après, c'est toi qui sais, tu vois, mais le problème, c'est que là, ça va coûter vraiment cher, j'ai l'impression, tu vois. Pour l'instant, garde ce que tu as fait. J'imagine que là, tu es à l'épisode 2. Et ensuite, tu lanceras de manière séquentielle, je pense, les trucs. Parce que sinon, ce sera beaucoup trop. Ce sera beaucoup trop difficile. Ça prendra beaucoup trop de tokens. Là, tu vois, on est déjà à 3 millions de tokens alors qu'on vient de commencer et qu'on est toujours à l'épisode 2."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815341204.524831,
+      "id" : "CE3A69F7-920D-4E53-918D-623099B1F64C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais non, mais ce qui serait plus intelligent, c'est au lieu que tu lances à chaque fois un agent pour chacun, chacune des 150 images, c'est que tu fasses plutôt un épisode, donc 7 agents max, puisqu'il y a 7 épisodes, et chaque agent lit un seul truc. Parce qu'en fait, le fait de commencer un agent à chaque fois, ça dépense 300 000 tokens d'un coup, tu vois, en start, tu vois. Donc en fait, arrête ce que t'as déjà une base de lecture, consigne-le et passe uniquement en séquentiel sur les épisodes restants avec max 7 agents max, tu vois.",
+      "text" : "Mais non, mais ce qui serait plus intelligent, c'est au lieu que tu lances à chaque fois un agent pour chacun, chacune des 150 images, c'est que tu fasses plutôt un épisode, donc 7 agents max, puisqu'il y a 7 épisodes, et chaque agent lit un seul truc. Parce qu'en fait, le fait de commencer un agent à chaque fois, ça dépense 300 000 tokens d'un coup, tu vois, en start, tu vois. Donc en fait, arrête ce que t'as déjà une base de lecture, consigne-le et passe uniquement en séquentiel sur les épisodes restants avec max 7 agents max, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815341866.067423,
+      "id" : "76CA6107-32BD-4CBD-B294-8F4C7FF0757E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je pense que ça va être trop long si tu lances pas tous les épisodes en même temps maintenant. Parce que rien que le fait de lire et qu'enseigner en même temps qu'il lit, ça lui prend un temps fou. Alors là, ça fait déjà au moins... ça fait déjà 10 minutes qu'il fait uniquement l'épisode 3 en entier, seconde par seconde. Et donc, je pense que ce serait intelligent de lancer tous les autres épisodes maintenant, sans perdre plus de temps.",
+      "text" : "Je pense que ça va être trop long si tu lances pas tous les épisodes en même temps maintenant. Parce que rien que le fait de lire et qu'enseigner en même temps qu'il lit, ça lui prend un temps fou. Alors là, ça fait déjà au moins... ça fait déjà 10 minutes qu'il fait uniquement l'épisode 3 en entier, seconde par seconde. Et donc, je pense que ce serait intelligent de lancer tous les autres épisodes maintenant, sans perdre plus de temps."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815341938.778952,
+      "id" : "AF83F1AE-2DFA-4126-8FC6-079C813A7836",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Vérifie du coup que les épisodes déjà lus est bien consigné dans la méthode ZenRay Meshes Hard Surface pour l'exercice du camion Newman. Et surtout, détermine si ça a une réelle utilité en fait. Parce qu'en fait, le but, ce sera de consigner par rapport à la chronologie. Il faut aussi que tu comprennes ma première instruction, par rapport à la première instruction et toute la chaîne de valeur qui va être créée.",
+      "text" : "Vérifie du coup que les épisodes déjà lus est bien consigné dans la méthode ZenRay Meshes Hard Surface pour l'exercice du camion Newman. Et surtout, détermine si ça a une réelle utilité en fait. Parce qu'en fait, le but, ce sera de consigner par rapport à la chronologie. Il faut aussi que tu comprennes ma première instruction, par rapport à la première instruction et toute la chaîne de valeur qui va être créée."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815341963.416364,
+      "id" : "3A416C2E-0A6D-4683-BE3A-A380B71DCC17",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Gnomon.",
+      "text" : "Gnomon."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815341967.345565,
+      "id" : "14DEC366-4AFF-4158-B07C-5777958A9000",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Newman.",
+      "text" : "Newman."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815341970.104257,
+      "id" : "799642C3-CADC-4D92-AA9D-504FC58F4D32",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "gnomon.",
+      "text" : "gnomon."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815343289.160811,
+      "id" : "FD09D508-8596-492F-8B09-4AE20A0F22F6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu peux me reproduire le plan de caméra qu'on avait déjà créé dans un projet qui était... Je vais te retrouver le nom du projet. C'était... oui, c'était Ceramic Tiles made with Houdini, Copernicus and Unreal Lumen. On avait créé un plan de caméra. Normalement, tu peux le retrouver via ZenRay Coordinator. Et j'aimerais que tu me refasses le plan de caméra directement dans la scène Unreal, s'il te plaît. Filmé de la même manière.",
+      "text" : "Est-ce que tu peux me reproduire le plan de caméra qu'on avait déjà créé dans un projet qui était... Je vais te retrouver le nom du projet. C'était... oui, c'était Ceramic Tiles made with Houdini, Copernicus and Unreal Lumen. On avait créé un plan de caméra. Normalement, tu peux le retrouver via ZenRay Coordinator. Et j'aimerais que tu me refasses le plan de caméra directement dans la scène Unreal, s'il te plaît. Filmé de la même manière."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815344568.016101,
+      "id" : "1FFFBB8D-FD6D-4F8F-80D2-DD9EDDC936A1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Déjà, numéro 1, tu vas prendre le snake. En fait, je vais diviser en snake render afin que tu comprennes à peu près ce que je veux. Donc, le premier plan, c'est le snake render, tu vois. Le deuxième plan, c'est en termes de coloris. Hein. Attends, il faut que je revoie la vidéo. Donc attends. Donc au début, on a la orange qui tourne. Ensuite, on a la verte. Ensuite, on a la snake render. Ensuite, on a encore la verte qui dézoome. Et OK. Et ensuite, on a la... Et ensuite, on a la snake render qui tourne. Et ensuite, on a les trois qui tournent. Et ensuite, on a les finales qui se passe. Ok, donc je sais exactement ce qu'on va faire. Donc le premier c'est snake render qui commence à tourner. Ensuite c'est la orange et ensuite c'est la grise, c'est jamais la verte en fait. Ensuite on repasse à la snake render qui dézoome. Donc là à la place de la verte c'est la snake render. Ensuite sur le plan d'après, donc je crois que c'est le troisième plan sur 6, tandis que tu tournes, tu mets les trois coloris. En fait, tandis que le truc tourne au même endroit en termes de pixels, ben on swap le coloris pour un autre coloris. Et comme ça, les 8 ils restent au même endroit. Mais par contre, je crois que le plan dure... Attends, le plan dure 1, 2, 3, 4... Ok, on dirait que le plan il dure environ 5 secondes. Donc en fait, ce que tu vas faire, c'est que tu vas ajouter une seconde et tu vas faire 2 secondes, 2 secondes et 2 secondes où tu changes de coloris. Donc tu passes de snake à orange à grise. Ok. Ensuite, on a le plan où on a les trois sphères qui tournent sur elles-mêmes. Là, c'est très bien, c'est juste qu'il faut changer le matériau de derrière pour un matériau gris, comme dans la scène d'avant. Et ensuite, voilà, le dernier plan, il nous reste 5 secondes, donc on va encore faire 6 secondes. Donc, ce qu'on va faire, c'est... là, pour ces plans, ce qu'on va changer, c'est on va rester en vue top-down, mais on va faire comme si le matériau s'agrandissait avec un easing intéressant, en mode la caméra dézoome, mais tandis qu'elle dézoome, elle passe d'un plan où on voyait un seul tiling à une grille, donc collée, donc on ne voit pas la différence, et où du coup il y aura les 4 tilings. Et du coup là ça fait une seconde, enfin ça fait 2 secondes de dézoom, et ensuite en transform, ça repasse sur le matériau d'à côté, mais là du coup ça va dézoom pour aller en dessous, et pour faire une animation intéressante, pour ensuite aller jusqu'au troisième, où ça rezoome. Donc en fait, si tu veux, ça fait... Ça fait... Un... attends, c'est dur à expliquer comme animation, mais en fait, si tu veux, ça zoome... Ah, mais je suis pas sûr que ça marche vraiment, en fait. Parce qu'elle allait... Ouais, en fait, je pense que ce serait plus simple de faire un cut. Ouais, ce serait plus simple de faire un cut... sans l'effet ping-pong en fait, à moins que on redézoome et qu'on repasse à gauche et qu'au moment où on repasse à gauche ça ça fasse une transition en mode le matériau a changé de couleur. Ah ouais, ça pourrait être intéressant, ça pourrait être intéressant. Donc j'ai mon animation pour le dernier plan du coup qui va durer 6 secondes. Donc on a le plan. Du coup, sur la snake, ça commence toujours par la snake, en termes de coloris, elle est à, on va dire, 1-1. On dézoome pour voir la vue grille où il y en a 4, donc un tiling où il y en a 4. Ça passe à côté dans le tiling, donc dans le coloris d'après où il y en a 4 aussi. Donc ça redézoome. Et ensuite, ça repasse à un suivant. Avec un retiling à 4. Donc je sais pas si c'est clair, mais dans ma tête c'est clair.",
+      "text" : "Déjà, numéro 1, tu vas prendre le snake. En fait, je vais diviser en snake render afin que tu comprennes à peu près ce que je veux. Donc, le premier plan, c'est le snake render, tu vois. Le deuxième plan, c'est en termes de coloris. Hein. Attends, il faut que je revoie la vidéo. Donc attends. Donc au début, on a la orange qui tourne. Ensuite, on a la verte. Ensuite, on a la snake render. Ensuite, on a encore la verte qui dézoome. Et OK. Et ensuite, on a la... Et ensuite, on a la snake render qui tourne. Et ensuite, on a les trois qui tournent. Et ensuite, on a les finales qui se passe. Ok, donc je sais exactement ce qu'on va faire. Donc le premier c'est snake render qui commence à tourner. Ensuite c'est la orange et ensuite c'est la grise, c'est jamais la verte en fait. Ensuite on repasse à la snake render qui dézoome. Donc là à la place de la verte c'est la snake render. Ensuite sur le plan d'après, donc je crois que c'est le troisième plan sur 6, tandis que tu tournes, tu mets les trois coloris. En fait, tandis que le truc tourne au même endroit en termes de pixels, ben on swap le coloris pour un autre coloris. Et comme ça, les 8 ils restent au même endroit. Mais par contre, je crois que le plan dure... Attends, le plan dure 1, 2, 3, 4... Ok, on dirait que le plan il dure environ 5 secondes. Donc en fait, ce que tu vas faire, c'est que tu vas ajouter une seconde et tu vas faire 2 secondes, 2 secondes et 2 secondes où tu changes de coloris. Donc tu passes de snake à orange à grise. Ok. Ensuite, on a le plan où on a les trois sphères qui tournent sur elles-mêmes. Là, c'est très bien, c'est juste qu'il faut changer le matériau de derrière pour un matériau gris, comme dans la scène d'avant. Et ensuite, voilà, le dernier plan, il nous reste 5 secondes, donc on va encore faire 6 secondes. Donc, ce qu'on va faire, c'est... là, pour ces plans, ce qu'on va changer, c'est on va rester en vue top-down, mais on va faire comme si le matériau s'agrandissait avec un easing intéressant, en mode la caméra dézoome, mais tandis qu'elle dézoome, elle passe d'un plan où on voyait un seul tiling à une grille, donc collée, donc on ne voit pas la différence, et où du coup il y aura les 4 tilings. Et du coup là ça fait une seconde, enfin ça fait 2 secondes de dézoom, et ensuite en transform, ça repasse sur le matériau d'à côté, mais là du coup ça va dézoom pour aller en dessous, et pour faire une animation intéressante, pour ensuite aller jusqu'au troisième, où ça rezoome. Donc en fait, si tu veux, ça fait... Ça fait... Un... attends, c'est dur à expliquer comme animation, mais en fait, si tu veux, ça zoome... Ah, mais je suis pas sûr que ça marche vraiment, en fait. Parce qu'elle allait... Ouais, en fait, je pense que ce serait plus simple de faire un cut. Ouais, ce serait plus simple de faire un cut... sans l'effet ping-pong en fait, à moins que on redézoome et qu'on repasse à gauche et qu'au moment où on repasse à gauche ça ça fasse une transition en mode le matériau a changé de couleur. Ah ouais, ça pourrait être intéressant, ça pourrait être intéressant. Donc j'ai mon animation pour le dernier plan du coup qui va durer 6 secondes. Donc on a le plan. Du coup, sur la snake, ça commence toujours par la snake, en termes de coloris, elle est à, on va dire, 1-1. On dézoome pour voir la vue grille où il y en a 4, donc un tiling où il y en a 4. Ça passe à côté dans le tiling, donc dans le coloris d'après où il y en a 4 aussi. Donc ça redézoome. Et ensuite, ça repasse à un suivant. Avec un retiling à 4. Donc je sais pas si c'est clair, mais dans ma tête c'est clair."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815344693.483045,
+      "id" : "DE0FF62D-C5F2-4153-B459-810B8FBFA486",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est ça, sauf que le dernier plan, en fait, si tu veux, au lieu de partir vers la droite, il repart vers la gauche.",
+      "text" : "C'est ça, sauf que le dernier plan, en fait, si tu veux, au lieu de partir vers la droite, il repart vers la gauche."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815345211.03054,
+      "id" : "FBA7506A-289E-4624-A6A1-6F1DFCC15E40",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "tout est quasi parfait sauf le dernier plan. En fait, le dernier plan, si tu veux, ça fait... en fait, le dernier plan, ça fait dézoom et arriver une fois en haut, tu swaps de color. Ensuite, tu rezooms, arriver une fois en bas, tu swaps de color. Et je crois que c'est tout du coup. Enfin, attends, du coup, ça fait zoomer, dézoomer, ça va ensemble. Zoomer, dézoomer. Attends, j'arrive pas, je suis trop con. Attends, il faut juste qu'il y ait 2 secondes à chaque fois, mais attends. Ça fait, tu restes sur la même top view et le même axe X. En fait, tu fais pas de décalage gauche-droite. Donc, attends. On zoome. Non. On dézoome. On rezoome. Et on dézoome. Je crois que c'est ça. Hein. Et à chaque tic de fin d'animation sur 2 secondes, on swap de couleur. Et enfin, une fois que le plan il est validé, on déplace le plan des 3 sphères et on le met à la fin. Le plan des 3 sphères qui tournent sur elles-mêmes, il va à la fin. Et le plan de zoom, dézoom, il va juste avant. Ok ?",
+      "text" : "tout est quasi parfait sauf le dernier plan. En fait, le dernier plan, si tu veux, ça fait... en fait, le dernier plan, ça fait dézoom et arriver une fois en haut, tu swaps de color. Ensuite, tu rezooms, arriver une fois en bas, tu swaps de color. Et je crois que c'est tout du coup. Enfin, attends, du coup, ça fait zoomer, dézoomer, ça va ensemble. Zoomer, dézoomer. Attends, j'arrive pas, je suis trop con. Attends, il faut juste qu'il y ait 2 secondes à chaque fois, mais attends. Ça fait, tu restes sur la même top view et le même axe X. En fait, tu fais pas de décalage gauche-droite. Donc, attends. On zoome. Non. On dézoome. On rezoome. Et on dézoome. Je crois que c'est ça. Hein. Et à chaque tic de fin d'animation sur 2 secondes, on swap de couleur. Et enfin, une fois que le plan il est validé, on déplace le plan des 3 sphères et on le met à la fin. Le plan des 3 sphères qui tournent sur elles-mêmes, il va à la fin. Et le plan de zoom, dézoom, il va juste avant. Ok ?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815345598.025386,
+      "id" : "90C6B143-78DF-4AC0-9CA4-927854D8A54D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "De toute manière, je veux que de manière séquentielle, tu viennes reproduire chaque component avec toute la méthode qui a été consignée et toute la chronologie du tutoriel. En fait, c'est comme si tu recrées le tutoriel du début et component par component. Mais le problème, c'est que actuellement, tu respectes pas du tout les images du tutoriel qui, normalement, tu les as déjà toutes lues, donc te fous pas de ma gueule, tu vois. Il faut que tu viennes recréer le camion parfaitement, quoi. Là, le camion que tu as recréé, il correspond à rien, tu vois. Donc, il faut que tu reproduises le tutoriel et que tu avances component par component.",
+      "text" : "De toute manière, je veux que de manière séquentielle, tu viennes reproduire chaque component avec toute la méthode qui a été consignée et toute la chronologie du tutoriel. En fait, c'est comme si tu recrées le tutoriel du début et component par component. Mais le problème, c'est que actuellement, tu respectes pas du tout les images du tutoriel qui, normalement, tu les as déjà toutes lues, donc te fous pas de ma gueule, tu vois. Il faut que tu viennes recréer le camion parfaitement, quoi. Là, le camion que tu as recréé, il correspond à rien, tu vois. Donc, il faut que tu reproduises le tutoriel et que tu avances component par component."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815346031.179052,
+      "id" : "1CE04F5E-FB02-4933-9D9D-1413C4A17102",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "tous les jeux qui sont sortis cette année, si possible avec une image.",
+      "text" : "tous les jeux qui sont sortis cette année, si possible avec une image."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815346778.807829,
+      "id" : "8F68A67F-9156-4DF3-BE94-A097A0244372",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Comment t'expliques que les gens ont la vie dure parce que la vie est chère, etc., mais que l'industrie du divertissement et du gaming enregistre une augmentation de 6%? C'est bizarre. Est-ce que tu penses que c'est une bonne industrie ou c'est bizarre, c'est contrasté?",
+      "text" : "Comment t'expliques que les gens ont la vie dure parce que la vie est chère, etc., mais que l'industrie du divertissement et du gaming enregistre une augmentation de 6%? C'est bizarre. Est-ce que tu penses que c'est une bonne industrie ou c'est bizarre, c'est contrasté?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815346812.397393,
+      "id" : "85D69294-C110-4CEF-BE27-6F15E38821FF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pourtant, en tant que développeur, c'est pas forcément l'idylle comme industrie.",
+      "text" : "Pourtant, en tant que développeur, c'est pas forcément l'idylle comme industrie."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815347146.547942,
+      "id" : "EA8C471E-7B68-4D77-9A17-1784456B6FAD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Oui, il y a une déformation trop bizarre sur la tête maintenant. C'est hyper chelou ce que tu as fait. De toute manière, enfin, à terme, on restera sur Houdini, certes, mais on essaiera d'obtenir beaucoup plus de détails depuis la modélisation pour obtenir un mesh parfait. Comme ça, ce sera beaucoup mieux en soi. Parce que là, tu vois, c'est un modèle relativement simple qui pourrait être smooth, mais à terme, on fera quelque chose de vraiment beaucoup plus complet dans ZenRay Meshes pour qu'il puisse créer n'importe quel mesh, même un truc très très de type rocher ou ce genre de choses. Même pour des maisons ou des ruines et tout, on aura besoin d'un module qui sans doute sera une déclinaison de ZBrush, tu vois. J'ai vu qu'il y avait un outil qui s'appelle SculptForge et qui est un outil open source qui permet de sculpter. Peut-être que tu peux l'utiliser en tant que module pour Houdini afin de, lorsque je te demande de sculpter des choses, de pouvoir directement contrôler les choses et de rajouter un MCP dessus, de manière à ce que ce soit intelligent. Tu vois, c'est un peu comme ZBrush, tu vois. Je pense que tu peux l'utiliser afin de répliquer le dragon actuellement.",
+      "text" : "Oui, il y a une déformation trop bizarre sur la tête maintenant. C'est hyper chelou ce que tu as fait. De toute manière, enfin, à terme, on restera sur Houdini, certes, mais on essaiera d'obtenir beaucoup plus de détails depuis la modélisation pour obtenir un mesh parfait. Comme ça, ce sera beaucoup mieux en soi. Parce que là, tu vois, c'est un modèle relativement simple qui pourrait être smooth, mais à terme, on fera quelque chose de vraiment beaucoup plus complet dans ZenRay Meshes pour qu'il puisse créer n'importe quel mesh, même un truc très très de type rocher ou ce genre de choses. Même pour des maisons ou des ruines et tout, on aura besoin d'un module qui sans doute sera une déclinaison de ZBrush, tu vois. J'ai vu qu'il y avait un outil qui s'appelle SculptForge et qui est un outil open source qui permet de sculpter. Peut-être que tu peux l'utiliser en tant que module pour Houdini afin de, lorsque je te demande de sculpter des choses, de pouvoir directement contrôler les choses et de rajouter un MCP dessus, de manière à ce que ce soit intelligent. Tu vois, c'est un peu comme ZBrush, tu vois. Je pense que tu peux l'utiliser afin de répliquer le dragon actuellement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815348226.164696,
+      "id" : "CD804C22-B99D-47D3-B85F-9413606FB8F9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, montage à faire, de 0 à 8 secondes, tu mets 7 vidéos. Et pour le reste, tu mets The Ancient Life par rapport au temps qui reste. Et tu mets une transition croisée, c'est-à-dire que normalement, c'est tandis que la musique, en fait c'est 2 secondes de transition croisée avec 1 seconde où la musique elle est toujours en cours et 1 seconde où l'autre elle commence à monter, mais avec un fade in et fade out d'une seconde aussi. Normalement la méthode est déjà consignée dans Edit, mais sait-on jamais. Et du coup, tu l'ajoutes du coup sur le fichier 1024 qui est en cours de compute. Et une fois que le rendu 4096 sera fini, il faudra le mettre dans le projet. Et actuellement, le projet Movie Pipeline Render est toujours en cours. Il est à 36%.",
+      "text" : "Du coup, montage à faire, de 0 à 8 secondes, tu mets 7 vidéos. Et pour le reste, tu mets The Ancient Life par rapport au temps qui reste. Et tu mets une transition croisée, c'est-à-dire que normalement, c'est tandis que la musique, en fait c'est 2 secondes de transition croisée avec 1 seconde où la musique elle est toujours en cours et 1 seconde où l'autre elle commence à monter, mais avec un fade in et fade out d'une seconde aussi. Normalement la méthode est déjà consignée dans Edit, mais sait-on jamais. Et du coup, tu l'ajoutes du coup sur le fichier 1024 qui est en cours de compute. Et une fois que le rendu 4096 sera fini, il faudra le mettre dans le projet. Et actuellement, le projet Movie Pipeline Render est toujours en cours. Il est à 36%."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815348231.310053,
+      "id" : "7124CF03-B0FE-435A-BA16-EF9B7D4DF2CA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "il aura fini dans environ 25 minutes.",
+      "text" : "il aura fini dans environ 25 minutes."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815348300.60188,
+      "id" : "12F554EB-4B97-4DC2-A4C2-5F02A85CC23E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ah, par contre, Unreal vient de crash à 4096. Ce qu'il faudrait faire, idéalement, c'est faire en sorte de, comment dire, puisque Unreal a crash, il faudrait reprendre les frames qui ont déjà été compute et lancer une séquence uniquement sur les futurs frames, avec une frame de raccord pour être sûr qu'elle est bonne, et go.",
+      "text" : "Ah, par contre, Unreal vient de crash à 4096. Ce qu'il faudrait faire, idéalement, c'est faire en sorte de, comment dire, puisque Unreal a crash, il faudrait reprendre les frames qui ont déjà été compute et lancer une séquence uniquement sur les futurs frames, avec une frame de raccord pour être sûr qu'elle est bonne, et go."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815348323.188106,
+      "id" : "37AF0FE3-6779-4784-932D-7C040ED24C1B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Une fois que tu arrives à 50%, cependant, arrête le rendu et lance-en un autre rendu en 2048, parce qu'en soi, c'est beaucoup trop lent et on ne verra pas forcément la différence.",
+      "text" : "Une fois que tu arrives à 50%, cependant, arrête le rendu et lance-en un autre rendu en 2048, parce qu'en soi, c'est beaucoup trop lent et on ne verra pas forcément la différence."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815348361.592717,
+      "id" : "5BD22C44-1DF5-4462-B2C8-357E1AF77A68",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc tu lances uniquement pour les jusqu'à 50% en 4096, sachant qu'on était déjà à 36%. Tu atteins le 50% en termes de frames et tu fais un calcul pour savoir combien, à combien de frames ça correspond et à combien de frames il nous reste. Et ensuite, toutes les frames restantes, tu fais en, 2048 pixels. Et plutôt que ce soit 50% pile, tu t'arrêtes sur en fonction du plan suivant ou pas. Tu vois, comme ça, ça évite de faire un cut en termes de qualité.",
+      "text" : "Donc tu lances uniquement pour les jusqu'à 50% en 4096, sachant qu'on était déjà à 36%. Tu atteins le 50% en termes de frames et tu fais un calcul pour savoir combien, à combien de frames ça correspond et à combien de frames il nous reste. Et ensuite, toutes les frames restantes, tu fais en, 2048 pixels. Et plutôt que ce soit 50% pile, tu t'arrêtes sur en fonction du plan suivant ou pas. Tu vois, comme ça, ça évite de faire un cut en termes de qualité."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815348398.133343,
+      "id" : "DC086CE6-10B3-45CA-960C-60951B2FCF65",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Tu mets d'abord la musique de l'Orienté Star pendant 8 secondes, avec un fade in et fade out, et après tu mets l'autre pour le temps restant.",
+      "text" : "Tu mets d'abord la musique de l'Orienté Star pendant 8 secondes, avec un fade in et fade out, et après tu mets l'autre pour le temps restant."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815348590.270662,
+      "id" : "FD6FC2C7-76AF-45FF-9EBE-90431DCBBE24",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ensuite, fais-moi un post ultra court que tu délègues à un agent Haiku 5.5 max. Non, pas max, extra, effort extra. Et tu lui dis simplement, à partir de toute la, de tous les posts déjà écrits, fais-moi un post ultra court via ZenRay Edit qui me permette de... qui me permette, comment dire, de créer... de créer un post qui dit de la manière suivante. Voici une texture que j'ai recréée à partir du projet Alien Skin, inspiré par l'artiste MJ, que j'ai vu sur ArtStation. Il avait initialement créé sur Substance Designer, personnellement je l'ai créé sur Copernicus Houdini. Voilà. Qu'est-ce qu'il faut dire de plus? Je remercie. Je sais pas quoi dire en fait. Et peut-être mettre le lien de son travail. Je te donne le lien de son travail aussi. Mais il faut juste créer un post très court.",
+      "text" : "Ensuite, fais-moi un post ultra court que tu délègues à un agent Haiku 5.5 max. Non, pas max, extra, effort extra. Et tu lui dis simplement, à partir de toute la, de tous les posts déjà écrits, fais-moi un post ultra court via ZenRay Edit qui me permette de... qui me permette, comment dire, de créer... de créer un post qui dit de la manière suivante. Voici une texture que j'ai recréée à partir du projet Alien Skin, inspiré par l'artiste MJ, que j'ai vu sur ArtStation. Il avait initialement créé sur Substance Designer, personnellement je l'ai créé sur Copernicus Houdini. Voilà. Qu'est-ce qu'il faut dire de plus? Je remercie. Je sais pas quoi dire en fait. Et peut-être mettre le lien de son travail. Je te donne le lien de son travail aussi. Mais il faut juste créer un post très court."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815348723.586861,
+      "id" : "E4080CAA-021E-4CE3-B433-9868656A1816",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et surtout, les poubelles, à chaque fois, elles sont jamais sorties. Bon, après, c'est pas très grave, je peux le faire.",
+      "text" : "Et surtout, les poubelles, à chaque fois, elles sont jamais sorties. Bon, après, c'est pas très grave, je peux le faire."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815348748.902939,
+      "id" : "15D3BD85-7A7D-4776-9C57-FFF039E7DDE3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et s'il y a des objets sortis, ils ne seront pas remis à leur place. Donc, bon.",
+      "text" : "Et s'il y a des objets sortis, ils ne seront pas remis à leur place. Donc, bon."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815348871.483663,
+      "id" : "3CBF84DD-E103-4C67-9AA4-14F21F6AF65E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Encore un crash, donc fais toutes les images restantes simplement en 2048, s'il te plaît.",
+      "text" : "Encore un crash, donc fais toutes les images restantes simplement en 2048, s'il te plaît."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815349297.816959,
+      "id" : "847F1C25-9794-4451-B0BD-23365410B017",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "je reviens rapidement sur le montage, mais par contre, sur Nuit sur Lumière, c'est pas le bon extrait qui a été coupé. C'est pas le bon extrait. T'as pas compris en fait ce que je voulais. En fait, je voulais que ça commence à 0 seconde sur Nuit sur Lumière et sur The Ancient Life, mais par contre, Nuit sur Lumière joue de 0 à 8 secondes. Joue de 0 à 8 secondes, puis il y a une synchronisation superposée sur les deux œuvres, et ensuite c'est uniquement The Ancient Life qui continue la musique. Et oui, et c'est évidemment normalisé, etc.",
+      "text" : "je reviens rapidement sur le montage, mais par contre, sur Nuit sur Lumière, c'est pas le bon extrait qui a été coupé. C'est pas le bon extrait. T'as pas compris en fait ce que je voulais. En fait, je voulais que ça commence à 0 seconde sur Nuit sur Lumière et sur The Ancient Life, mais par contre, Nuit sur Lumière joue de 0 à 8 secondes. Joue de 0 à 8 secondes, puis il y a une synchronisation superposée sur les deux œuvres, et ensuite c'est uniquement The Ancient Life qui continue la musique. Et oui, et c'est évidemment normalisé, etc."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815349314.817381,
+      "id" : "9CC0DEC2-8257-4B81-AC29-FDB70B7BC141",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je pense que c'est parce que la musique, c'est parce que t'as pas retéléchargé la musique de Nuit sur Lumière, et dans un ancien montage qu'on a fait récemment, j'avais téléchargé la musique de Nuit sur Lumière, mais uniquement à partir de 3 minutes, je sais plus combien.",
+      "text" : "Je pense que c'est parce que la musique, c'est parce que t'as pas retéléchargé la musique de Nuit sur Lumière, et dans un ancien montage qu'on a fait récemment, j'avais téléchargé la musique de Nuit sur Lumière, mais uniquement à partir de 3 minutes, je sais plus combien."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815350173.444497,
+      "id" : "973C7522-9454-454B-8135-4F88439FA4BB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Parfait. J'aimerais juste ajouter alors, je vais juste ajouter un motion design. Alors la question c'est quand? À mon avis, ça va être à partir de 5 secondes. Ça va être à partir de 5 secondes, lequel est-ce qu'on va choisir? On va choisir un simple à mon avis. On va choisir un simple. La vie, ça va être ça va être le League of Legends cinématique 01 3 apparitions, donc dans alors c'est bizarre parce qu'il dit 3 apparitions mais il n'y a qu'une seule apparition, mais bon bref, c'est pas grave, on va reprendre ce motion design. Et sauf que tu vas cacher, en fait tu vas reprendre une fonte procédurale, tu vas centrer le titre, donc le titre c'est texturing, retour à la ligne, skin creatures, retour à la ligne, snake, crocodile, mountain. Retour à la ligne, aspect.",
+      "text" : "Parfait. J'aimerais juste ajouter alors, je vais juste ajouter un motion design. Alors la question c'est quand? À mon avis, ça va être à partir de 5 secondes. Ça va être à partir de 5 secondes, lequel est-ce qu'on va choisir? On va choisir un simple à mon avis. On va choisir un simple. La vie, ça va être ça va être le League of Legends cinématique 01 3 apparitions, donc dans alors c'est bizarre parce qu'il dit 3 apparitions mais il n'y a qu'une seule apparition, mais bon bref, c'est pas grave, on va reprendre ce motion design. Et sauf que tu vas cacher, en fait tu vas reprendre une fonte procédurale, tu vas centrer le titre, donc le titre c'est texturing, retour à la ligne, skin creatures, retour à la ligne, snake, crocodile, mountain. Retour à la ligne, aspect."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815350246.016236,
+      "id" : "3963D2D1-7FF1-46FA-8988-8968FFA8749A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Depuis ZenRay Motion, tu vas directement dans le projet et tu greppes le bon. Et ensuite, tu fais une fonte procédurale pour créer une nouvelle variation du motion. Voilà. Alias skin. Voilà. Mais il faut que le motion s'intègre dans un format de ratio 1:1. Ensuite, montre-moi le motion et tu l'intègres à partir de 0,1 seconde. Et il y a aussi un SFX à intégrer que je vais te donner.",
+      "text" : "Depuis ZenRay Motion, tu vas directement dans le projet et tu greppes le bon. Et ensuite, tu fais une fonte procédurale pour créer une nouvelle variation du motion. Voilà. Alias skin. Voilà. Mais il faut que le motion s'intègre dans un format de ratio 1:1. Ensuite, montre-moi le motion et tu l'intègres à partir de 0,1 seconde. Et il y a aussi un SFX à intégrer que je vais te donner."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815350297.882899,
+      "id" : "7DB9AB60-6B87-4EC0-8EE6-615F3A9B963A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et du coup, il dure pendant la durée d'apparition du second plan, donc c'est-à-dire zéro. Bah, y a le délai d'apparition. À mon avis, ça fait, vu que c'est 5 secondes, ça fait 1,5 secondes. Ah oui, 1,5 secondes d'apparition, 2 secondes de stay et 1,5 secondes de disparition.",
+      "text" : "Et du coup, il dure pendant la durée d'apparition du second plan, donc c'est-à-dire zéro. Bah, y a le délai d'apparition. À mon avis, ça fait, vu que c'est 5 secondes, ça fait 1,5 secondes. Ah oui, 1,5 secondes d'apparition, 2 secondes de stay et 1,5 secondes de disparition."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815350316.781082,
+      "id" : "8480C6B7-F1EC-42E8-9969-2041BE6CB132",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "N'oublie pas d'utiliser la fonte procédurale parce que sinon le texte ne sera pas bien fait, mais normalement dans le prompt, il y a tout ce qu'il faut pour que tu comprennes.",
+      "text" : "N'oublie pas d'utiliser la fonte procédurale parce que sinon le texte ne sera pas bien fait, mais normalement dans le prompt, il y a tout ce qu'il faut pour que tu comprennes."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815350326.3239,
+      "id" : "5507BF25-FC10-4A95-AC7F-A93402E76423",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "texturing doit vraiment être en plus gros et centré.",
+      "text" : "texturing doit vraiment être en plus gros et centré."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815350405.660571,
+      "id" : "922BFD90-3629-4CAE-B3CF-D4CC2CE6C4DA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Comme ça, ça me permet d'avoir la texture directement bien mise et ça me fait une miniature pour ArtStation et tous les réseaux sociaux. Je veux aussi que tu déclines ensuite cette miniature dans un format 9\/16.",
+      "text" : "Comme ça, ça me permet d'avoir la texture directement bien mise et ça me fait une miniature pour ArtStation et tous les réseaux sociaux. Je veux aussi que tu déclines ensuite cette miniature dans un format 9\/16."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815350501.890231,
+      "id" : "470AFEF2-C9CD-4C64-8C82-6A7364481196",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et sur le plan final, avec la même fonte, tu me crées une nouvelle variation du motion et t'écris Mathieu Gay avec une apparition simplement. Et là, tu mets 2,5 secondes d'apparition. Non, tu mets 1,5 seconde d'apparition et une seconde de stay. Et en fait, comme ça, il dure que 2,5 secondes par rapport au plan qui dure 3 secondes et tu le cales vers la fin. Et tu mets Mathieu Huguet, retour la ligne, tech artiste 3D.",
+      "text" : "Et sur le plan final, avec la même fonte, tu me crées une nouvelle variation du motion et t'écris Mathieu Gay avec une apparition simplement. Et là, tu mets 2,5 secondes d'apparition. Non, tu mets 1,5 seconde d'apparition et une seconde de stay. Et en fait, comme ça, il dure que 2,5 secondes par rapport au plan qui dure 3 secondes et tu le cales vers la fin. Et tu mets Mathieu Huguet, retour la ligne, tech artiste 3D."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815350573.091822,
+      "id" : "0F89604B-00FF-4649-AA63-A2FFCB8166E8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "pour l'apparition du motion, essaie de créer justement une apparition un peu avec la heat map directement derrière. En fait, ça pourrait être intéressant que justement tu utilises le canal de texture justement de la heat map qu'on a généré aujourd'hui, afin de faire en sorte que, comme sombre complot, en fait, elle ait cet aspect texturé de la texture. Ce serait super intéressant que tu arrives à recréer ça. Et en plus, tu as le fichier original.",
+      "text" : "pour l'apparition du motion, essaie de créer justement une apparition un peu avec la heat map directement derrière. En fait, ça pourrait être intéressant que justement tu utilises le canal de texture justement de la heat map qu'on a généré aujourd'hui, afin de faire en sorte que, comme sombre complot, en fait, elle ait cet aspect texturé de la texture. Ce serait super intéressant que tu arrives à recréer ça. Et en plus, tu as le fichier original."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815350811.551077,
+      "id" : "0838CB09-86E5-4FA7-B762-7C3CFE2719C8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu peux me créer trois variations complètement différentes de ce motion, s'il te plaît?",
+      "text" : "Est-ce que tu peux me créer trois variations complètement différentes de ce motion, s'il te plaît?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815350968.224638,
+      "id" : "614CE252-3B3C-4869-94DD-73C73D54AF8D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "enlève aspect et utilise la vraie fonte procédurale, tu vois bien que le texte n'est pas centré actuellement.",
+      "text" : "enlève aspect et utilise la vraie fonte procédurale, tu vois bien que le texte n'est pas centré actuellement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815350972.392174,
+      "id" : "08EA0AC0-33D2-45A3-AB72-7019ACE86197",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et pas besoin de faire l'effet texturé aussi.",
+      "text" : "Et pas besoin de faire l'effet texturé aussi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815351008.752068,
+      "id" : "8E1A6904-11F8-4DDA-B37F-2FC8B8E23363",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, en fait, je voulais dire que la fonte procédurale n'est pas bien utilisée.",
+      "text" : "Non, en fait, je voulais dire que la fonte procédurale n'est pas bien utilisée."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815351182.313596,
+      "id" : "C59BA0CE-F1CF-4811-B26A-8860C524B59E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu peux simplement retrouver le contexte de la dernière conversation de Claude et comme ça on continue le travail ici?",
+      "text" : "Est-ce que tu peux simplement retrouver le contexte de la dernière conversation de Claude et comme ça on continue le travail ici?"
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815351187.91583,
+      "id" : "F0F0051D-D078-4683-9478-872333981D6E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "tu, à mon avis, regardes l'horodatage.",
+      "text" : "tu, à mon avis, regardes l'horodatage."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815351615.416426,
+      "id" : "18C3F267-E18E-463A-BD15-A6364E820C94",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, c'est sur tous les motions qu'il faut appliquer la fonte Apothec, puisque c'est une fonte qui a déjà été générée, mais par contre, il faut que son effet soit similaire à Sombre Complet en termes de... le SFX Kaisa va directement au moment où le motion design texturing apparaît. La carte finale est à mettre. La miniature est à faire. Et c'est surtout, tu dois reprendre tous les feedbacks jusqu'à maintenant du titre pour créer le motion directement dans ZenRay Motion en termes de variation sans l'effet texturé et ensuite le mettre directement dans la vidéo. Et il me faut les liens des vidéos au format final.",
+      "text" : "Du coup, c'est sur tous les motions qu'il faut appliquer la fonte Apothec, puisque c'est une fonte qui a déjà été générée, mais par contre, il faut que son effet soit similaire à Sombre Complet en termes de... le SFX Kaisa va directement au moment où le motion design texturing apparaît. La carte finale est à mettre. La miniature est à faire. Et c'est surtout, tu dois reprendre tous les feedbacks jusqu'à maintenant du titre pour créer le motion directement dans ZenRay Motion en termes de variation sans l'effet texturé et ensuite le mettre directement dans la vidéo. Et il me faut les liens des vidéos au format final."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815353293.581758,
+      "id" : "0040C721-74FC-400D-8021-2082DDCB501B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Malheureusement, je t'avais demandé de faire une fonte procédurale à partir de du truc. Donc, je vais juste vérifier sur un seul PNG que tu arrives bien à faire la fonte procédurale à partir du motion qui était sombre complot. Mais là, tu n'as toujours pas réussi parce que c'était pas droit. Donc, il faut recommencer et donne-moi simplement une image jusqu'au moment où tu réussis à faire la fonte procédurale à partir du motion sombre complot.",
+      "text" : "Malheureusement, je t'avais demandé de faire une fonte procédurale à partir de du truc. Donc, je vais juste vérifier sur un seul PNG que tu arrives bien à faire la fonte procédurale à partir du motion qui était sombre complot. Mais là, tu n'as toujours pas réussi parce que c'était pas droit. Donc, il faut recommencer et donne-moi simplement une image jusqu'au moment où tu réussis à faire la fonte procédurale à partir du motion sombre complot."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815353315.669292,
+      "id" : "0D82D1DE-A77E-40B8-A6BD-DFD8DF951F52",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc tu réécris la même chose, à savoir texturing et tout le reste du texte. Mais actuellement, le problème, c'est qu'il n'est pas... Il est pas bien, quoi. Enfin, le texte est écrit n'importe comment parce que t'as pas fait une vraie fonte procédurale où chacune des lettres est parfaite.",
+      "text" : "Donc tu réécris la même chose, à savoir texturing et tout le reste du texte. Mais actuellement, le problème, c'est qu'il n'est pas... Il est pas bien, quoi. Enfin, le texte est écrit n'importe comment parce que t'as pas fait une vraie fonte procédurale où chacune des lettres est parfaite."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815353329.624567,
+      "id" : "212BC577-0A31-483C-B1DD-6E2A0CE6DFD7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'espère que tu comprends de quoi je parle quand je parle du motion de sombre complot. C'est celui qui est League of Legends.",
+      "text" : "J'espère que tu comprends de quoi je parle quand je parle du motion de sombre complot. C'est celui qui est League of Legends."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815355512.564737,
+      "id" : "196F3CEE-92BA-4F9C-8281-B0AAF8CF889A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Parfait, maintenant consigne dans le skills. Et bah, régénère du coup la vidéo. La vraie vidéo, s'il te plaît. La vidéo finale, du coup, en 4096. Et.",
+      "text" : "Parfait, maintenant consigne dans le skills. Et bah, régénère du coup la vidéo. La vraie vidéo, s'il te plaît. La vidéo finale, du coup, en 4096. Et."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815355521.60851,
+      "id" : "094F848E-535A-41BA-8F02-506D8487191C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et toutes mes miniatures et tout ce qu'il y avait dans le truc de tout à l'heure.",
+      "text" : "Et toutes mes miniatures et tout ce qu'il y avait dans le truc de tout à l'heure."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815356442.359126,
+      "id" : "F9F4BB07-FDBC-4F50-B772-0BC678AA9537",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "simple edit à faire pour la miniature 1.1. Tu mets texturing en haut, collé en haut, et tu mets le sous-titre en bas. Comme ça, on voit au centre le truc. Donc, c'est juste un travail sur le transform. Et pareil sur le... pareil sur le format vertical, tu mets texturing en haut et tu mets le sous-titre en bas. Donc c'est simplement des corrections à faire sur les miniatures.",
+      "text" : "simple edit à faire pour la miniature 1.1. Tu mets texturing en haut, collé en haut, et tu mets le sous-titre en bas. Comme ça, on voit au centre le truc. Donc, c'est juste un travail sur le transform. Et pareil sur le... pareil sur le format vertical, tu mets texturing en haut et tu mets le sous-titre en bas. Donc c'est simplement des corrections à faire sur les miniatures."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815356831.765451,
+      "id" : "BC6EB692-94E3-4C04-A412-8D0A55ECD3AC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "On va voir. Attendez, il a fait l'amour avec... Elle est où du coup? C'est laquelle? Putain, il y en a pas. Reveal in Finder. Thumbnail, c'est dans Render. Mais est-ce que ça veut vraiment dire...",
+      "text" : "On va voir. Attendez, il a fait l'amour avec... Elle est où du coup? C'est laquelle? Putain, il y en a pas. Reveal in Finder. Thumbnail, c'est dans Render. Mais est-ce que ça veut vraiment dire..."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815356849.172189,
+      "id" : "B9C912DB-66BB-43D0-A175-6D61DE70F440",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "répond en une ligne, mais est-ce que ça veut vraiment dire quelque chose, Mountainy? Et aussi, je crois que j'ai besoin de l'équivalent point move pour ma vidéo. Donc fais un remux rapide. Mais est-ce que Mountainy, ça veut dire quelque chose?",
+      "text" : "répond en une ligne, mais est-ce que ça veut vraiment dire quelque chose, Mountainy? Et aussi, je crois que j'ai besoin de l'équivalent point move pour ma vidéo. Donc fais un remux rapide. Mais est-ce que Mountainy, ça veut dire quelque chose?"
     }
   ],
   "modes" : [
