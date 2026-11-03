@@ -24169,6 +24169,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Mais est-ce qu'on est sûr que c'est vraiment le mot-clé sigma qui va faire en sorte que, peu importe le prompt que je lance, ça fasse la même 8 à chaque fois? Parce qu'en fait, le problème actuel, c'est qu'à chaque fois que je relance une nouvelle génération, ça fait une 8 map différente actuellement, puisque ça utilise l'AI gen, tu vois. En fait, le but du Python en étape finale, c'est que toutes les 8 au final se ressemblent puisqu'elles réutilisent l'étape 1, tu vois. Mais le but de l'AI gen, c'est de gommer le gommage, tu vois. Ce que l'AI gen réussit à faire, tu vois.",
       "text" : "Mais est-ce qu'on est sûr que c'est vraiment le mot-clé sigma qui va faire en sorte que, peu importe le prompt que je lance, ça fasse la même 8 à chaque fois? Parce qu'en fait, le problème actuel, c'est qu'à chaque fois que je relance une nouvelle génération, ça fait une 8 map différente actuellement, puisque ça utilise l'AI gen, tu vois. En fait, le but du Python en étape finale, c'est que toutes les 8 au final se ressemblent puisqu'elles réutilisent l'étape 1, tu vois. Mais le but de l'AI gen, c'est de gommer le gommage, tu vois. Ce que l'AI gen réussit à faire, tu vois."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815436442.483381,
+      "id" : "B9DAD94D-CC53-44C4-AC75-77B6E91F8099",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ouais, mais le problème, c'est que quand j'appuie sur CTRL B, en fait, ok, ça me le met dans le clipboard, mais ce que j'aurais voulu, c'est que ça fasse aussi le comportement de CTRL V en même temps que ça intervertit, tu vois. Comme ça, en fait, CTRL B, ça copie directement. Ça m'évite de faire un clic, tu vois, de plus.",
+      "text" : "Ouais, mais le problème, c'est que quand j'appuie sur CTRL B, en fait, ok, ça me le met dans le clipboard, mais ce que j'aurais voulu, c'est que ça fasse aussi le comportement de CTRL V en même temps que ça intervertit, tu vois. Comme ça, en fait, CTRL B, ça copie directement. Ça m'évite de faire un clic, tu vois, de plus."
     }
   ],
   "modes" : [
