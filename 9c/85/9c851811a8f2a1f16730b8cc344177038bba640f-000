@@ -24179,6 +24179,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Ouais, mais le problème, c'est que quand j'appuie sur CTRL B, en fait, ok, ça me le met dans le clipboard, mais ce que j'aurais voulu, c'est que ça fasse aussi le comportement de CTRL V en même temps que ça intervertit, tu vois. Comme ça, en fait, CTRL B, ça copie directement. Ça m'évite de faire un clic, tu vois, de plus.",
       "text" : "Ouais, mais le problème, c'est que quand j'appuie sur CTRL B, en fait, ok, ça me le met dans le clipboard, mais ce que j'aurais voulu, c'est que ça fasse aussi le comportement de CTRL V en même temps que ça intervertit, tu vois. Comme ça, en fait, CTRL B, ça copie directement. Ça m'évite de faire un clic, tu vois, de plus."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815436871.92286,
+      "id" : "E58CDEAE-8785-416B-A5DE-5FE0A56982A1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, tu as fait le document de synthèse et tu l'as push sur Assets?",
+      "text" : "Du coup, tu as fait le document de synthèse et tu l'as push sur Assets?"
     }
   ],
   "modes" : [
