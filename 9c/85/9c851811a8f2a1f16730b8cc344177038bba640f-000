@@ -23969,6 +23969,56 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Maintenant, explique-moi pourquoi la Final 8 n'a pas atteint 99,9% de reproduction.",
       "text" : "Maintenant, explique-moi pourquoi la Final 8 n'a pas atteint 99,9% de reproduction."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815428577.522596,
+      "id" : "B9AD2CB9-4B86-426B-A31D-BD2F4D71BB6D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donne-moi le pass. J'ai pas eu le pass et j'ai pas eu la référence. Tu me l'as pas envoyé.",
+      "text" : "Donne-moi le pass. J'ai pas eu le pass et j'ai pas eu la référence. Tu me l'as pas envoyé."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815428645.323555,
+      "id" : "91C8299C-97EA-41E8-B560-1735F5AD496D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais pourquoi t'as pas fait le tiling 2x2? Comment tu veux que je vérifie du coup?",
+      "text" : "Mais pourquoi t'as pas fait le tiling 2x2? Comment tu veux que je vérifie du coup?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815428653.185022,
+      "id" : "D29393E1-7413-447E-B3E7-A01D64F14593",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "normalement c'était déjà consigné dans la méthode ZenRay 8 à chaque fin de cycle.",
+      "text" : "normalement c'était déjà consigné dans la méthode ZenRay 8 à chaque fin de cycle."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815428750.429747,
+      "id" : "64B265C2-C0B5-4C04-986D-0FFEE4492F43",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok. Maintenant, le problème, c'est qu'il faut créer une toute nouvelle méthodologie et méthode pour faire en sorte de gommer directement via ZenRay 8 et créer un module dédié, gommer le problème de l'éclairage. Normalement, ça peut, c'est un problème qui peut être résolu par un filtre passe-eau, mais essayer de coder directement ça dans ZenRay 8 afin que, certes, la référence ne soit plus totalement... similaire à 99,9%, mais qu'on puisse corriger le problème d'ombrage. Là, le problème d'ombrage, tu peux le voir parce que ça fait des espèces de cercles sur l'image, notamment sur le tiling. Donc tu peux le voir directement. J'aimerais que tu le fixes, s'il te plaît.",
+      "text" : "Ok. Maintenant, le problème, c'est qu'il faut créer une toute nouvelle méthodologie et méthode pour faire en sorte de gommer directement via ZenRay 8 et créer un module dédié, gommer le problème de l'éclairage. Normalement, ça peut, c'est un problème qui peut être résolu par un filtre passe-eau, mais essayer de coder directement ça dans ZenRay 8 afin que, certes, la référence ne soit plus totalement... similaire à 99,9%, mais qu'on puisse corriger le problème d'ombrage. Là, le problème d'ombrage, tu peux le voir parce que ça fait des espèces de cercles sur l'image, notamment sur le tiling. Donc tu peux le voir directement. J'aimerais que tu le fixes, s'il te plaît."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815428761.33787,
+      "id" : "C0CBC9B9-DBAF-463C-9490-9AF491BBABD3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "puis propose-moi un visuel pour que je puisse déterminer si le module a été fini.",
+      "text" : "puis propose-moi un visuel pour que je puisse déterminer si le module a été fini."
     }
   ],
   "modes" : [
