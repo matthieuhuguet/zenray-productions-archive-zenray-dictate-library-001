@@ -24479,6 +24479,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "En revanche, si tu utilises quelque chose de dynamique, ça peut le faire, mais j'ai l'impression qu'utiliser une valeur absolue, ce sera pas universel de toute manière pour les autres maps et tout. Parce que tu pourras pas identifier précisément un matériau tout le temps, tu vois.",
       "text" : "En revanche, si tu utilises quelque chose de dynamique, ça peut le faire, mais j'ai l'impression qu'utiliser une valeur absolue, ce sera pas universel de toute manière pour les autres maps et tout. Parce que tu pourras pas identifier précisément un matériau tout le temps, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815440904.663802,
+      "id" : "900F1FBE-F757-4821-B642-7C3AAC184234",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, j'ai l'impression que sur le tournoi, c'est M6 et M4 qui vont gagner. Mais je sais pas exactement comment lire les choses pour aller dans le sens de ce que je recherche au final dans mon intention. Parce que mon intention, au final, c'est quoi? C'est que n'importe quel 8, non, n'importe quel base color généré par ChatGPT soit plus ou moins la même en fonction de la boucle Python qu'on va lui demander. Et ce, à la fois dans le prompt, et ce aussi dans la méthode directement sur Claude, tu vois. Enfin, il y a la méthode qu'on va lancer en local via notre propre script Python après avoir généré les images, mais on peut au préalable, dans une étape 4, ou dans une étape de 2 à 4, quoi, lui dire de faire déjà ce travail d'harmonisation des couleurs par rapport à une référence standard étalon. Mais du coup, j'hésite entre le M4 et le M6 et je sais pas comment trancher. Est-ce que tu peux me donner des indices visuels sur la manière dont je devrais trancher la question ?",
+      "text" : "En fait, j'ai l'impression que sur le tournoi, c'est M6 et M4 qui vont gagner. Mais je sais pas exactement comment lire les choses pour aller dans le sens de ce que je recherche au final dans mon intention. Parce que mon intention, au final, c'est quoi? C'est que n'importe quel 8, non, n'importe quel base color généré par ChatGPT soit plus ou moins la même en fonction de la boucle Python qu'on va lui demander. Et ce, à la fois dans le prompt, et ce aussi dans la méthode directement sur Claude, tu vois. Enfin, il y a la méthode qu'on va lancer en local via notre propre script Python après avoir généré les images, mais on peut au préalable, dans une étape 4, ou dans une étape de 2 à 4, quoi, lui dire de faire déjà ce travail d'harmonisation des couleurs par rapport à une référence standard étalon. Mais du coup, j'hésite entre le M4 et le M6 et je sais pas comment trancher. Est-ce que tu peux me donner des indices visuels sur la manière dont je devrais trancher la question ?"
     }
   ],
   "modes" : [
