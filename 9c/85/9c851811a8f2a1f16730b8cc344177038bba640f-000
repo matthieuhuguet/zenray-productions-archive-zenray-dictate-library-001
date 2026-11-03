@@ -24189,6 +24189,146 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Du coup, tu as fait le document de synthèse et tu l'as push sur Assets?",
       "text" : "Du coup, tu as fait le document de synthèse et tu l'as push sur Assets?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815437111.057337,
+      "id" : "02FB1113-93BB-427B-A6F8-ED2F868E54CA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "applique simplement un rolling ball et consigne la méthode sur setMaps. Comme ça, on fait la... Comme ça, des fois, on peut faire des modifications directement sur un truc. Et j'aimerais te donner une autre image et qu'en fait, l'output soit le même. Comme ça, ça voudra dire que la méthode consignée fonctionne parfaitement sur n'importe quelle carte de gris.",
+      "text" : "applique simplement un rolling ball et consigne la méthode sur setMaps. Comme ça, on fait la... Comme ça, des fois, on peut faire des modifications directement sur un truc. Et j'aimerais te donner une autre image et qu'en fait, l'output soit le même. Comme ça, ça voudra dire que la méthode consignée fonctionne parfaitement sur n'importe quelle carte de gris."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815437163.890093,
+      "id" : "EF824877-BCF6-4031-B891-D7C795ABE99A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Consigne aussi le nom équivalent dans Substance Designer et le nom équivalent dans Copernicus, s'il te plaît. Tu l'avais déjà trouvé pour Substance Designer tout à l'heure, il te reste à le faire directement, enfin, le donner le nom en Copernicus. Mais là, pour le coup, vu que c'est avant de faire un graphe, tu peux le faire directement via Python sans utiliser Copernicus.",
+      "text" : "Consigne aussi le nom équivalent dans Substance Designer et le nom équivalent dans Copernicus, s'il te plaît. Tu l'avais déjà trouvé pour Substance Designer tout à l'heure, il te reste à le faire directement, enfin, le donner le nom en Copernicus. Mais là, pour le coup, vu que c'est avant de faire un graphe, tu peux le faire directement via Python sans utiliser Copernicus."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815437170.257139,
+      "id" : "5D2E2B67-0868-4F0F-882C-49CF4B9B0168",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et ensuite, il faudra consigner la méthode une fois que les trois maps sont plus ou moins similaires.",
+      "text" : "Et ensuite, il faudra consigner la méthode une fois que les trois maps sont plus ou moins similaires."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815437179.638351,
+      "id" : "4FBAB5A1-5A3C-4067-BA69-2525B62839D1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "les maps inputées sont à partir de ChatGPT image, mais faites avec le protocole en 4 étapes.",
+      "text" : "les maps inputées sont à partir de ChatGPT image, mais faites avec le protocole en 4 étapes."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815437194.043112,
+      "id" : "4F6E5273-E40E-4BD5-A2B7-A125C5C298CF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mon but est de te faire avoir un script Python relié à la méthode ZenRay 8 qui permet d'uniformiser directement n'importe quelle maps via la méthode RollingO.",
+      "text" : "Mon but est de te faire avoir un script Python relié à la méthode ZenRay 8 qui permet d'uniformiser directement n'importe quelle maps via la méthode RollingO."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815437355.033132,
+      "id" : "8BB3C236-D685-4C54-8081-7F6010A1C9CF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "lorsque tu consigneras la méthode, fais en sorte d'avoir l'équivalent des trois noms, c'est-à-dire Substance Designer, Python et Copernicus, afin que n'importe quel nom que je t'envoie, tu puisses détecter le bon script à lancer pour une map de type ChatGPT 4 images et la reproduire. Et d'ailleurs, en parallèle de la consignation, est-ce que tu peux me rédiger du coup maintenant le full prompt en 4 étapes, mais pour la base color à partir des deux inputs, c'est-à-dire la final 8 de Houdini et l'image référence qui était dans les panels du projet actuellement Zora.",
+      "text" : "lorsque tu consigneras la méthode, fais en sorte d'avoir l'équivalent des trois noms, c'est-à-dire Substance Designer, Python et Copernicus, afin que n'importe quel nom que je t'envoie, tu puisses détecter le bon script à lancer pour une map de type ChatGPT 4 images et la reproduire. Et d'ailleurs, en parallèle de la consignation, est-ce que tu peux me rédiger du coup maintenant le full prompt en 4 étapes, mais pour la base color à partir des deux inputs, c'est-à-dire la final 8 de Houdini et l'image référence qui était dans les panels du projet actuellement Zora."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815437367.853108,
+      "id" : "54F9D193-8D61-4703-B012-4C53BCC9C0CE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "il faut adapter le prompt à quelque chose de similaire avec des modifications Python plus AI Gen dans la boucle pour obtenir une base color parfaite.",
+      "text" : "il faut adapter le prompt à quelque chose de similaire avec des modifications Python plus AI Gen dans la boucle pour obtenir une base color parfaite."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815437421.06117,
+      "id" : "BD136B45-05F9-48F6-83C1-6F52CA67FB3A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Par contre, continue d'itérer sur cette méthode, on n'est pas exactement parfait. Je pense que tu peux rajouter un ou deux, trois filtres pour faire en sorte que ce soit vraiment identique.",
+      "text" : "Par contre, continue d'itérer sur cette méthode, on n'est pas exactement parfait. Je pense que tu peux rajouter un ou deux, trois filtres pour faire en sorte que ce soit vraiment identique."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815437429.215081,
+      "id" : "30C89E02-690C-462F-90CB-84007F271E17",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pas besoin de faire une mesure à 0,999, mais tu peux quand même te rapprocher d'un résultat un peu meilleur.",
+      "text" : "Pas besoin de faire une mesure à 0,999, mais tu peux quand même te rapprocher d'un résultat un peu meilleur."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815437913.943916,
+      "id" : "B96B8DD8-EF8B-4103-A014-4465C038BCC6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'aimerais consigner une nouvelle règle dans Claude.md. C'est que, en fait, pour toutes les chaînes de valeur et pour tous les documents HTML de synthèse, en fait, je pense qu'on devrait faire à chaque fois un diagramme SVG très simple qui récapitule tout ce qu'on a fait. Là, par exemple, on pourrait créer une chaîne de valeur et un schéma dans un document de synthèse HTML, puisque c'est systématique, pour faire en sorte de... illustrer en fait tout le travail qu'on a fait au niveau de l'input A4, etc. Tu vois. Le prompt en plusieurs étapes, etc. Mais par contre, délègue à un agent cloud Sonnet 5.5 Medium ce travail.",
+      "text" : "J'aimerais consigner une nouvelle règle dans Claude.md. C'est que, en fait, pour toutes les chaînes de valeur et pour tous les documents HTML de synthèse, en fait, je pense qu'on devrait faire à chaque fois un diagramme SVG très simple qui récapitule tout ce qu'on a fait. Là, par exemple, on pourrait créer une chaîne de valeur et un schéma dans un document de synthèse HTML, puisque c'est systématique, pour faire en sorte de... illustrer en fait tout le travail qu'on a fait au niveau de l'input A4, etc. Tu vois. Le prompt en plusieurs étapes, etc. Mais par contre, délègue à un agent cloud Sonnet 5.5 Medium ce travail."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815437938.832815,
+      "id" : "2289A370-2C15-4C9F-80AB-BF6AF5577935",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Enfin, la règle, tu l'écris en... En fait, toutes les règles et tout ce travail, tu le balances à un agent cloud qui ensuite te donnera toutes les instructions pour que tu consignes en local avec les bons fichiers directement. Mais tout le travail doit être fait par l'agent cloud.",
+      "text" : "Enfin, la règle, tu l'écris en... En fait, toutes les règles et tout ce travail, tu le balances à un agent cloud qui ensuite te donnera toutes les instructions pour que tu consignes en local avec les bons fichiers directement. Mais tout le travail doit être fait par l'agent cloud."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815437954.141064,
+      "id" : "569601EA-0428-4C4F-B731-3824316DC594",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "n'oublie pas de faire des passerelles pour donner tous les fichiers à l'agent cloud. Si les fichiers sont trop lourds, tu peux utiliser mon drive create directement pour donner des fichiers à l'agent et qu'il puisse les lire.",
+      "text" : "n'oublie pas de faire des passerelles pour donner tous les fichiers à l'agent cloud. Si les fichiers sont trop lourds, tu peux utiliser mon drive create directement pour donner des fichiers à l'agent et qu'il puisse les lire."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815437981.884883,
+      "id" : "4B7EA0C3-3F7E-42C3-A5E7-C08A5370A334",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "D'ailleurs, donne aussi tout le chantier du bridge parfait à faire par rapport à toute mon architecture ZenRay Progress qui est déjà cloudée et déployée.",
+      "text" : "D'ailleurs, donne aussi tout le chantier du bridge parfait à faire par rapport à toute mon architecture ZenRay Progress qui est déjà cloudée et déployée."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815438040.22204,
+      "id" : "B133CFCF-EC4F-40E9-BAA7-70CC0225AC62",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Le but, c'est de pouvoir à terme faire des bridges et que l'environnement l'environnement virtuel machine de Claude en Cloud, C-L-A-U-D-E, puisse avoir directement tous les fichiers locaux, les générer dans son propre environnement, et puis ensuite pouvoir faire la passerelle directement et pouvoir les re-télécharger depuis mon Mac. En soi, cette architecture cloud de bridge est quasi déjà toute construite, mais il faut juste la finaliser et rendre l'UI hyper attrayante, notamment directement dans la sidebar de gauche de ZenRay Progress pour qu'ils comprennent tout ce qu'il faut faire. Mais encore une fois, tu délègues tout ce travail d'architecture, etc. à l'agent cloud, c'est pas à toi de le faire. D'ailleurs, utilise plutôt un agent Opus 5.5 Medium plutôt.",
+      "text" : "Le but, c'est de pouvoir à terme faire des bridges et que l'environnement l'environnement virtuel machine de Claude en Cloud, C-L-A-U-D-E, puisse avoir directement tous les fichiers locaux, les générer dans son propre environnement, et puis ensuite pouvoir faire la passerelle directement et pouvoir les re-télécharger depuis mon Mac. En soi, cette architecture cloud de bridge est quasi déjà toute construite, mais il faut juste la finaliser et rendre l'UI hyper attrayante, notamment directement dans la sidebar de gauche de ZenRay Progress pour qu'ils comprennent tout ce qu'il faut faire. Mais encore une fois, tu délègues tout ce travail d'architecture, etc. à l'agent cloud, c'est pas à toi de le faire. D'ailleurs, utilise plutôt un agent Opus 5.5 Medium plutôt."
     }
   ],
   "modes" : [
