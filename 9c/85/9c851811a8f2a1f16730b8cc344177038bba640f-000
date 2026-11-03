@@ -23869,6 +23869,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "D'accord, mais en termes de bande passante, est-ce que du coup les fichiers... En termes de bande passante, si par exemple je lis directement un fichier qui est hébergé sur Google Drive, je ne sais pas quelle API d'ailleurs tu utilises, puisque sur GitHub, on utilise l'API raw.github, ou alors l'API... Ah, j'ai oublié quelle API on utilisait, mais... Ah oui, si, c'est JS Deliver. Mais du coup, si on utilise Cloudflare et Gdrive uniquement, quelle API, en termes de bande passante, il utilise pour lire les manifestes, notamment dans le cadre du streaming ou dans le cadre d'une collection de photos, etc.",
       "text" : "D'accord, mais en termes de bande passante, est-ce que du coup les fichiers... En termes de bande passante, si par exemple je lis directement un fichier qui est hébergé sur Google Drive, je ne sais pas quelle API d'ailleurs tu utilises, puisque sur GitHub, on utilise l'API raw.github, ou alors l'API... Ah, j'ai oublié quelle API on utilisait, mais... Ah oui, si, c'est JS Deliver. Mais du coup, si on utilise Cloudflare et Gdrive uniquement, quelle API, en termes de bande passante, il utilise pour lire les manifestes, notamment dans le cadre du streaming ou dans le cadre d'une collection de photos, etc."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815426928.865809,
+      "id" : "B32603C9-BE31-420F-AF8C-CD6E875A72D6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "utilise un filtre high pass pour gommer l'éclairage, s'il te plaît, et rendre la height finale.",
+      "text" : "utilise un filtre high pass pour gommer l'éclairage, s'il te plaît, et rendre la height finale."
     }
   ],
   "modes" : [
