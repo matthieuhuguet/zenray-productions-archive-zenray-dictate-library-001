@@ -23719,6 +23719,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Tu peux aussi faire des web search si jamais tu cherches un terme technique, il n'y a aucun problème.",
       "text" : "Tu peux aussi faire des web search si jamais tu cherches un terme technique, il n'y a aucun problème."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815421496.597966,
+      "id" : "70940986-C214-4E93-9F30-8003496A6783",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est quasi parfait, sauf que le problème, c'est que tu as oublié de remettre au bon levels et t'as pas compute partout. En fait, tu t'es fait avoir par l'ombre, ce qui fait que tu computes pas les détails partout. Donc, c'est pas ouf actuellement.",
+      "text" : "C'est quasi parfait, sauf que le problème, c'est que tu as oublié de remettre au bon levels et t'as pas compute partout. En fait, tu t'es fait avoir par l'ombre, ce qui fait que tu computes pas les détails partout. Donc, c'est pas ouf actuellement."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815421818.490092,
+      "id" : "FBA4497C-CE18-48E5-B22D-4FBB44C87FBF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ce que je veux dire dans ma tête, c'est qu'on ne comprend pas forcément la différence entre tout ce qui existe, en fait. Donc il faut faire en sorte que ce soit clair.",
+      "text" : "Ce que je veux dire dans ma tête, c'est qu'on ne comprend pas forcément la différence entre tout ce qui existe, en fait. Donc il faut faire en sorte que ce soit clair."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815421826.882862,
+      "id" : "B4A1E4BD-728C-4946-9FE0-4F218BF51ACC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "notamment sur Progress en termes d'UI.",
+      "text" : "notamment sur Progress en termes d'UI."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815422229.098623,
+      "id" : "CE3C2B45-5A4A-4D47-8C0C-8B84D502F06F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Putain.",
+      "text" : "Putain."
     }
   ],
   "modes" : [
