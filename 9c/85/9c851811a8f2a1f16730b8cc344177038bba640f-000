@@ -23079,6 +23079,66 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "répond en une ligne, mais est-ce que ça veut vraiment dire quelque chose, Mountainy? Et aussi, je crois que j'ai besoin de l'équivalent point move pour ma vidéo. Donc fais un remux rapide. Mais est-ce que Mountainy, ça veut dire quelque chose?",
       "text" : "répond en une ligne, mais est-ce que ça veut vraiment dire quelque chose, Mountainy? Et aussi, je crois que j'ai besoin de l'équivalent point move pour ma vidéo. Donc fais un remux rapide. Mais est-ce que Mountainy, ça veut dire quelque chose?"
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815358132.397808,
+      "id" : "5E75C187-39D9-498E-8E5E-AD2E3E5867E1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que tu peux faire en sorte que là actuellement, tu vois, sur Instagram ou bien sur YouTube, ma miniature est un peu trop... En fait, le problème du texte de texturing et du sous-titre, c'est qu'ils sont un peu trop écartés. Donc en fait, il faudrait faire en sorte de... de resserrer un peu vers le centre les deux textes afin qu'on les voit sur une miniature. Et ensuite, j'ai un autre truc à te demander, c'est j'aimerais que depuis la vidéo, tu m'extrais 27 images puisqu'elles durent 27 secondes et que tu ranges tout dans un dossier, comme ça dans mon post ArtStation, je pourrais mettre directement des captures haute résolution pour illustrer l'article ArtStation en fait.",
+      "text" : "Est-ce que tu peux faire en sorte que là actuellement, tu vois, sur Instagram ou bien sur YouTube, ma miniature est un peu trop... En fait, le problème du texte de texturing et du sous-titre, c'est qu'ils sont un peu trop écartés. Donc en fait, il faudrait faire en sorte de... de resserrer un peu vers le centre les deux textes afin qu'on les voit sur une miniature. Et ensuite, j'ai un autre truc à te demander, c'est j'aimerais que depuis la vidéo, tu m'extrais 27 images puisqu'elles durent 27 secondes et que tu ranges tout dans un dossier, comme ça dans mon post ArtStation, je pourrais mettre directement des captures haute résolution pour illustrer l'article ArtStation en fait."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815358325.583515,
+      "id" : "522FFFF2-0644-48A1-9483-F421B89E3998",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bref, consigner à l'avenir cette erreur et ne plus la reproduire directement dans le skill.",
+      "text" : "Bref, consigner à l'avenir cette erreur et ne plus la reproduire directement dans le skill."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815358706.384457,
+      "id" : "F081B120-8EA5-4D24-9811-CCCC12EC7B15",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Faudrait faire une sheet max résolution, notamment en termes de hauteur. Une sheet du coup horizontale avec ces trois images et une sheet horizontale avec les trois autres. Et le but c'est de montrer que c'est tileable. Mais écris pas tileable. Écris rien.",
+      "text" : "Faudrait faire une sheet max résolution, notamment en termes de hauteur. Une sheet du coup horizontale avec ces trois images et une sheet horizontale avec les trois autres. Et le but c'est de montrer que c'est tileable. Mais écris pas tileable. Écris rien."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815358881.792075,
+      "id" : "E84A3851-BD37-4E18-9C0A-BE6142D8EF5C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est bizarre qu'elle soit pas tileable là, puisque elle l'était dans le truc. C'est vraiment très bizarre. Mais c'est bizarre qu'elle soit pas tileable, étant donné que dans les autres formats, enfin, quand on les met en 4x4, elles sont tileable à ce moment-là. Donc c'est hyper chelou. Mais bon, là, c'est trop tard, on s'en fout. Simplement écarteler avec une légère bande noire et ça suffira pour que l'œil remarque pas qu'elles sont pas totalement tileable. J'ai la flemme de le refaire maintenant, quoi.",
+      "text" : "C'est bizarre qu'elle soit pas tileable là, puisque elle l'était dans le truc. C'est vraiment très bizarre. Mais c'est bizarre qu'elle soit pas tileable, étant donné que dans les autres formats, enfin, quand on les met en 4x4, elles sont tileable à ce moment-là. Donc c'est hyper chelou. Mais bon, là, c'est trop tard, on s'en fout. Simplement écarteler avec une légère bande noire et ça suffira pour que l'œil remarque pas qu'elles sont pas totalement tileable. J'ai la flemme de le refaire maintenant, quoi."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815359170.646319,
+      "id" : "B5E19E86-0887-476A-A11A-143F2174A226",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ah, je crois que pour ArtStation, une image ne peut pas dépasser 10 000 pixels. Donc essaie de, bah, de mettre la taille maximale 10 000 pixels et tu réattribues la hauteur par rapport à ce scale. Toujours inférieur à 10 MB.",
+      "text" : "Ah, je crois que pour ArtStation, une image ne peut pas dépasser 10 000 pixels. Donc essaie de, bah, de mettre la taille maximale 10 000 pixels et tu réattribues la hauteur par rapport à ce scale. Toujours inférieur à 10 MB."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815361661.655034,
+      "id" : "F4C8E3E8-D200-43C2-BEB5-D5CD3054068F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, mais quid de mon document de synthèse qui, du coup, devrait réunir à la fois la conversation de Claude que j'ai eue tout à l'heure et celle-ci? Normalement, le document de synthèse est toujours obligatoire à chaque fin de projet. Et ensuite, tu pushes tout dans le cloud sur Assets.",
+      "text" : "Ok, mais quid de mon document de synthèse qui, du coup, devrait réunir à la fois la conversation de Claude que j'ai eue tout à l'heure et celle-ci? Normalement, le document de synthèse est toujours obligatoire à chaque fin de projet. Et ensuite, tu pushes tout dans le cloud sur Assets."
     }
   ],
   "modes" : [
