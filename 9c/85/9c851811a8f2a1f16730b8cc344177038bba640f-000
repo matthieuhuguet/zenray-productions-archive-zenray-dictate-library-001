@@ -23799,6 +23799,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Je pense qu'on devrait repartir sur un prompt beaucoup plus simple. Parce que de toute manière, là... les maps générées reprennent même pas tous les détails du truc de base. Donc il y a un gros problème en fait. Ce qu'il faudrait, c'est que... c'est faire un prompt hyper simple, à mon avis, sur la 8, pour que ce soit extrêmement... extrêmement clair, quoi. Pour que ce soit extrêmement clair en termes de prompt. Essayons vraiment un prompt hyper simple en mode juste tu reproduis exactement pixel perfect la 8. Comme ça je teste pour visuellement voir le truc. Parce que là le problème c'est qu'il chope pas assez de détails, tu vois. Éclairage ou non, tu vois. Même sans parler de reproduire la 8, tu vois, il faudrait juste qu'il... Je sais pas, qu'il fasse une sorte de... Enfin, ouais. Je sais pas, limite qu'il le fasse en Python, je sais pas. Je sais pas à quel point c'est possible, quoi. Le but, c'est de rétro-engineering une map, tu vois, mais bon.",
       "text" : "Je pense qu'on devrait repartir sur un prompt beaucoup plus simple. Parce que de toute manière, là... les maps générées reprennent même pas tous les détails du truc de base. Donc il y a un gros problème en fait. Ce qu'il faudrait, c'est que... c'est faire un prompt hyper simple, à mon avis, sur la 8, pour que ce soit extrêmement... extrêmement clair, quoi. Pour que ce soit extrêmement clair en termes de prompt. Essayons vraiment un prompt hyper simple en mode juste tu reproduis exactement pixel perfect la 8. Comme ça je teste pour visuellement voir le truc. Parce que là le problème c'est qu'il chope pas assez de détails, tu vois. Éclairage ou non, tu vois. Même sans parler de reproduire la 8, tu vois, il faudrait juste qu'il... Je sais pas, qu'il fasse une sorte de... Enfin, ouais. Je sais pas, limite qu'il le fasse en Python, je sais pas. Je sais pas à quel point c'est possible, quoi. Le but, c'est de rétro-engineering une map, tu vois, mais bon."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815424954.218269,
+      "id" : "C00E50C0-E42F-46E7-8882-CCA1EE7CA111",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, c'est exactement ça. Il faut dire à ChatGPT d'utiliser un script Python et de faire et d'utiliser les deux en même temps, et ça fait une heatmap qui est quasi parfaite. Donc voilà, on a trouvé la solution, consigne là. Et voilà.",
+      "text" : "En fait, c'est exactement ça. Il faut dire à ChatGPT d'utiliser un script Python et de faire et d'utiliser les deux en même temps, et ça fait une heatmap qui est quasi parfaite. Donc voilà, on a trouvé la solution, consigne là. Et voilà."
     }
   ],
   "modes" : [
