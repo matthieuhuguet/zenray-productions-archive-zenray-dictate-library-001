@@ -24469,6 +24469,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Je pense que c'est jamais une bonne idée d'avoir une valeur absolue pour n'importe quel concept. Donc évite ce genre de conclusion et de méthodologie.",
       "text" : "Je pense que c'est jamais une bonne idée d'avoir une valeur absolue pour n'importe quel concept. Donc évite ce genre de conclusion et de méthodologie."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815440371.51026,
+      "id" : "4CD48666-5F40-4011-96AC-63FE64296197",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En revanche, si tu utilises quelque chose de dynamique, ça peut le faire, mais j'ai l'impression qu'utiliser une valeur absolue, ce sera pas universel de toute manière pour les autres maps et tout. Parce que tu pourras pas identifier précisément un matériau tout le temps, tu vois.",
+      "text" : "En revanche, si tu utilises quelque chose de dynamique, ça peut le faire, mais j'ai l'impression qu'utiliser une valeur absolue, ce sera pas universel de toute manière pour les autres maps et tout. Parce que tu pourras pas identifier précisément un matériau tout le temps, tu vois."
     }
   ],
   "modes" : [
