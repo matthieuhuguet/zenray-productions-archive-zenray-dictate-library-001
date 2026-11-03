@@ -24339,6 +24339,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Du coup, comment tu as appelé le fichier Je reviens au travail de tout à l'heure, mais comment est-ce que déjà tu as... C'est trop beau. Ah oui,",
       "text" : "Du coup, comment tu as appelé le fichier Je reviens au travail de tout à l'heure, mais comment est-ce que déjà tu as... C'est trop beau. Ah oui,"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815438717.956453,
+      "id" : "E368DA58-58D8-4D4F-A4F3-04EFDF2B2DC8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, je reviens au travail de tout à l'heure. Mais tout à l'heure, tu as créé un script qui permettait du coup à n'importe quel 8 de faire en sorte, une fois qu'on les a téléchargés, de faire en sorte qu'elles s'harmonisent jusqu'à une mesure de 0,80. Déjà, comment tu as appelé ce script? Je pense qu'il faudrait le consigner et faire en sorte qu'il soit intégré dans la méthode 8, parce que je le valide totalement. Il était vraiment très bien quand A1, A2 et A3 se ressemblaient à 0,80. Donc ça, il faut le consigner dans la méthode ZenRay 8. Et ensuite, il faut faire en sorte de pré-shot la création d'une future... déjà, il faut consigner aussi le prompt base color parce qu'il fonctionne très bien. Et du coup, je vais te donner les textures, les trois textures qui seront du coup A1, A2 et A3. Et tu vas faire en sorte qu'elles s'harmonisent. Et du coup, il faudrait trouver l'équivalent du rolling au I. Mais par rapport, déjà, il faut trouver les trois termes d'équivalent Python, Copernicus et Substance Designer, afin de faire en sorte que la base color, elle s'harmonise. Après, il n'y a peut-être pas besoin de faire autant d'efforts sur cette étape, mais au moins ça me permettra directement via Python de faire en sorte d'avoir directement n'importe quelle image générée par ChatGPT en base color. Du coup, je pourrais faire en sorte que si j'ai trois variations, elles puissent s'harmoniser. Ensuite, je pourrais choisir la finale parmi A1, A2 ou A3. Après, là, puisque c'est base color, on pourrait appeler ça B1, B2 et B3, mais en soi, ça n'a pas d'intérêt. En fait, c'est A1, c'est surtout un nom de variable pour dire A, c'est juste la lettre la plus simple du clavier. Donc, c'est ce chantier qu'il faudra faire et du coup, trouver les équivalences du coup, sur les trois outils. Afin que, quand je te demande de lancer le script à l'avenir par rapport aux méthodes de ZenRay 8, tu puisses immédiatement comprendre de quel prompt j'ai besoin et ou de quel script d'exécution j'ai besoin de faire. Et c'est pour ça qu'il faut consigner de manière impeccable tout dans ZenRay 8, qui est lui-même consigné dans ZenRay Houdini, tu vois. Qui est lui-même consigné dans Claude.md, tu vois. Donc en fait, c'est des petites boîtes, mais à chaque fois, faut simplement depuis un prompt qui comprenne immédiatement n'importe quel outil qu'on vient call, tu vois. Donc c'est pour ça que le travail de consignation et d'index mapping, il est extrêmement important.",
+      "text" : "Du coup, je reviens au travail de tout à l'heure. Mais tout à l'heure, tu as créé un script qui permettait du coup à n'importe quel 8 de faire en sorte, une fois qu'on les a téléchargés, de faire en sorte qu'elles s'harmonisent jusqu'à une mesure de 0,80. Déjà, comment tu as appelé ce script? Je pense qu'il faudrait le consigner et faire en sorte qu'il soit intégré dans la méthode 8, parce que je le valide totalement. Il était vraiment très bien quand A1, A2 et A3 se ressemblaient à 0,80. Donc ça, il faut le consigner dans la méthode ZenRay 8. Et ensuite, il faut faire en sorte de pré-shot la création d'une future... déjà, il faut consigner aussi le prompt base color parce qu'il fonctionne très bien. Et du coup, je vais te donner les textures, les trois textures qui seront du coup A1, A2 et A3. Et tu vas faire en sorte qu'elles s'harmonisent. Et du coup, il faudrait trouver l'équivalent du rolling au I. Mais par rapport, déjà, il faut trouver les trois termes d'équivalent Python, Copernicus et Substance Designer, afin de faire en sorte que la base color, elle s'harmonise. Après, il n'y a peut-être pas besoin de faire autant d'efforts sur cette étape, mais au moins ça me permettra directement via Python de faire en sorte d'avoir directement n'importe quelle image générée par ChatGPT en base color. Du coup, je pourrais faire en sorte que si j'ai trois variations, elles puissent s'harmoniser. Ensuite, je pourrais choisir la finale parmi A1, A2 ou A3. Après, là, puisque c'est base color, on pourrait appeler ça B1, B2 et B3, mais en soi, ça n'a pas d'intérêt. En fait, c'est A1, c'est surtout un nom de variable pour dire A, c'est juste la lettre la plus simple du clavier. Donc, c'est ce chantier qu'il faudra faire et du coup, trouver les équivalences du coup, sur les trois outils. Afin que, quand je te demande de lancer le script à l'avenir par rapport aux méthodes de ZenRay 8, tu puisses immédiatement comprendre de quel prompt j'ai besoin et ou de quel script d'exécution j'ai besoin de faire. Et c'est pour ça qu'il faut consigner de manière impeccable tout dans ZenRay 8, qui est lui-même consigné dans ZenRay Houdini, tu vois. Qui est lui-même consigné dans Claude.md, tu vois. Donc en fait, c'est des petites boîtes, mais à chaque fois, faut simplement depuis un prompt qui comprenne immédiatement n'importe quel outil qu'on vient call, tu vois. Donc c'est pour ça que le travail de consignation et d'index mapping, il est extrêmement important."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815438794.520691,
+      "id" : "B4E7BEB0-F62F-427E-BC65-B5042A6CDAEA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "parce que tu as dit rolling ball haut pour la base color dans le prompt de la base color. Mais bon, est-ce que c'est vraiment de ça qu'on a besoin quand on fait une base color? Je sais pas, je suis pas sûr. De toute façon, j'ai mes trois maps, on va tester.",
+      "text" : "parce que tu as dit rolling ball haut pour la base color dans le prompt de la base color. Mais bon, est-ce que c'est vraiment de ça qu'on a besoin quand on fait une base color? Je sais pas, je suis pas sûr. De toute façon, j'ai mes trois maps, on va tester."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815438812.639613,
+      "id" : "02FD7D4D-6ED5-422F-A578-928A367C6C7D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Peut-être que le terme exact n'est pas rolling ball eye, tu vois. Peut-être que c'est un autre terme justement pour la base color, pour uniformiser les couleurs et la luminosité, la saturation, etc.",
+      "text" : "Peut-être que le terme exact n'est pas rolling ball eye, tu vois. Peut-être que c'est un autre terme justement pour la base color, pour uniformiser les couleurs et la luminosité, la saturation, etc."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815438823.744564,
+      "id" : "7CC4AB0B-2951-4BD8-9481-0164F7C86EA9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "De toute manière, il faut faire des tests pour que, de manière visuelle, je puisse tester directement dans ton propre script Python pour ensuite pouvoir le consigner.",
+      "text" : "De toute manière, il faut faire des tests pour que, de manière visuelle, je puisse tester directement dans ton propre script Python pour ensuite pouvoir le consigner."
     }
   ],
   "modes" : [
