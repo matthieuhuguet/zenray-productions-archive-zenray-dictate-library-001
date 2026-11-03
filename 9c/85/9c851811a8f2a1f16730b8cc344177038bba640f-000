@@ -23769,6 +23769,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "résumé audio approfondi qui lit tous les passages de toute l'étude et qui propose une analyse approfondie à 100%, enfin, qui peut durer jusqu'à une heure pour vraiment résumer tout comme un podcast extrêmement complet. Tu peux aller jusqu'au nombre de temps maximal. Si le podcast doit durer 3 heures, ben dans ce cas-là, il dure 3 heures. Si, en revanche, il dure une heure, c'est déjà bien, etc. Fais le podcast le plus long en termes de duration et explique pourquoi.",
       "text" : "résumé audio approfondi qui lit tous les passages de toute l'étude et qui propose une analyse approfondie à 100%, enfin, qui peut durer jusqu'à une heure pour vraiment résumer tout comme un podcast extrêmement complet. Tu peux aller jusqu'au nombre de temps maximal. Si le podcast doit durer 3 heures, ben dans ce cas-là, il dure 3 heures. Si, en revanche, il dure une heure, c'est déjà bien, etc. Fais le podcast le plus long en termes de duration et explique pourquoi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815423097.856601,
+      "id" : "1DA98324-A930-4C1F-A625-F35FFF9F9E46",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Explique-moi simplement en quoi le nouveau prompt est mieux que l'ancien. Je l'ai testé sur ChatGPT, le levels est beaucoup mieux, mais par contre, on n'a pas forcément une reproduction identique en termes de positionnement sur le placement. Mais du coup, je ne te demanderai pas d'écrire un nouveau prompt, mais juste que tu m'expliques pourquoi, selon toi, le nouveau prompt est mieux que l'ancien.",
+      "text" : "Explique-moi simplement en quoi le nouveau prompt est mieux que l'ancien. Je l'ai testé sur ChatGPT, le levels est beaucoup mieux, mais par contre, on n'a pas forcément une reproduction identique en termes de positionnement sur le placement. Mais du coup, je ne te demanderai pas d'écrire un nouveau prompt, mais juste que tu m'expliques pourquoi, selon toi, le nouveau prompt est mieux que l'ancien."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815423516.388701,
+      "id" : "9BEF835C-A1F0-4596-A306-6E835EF2E62A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Oui, sauf qu'il n'y a toujours pas la distinction entre Gdrive et GitHub sur l'UI. Est-ce que tu peux te dépêcher, s'il te plaît? On voit toujours pas la différence en fait entre les fichiers qui sont sur le cloud GitHub et les fichiers qui sont sur le cloud Gdrive. Et d'ailleurs, j'ai l'impression que t'as pas fait la sauvegarde sur le drive sur Gdrive en fait.",
+      "text" : "Oui, sauf qu'il n'y a toujours pas la distinction entre Gdrive et GitHub sur l'UI. Est-ce que tu peux te dépêcher, s'il te plaît? On voit toujours pas la différence en fait entre les fichiers qui sont sur le cloud GitHub et les fichiers qui sont sur le cloud Gdrive. Et d'ailleurs, j'ai l'impression que t'as pas fait la sauvegarde sur le drive sur Gdrive en fait."
     }
   ],
   "modes" : [
