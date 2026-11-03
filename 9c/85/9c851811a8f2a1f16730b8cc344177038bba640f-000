@@ -24019,6 +24019,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "puis propose-moi un visuel pour que je puisse déterminer si le module a été fini.",
       "text" : "puis propose-moi un visuel pour que je puisse déterminer si le module a été fini."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815429437.056479,
+      "id" : "3024D429-BE70-4DD1-9FE1-93CC84A5943B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est pas mal, surtout si on compare avant-après, mais c'est encore trop. C'est pas assez poussé en fait. Après, j'imagine qu'il y a des compromis visuels, mais on voit encore les traits, tu vois. Il faut pousser jusqu'à ce qu'on voit plus les traits. Mais j'ai peur que ça efface notre rendu visuel. Mais bon. De toute manière, on peut pas garder ce genre de traits, c'est hyper moche. Donc continue jusqu'à ce qu'on ne les voit plus.",
+      "text" : "C'est pas mal, surtout si on compare avant-après, mais c'est encore trop. C'est pas assez poussé en fait. Après, j'imagine qu'il y a des compromis visuels, mais on voit encore les traits, tu vois. Il faut pousser jusqu'à ce qu'on voit plus les traits. Mais j'ai peur que ça efface notre rendu visuel. Mais bon. De toute manière, on peut pas garder ce genre de traits, c'est hyper moche. Donc continue jusqu'à ce qu'on ne les voit plus."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815429539.437373,
+      "id" : "F6E4DFE7-3B8A-472C-B419-AF9455F58F8C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je crois que t'as pas compris ce dont je parlais à partir des traits. C'est pas les traits qu'il faut gommer, c'est l'effet d'arc du gommage de qui fait comme s'il y avait une ombre projetée. C'est ça qu'il faut gommer, c'est pas les traits. Tu comprends rien, t'es complètement con.",
+      "text" : "Je crois que t'as pas compris ce dont je parlais à partir des traits. C'est pas les traits qu'il faut gommer, c'est l'effet d'arc du gommage de qui fait comme s'il y avait une ombre projetée. C'est ça qu'il faut gommer, c'est pas les traits. Tu comprends rien, t'es complètement con."
     }
   ],
   "modes" : [
