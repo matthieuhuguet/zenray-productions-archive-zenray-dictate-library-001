@@ -23879,6 +23879,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "utilise un filtre high pass pour gommer l'éclairage, s'il te plaît, et rendre la height finale.",
       "text" : "utilise un filtre high pass pour gommer l'éclairage, s'il te plaît, et rendre la height finale."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815427138.271453,
+      "id" : "327CBC8C-9C2A-400D-87BD-01517BA635E7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Tu peux lancer sur la 6 qui est bon, du coup. Tu consigneras aussi dans le workflow que, du coup, maintenant, pour les 8, on n'utilise plus l'AI Gen, à part si on n'a pas une référence, comment dire, en mode totalement droite. Mais si on a une référence totalement droite, ben, on utilisera simplement du Python depuis ChatGPT. Et on fera un chat séquentiel. Parce que ça fonctionne bien. Ça fonctionne bien, et là on a obtenu une autre texture, donc tu peux lancer ZenRay 8 et la reproduction. Lance-le dans une scène et pas en Python, s'il te plaît.",
+      "text" : "Tu peux lancer sur la 6 qui est bon, du coup. Tu consigneras aussi dans le workflow que, du coup, maintenant, pour les 8, on n'utilise plus l'AI Gen, à part si on n'a pas une référence, comment dire, en mode totalement droite. Mais si on a une référence totalement droite, ben, on utilisera simplement du Python depuis ChatGPT. Et on fera un chat séquentiel. Parce que ça fonctionne bien. Ça fonctionne bien, et là on a obtenu une autre texture, donc tu peux lancer ZenRay 8 et la reproduction. Lance-le dans une scène et pas en Python, s'il te plaît."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815427148.908594,
+      "id" : "915A8852-1E42-43EC-A6C5-6B743A78C319",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je veux voir l'éditeur de Houdini.",
+      "text" : "Je veux voir l'éditeur de Houdini."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815427156.483523,
+      "id" : "4908F1F5-105C-493D-95E1-B60F80814BD5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "8 égale H-E-I-G-H-T.",
+      "text" : "8 égale H-E-I-G-H-T."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815427175.922301,
+      "id" : "3F6045D9-FF24-437A-ABA0-2F5AF3599156",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "lance full thread CPU.",
+      "text" : "lance full thread CPU."
     }
   ],
   "modes" : [
