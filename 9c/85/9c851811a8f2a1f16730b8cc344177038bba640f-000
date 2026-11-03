@@ -24379,6 +24379,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "De toute manière, il faut faire des tests pour que, de manière visuelle, je puisse tester directement dans ton propre script Python pour ensuite pouvoir le consigner.",
       "text" : "De toute manière, il faut faire des tests pour que, de manière visuelle, je puisse tester directement dans ton propre script Python pour ensuite pouvoir le consigner."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815439500.418926,
+      "id" : "D2C0F4E7-7774-4AB8-954C-EED1F0AE6106",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah, testons alors le prompt, notamment via l'étape 4, où on met plutôt à la fois la V2, qui, à mon avis, il faut retenir cette version, et à la fois, du coup, le nouveau terme que tu as choisi, c'est-à-dire la correction de champ plat, flat field, et transfert de couleur Reinhard. Du coup, c'est pas en lab, parce que lab, c'était la V1, je crois. Et du coup, moi, ce que je pense en termes de color matching, le mieux parmi les trois, c'est surtout la V2, j'ai l'impression. Donc, adapte le prompt, il va falloir le modifier, du coup. Et je vais le tester, et on continuera uniquement quand j'ai testé.",
+      "text" : "Bah, testons alors le prompt, notamment via l'étape 4, où on met plutôt à la fois la V2, qui, à mon avis, il faut retenir cette version, et à la fois, du coup, le nouveau terme que tu as choisi, c'est-à-dire la correction de champ plat, flat field, et transfert de couleur Reinhard. Du coup, c'est pas en lab, parce que lab, c'était la V1, je crois. Et du coup, moi, ce que je pense en termes de color matching, le mieux parmi les trois, c'est surtout la V2, j'ai l'impression. Donc, adapte le prompt, il va falloir le modifier, du coup. Et je vais le tester, et on continuera uniquement quand j'ai testé."
     }
   ],
   "modes" : [
