@@ -24529,6 +24529,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Du coup, j'ai lancé... du coup, j'ai lancé C1 et C... J'ai lancé C1 et C2 avec le nouveau prompt et j'ai mis l'ancien prompt sur C3. Mais j'ai l'impression que c'est C3 qui m'a donné les meilleurs résultats par rapport à la base color. Donc peut-être qu'il faudrait remettre le prompt sur l'ancienne méthode qui au final est un peu plus détaillée mais donne un meilleur résultat. J'ai lancé deux nouvelles générations de prompt et on va voir si au final ça fait pas un peu un meilleur résultat plus on décrit le truc. Et si c'est le cas, bah du coup on fera pareil avec la 8, dans le sens où tout à l'heure je t'avais demandé de justement pas mettre la méthode spécifique de rolling ball, mais au final je pense qu'on va la mettre. Enfin je sais pas encore, mais mais en tout cas, en fait, il faut attendre les résultats du nouveau prompt, enfin de l'ancien prompt sur les deux nouvelles générations. Mais en attendant, ce que tu peux faire, c'est déjà noter dans un coin de ta mémoire tout ça, toute ma réflexion, et lancer du coup l'uniformizer base color.",
       "text" : "Du coup, j'ai lancé... du coup, j'ai lancé C1 et C... J'ai lancé C1 et C2 avec le nouveau prompt et j'ai mis l'ancien prompt sur C3. Mais j'ai l'impression que c'est C3 qui m'a donné les meilleurs résultats par rapport à la base color. Donc peut-être qu'il faudrait remettre le prompt sur l'ancienne méthode qui au final est un peu plus détaillée mais donne un meilleur résultat. J'ai lancé deux nouvelles générations de prompt et on va voir si au final ça fait pas un peu un meilleur résultat plus on décrit le truc. Et si c'est le cas, bah du coup on fera pareil avec la 8, dans le sens où tout à l'heure je t'avais demandé de justement pas mettre la méthode spécifique de rolling ball, mais au final je pense qu'on va la mettre. Enfin je sais pas encore, mais mais en tout cas, en fait, il faut attendre les résultats du nouveau prompt, enfin de l'ancien prompt sur les deux nouvelles générations. Mais en attendant, ce que tu peux faire, c'est déjà noter dans un coin de ta mémoire tout ça, toute ma réflexion, et lancer du coup l'uniformizer base color."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815442711.520202,
+      "id" : "39AF2F7F-E173-47E6-80B7-5ACB6E625B9B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Les deux nouvelles générations sont bien meilleures. Du coup, tu peux la run avec du coup l'ancienne C3, du coup. Et bah, du coup, consigne le prompt en tant que nouvelle source de vérité. Donc c'est l'ancien prompt et le prompt le plus complet. Et du coup, redonne-moi aussi l'ancien prompt de 8, avec la longueur la plus complète. Comme ça, je vais le retester. Sachant qu'il doit être consigné dans feedback au moment où je t'ai dit, un peu avant au moment où je t'ai dit de l'enregistrer pour la nouvelle version. Il faut trouver l'équivalence pour le prompt 8 en 4 étapes, du coup, mais la version la plus longue. Bon, je crois que tu as compris ce que je voulais dire. Et lance aussi l'harmoniseur pour D2, D1 et C3 normalement. Ouais, comme ça on compare.",
+      "text" : "Les deux nouvelles générations sont bien meilleures. Du coup, tu peux la run avec du coup l'ancienne C3, du coup. Et bah, du coup, consigne le prompt en tant que nouvelle source de vérité. Donc c'est l'ancien prompt et le prompt le plus complet. Et du coup, redonne-moi aussi l'ancien prompt de 8, avec la longueur la plus complète. Comme ça, je vais le retester. Sachant qu'il doit être consigné dans feedback au moment où je t'ai dit, un peu avant au moment où je t'ai dit de l'enregistrer pour la nouvelle version. Il faut trouver l'équivalence pour le prompt 8 en 4 étapes, du coup, mais la version la plus longue. Bon, je crois que tu as compris ce que je voulais dire. Et lance aussi l'harmoniseur pour D2, D1 et C3 normalement. Ouais, comme ça on compare."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815442766.832138,
+      "id" : "7F62F017-74F9-4674-A1A6-81AD53F2DDAA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et enfin, comme ça, je choisis lequel je garde pour D1, D2 et C3 pour lancer la reproduction de la base color directement dans Houdini via ZenRay 8. ZenRay 8, du coup, qui possède déjà le script Python qui permet de reproduire la base color à l'identique.",
+      "text" : "Et enfin, comme ça, je choisis lequel je garde pour D1, D2 et C3 pour lancer la reproduction de la base color directement dans Houdini via ZenRay 8. ZenRay 8, du coup, qui possède déjà le script Python qui permet de reproduire la base color à l'identique."
     }
   ],
   "modes" : [
