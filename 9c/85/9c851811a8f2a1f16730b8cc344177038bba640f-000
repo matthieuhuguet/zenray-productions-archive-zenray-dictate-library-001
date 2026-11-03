@@ -23659,6 +23659,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Et à terme, c'est le titre de l'œuvre qui prend la source de vérité et pas ce que je dicte. En fait, c'est pas ce que je dicte en,",
       "text" : "Et à terme, c'est le titre de l'œuvre qui prend la source de vérité et pas ce que je dicte. En fait, c'est pas ce que je dicte en,"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815418669.760876,
+      "id" : "45152893-4E27-4B9B-8CB0-4FA750C2A560",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "et ajoute-le en fait dans n'importe quel prompt de ZenRay Houdini où ça parle de reproduire à partir de l'IA. Ce genre de phrase, ça permet à l'agent qui fait des boucles de génération d'images d'être beaucoup plus performant. Donc ajoute-le un peu partout.",
+      "text" : "et ajoute-le en fait dans n'importe quel prompt de ZenRay Houdini où ça parle de reproduire à partir de l'IA. Ce genre de phrase, ça permet à l'agent qui fait des boucles de génération d'images d'être beaucoup plus performant. Donc ajoute-le un peu partout."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815418964.299918,
+      "id" : "C05C30FC-6388-495C-9BF1-829D8C6CF1B4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais t'es ultra con dans le prompt. Pourquoi tu parles du dépliage UV du modèle alors que là on reproduit uniquement les 8 en fonction d'une map? Arrête d'être bête s'il te plaît.",
+      "text" : "Mais t'es ultra con dans le prompt. Pourquoi tu parles du dépliage UV du modèle alors que là on reproduit uniquement les 8 en fonction d'une map? Arrête d'être bête s'il te plaît."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815419134.61447,
+      "id" : "47C5DFC4-77A2-4A9A-9343-44EF6048C1E1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est quasi ça, sauf qu'il faut que ce soit pas light. Là, en fait, le problème, c'est que tu crées une 8, mais il y a les informations de l'ombre. Donc, en fait, il faut que tu les enlèves.",
+      "text" : "C'est quasi ça, sauf qu'il faut que ce soit pas light. Là, en fait, le problème, c'est que tu crées une 8, mais il y a les informations de l'ombre. Donc, en fait, il faut que tu les enlèves."
     }
   ],
   "modes" : [
