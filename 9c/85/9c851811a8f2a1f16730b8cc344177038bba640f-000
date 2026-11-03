@@ -23919,6 +23919,56 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "lance full thread CPU.",
       "text" : "lance full thread CPU."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815427843.053926,
+      "id" : "12A23DB4-25A4-4166-8147-79DABBE0DE2B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, est-ce que tu peux me donner l'équivalent, s'il te plaît, du prompt qu'on a consigné dernièrement, mais pour la base color, par rapport à l'ancien prompt qu'on avait pour la base color? Ça m'aiderait pas mal.",
+      "text" : "Du coup, est-ce que tu peux me donner l'équivalent, s'il te plaît, du prompt qu'on a consigné dernièrement, mais pour la base color, par rapport à l'ancien prompt qu'on avait pour la base color? Ça m'aiderait pas mal."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815427891.060021,
+      "id" : "B2C9214C-28B9-4F3B-A1AD-DA57DC269560",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "une fois qu'on a la final 8, une fois qu'on a la final 8 sur comment ça s'appelle? Oui, une fois qu'on a la final 8 sur Houdini, via le module ZenRay HEI GHT, j'aimerais que tu me fasses en sorte de me faire une proposition de nouveau prompt, notamment avec le nouveau qu'on a mis.",
+      "text" : "une fois qu'on a la final 8, une fois qu'on a la final 8 sur comment ça s'appelle? Oui, une fois qu'on a la final 8 sur Houdini, via le module ZenRay HEI GHT, j'aimerais que tu me fasses en sorte de me faire une proposition de nouveau prompt, notamment avec le nouveau qu'on a mis."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815427901.840699,
+      "id" : "05EAFDC0-1D95-4758-A80D-8A48EC7672D4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "en mode plus simple et qui va de toute manière fonctionner puisque ça va être plus basé sur le code plutôt que autrement.",
+      "text" : "en mode plus simple et qui va de toute manière fonctionner puisque ça va être plus basé sur le code plutôt que autrement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815428164.918509,
+      "id" : "5AC22E29-5AB2-46E5-AC02-234D9097B31E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, j'ai l'impression que tu comprends rien. En fait, le but de la génération de la base color, c'est qu'ensuite on puisse donner la base color référence à Houdini pour qu'il reproduise via le script Python la bonne base color. Donc en fait, il faut faire un prompt beaucoup plus simple, beaucoup plus compréhensible, mais qui utilise quand même Python par rapport à la ref initiale. En fait, si tu veux, tu as la ref que tu as mis dans le dossier panel pour la. Par exemple, prends la capture 6. Dans le dossier panel, tu vois, tu as découpé une référence qui est éclairée. Cette référence, on a mis le prompt 8 et elle est passée dans une nouvelle 8. Cette nouvelle 8, on la met dans ZenRay HEIGHT. Une fois qu'on obtient la ref, la 8 final, eh bien, on lance le prompt avec cette nouvelle 8. Pour obtenir la base color flat. Et une fois que ChatGPT nous a donné la base color flat, on re-input les deux pour faire en sorte d'obtenir la vraie base color. Donc c'est ça le prompt équivalent que tu dois construire.",
+      "text" : "Non, j'ai l'impression que tu comprends rien. En fait, le but de la génération de la base color, c'est qu'ensuite on puisse donner la base color référence à Houdini pour qu'il reproduise via le script Python la bonne base color. Donc en fait, il faut faire un prompt beaucoup plus simple, beaucoup plus compréhensible, mais qui utilise quand même Python par rapport à la ref initiale. En fait, si tu veux, tu as la ref que tu as mis dans le dossier panel pour la. Par exemple, prends la capture 6. Dans le dossier panel, tu vois, tu as découpé une référence qui est éclairée. Cette référence, on a mis le prompt 8 et elle est passée dans une nouvelle 8. Cette nouvelle 8, on la met dans ZenRay HEIGHT. Une fois qu'on obtient la ref, la 8 final, eh bien, on lance le prompt avec cette nouvelle 8. Pour obtenir la base color flat. Et une fois que ChatGPT nous a donné la base color flat, on re-input les deux pour faire en sorte d'obtenir la vraie base color. Donc c'est ça le prompt équivalent que tu dois construire."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815428313.652501,
+      "id" : "EEDA34CA-962B-4752-9393-7A722CD2DD6E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Maintenant, explique-moi pourquoi la Final 8 n'a pas atteint 99,9% de reproduction.",
+      "text" : "Maintenant, explique-moi pourquoi la Final 8 n'a pas atteint 99,9% de reproduction."
     }
   ],
   "modes" : [
