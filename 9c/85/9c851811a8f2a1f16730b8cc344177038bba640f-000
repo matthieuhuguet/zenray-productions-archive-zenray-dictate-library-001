@@ -24039,6 +24039,76 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Je crois que t'as pas compris ce dont je parlais à partir des traits. C'est pas les traits qu'il faut gommer, c'est l'effet d'arc du gommage de qui fait comme s'il y avait une ombre projetée. C'est ça qu'il faut gommer, c'est pas les traits. Tu comprends rien, t'es complètement con.",
       "text" : "Je crois que t'as pas compris ce dont je parlais à partir des traits. C'est pas les traits qu'il faut gommer, c'est l'effet d'arc du gommage de qui fait comme s'il y avait une ombre projetée. C'est ça qu'il faut gommer, c'est pas les traits. Tu comprends rien, t'es complètement con."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815430266.358907,
+      "id" : "784543FF-6FF6-41D1-8E50-62D8B936872B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ça marche pas le module arc pour gommer. Du coup, je vais essayer de lancer un prompt à partir de l'image obtenue via Python pour gommer l'effet d'arc.",
+      "text" : "Ça marche pas le module arc pour gommer. Du coup, je vais essayer de lancer un prompt à partir de l'image obtenue via Python pour gommer l'effet d'arc."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815430292.121705,
+      "id" : "1EC7A5B1-6D35-4238-AB07-D98150D417CF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "du coup pas via Python, via plutôt AI Gen. On va essayer. Donc donne-moi un prompt pour faire ça.",
+      "text" : "du coup pas via Python, via plutôt AI Gen. On va essayer. Donc donne-moi un prompt pour faire ça."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815430319.761373,
+      "id" : "D2C35E01-61D4-4EB5-A74C-4F3F17E334E9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, c'est step 1. On récupère la ref éclairée avec un défaut d'ombrage. Step 2, on utilise le prompt 8 pour la convertir en 8 parfaite via Python. Et step 3, on utilise l'image l'AI gen pour convertir, en fait, pour retirer notre bug d'ombrage directement depuis la texture. Et ensuite, on compare.",
+      "text" : "En fait, c'est step 1. On récupère la ref éclairée avec un défaut d'ombrage. Step 2, on utilise le prompt 8 pour la convertir en 8 parfaite via Python. Et step 3, on utilise l'image l'AI gen pour convertir, en fait, pour retirer notre bug d'ombrage directement depuis la texture. Et ensuite, on compare."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815430428.422489,
+      "id" : "A0705DE8-26A9-4B8A-A7A7-F2278BC6B9FA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Non, en soi, ça peut être beaucoup plus simple comme prompt.",
+      "text" : "Non, en soi, ça peut être beaucoup plus simple comme prompt."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815430466.433316,
+      "id" : "D8C4BC70-7F33-443A-8830-5CC81B25544D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Oui, mais en fait, le truc, c'est que l'effet dark, c'est pas forcément un effet dark. Tu vois, ça peut être un autre type d'effet. C'est juste un problème d'ombrage, surtout, qu'il faut corriger.",
+      "text" : "Oui, mais en fait, le truc, c'est que l'effet dark, c'est pas forcément un effet dark. Tu vois, ça peut être un autre type d'effet. C'est juste un problème d'ombrage, surtout, qu'il faut corriger."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815430482.10541,
+      "id" : "C5FE94D9-36FC-4520-8A64-82E4E3D6226B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "dark égale D apostrophe ARC.",
+      "text" : "dark égale D apostrophe ARC."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815430513.389341,
+      "id" : "FC84672B-3221-4318-8FAA-15973F382AD9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, bah le prompt est parfait. Le prompt est parfait, donc consigne-le. Mais consigne aussi les steps dans la chaîne de valeur de manière logique.",
+      "text" : "Ok, bah le prompt est parfait. Le prompt est parfait, donc consigne-le. Mais consigne aussi les steps dans la chaîne de valeur de manière logique."
     }
   ],
   "modes" : [
