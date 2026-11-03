@@ -24459,6 +24459,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "peut-être fais un test par toi-même et essaie de, encore une fois, modifier le prompt via mes images.",
       "text" : "peut-être fais un test par toi-même et essaie de, encore une fois, modifier le prompt via mes images."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815440350.621061,
+      "id" : "31374744-AD52-4127-A623-70A6C8D7837B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je pense que c'est jamais une bonne idée d'avoir une valeur absolue pour n'importe quel concept. Donc évite ce genre de conclusion et de méthodologie.",
+      "text" : "Je pense que c'est jamais une bonne idée d'avoir une valeur absolue pour n'importe quel concept. Donc évite ce genre de conclusion et de méthodologie."
     }
   ],
   "modes" : [
