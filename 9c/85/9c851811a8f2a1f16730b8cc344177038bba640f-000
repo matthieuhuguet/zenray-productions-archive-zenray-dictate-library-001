@@ -25009,6 +25009,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Il n'y avait pas des nouveaux projets qui avaient été décompilés et recompilés?",
       "text" : "Il n'y avait pas des nouveaux projets qui avaient été décompilés et recompilés?"
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815511892.083136,
+      "id" : "03C14A15-FD18-4AA7-A023-2E819FB22A63",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Je comprends, mais je vous demanderai alors de faire une réduction à 250 € pour prendre le risque et ça me conviendrait.",
+      "text" : "Je comprends, mais je vous demanderai alors de faire une réduction à 250 € pour prendre le risque et ça me conviendrait."
     }
   ],
   "modes" : [
