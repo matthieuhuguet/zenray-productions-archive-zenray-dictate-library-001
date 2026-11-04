@@ -24719,6 +24719,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "notamment via un éclairage lumen. Et bah vas-y, commence à mettre du coup le component dans la scène Unreal via MCP.",
       "text" : "notamment via un éclairage lumen. Et bah vas-y, commence à mettre du coup le component dans la scène Unreal via MCP."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815447338.836501,
+      "id" : "5873AF85-C335-4DCD-98FB-BF057D91B36A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Le spotlight est mieux, mais bon, je pense que de toute manière, il faut relancer une génération de... Il faut relancer une génération au niveau de la base color. Mais du coup, je me pose la question si en fait, au final, notre prompt était si bien que ça. Parce que, en fait, la question que je me posais, c'était est-ce que, au final, plus on a une... Plus on a une base color plus ou moins flat, est-ce que c'est mieux? Et en fait, au final, pas vraiment. Parce que, tu vois, je me pose la question si, par exemple, C3, c'était mieux que D2, et au final, j'ai l'impression que non, en fait. Plus on avait de détails sur l'information de couleur, mieux c'était. Du coup, je me pose vraiment la question si appliquer le Retinex, etc., c'était une si bonne idée, tu vois. Parce qu'au final, ce qu'on fait, c'est qu'on flatte pas mal la couleur, et en soi, c'est pas une mauvaise chose pour enlever l'ombrage, mais est-ce que c'est... Enfin, c'est un peu bête, parce que du coup, on perd pas mal de saturation. Donc peut-être tenter une nouvelle version pour garder un maximum d'infos, tout en se basant sur le fait que on veut enlever l'ombrage de toute manière. Donc redonne-moi un prompt ultra complet pour la base color. En tirant du coup les conclusions qui font que en soi C3 était moins bien que D2, tu vois.",
+      "text" : "Le spotlight est mieux, mais bon, je pense que de toute manière, il faut relancer une génération de... Il faut relancer une génération au niveau de la base color. Mais du coup, je me pose la question si en fait, au final, notre prompt était si bien que ça. Parce que, en fait, la question que je me posais, c'était est-ce que, au final, plus on a une... Plus on a une base color plus ou moins flat, est-ce que c'est mieux? Et en fait, au final, pas vraiment. Parce que, tu vois, je me pose la question si, par exemple, C3, c'était mieux que D2, et au final, j'ai l'impression que non, en fait. Plus on avait de détails sur l'information de couleur, mieux c'était. Du coup, je me pose vraiment la question si appliquer le Retinex, etc., c'était une si bonne idée, tu vois. Parce qu'au final, ce qu'on fait, c'est qu'on flatte pas mal la couleur, et en soi, c'est pas une mauvaise chose pour enlever l'ombrage, mais est-ce que c'est... Enfin, c'est un peu bête, parce que du coup, on perd pas mal de saturation. Donc peut-être tenter une nouvelle version pour garder un maximum d'infos, tout en se basant sur le fait que on veut enlever l'ombrage de toute manière. Donc redonne-moi un prompt ultra complet pour la base color. En tirant du coup les conclusions qui font que en soi C3 était moins bien que D2, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815447796.902689,
+      "id" : "19FB5A78-FBB1-4815-8398-7F654F1F5030",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, à la limite, tu vois, ce qu'il aurait fallu faire avant que tu me redonnes le prompt, c'était vraiment en termes de pixels. C'était pas forcément en termes d'allure. C'était surtout en termes de, pixels. C'était peut-être pour ça que M6 au final était un peu mieux, tu vois. Parce qu'en fait, je pense qu'il fallait changer. C'est évidemment mieux à gauche. Bref. Bref, on reprendra demain de toute manière. On reprendra demain, mais il faut... Mais il faudra retester pour obtenir une meilleure base color. Tiens.",
+      "text" : "En fait, à la limite, tu vois, ce qu'il aurait fallu faire avant que tu me redonnes le prompt, c'était vraiment en termes de pixels. C'était pas forcément en termes d'allure. C'était surtout en termes de, pixels. C'était peut-être pour ça que M6 au final était un peu mieux, tu vois. Parce qu'en fait, je pense qu'il fallait changer. C'est évidemment mieux à gauche. Bref. Bref, on reprendra demain de toute manière. On reprendra demain, mais il faut... Mais il faudra retester pour obtenir une meilleure base color. Tiens."
     }
   ],
   "modes" : [
