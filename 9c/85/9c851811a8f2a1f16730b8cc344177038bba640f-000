@@ -25019,6 +25019,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Je comprends, mais je vous demanderai alors de faire une réduction à 250 € pour prendre le risque et ça me conviendrait.",
       "text" : "Je comprends, mais je vous demanderai alors de faire une réduction à 250 € pour prendre le risque et ça me conviendrait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815512609.691022,
+      "id" : "7A65C780-1DE1-40AD-88BA-870D1CF586EE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Fais en sorte d'améliorer le skill, l'algorithme et le sculpte et le organique. Tu as carte blanche. Focus surtout sur l'organique. Tu as carte blanche jusqu'à minuit ce soir.",
+      "text" : "Fais en sorte d'améliorer le skill, l'algorithme et le sculpte et le organique. Tu as carte blanche. Focus surtout sur l'organique. Tu as carte blanche jusqu'à minuit ce soir."
     }
   ],
   "modes" : [
