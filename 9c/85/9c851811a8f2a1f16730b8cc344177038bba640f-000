@@ -24749,6 +24749,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "ce paragraphe, mets-le en... GT America LCGV de manière standard, à part le @ZenRay, et déploie directement. Même taille de fond, etc.",
       "text" : "ce paragraphe, mets-le en... GT America LCGV de manière standard, à part le @ZenRay, et déploie directement. Même taille de fond, etc."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815448920.013385,
+      "id" : "7DEA1C46-B75E-4262-8FA4-B9AEF484E27A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Le problème, c'est que actuellement, ce qu'on fait, à mon avis, dans le prompt et dans le script Python, ça marche pas du tout. Donc en fait, ce qu'il faut, c'est simplement corriger la base color. Repartons de zéro. En fait, ce qu'il faut, c'est corriger la base color afin de corriger le bug d'ombrage, puis d'essayer d'obtenir le plus de détails depuis la base color, mais sans lighting, etc. Donc il faudrait que tu fasses le test de toi-même et ensuite on adaptera le prompt. Mais là actuellement le prompt il fait trop de variations qui changent complètement l'image et du coup on n'obtient pas les bonnes couleurs, etc. Donc faisons une sheet qui nous permette de tester des choses et je sais pas trop quoi faire.",
+      "text" : "Le problème, c'est que actuellement, ce qu'on fait, à mon avis, dans le prompt et dans le script Python, ça marche pas du tout. Donc en fait, ce qu'il faut, c'est simplement corriger la base color. Repartons de zéro. En fait, ce qu'il faut, c'est corriger la base color afin de corriger le bug d'ombrage, puis d'essayer d'obtenir le plus de détails depuis la base color, mais sans lighting, etc. Donc il faudrait que tu fasses le test de toi-même et ensuite on adaptera le prompt. Mais là actuellement le prompt il fait trop de variations qui changent complètement l'image et du coup on n'obtient pas les bonnes couleurs, etc. Donc faisons une sheet qui nous permette de tester des choses et je sais pas trop quoi faire."
     }
   ],
   "modes" : [
