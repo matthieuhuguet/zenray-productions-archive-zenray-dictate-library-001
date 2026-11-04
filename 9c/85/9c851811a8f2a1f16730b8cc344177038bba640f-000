@@ -24789,6 +24789,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Mais du coup, tu as compris que tu dois construire une app avec toute la liste de jeux ou pas?",
       "text" : "Mais du coup, tu as compris que tu dois construire une app avec toute la liste de jeux ou pas?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815487952.875976,
+      "id" : "75C6FFC8-8707-4211-8BD4-C62D30D6AC56",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Attends. Mais du coup, il faut utiliser NX native ou NX to Apple. Utilise le projet GitHub avec le plus de stars.",
+      "text" : "Attends. Mais du coup, il faut utiliser NX native ou NX to Apple. Utilise le projet GitHub avec le plus de stars."
     }
   ],
   "modes" : [
