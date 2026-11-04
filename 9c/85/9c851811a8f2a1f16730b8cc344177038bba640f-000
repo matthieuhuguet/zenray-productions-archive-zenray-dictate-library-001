@@ -24619,6 +24619,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Bah, en attendant, du coup, tu peux set up la scène.",
       "text" : "Bah, en attendant, du coup, tu peux set up la scène."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815444057.127028,
+      "id" : "1922466C-F79A-4D84-BF9A-A8AD2DB60DA8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est pas une boule en fait, c'est un cylindre qu'il faut faire pour le rendu. Et il faut que tu fasses les UV parfaitement. C'est un cylindre avec un bord légèrement arrondi. Si tu peux me setup ça, s'il te plaît. Avec plus ou moins le même angle de caméra pour la capture.",
+      "text" : "C'est pas une boule en fait, c'est un cylindre qu'il faut faire pour le rendu. Et il faut que tu fasses les UV parfaitement. C'est un cylindre avec un bord légèrement arrondi. Si tu peux me setup ça, s'il te plaît. Avec plus ou moins le même angle de caméra pour la capture."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815444476.279492,
+      "id" : "963AB8F3-A9E4-4098-A602-B96505FAB9AD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Honnêtement, je suis passé sur Mac, j'ai vraiment pas le temps de réinstaller ce disque sur un PC. J'en ai même pas, j'ai même pas de PC Windows, donc honnêtement, je pourrais même pas le faire. Ce que je sais, c'est que ce disque fonctionnait très bien. J'en avais plusieurs de 2 TB, un de 4 TB et un de 8 TB. Et ce que je sais, c'est que ceux de 8 TB étaient quand même légèrement plus lent que ceux de 4 TB et encore plus lent que ceux de 2 TB. En fait, plus vous avez d'espace, plus le disque est lent globalement, mais moins il fait de bruit et globalement, il dure vraiment très longtemps dans le temps. Mais je pourrais pas vous donner une image que vous attendez de toute manière.",
+      "text" : "Honnêtement, je suis passé sur Mac, j'ai vraiment pas le temps de réinstaller ce disque sur un PC. J'en ai même pas, j'ai même pas de PC Windows, donc honnêtement, je pourrais même pas le faire. Ce que je sais, c'est que ce disque fonctionnait très bien. J'en avais plusieurs de 2 TB, un de 4 TB et un de 8 TB. Et ce que je sais, c'est que ceux de 8 TB étaient quand même légèrement plus lent que ceux de 4 TB et encore plus lent que ceux de 2 TB. En fait, plus vous avez d'espace, plus le disque est lent globalement, mais moins il fait de bruit et globalement, il dure vraiment très longtemps dans le temps. Mais je pourrais pas vous donner une image que vous attendez de toute manière."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815444661.182149,
+      "id" : "AB6D507E-C394-4458-8D5A-C5DDF6042E1C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "J'ai un problème actuellement avec l'UI de ZenRay Assets. C'est que quand je vois 44 opérations en attente, en fait, on ne sait pas exactement quelles opérations sont en attente et ni quelles commandes GitHub sont lancées actuellement. Donc j'aimerais bien que tu qu'il y ait un petit toggle qui permette de voir un petit peu plus de détails sur vraiment quelles sont les opérations en attente et qu'est-ce qui se joue en termes de commandes. Un peu comme si un terminal renaît une fois qu'on ouvre l'outil dépliant. Et ensuite, il y a un problème sur les nombres, c'est qu'en fait, ils sont mis en GT ultra bold, alors qu'en fait, ils devraient simplement être en GT... Enfin, la weight de la fonte de GT ultra devrait être la même plus ou moins un peu partout. Et je me pose la question si on ne devrait pas mettre une fonte peut-être un peu plus... peut-être un peu plus différente. Donc, en fait, ce que j'aimerais faire, c'est... faire en sorte que tu reprennes mes Grilly Type et me créer via ZenRay Edit un document où je peux changer l'interface actuelle de mon UI simplement sur cette UI via un index HTML, et comme ça je peux choisir directement la bonne fonte qu'il me faut, et ensuite je te la renvoie une fois que tu m'as créé tout ça. Mais de toute manière, il faut que tu me crées le module UI aussi depuis le terminal. Enfin, pas depuis le terminal, mais depuis 44 opérations en attente, tu me crées un petit toggle, et comme ça, je peux choisir le design aussi du terminal et des commandes qui sont envoyées et des informations complémentaires. Mais ça doit être quand même une UI relativement minimale, parce qu'il y a déjà beaucoup d'éléments globalement. Donc voilà ce qu'il faudrait faire.",
+      "text" : "J'ai un problème actuellement avec l'UI de ZenRay Assets. C'est que quand je vois 44 opérations en attente, en fait, on ne sait pas exactement quelles opérations sont en attente et ni quelles commandes GitHub sont lancées actuellement. Donc j'aimerais bien que tu qu'il y ait un petit toggle qui permette de voir un petit peu plus de détails sur vraiment quelles sont les opérations en attente et qu'est-ce qui se joue en termes de commandes. Un peu comme si un terminal renaît une fois qu'on ouvre l'outil dépliant. Et ensuite, il y a un problème sur les nombres, c'est qu'en fait, ils sont mis en GT ultra bold, alors qu'en fait, ils devraient simplement être en GT... Enfin, la weight de la fonte de GT ultra devrait être la même plus ou moins un peu partout. Et je me pose la question si on ne devrait pas mettre une fonte peut-être un peu plus... peut-être un peu plus différente. Donc, en fait, ce que j'aimerais faire, c'est... faire en sorte que tu reprennes mes Grilly Type et me créer via ZenRay Edit un document où je peux changer l'interface actuelle de mon UI simplement sur cette UI via un index HTML, et comme ça je peux choisir directement la bonne fonte qu'il me faut, et ensuite je te la renvoie une fois que tu m'as créé tout ça. Mais de toute manière, il faut que tu me crées le module UI aussi depuis le terminal. Enfin, pas depuis le terminal, mais depuis 44 opérations en attente, tu me crées un petit toggle, et comme ça, je peux choisir le design aussi du terminal et des commandes qui sont envoyées et des informations complémentaires. Mais ça doit être quand même une UI relativement minimale, parce qu'il y a déjà beaucoup d'éléments globalement. Donc voilà ce qu'il faudrait faire."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815444775.348559,
+      "id" : "F6B45CAD-22C9-4E5F-9340-A1D114FC8EB1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Pas mal du tout, sauf que par contre, ce qu'il faudrait faire, c'est que le haut du cylindre ce soit aussi par rapport aux UV. C'est-à-dire que le haut du cylindre, les UV doivent respecter le fait de d'aller tout en haut par rapport à la texture cylindrique de l'arrondi. En fait, ce que je veux dire, c'est que si tu veux, tu as un cylindre arrondi, et à part au top, en fait, l'edge du top se fait que sur la face aplatie par rapport aux UV. Si tu veux, tu peux me lancer une sheet d'UV et je choisis laquelle je veux. Mais en fait, c'est juste que le bord légèrement arrondi, c'est le edge qui découpe le cylindre. Et c'est pas avant. En fait, là, tu as fait la coupure au début de l'arrondi, alors qu'en fait, c'est à la fin de l'arrondi sur la face plate. Tiens. Au niveau des UV et de la découpe. Ce qu'il faut faire.",
+      "text" : "Pas mal du tout, sauf que par contre, ce qu'il faudrait faire, c'est que le haut du cylindre ce soit aussi par rapport aux UV. C'est-à-dire que le haut du cylindre, les UV doivent respecter le fait de d'aller tout en haut par rapport à la texture cylindrique de l'arrondi. En fait, ce que je veux dire, c'est que si tu veux, tu as un cylindre arrondi, et à part au top, en fait, l'edge du top se fait que sur la face aplatie par rapport aux UV. Si tu veux, tu peux me lancer une sheet d'UV et je choisis laquelle je veux. Mais en fait, c'est juste que le bord légèrement arrondi, c'est le edge qui découpe le cylindre. Et c'est pas avant. En fait, là, tu as fait la coupure au début de l'arrondi, alors qu'en fait, c'est à la fin de l'arrondi sur la face plate. Tiens. Au niveau des UV et de la découpe. Ce qu'il faut faire."
     }
   ],
   "modes" : [
