@@ -24949,6 +24949,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Ok, donc je les ai toutes mis dans TPDE, mais du coup c'est bon, ça suffit, ou est-ce que je dois rename TPDE?",
       "text" : "Ok, donc je les ai toutes mis dans TPDE, mais du coup c'est bon, ça suffit, ou est-ce que je dois rename TPDE?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815491564.314096,
+      "id" : "4579C443-1F17-4CF9-A828-18C2C61AC225",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Certains modes se sont activés, mais je crois que j'ai pas mis le mode de texture. Ou alors il n'est pas détecté. Ah non, attends. Vérifie que Use Texture Pack est activé dans Réglage vidéo. Alors attends, je vais vérifier. Réglage vidéo. Il n'y a pas un truc qui s'appelle Réglage vidéo. Ah si, vidéo. Enable Texture Replacement. Ouais, ouais, c'est bon. C'est sur E. Ouais, parfait.",
+      "text" : "Certains modes se sont activés, mais je crois que j'ai pas mis le mode de texture. Ou alors il n'est pas détecté. Ah non, attends. Vérifie que Use Texture Pack est activé dans Réglage vidéo. Alors attends, je vais vérifier. Réglage vidéo. Il n'y a pas un truc qui s'appelle Réglage vidéo. Ah si, vidéo. Enable Texture Replacement. Ouais, ouais, c'est bon. C'est sur E. Ouais, parfait."
     }
   ],
   "modes" : [
