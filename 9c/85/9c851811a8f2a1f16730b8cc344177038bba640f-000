@@ -24689,6 +24689,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "C'est complètement con en fait.",
       "text" : "C'est complètement con en fait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815445567.844931,
+      "id" : "12864CD1-0DFF-4874-807E-D38155B3320F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ah mais non, en fait, je crois que tu t'étais pas trompé. Mais c'est juste que, en fait, ça fait un rendu bizarre parce que l'arrondi, il est trop. Il est dans un niveau où on ne le voit pas et c'est comme s'il était divisé par deux en termes d'aplatissement. En fait, ça rend bizarre. C'est pas toi qui t'es trompé en termes du V, mais c'est que, en fait, si tu veux, vu que ça fait un arrondi à demi-moitié, c'est comme si ça croppait ma texture en deux, tandis que c'est pas exactement ce qu'on veut par rapport à la référence. La référence initiale que je vais te retrouver. Ah, c'est bon, je l'ai retrouvé. Donc c'est la Zora 1. En fait, oui, je sais pourquoi. Ah non, en fait, je sais pas. En fait, je sais pas exactement pourquoi. En fait, c'est peut-être parce que la silhouette du cylindre est pas exactement la même et qu'en fait, ça fait un cylindre qui se courbe beaucoup plus rapidement et qui est peut-être un petit peu plus carré que notre cylindre à nous. Essaie de reprendre la silhouette du cylindre pour essayer de reproduire exactement le même. Parce que là, le cylindre que tu as fait, en fait, c'est ça le problème, c'est qu'il n'est pas exactement le même et du coup, ça crée une demi-pliure sur la bonne mesure.",
+      "text" : "Ah mais non, en fait, je crois que tu t'étais pas trompé. Mais c'est juste que, en fait, ça fait un rendu bizarre parce que l'arrondi, il est trop. Il est dans un niveau où on ne le voit pas et c'est comme s'il était divisé par deux en termes d'aplatissement. En fait, ça rend bizarre. C'est pas toi qui t'es trompé en termes du V, mais c'est que, en fait, si tu veux, vu que ça fait un arrondi à demi-moitié, c'est comme si ça croppait ma texture en deux, tandis que c'est pas exactement ce qu'on veut par rapport à la référence. La référence initiale que je vais te retrouver. Ah, c'est bon, je l'ai retrouvé. Donc c'est la Zora 1. En fait, oui, je sais pourquoi. Ah non, en fait, je sais pas. En fait, je sais pas exactement pourquoi. En fait, c'est peut-être parce que la silhouette du cylindre est pas exactement la même et qu'en fait, ça fait un cylindre qui se courbe beaucoup plus rapidement et qui est peut-être un petit peu plus carré que notre cylindre à nous. Essaie de reprendre la silhouette du cylindre pour essayer de reproduire exactement le même. Parce que là, le cylindre que tu as fait, en fait, c'est ça le problème, c'est qu'il n'est pas exactement le même et du coup, ça crée une demi-pliure sur la bonne mesure."
     }
   ],
   "modes" : [
