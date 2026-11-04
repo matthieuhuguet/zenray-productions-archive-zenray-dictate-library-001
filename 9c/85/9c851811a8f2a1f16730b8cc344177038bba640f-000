@@ -24829,6 +24829,96 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Du coup, ce qu'on va faire, c'est que on va clean rename les parties de ce jeu de la ROM Wii U HD. Mais je ne sais pas si elles doivent rester en rare ou si tu dois les unzip. Et à défaut, tu les clean rename de toute manière.",
       "text" : "Du coup, ce qu'on va faire, c'est que on va clean rename les parties de ce jeu de la ROM Wii U HD. Mais je ne sais pas si elles doivent rester en rare ou si tu dois les unzip. Et à défaut, tu les clean rename de toute manière."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815489015.565727,
+      "id" : "ED1B847F-B201-40EF-852A-A6887FD1252E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais du coup, pourquoi mon fichier est à des fichiers extraits et c'est pas une ISO ou une AVZ?",
+      "text" : "Mais du coup, pourquoi mon fichier est à des fichiers extraits et c'est pas une ISO ou une AVZ?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815489179.969437,
+      "id" : "9EAF0C8F-A9F6-4512-8C12-628B6CB02A3D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Attends, du coup, j'ai mon fichier. Attends, hop. What? Pourquoi? Attends. Du coup,",
+      "text" : "Attends, du coup, j'ai mon fichier. Attends, hop. What? Pourquoi? Attends. Du coup,"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815489191.304391,
+      "id" : "4A824196-3FC3-4580-9D4D-3D2A99F5220A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, j'ai mon jeu. Comment est-ce que je fais pour le compiler directement via NX Native?",
+      "text" : "Du coup, j'ai mon jeu. Comment est-ce que je fais pour le compiler directement via NX Native?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815489282.81661,
+      "id" : "9B149A49-26D9-4BE2-8B7A-1666B7CF1867",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Attends, fais une web search pour savoir si la version Wii U de Twilight Princess est disponible. Et si NX Native ne compile que les jeux Switch, ben installe-moi du coup la nouvelle solution équivalente pour les jeux Wii U ou les jeux GameCube.",
+      "text" : "Attends, fais une web search pour savoir si la version Wii U de Twilight Princess est disponible. Et si NX Native ne compile que les jeux Switch, ben installe-moi du coup la nouvelle solution équivalente pour les jeux Wii U ou les jeux GameCube."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815489405.200892,
+      "id" : "A8E8E293-504F-4F01-980D-34B95A495C55",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "trouve ce qui peut être libéré sur mon Mac en termes d'espace.",
+      "text" : "trouve ce qui peut être libéré sur mon Mac en termes d'espace."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815489419.645008,
+      "id" : "3840E327-033B-4B71-974E-DCF9F32B5999",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je crois que c'est à cause de ZenRay Assets et de Google Drive. Donc essaie de clean up les dossiers qui sont actuellement libérés, ou libérables plutôt.",
+      "text" : "Je crois que c'est à cause de ZenRay Assets et de Google Drive. Donc essaie de clean up les dossiers qui sont actuellement libérés, ou libérables plutôt."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815489430.957092,
+      "id" : "C3AF0EED-73E0-4890-B5FE-CF19004D6B8A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Délègue aussi à un agent de changer la fonte sur ZenRay Assets pour mettre à la place de GT America, de mettre Adobe Clean.",
+      "text" : "Délègue aussi à un agent de changer la fonte sur ZenRay Assets pour mettre à la place de GT America, de mettre Adobe Clean."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815489512.017006,
+      "id" : "389E7CC8-0AF0-436B-8E4B-83F51AAAEA3A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je te demande pas de le compiler, je te demande juste de me rendre l'app, comme ça c'est moi qui fais ces décisions.",
+      "text" : "Je te demande pas de le compiler, je te demande juste de me rendre l'app, comme ça c'est moi qui fais ces décisions."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815489521.113213,
+      "id" : "F640D21D-8D68-4B14-8F8E-98C3A1D936CD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais du coup, je vais d'abord chercher la game, la ROM GameCube.",
+      "text" : "Mais du coup, je vais d'abord chercher la game, la ROM GameCube."
     }
   ],
   "modes" : [
