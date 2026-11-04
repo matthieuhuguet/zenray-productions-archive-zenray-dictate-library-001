@@ -24929,6 +24929,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Mais j'avais des jeux sur mon PC, pourquoi tu les listes pas, espèce d'enculé? Je vais te défoncer, moi, la gueule.",
       "text" : "Mais j'avais des jeux sur mon PC, pourquoi tu les listes pas, espèce d'enculé? Je vais te défoncer, moi, la gueule."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815491292.249322,
+      "id" : "ECDC9EA6-431B-4FEA-88E0-A9271A156BA8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Est-ce que du coup mes dossiers de texture ils sont bien mis unzip dans le bon endroit? Parce que le premier c'est bizarre parce qu'il s'appelle TPDE plus 2.1 et les autres ils s'appellent part 2, part 3, part 4. Donc je pense que faut peut-être les mettre à un autre endroit. Est-ce que tu peux me dire précisément comment les disposer? Fais une web search d'abord.",
+      "text" : "Est-ce que du coup mes dossiers de texture ils sont bien mis unzip dans le bon endroit? Parce que le premier c'est bizarre parce qu'il s'appelle TPDE plus 2.1 et les autres ils s'appellent part 2, part 3, part 4. Donc je pense que faut peut-être les mettre à un autre endroit. Est-ce que tu peux me dire précisément comment les disposer? Fais une web search d'abord."
     }
   ],
   "modes" : [
