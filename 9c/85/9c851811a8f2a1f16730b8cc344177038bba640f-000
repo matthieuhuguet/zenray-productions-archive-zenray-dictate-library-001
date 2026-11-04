@@ -24549,6 +24549,46 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Et enfin, comme ça, je choisis lequel je garde pour D1, D2 et C3 pour lancer la reproduction de la base color directement dans Houdini via ZenRay 8. ZenRay 8, du coup, qui possède déjà le script Python qui permet de reproduire la base color à l'identique.",
       "text" : "Et enfin, comme ça, je choisis lequel je garde pour D1, D2 et C3 pour lancer la reproduction de la base color directement dans Houdini via ZenRay 8. ZenRay 8, du coup, qui possède déjà le script Python qui permet de reproduire la base color à l'identique."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815443000.604946,
+      "id" : "7682185D-5BFA-4535-B7BF-09978258506C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Bah non, tu te trompes, l'étape 4 pour la rolling ball par le haut, elle était beaucoup plus complète et je t'ai dit justement à ce moment-là de pas faire de spécification et de pas faire de méthode généraliste et à ce moment-là tu l'as modifié. Donc à mon avis, dans le si tu la trouves pas dans le contexte et le versioning Git, tu peux la trouver dans le fichier feedback qui réunit toute la conversation via le skill resume coordinator.",
+      "text" : "Bah non, tu te trompes, l'étape 4 pour la rolling ball par le haut, elle était beaucoup plus complète et je t'ai dit justement à ce moment-là de pas faire de spécification et de pas faire de méthode généraliste et à ce moment-là tu l'as modifié. Donc à mon avis, dans le si tu la trouves pas dans le contexte et le versioning Git, tu peux la trouver dans le fichier feedback qui réunit toute la conversation via le skill resume coordinator."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815443126.471594,
+      "id" : "3F6AC53B-BEE5-47AE-B3AF-510B2F916599",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc tu auras du coup les 5 maps directement depuis Copernicus. Tu lances le workflow depuis la 8 pour obtenir le reste des maps. Tu obtiens la ref et ensuite tu me lances deux variations en karma CPU pour que je puisse trancher entre, entre du coup la version D2 et la version C3.",
+      "text" : "Donc tu auras du coup les 5 maps directement depuis Copernicus. Tu lances le workflow depuis la 8 pour obtenir le reste des maps. Tu obtiens la ref et ensuite tu me lances deux variations en karma CPU pour que je puisse trancher entre, entre du coup la version D2 et la version C3."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815443211.94286,
+      "id" : "FBF7EBDD-780A-493B-8153-26B543379F19",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Les rendus karma CPU sont faits exactement comme hier. Je les ai faits, notamment, tu peux regarder le fichier progress pour comprendre le contexte. Mais hier, via l'eurodatage, on a fait... on a repris la scène céramique qui contenait à la fois une scène... Enfin, tu peux regarder les fichiers .ip sur Houdini pour directement comprendre directement. Mais on avait du coup une plane et une sphère. Et en fait, le but, c'était... Je crois qu'on a appelé le projet Texturing Alien Skin. Et le but, c'était du coup de faire les rendus sur Karma CPU et ensuite de mettre la scène dans Unreal. Mais pour l'instant, tu fais d'abord les rendus sur Karma CPU. Ça me suffit pour trancher quelle base color est la meilleure entre D2 et C3.",
+      "text" : "Les rendus karma CPU sont faits exactement comme hier. Je les ai faits, notamment, tu peux regarder le fichier progress pour comprendre le contexte. Mais hier, via l'eurodatage, on a fait... on a repris la scène céramique qui contenait à la fois une scène... Enfin, tu peux regarder les fichiers .ip sur Houdini pour directement comprendre directement. Mais on avait du coup une plane et une sphère. Et en fait, le but, c'était... Je crois qu'on a appelé le projet Texturing Alien Skin. Et le but, c'était du coup de faire les rendus sur Karma CPU et ensuite de mettre la scène dans Unreal. Mais pour l'instant, tu fais d'abord les rendus sur Karma CPU. Ça me suffit pour trancher quelle base color est la meilleure entre D2 et C3."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815443232.359727,
+      "id" : "699C27A4-8D7A-48ED-8D2F-2A4106E6CD9B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est juste au niveau de la scène, il faut que tu puisses comprendre de quoi je parle. Et je sais pas si le plus facile pour toi, c'est de fetch depuis Progress ou simplement de fetch depuis le contexte de ZenRay Houdini. Mais je pense pas que ce soit écrit dans ZenRay Houdini.",
+      "text" : "C'est juste au niveau de la scène, il faut que tu puisses comprendre de quoi je parle. Et je sais pas si le plus facile pour toi, c'est de fetch depuis Progress ou simplement de fetch depuis le contexte de ZenRay Houdini. Mais je pense pas que ce soit écrit dans ZenRay Houdini."
     }
   ],
   "modes" : [
