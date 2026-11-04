@@ -24759,6 +24759,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Le problème, c'est que actuellement, ce qu'on fait, à mon avis, dans le prompt et dans le script Python, ça marche pas du tout. Donc en fait, ce qu'il faut, c'est simplement corriger la base color. Repartons de zéro. En fait, ce qu'il faut, c'est corriger la base color afin de corriger le bug d'ombrage, puis d'essayer d'obtenir le plus de détails depuis la base color, mais sans lighting, etc. Donc il faudrait que tu fasses le test de toi-même et ensuite on adaptera le prompt. Mais là actuellement le prompt il fait trop de variations qui changent complètement l'image et du coup on n'obtient pas les bonnes couleurs, etc. Donc faisons une sheet qui nous permette de tester des choses et je sais pas trop quoi faire.",
       "text" : "Le problème, c'est que actuellement, ce qu'on fait, à mon avis, dans le prompt et dans le script Python, ça marche pas du tout. Donc en fait, ce qu'il faut, c'est simplement corriger la base color. Repartons de zéro. En fait, ce qu'il faut, c'est corriger la base color afin de corriger le bug d'ombrage, puis d'essayer d'obtenir le plus de détails depuis la base color, mais sans lighting, etc. Donc il faudrait que tu fasses le test de toi-même et ensuite on adaptera le prompt. Mais là actuellement le prompt il fait trop de variations qui changent complètement l'image et du coup on n'obtient pas les bonnes couleurs, etc. Donc faisons une sheet qui nous permette de tester des choses et je sais pas trop quoi faire."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815486989.042537,
+      "id" : "21BC56C7-93D2-4A1A-BC6D-3F0807010FAE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Donc, j'aimerais créer un skill qui s'appelle ZenRay Build Switch Games, qui me permettrait via NX Native ou NX to Apple de build les jeux qui sont recompilés sur Mac Game List ou sur Mac Recomp. Donc, tu me fais une liste de tous les jeux disponibles dans une database SQL, et comme ça, on peut déterminer quels jeux sont jouables actuellement parmi l'API de la base de données de Mac Game List. Et on peut faire en sorte de build directement les jeux. Donne-moi aussi tous les prérequis de ce que j'ai besoin, comme les keys. Mais vu que c'est une recompilation, je crois qu'il n'y a pas besoin d'émulateur. Et donc ensuite, donne-moi le temps d'estimation de chaque jeu à build. Et tu me crées le skill en premier.",
+      "text" : "Donc, j'aimerais créer un skill qui s'appelle ZenRay Build Switch Games, qui me permettrait via NX Native ou NX to Apple de build les jeux qui sont recompilés sur Mac Game List ou sur Mac Recomp. Donc, tu me fais une liste de tous les jeux disponibles dans une database SQL, et comme ça, on peut déterminer quels jeux sont jouables actuellement parmi l'API de la base de données de Mac Game List. Et on peut faire en sorte de build directement les jeux. Donne-moi aussi tous les prérequis de ce que j'ai besoin, comme les keys. Mais vu que c'est une recompilation, je crois qu'il n'y a pas besoin d'émulateur. Et donc ensuite, donne-moi le temps d'estimation de chaque jeu à build. Et tu me crées le skill en premier."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815487024.788954,
+      "id" : "4816E68E-4E6B-4A40-A722-1DB8CED39203",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "En fait, c'est pas uniquement Build Switch Games, puisque il y a aussi des jeux de Wii U et de N64. Donc en fait, c'est peut-être plutôt Build Nintendo Games. Ou alors, mets un nom un peu plus parlant pour le Skills.",
+      "text" : "En fait, c'est pas uniquement Build Switch Games, puisque il y a aussi des jeux de Wii U et de N64. Donc en fait, c'est peut-être plutôt Build Nintendo Games. Ou alors, mets un nom un peu plus parlant pour le Skills."
     }
   ],
   "modes" : [
