@@ -24739,6 +24739,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "En fait, à la limite, tu vois, ce qu'il aurait fallu faire avant que tu me redonnes le prompt, c'était vraiment en termes de pixels. C'était pas forcément en termes d'allure. C'était surtout en termes de, pixels. C'était peut-être pour ça que M6 au final était un peu mieux, tu vois. Parce qu'en fait, je pense qu'il fallait changer. C'est évidemment mieux à gauche. Bref. Bref, on reprendra demain de toute manière. On reprendra demain, mais il faut... Mais il faudra retester pour obtenir une meilleure base color. Tiens.",
       "text" : "En fait, à la limite, tu vois, ce qu'il aurait fallu faire avant que tu me redonnes le prompt, c'était vraiment en termes de pixels. C'était pas forcément en termes d'allure. C'était surtout en termes de, pixels. C'était peut-être pour ça que M6 au final était un peu mieux, tu vois. Parce qu'en fait, je pense qu'il fallait changer. C'est évidemment mieux à gauche. Bref. Bref, on reprendra demain de toute manière. On reprendra demain, mais il faut... Mais il faudra retester pour obtenir une meilleure base color. Tiens."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815448559.543214,
+      "id" : "D23C5329-2D40-4B3F-B8FB-1D35A27FBA6E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "ce paragraphe, mets-le en... GT America LCGV de manière standard, à part le @ZenRay, et déploie directement. Même taille de fond, etc.",
+      "text" : "ce paragraphe, mets-le en... GT America LCGV de manière standard, à part le @ZenRay, et déploie directement. Même taille de fond, etc."
     }
   ],
   "modes" : [
