@@ -24659,6 +24659,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Pas mal du tout, sauf que par contre, ce qu'il faudrait faire, c'est que le haut du cylindre ce soit aussi par rapport aux UV. C'est-à-dire que le haut du cylindre, les UV doivent respecter le fait de d'aller tout en haut par rapport à la texture cylindrique de l'arrondi. En fait, ce que je veux dire, c'est que si tu veux, tu as un cylindre arrondi, et à part au top, en fait, l'edge du top se fait que sur la face aplatie par rapport aux UV. Si tu veux, tu peux me lancer une sheet d'UV et je choisis laquelle je veux. Mais en fait, c'est juste que le bord légèrement arrondi, c'est le edge qui découpe le cylindre. Et c'est pas avant. En fait, là, tu as fait la coupure au début de l'arrondi, alors qu'en fait, c'est à la fin de l'arrondi sur la face plate. Tiens. Au niveau des UV et de la découpe. Ce qu'il faut faire.",
       "text" : "Pas mal du tout, sauf que par contre, ce qu'il faudrait faire, c'est que le haut du cylindre ce soit aussi par rapport aux UV. C'est-à-dire que le haut du cylindre, les UV doivent respecter le fait de d'aller tout en haut par rapport à la texture cylindrique de l'arrondi. En fait, ce que je veux dire, c'est que si tu veux, tu as un cylindre arrondi, et à part au top, en fait, l'edge du top se fait que sur la face aplatie par rapport aux UV. Si tu veux, tu peux me lancer une sheet d'UV et je choisis laquelle je veux. Mais en fait, c'est juste que le bord légèrement arrondi, c'est le edge qui découpe le cylindre. Et c'est pas avant. En fait, là, tu as fait la coupure au début de l'arrondi, alors qu'en fait, c'est à la fin de l'arrondi sur la face plate. Tiens. Au niveau des UV et de la découpe. Ce qu'il faut faire."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815445151.161433,
+      "id" : "D414A158-20A7-43AB-9896-C6EA4FA38881",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "CB au niveau des UV, donc bravo. Mais par contre, j'ai une question. Est-ce que tu as bien fait le rendu des 5 maps? Est-ce que du coup tu peux me le redonner? Du coup, avec. Comment ça s'appelle? Est-ce que tu peux me redonner du coup le. Enfin, setup. La scène du coup avec comment ça s'appelle ma texture du coup je choisis évidemment des deux, mais par contre je me pose une question, c'est est-ce que tu peux faire en sorte de oui, de m'assurer que les 5 maps sont compute, et dans ce cas-là, tu me les donnes dans une sheet où j'ai à la fois mon rendu des deux et aussi le reste, en fait.",
+      "text" : "CB au niveau des UV, donc bravo. Mais par contre, j'ai une question. Est-ce que tu as bien fait le rendu des 5 maps? Est-ce que du coup tu peux me le redonner? Du coup, avec. Comment ça s'appelle? Est-ce que tu peux me redonner du coup le. Enfin, setup. La scène du coup avec comment ça s'appelle ma texture du coup je choisis évidemment des deux, mais par contre je me pose une question, c'est est-ce que tu peux faire en sorte de oui, de m'assurer que les 5 maps sont compute, et dans ce cas-là, tu me les donnes dans une sheet où j'ai à la fois mon rendu des deux et aussi le reste, en fait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815445343.596964,
+      "id" : "5A95C830-5D4F-486F-8451-4348100FEF53",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Et pourquoi t'as pas mis les bons UV? C'est dingue ça. Sur la B, découpe à la fin de l'arrondi sur la face plate. On voit bien que c'est pas du tout celle que tu viens de me compute. Donc tu viens de faire une erreur.",
+      "text" : "Et pourquoi t'as pas mis les bons UV? C'est dingue ça. Sur la B, découpe à la fin de l'arrondi sur la face plate. On voit bien que c'est pas du tout celle que tu viens de me compute. Donc tu viens de faire une erreur."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815445354.505532,
+      "id" : "9033DB37-79C0-45E4-B307-7857E1675473",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "C'est complètement con en fait.",
+      "text" : "C'est complètement con en fait."
     }
   ],
   "modes" : [
