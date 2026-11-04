@@ -24959,6 +24959,36 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Certains modes se sont activés, mais je crois que j'ai pas mis le mode de texture. Ou alors il n'est pas détecté. Ah non, attends. Vérifie que Use Texture Pack est activé dans Réglage vidéo. Alors attends, je vais vérifier. Réglage vidéo. Il n'y a pas un truc qui s'appelle Réglage vidéo. Ah si, vidéo. Enable Texture Replacement. Ouais, ouais, c'est bon. C'est sur E. Ouais, parfait.",
       "text" : "Certains modes se sont activés, mais je crois que j'ai pas mis le mode de texture. Ou alors il n'est pas détecté. Ah non, attends. Vérifie que Use Texture Pack est activé dans Réglage vidéo. Alors attends, je vais vérifier. Réglage vidéo. Il n'y a pas un truc qui s'appelle Réglage vidéo. Ah si, vidéo. Enable Texture Replacement. Ouais, ouais, c'est bon. C'est sur E. Ouais, parfait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815492260.724081,
+      "id" : "2FECB835-A3D5-4CB5-AF65-FC5BE6D1F3A4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il y a un truc qui me perturbe du coup, c'est de l'émulation, c'est pas une recompilation ça.",
+      "text" : "Il y a un truc qui me perturbe du coup, c'est de l'émulation, c'est pas une recompilation ça."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815492295.417628,
+      "id" : "7AA2A8D1-458C-4A2F-9290-380D013C624E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais il n'existe pas un projet de recompilation de Twilight Princess de ce jeu",
+      "text" : "Mais il n'existe pas un projet de recompilation de Twilight Princess de ce jeu"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815492300.139328,
+      "id" : "779B62BB-D7B7-4AC1-85B9-634EF3C9FA0E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "fait une web search.",
+      "text" : "fait une web search."
     }
   ],
   "modes" : [
