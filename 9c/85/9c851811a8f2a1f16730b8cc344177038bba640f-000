@@ -24809,6 +24809,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Qu'est-ce qu'on voulait savoir? Ah oui, est-ce que la version Wii U et Switch de Zelda Twilight Princess HD, c'est strictement la même ou pas?",
       "text" : "Qu'est-ce qu'on voulait savoir? Ah oui, est-ce que la version Wii U et Switch de Zelda Twilight Princess HD, c'est strictement la même ou pas?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815488599.792294,
+      "id" : "6C37C908-3DE0-45FD-B50A-8C1CCDFAF22C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Je vois que j'ai encore 84 gigas. Au pire, tu peux clean des fichiers temporaires de GitHub.",
+      "text" : "Je vois que j'ai encore 84 gigas. Au pire, tu peux clean des fichiers temporaires de GitHub."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815488647.900133,
+      "id" : "AE3376F5-4EBB-41A6-9E14-C2587C9FBEF0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Du coup, ce qu'on va faire, c'est que on va clean rename les parties de ce jeu de la ROM Wii U HD. Mais je ne sais pas si elles doivent rester en rare ou si tu dois les unzip. Et à défaut, tu les clean rename de toute manière.",
+      "text" : "Du coup, ce qu'on va faire, c'est que on va clean rename les parties de ce jeu de la ROM Wii U HD. Mais je ne sais pas si elles doivent rester en rare ou si tu dois les unzip. Et à défaut, tu les clean rename de toute manière."
     }
   ],
   "modes" : [
