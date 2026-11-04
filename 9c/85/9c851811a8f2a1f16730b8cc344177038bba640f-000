@@ -24919,6 +24919,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Mais du coup, je vais d'abord chercher la game, la ROM GameCube.",
       "text" : "Mais du coup, je vais d'abord chercher la game, la ROM GameCube."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815491154.937075,
+      "id" : "A146DF53-8968-4B85-8F74-ADE3BB26CA96",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais j'avais des jeux sur mon PC, pourquoi tu les listes pas, espèce d'enculé? Je vais te défoncer, moi, la gueule.",
+      "text" : "Mais j'avais des jeux sur mon PC, pourquoi tu les listes pas, espèce d'enculé? Je vais te défoncer, moi, la gueule."
     }
   ],
   "modes" : [
