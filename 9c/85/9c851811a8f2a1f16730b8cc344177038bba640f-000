@@ -24939,6 +24939,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Est-ce que du coup mes dossiers de texture ils sont bien mis unzip dans le bon endroit? Parce que le premier c'est bizarre parce qu'il s'appelle TPDE plus 2.1 et les autres ils s'appellent part 2, part 3, part 4. Donc je pense que faut peut-être les mettre à un autre endroit. Est-ce que tu peux me dire précisément comment les disposer? Fais une web search d'abord.",
       "text" : "Est-ce que du coup mes dossiers de texture ils sont bien mis unzip dans le bon endroit? Parce que le premier c'est bizarre parce qu'il s'appelle TPDE plus 2.1 et les autres ils s'appellent part 2, part 3, part 4. Donc je pense que faut peut-être les mettre à un autre endroit. Est-ce que tu peux me dire précisément comment les disposer? Fais une web search d'abord."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815491419.834973,
+      "id" : "5C60E3CF-A52A-4A1F-80F0-DC33CCBF9999",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Ok, donc je les ai toutes mis dans TPDE, mais du coup c'est bon, ça suffit, ou est-ce que je dois rename TPDE?",
+      "text" : "Ok, donc je les ai toutes mis dans TPDE, mais du coup c'est bon, ça suffit, ou est-ce que je dois rename TPDE?"
     }
   ],
   "modes" : [
