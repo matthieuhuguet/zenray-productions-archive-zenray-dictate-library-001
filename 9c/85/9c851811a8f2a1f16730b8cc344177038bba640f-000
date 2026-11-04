@@ -24989,6 +24989,26 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "fait une web search.",
       "text" : "fait une web search."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815492577.993291,
+      "id" : "CB1F6F92-6C74-4C47-A604-6EF9900A0FE8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Mais du coup, je comprends pas, c'est de quel jeu qu'il s'agit sur ma game list?",
+      "text" : "Mais du coup, je comprends pas, c'est de quel jeu qu'il s'agit sur ma game list?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815492583.025165,
+      "id" : "D490EF13-4DFB-4739-A584-D137C043F51F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Il n'y avait pas des nouveaux projets qui avaient été décompilés et recompilés?",
+      "text" : "Il n'y avait pas des nouveaux projets qui avaient été décompilés et recompilés?"
     }
   ],
   "modes" : [
