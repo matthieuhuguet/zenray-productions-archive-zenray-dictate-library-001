@@ -24799,6 +24799,16 @@
       "provider" : "Claude harmonic-asr-8",
       "rawText" : "Attends. Mais du coup, il faut utiliser NX native ou NX to Apple. Utilise le projet GitHub avec le plus de stars.",
       "text" : "Attends. Mais du coup, il faut utiliser NX native ou NX to Apple. Utilise le projet GitHub avec le plus de stars."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815488304.635635,
+      "id" : "80D2B242-7CAF-448B-B555-BB87F75301DC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-8",
+      "rawText" : "Qu'est-ce qu'on voulait savoir? Ah oui, est-ce que la version Wii U et Switch de Zelda Twilight Princess HD, c'est strictement la même ou pas?",
+      "text" : "Qu'est-ce qu'on voulait savoir? Ah oui, est-ce que la version Wii U et Switch de Zelda Twilight Princess HD, c'est strictement la même ou pas?"
     }
   ],
   "modes" : [
