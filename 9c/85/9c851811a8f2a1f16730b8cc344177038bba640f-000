@@ -25129,6 +25129,36 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Est-ce que ça fonctionne désormais ?",
       "text" : "Est-ce que ça fonctionne désormais ?"
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815590659.514187,
+      "id" : "A2369FCC-9E77-40F7-A248-6244A118EC19",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Est-ce que ça fonctionne?",
+      "text" : "Est-ce que ça fonctionne?"
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815590670.206606,
+      "id" : "E049045F-8EC7-4E3D-8A83-3B4D81EADD6E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Ah mais ça fonctionne vraiment bien, c'est vraiment stylé.",
+      "text" : "Ah mais ça fonctionne vraiment bien, c'est vraiment stylé."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815591089.21957,
+      "id" : "804EE87F-9DA7-403C-84E4-D3F1F9F44249",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Je sais pas si ça fonctionne maintenant.",
+      "text" : "Je sais pas si ça fonctionne maintenant."
     }
   ],
   "modes" : [
