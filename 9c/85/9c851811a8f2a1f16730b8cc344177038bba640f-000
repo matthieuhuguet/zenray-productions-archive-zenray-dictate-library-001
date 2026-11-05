@@ -25229,6 +25229,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Je connais personne vraiment dans cette industrie qui fait à la fois YouTube et à la fois est un ambassadeur de cette industrie.",
       "text" : "Je connais personne vraiment dans cette industrie qui fait à la fois YouTube et à la fois est un ambassadeur de cette industrie."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815596508.881622,
+      "id" : "C7A92FA1-6FE8-451B-BB65-335C4709BA44",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Ok, mais est-ce qu'il existe à date des jeux PS5 directement jouables sur Mac Game?",
+      "text" : "Ok, mais est-ce qu'il existe à date des jeux PS5 directement jouables sur Mac Game?"
     }
   ],
   "modes" : [
