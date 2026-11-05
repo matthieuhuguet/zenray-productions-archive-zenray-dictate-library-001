@@ -25259,6 +25259,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Mais est-ce que dans ce prompt, en fait, tu fais une étape de vérification Python pour voir que le modèle et ses vues proportionnelles correspondent à 99,9% à chaque fois? Et sinon, dans ce cas-là, tu relances une génération et ensuite tu fais une boucle dans le sens où l'étape de vérification fait repartir au modèle 1, mais pour ChatGPT directement. Enfin, pour le modèle chat, tu vois. Donc directement indiqué dans le prompt.",
       "text" : "Mais est-ce que dans ce prompt, en fait, tu fais une étape de vérification Python pour voir que le modèle et ses vues proportionnelles correspondent à 99,9% à chaque fois? Et sinon, dans ce cas-là, tu relances une génération et ensuite tu fais une boucle dans le sens où l'étape de vérification fait repartir au modèle 1, mais pour ChatGPT directement. Enfin, pour le modèle chat, tu vois. Donc directement indiqué dans le prompt."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815599473.628971,
+      "id" : "20D74A61-3C58-4E1C-9051-C12351E1C679",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Le problème dans ton prompt actuel, c'est que tu mets aucune image d'input. Donc en fait, le modèle à chaque fois, il peut générer ce qu'il veut, tu vois. Donc c'est pas forcément une vérification à 0,999 qu'il faudrait faire, parce que ça va jamais marcher. Mais ce qu'il faut faire, c'est mettre une image d'input par rapport aux components qu'on veut reproduire et isoler de manière individuelle. C'est surtout ça.",
+      "text" : "Le problème dans ton prompt actuel, c'est que tu mets aucune image d'input. Donc en fait, le modèle à chaque fois, il peut générer ce qu'il veut, tu vois. Donc c'est pas forcément une vérification à 0,999 qu'il faudrait faire, parce que ça va jamais marcher. Mais ce qu'il faut faire, c'est mettre une image d'input par rapport aux components qu'on veut reproduire et isoler de manière individuelle. C'est surtout ça."
     }
   ],
   "modes" : [
