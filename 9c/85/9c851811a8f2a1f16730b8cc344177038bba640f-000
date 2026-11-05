@@ -25279,6 +25279,26 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Mais non, mais t'avais déjà les images de... Mais non, tu passes pas par l'application ChatGPT de mon Mac. Et ça n'a aucun sens, tu restes dans le browser intégré. Évidemment que tu peux mettre une image, t'as juste à utiliser le clipboard ou à faire un copy-paste ou à utiliser Computer Use. T'es ultra con. Reste dans le browser intégré de Claude et tous les components, t'avais déjà fait une planche de découpe directement via le... Mais en fait, à la limite, t'as juste à prendre une seule image du camion et à isoler chaque component. Franchement, tu perds du temps, hein, t'es tellement con.",
       "text" : "Mais non, mais t'avais déjà les images de... Mais non, tu passes pas par l'application ChatGPT de mon Mac. Et ça n'a aucun sens, tu restes dans le browser intégré. Évidemment que tu peux mettre une image, t'as juste à utiliser le clipboard ou à faire un copy-paste ou à utiliser Computer Use. T'es ultra con. Reste dans le browser intégré de Claude et tous les components, t'avais déjà fait une planche de découpe directement via le... Mais en fait, à la limite, t'as juste à prendre une seule image du camion et à isoler chaque component. Franchement, tu perds du temps, hein, t'es tellement con."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815599903.847684,
+      "id" : "9CBCDBFC-BD1E-4316-AA76-8C9DD12170E6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais ça n'a aucun sens, genre. C'est nouveau ça que tu puisses pas. Genre, à la limite, ce que tu aurais pu faire, c'est passer par Add Photo and Files et directement via Computer Use mettre la bonne photo à partir de l'image. C'est trop bizarre.",
+      "text" : "Mais ça n'a aucun sens, genre. C'est nouveau ça que tu puisses pas. Genre, à la limite, ce que tu aurais pu faire, c'est passer par Add Photo and Files et directement via Computer Use mettre la bonne photo à partir de l'image. C'est trop bizarre."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815599918.143479,
+      "id" : "A167D5ED-3C0F-4AE0-AE87-D2C717B7E1D5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Et par contre, le niveau d'effort sur ChatGPT, c'est tout le temps high.",
+      "text" : "Et par contre, le niveau d'effort sur ChatGPT, c'est tout le temps high."
     }
   ],
   "modes" : [
