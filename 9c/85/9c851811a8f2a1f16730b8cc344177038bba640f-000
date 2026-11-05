@@ -25159,6 +25159,56 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Je sais pas si ça fonctionne maintenant.",
       "text" : "Je sais pas si ça fonctionne maintenant."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815592311.834193,
+      "id" : "DF0C1EB2-E5CE-4FD1-AF67-DAA09F33CB83",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Oui, sauf que ce que tu oublies, c'est que ZenRay Meshes était uniquement autour de reproduce any mesh at 99.9% of reproduction and only and never with AI gen, only with um, dedicated workflow like Claude plus Houdini ou peu importe, Maya, Houdini ou une reconstruction software. Mais ce que je veux, c'est un résultat déterministe et pas de la génération en IA. Donc en fait, les solutions comme Uniyuan ou Trellis ou Meshi ou Tripot ou Hyper 3D Rodin sont de fait exclus car ce n'est pas exactement ce que je veux construire. Ce que je veux construire, c'est un vrai logiciel, pas quelque chose de pas ouf.",
+      "text" : "Oui, sauf que ce que tu oublies, c'est que ZenRay Meshes était uniquement autour de reproduce any mesh at 99.9% of reproduction and only and never with AI gen, only with um, dedicated workflow like Claude plus Houdini ou peu importe, Maya, Houdini ou une reconstruction software. Mais ce que je veux, c'est un résultat déterministe et pas de la génération en IA. Donc en fait, les solutions comme Uniyuan ou Trellis ou Meshi ou Tripot ou Hyper 3D Rodin sont de fait exclus car ce n'est pas exactement ce que je veux construire. Ce que je veux construire, c'est un vrai logiciel, pas quelque chose de pas ouf."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815592368.190348,
+      "id" : "97F33C29-1B01-40F2-BD61-E312029CA562",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Le but, c'était de construire un algorithme qui permettait de reproduire n'importe quelle forme 3D. Et en soi, on avait quasi réussi lors de la V760 de la voiture. Le seul problème était la finition. Mais ensuite, ce qu'on a essayé de faire avec le camion, c'était de reproduire un tutoriel. Et on a fait pareil avec Dracard, le fait de reproduire un tutoriel. Et en soi, encore une fois, on avait quasi réussi. Mais le problème, c'est que par exemple sur le camion, c'était quasi plus intéressant, mais c'est juste qu'on était parti sur le module les components. Et en soi, bah, je comprends pas pourquoi tu creuses pas cette piste-là.",
+      "text" : "Le but, c'était de construire un algorithme qui permettait de reproduire n'importe quelle forme 3D. Et en soi, on avait quasi réussi lors de la V760 de la voiture. Le seul problème était la finition. Mais ensuite, ce qu'on a essayé de faire avec le camion, c'était de reproduire un tutoriel. Et on a fait pareil avec Dracard, le fait de reproduire un tutoriel. Et en soi, encore une fois, on avait quasi réussi. Mais le problème, c'est que par exemple sur le camion, c'était quasi plus intéressant, mais c'est juste qu'on était parti sur le module les components. Et en soi, bah, je comprends pas pourquoi tu creuses pas cette piste-là."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815592408.145369,
+      "id" : "6EEE0C39-51A4-41D4-8084-F75F15046628",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Donc écarte les méthodes du tournoi de Meshi ou machin. Ce qu'il faut faire en fait, c'est... Le but, c'est pas de reproduire Houdini ou Maya ou Blender. Ce qu'il faut faire, c'est pouvoir, depuis une image ou depuis un prompt, créer des components qui sont en mode... qui sont de la vraie 3D, tu vois. Mais je t'ai déjà dit plein de fois l'ambition de ce qu'il fallait faire et tu as toujours pas fait, donc je sais plus quoi faire, moi.",
+      "text" : "Donc écarte les méthodes du tournoi de Meshi ou machin. Ce qu'il faut faire en fait, c'est... Le but, c'est pas de reproduire Houdini ou Maya ou Blender. Ce qu'il faut faire, c'est pouvoir, depuis une image ou depuis un prompt, créer des components qui sont en mode... qui sont de la vraie 3D, tu vois. Mais je t'ai déjà dit plein de fois l'ambition de ce qu'il fallait faire et tu as toujours pas fait, donc je sais plus quoi faire, moi."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815592457.391416,
+      "id" : "AAFB996C-C7CE-4F8B-B372-840849AFE435",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "En fait, c'est pas compliqué. C'est le meilleur exemple, c'est l'exemple du camion et des épisodes qui ont été téléchargés. C'est t'as un workflow fait par GNOMON et qui te permet de reproduire n'importe quelle mèche en mode comme si c'était un senior 3D artiste qui l'avait fait, components par components pour augmenter la précision du modèle en mode hard surface. Et déjà, il faut faire ça, tu vois. Et en fait, c'est quasi tout, quoi.",
+      "text" : "En fait, c'est pas compliqué. C'est le meilleur exemple, c'est l'exemple du camion et des épisodes qui ont été téléchargés. C'est t'as un workflow fait par GNOMON et qui te permet de reproduire n'importe quelle mèche en mode comme si c'était un senior 3D artiste qui l'avait fait, components par components pour augmenter la précision du modèle en mode hard surface. Et déjà, il faut faire ça, tu vois. Et en fait, c'est quasi tout, quoi."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815592522.32971,
+      "id" : "57890E97-D149-49A4-B72B-ABADF6DFE8C8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais en soi, la seule chose que tu as le droit de faire, c'est d'utiliser des planches de components générées par ChatGPT Image, ChatGPT Image 2. Ça, tu avais le droit de le faire. Mais le problème, c'est que tu n'as jamais généré des planches de components ultra précises à 99,9%, aussi précises que des plans de CAD ou pour l'architecture. Et c'est ça que je t'avais demandé de faire à partir de l'équivalence d'un prompt à au moins 4 étapes pour ChatGPT, dans ChatGPT Chat.",
+      "text" : "Mais en soi, la seule chose que tu as le droit de faire, c'est d'utiliser des planches de components générées par ChatGPT Image, ChatGPT Image 2. Ça, tu avais le droit de le faire. Mais le problème, c'est que tu n'as jamais généré des planches de components ultra précises à 99,9%, aussi précises que des plans de CAD ou pour l'architecture. Et c'est ça que je t'avais demandé de faire à partir de l'équivalence d'un prompt à au moins 4 étapes pour ChatGPT, dans ChatGPT Chat."
     }
   ],
   "modes" : [
