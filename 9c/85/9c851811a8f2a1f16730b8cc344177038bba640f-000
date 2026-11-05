@@ -25269,6 +25269,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Le problème dans ton prompt actuel, c'est que tu mets aucune image d'input. Donc en fait, le modèle à chaque fois, il peut générer ce qu'il veut, tu vois. Donc c'est pas forcément une vérification à 0,999 qu'il faudrait faire, parce que ça va jamais marcher. Mais ce qu'il faut faire, c'est mettre une image d'input par rapport aux components qu'on veut reproduire et isoler de manière individuelle. C'est surtout ça.",
       "text" : "Le problème dans ton prompt actuel, c'est que tu mets aucune image d'input. Donc en fait, le modèle à chaque fois, il peut générer ce qu'il veut, tu vois. Donc c'est pas forcément une vérification à 0,999 qu'il faudrait faire, parce que ça va jamais marcher. Mais ce qu'il faut faire, c'est mettre une image d'input par rapport aux components qu'on veut reproduire et isoler de manière individuelle. C'est surtout ça."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815599736.245863,
+      "id" : "C9BB8A41-985A-4EB8-9176-19447A99F8BB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais non, mais t'avais déjà les images de... Mais non, tu passes pas par l'application ChatGPT de mon Mac. Et ça n'a aucun sens, tu restes dans le browser intégré. Évidemment que tu peux mettre une image, t'as juste à utiliser le clipboard ou à faire un copy-paste ou à utiliser Computer Use. T'es ultra con. Reste dans le browser intégré de Claude et tous les components, t'avais déjà fait une planche de découpe directement via le... Mais en fait, à la limite, t'as juste à prendre une seule image du camion et à isoler chaque component. Franchement, tu perds du temps, hein, t'es tellement con.",
+      "text" : "Mais non, mais t'avais déjà les images de... Mais non, tu passes pas par l'application ChatGPT de mon Mac. Et ça n'a aucun sens, tu restes dans le browser intégré. Évidemment que tu peux mettre une image, t'as juste à utiliser le clipboard ou à faire un copy-paste ou à utiliser Computer Use. T'es ultra con. Reste dans le browser intégré de Claude et tous les components, t'avais déjà fait une planche de découpe directement via le... Mais en fait, à la limite, t'as juste à prendre une seule image du camion et à isoler chaque component. Franchement, tu perds du temps, hein, t'es tellement con."
     }
   ],
   "modes" : [
