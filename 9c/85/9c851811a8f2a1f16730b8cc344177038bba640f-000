@@ -25239,6 +25239,26 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Ok, mais est-ce qu'il existe à date des jeux PS5 directement jouables sur Mac Game?",
       "text" : "Ok, mais est-ce qu'il existe à date des jeux PS5 directement jouables sur Mac Game?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815598496.657844,
+      "id" : "1DFBC612-45D6-4A23-A282-726FAB213820",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Bah, je pense que dans un premier temps, tu devrais générer tous les components directement via ChatGPT, euh, les append dans un document. Est-ce que tu peux me donner juste le prompt 4 étapes actuel qui permet de générer un component sans une UI surchargée?",
+      "text" : "Bah, je pense que dans un premier temps, tu devrais générer tous les components directement via ChatGPT, euh, les append dans un document. Est-ce que tu peux me donner juste le prompt 4 étapes actuel qui permet de générer un component sans une UI surchargée?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815598585.576594,
+      "id" : "80D64EA0-DDDB-4351-A1EE-89037B87A763",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais est-ce que dans ce prompt, en fait, tu fais une étape de vérification Python pour voir que le modèle et ses vues proportionnelles correspondent à 99,9% à chaque fois? Et sinon, dans ce cas-là, tu relances une génération et ensuite tu fais une boucle dans le sens où l'étape de vérification fait repartir au modèle 1, mais pour ChatGPT directement. Enfin, pour le modèle chat, tu vois. Donc directement indiqué dans le prompt.",
+      "text" : "Mais est-ce que dans ce prompt, en fait, tu fais une étape de vérification Python pour voir que le modèle et ses vues proportionnelles correspondent à 99,9% à chaque fois? Et sinon, dans ce cas-là, tu relances une génération et ensuite tu fais une boucle dans le sens où l'étape de vérification fait repartir au modèle 1, mais pour ChatGPT directement. Enfin, pour le modèle chat, tu vois. Donc directement indiqué dans le prompt."
     }
   ],
   "modes" : [
