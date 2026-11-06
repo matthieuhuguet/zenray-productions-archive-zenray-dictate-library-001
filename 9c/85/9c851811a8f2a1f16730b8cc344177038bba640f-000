@@ -25299,6 +25299,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Et par contre, le niveau d'effort sur ChatGPT, c'est tout le temps high.",
       "text" : "Et par contre, le niveau d'effort sur ChatGPT, c'est tout le temps high."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815622268.899589,
+      "id" : "E454A068-D758-4DE0-B117-94AB62BAB653",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Dans le cadre santé et longévité, est-ce que tu éviterais ce genre d'huile d'olive ou pas? Argumente.",
+      "text" : "Dans le cadre santé et longévité, est-ce que tu éviterais ce genre d'huile d'olive ou pas? Argumente."
     }
   ],
   "modes" : [
