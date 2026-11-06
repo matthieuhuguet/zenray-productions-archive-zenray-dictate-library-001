@@ -25329,6 +25329,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Toujours dans un axe santé, sport, longévité.",
       "text" : "Toujours dans un axe santé, sport, longévité."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815622832.825354,
+      "id" : "CA329450-B596-4340-A56D-8BE5765C0D46",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Bon, de toute façon, j'ai pas beaucoup d'options, donc on part les deux marques, c'est soit Elina, soit la Chinata, et les prix sont à peu près équivalents.",
+      "text" : "Bon, de toute façon, j'ai pas beaucoup d'options, donc on part les deux marques, c'est soit Elina, soit la Chinata, et les prix sont à peu près équivalents."
     }
   ],
   "modes" : [
