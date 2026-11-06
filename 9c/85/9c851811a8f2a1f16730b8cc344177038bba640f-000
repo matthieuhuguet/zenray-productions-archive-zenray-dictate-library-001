@@ -25309,6 +25309,26 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Dans le cadre santé et longévité, est-ce que tu éviterais ce genre d'huile d'olive ou pas? Argumente.",
       "text" : "Dans le cadre santé et longévité, est-ce que tu éviterais ce genre d'huile d'olive ou pas? Argumente."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815622414.205712,
+      "id" : "3D0AAE98-1657-4AEF-A522-9D7D46846005",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Quel type de livre tu recommanderais alors? Sachant que je cherche plutôt un volume de 5 litres, je vais te donner plusieurs options. Je suis sur Amazon UK, donc il y a Clonary, la Chinata, il y a Lirakis Family, il y a Odyssea Greek, il y a Filippo Berio, il y a Terra Olive, il y a Mani Organic Olive Oil, il y a Alcala Oliva, et il y a Cléos Extra Virgin, Nicolaos. Donc voilà, vérifie un petit peu ces marques et donne-moi les meilleures en fonction de priorité.",
+      "text" : "Quel type de livre tu recommanderais alors? Sachant que je cherche plutôt un volume de 5 litres, je vais te donner plusieurs options. Je suis sur Amazon UK, donc il y a Clonary, la Chinata, il y a Lirakis Family, il y a Odyssea Greek, il y a Filippo Berio, il y a Terra Olive, il y a Mani Organic Olive Oil, il y a Alcala Oliva, et il y a Cléos Extra Virgin, Nicolaos. Donc voilà, vérifie un petit peu ces marques et donne-moi les meilleures en fonction de priorité."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815622420.669045,
+      "id" : "54FFB448-B304-448D-A739-73A5E1D4D69D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Toujours dans un axe santé, sport, longévité.",
+      "text" : "Toujours dans un axe santé, sport, longévité."
     }
   ],
   "modes" : [
