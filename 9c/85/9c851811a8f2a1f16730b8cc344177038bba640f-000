@@ -25469,6 +25469,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "C'est le chargeur officiel Nintendo obtenu depuis la boîte. Il est évidemment disponible avec toutes les Switch jusqu'à la Switch 2.",
       "text" : "C'est le chargeur officiel Nintendo obtenu depuis la boîte. Il est évidemment disponible avec toutes les Switch jusqu'à la Switch 2."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815858274.734853,
+      "id" : "3690F92A-5FEA-488F-88CB-8515A747AB97",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Ok, pas de souci, vous pouvez prendre votre temps.",
+      "text" : "Ok, pas de souci, vous pouvez prendre votre temps."
     }
   ],
   "modes" : [
