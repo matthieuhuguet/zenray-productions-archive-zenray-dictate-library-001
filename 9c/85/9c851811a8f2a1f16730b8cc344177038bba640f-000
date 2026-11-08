@@ -25339,6 +25339,126 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Bon, de toute façon, j'ai pas beaucoup d'options, donc on part les deux marques, c'est soit Elina, soit la Chinata, et les prix sont à peu près équivalents.",
       "text" : "Bon, de toute façon, j'ai pas beaucoup d'options, donc on part les deux marques, c'est soit Elina, soit la Chinata, et les prix sont à peu près équivalents."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815784942.756482,
+      "id" : "897A75E7-40BB-445D-8C05-288191F38175",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Dans cette vidéo, à quel moment le podcast évoque-t-il le prix exorbitant de l'IA au total?",
+      "text" : "Dans cette vidéo, à quel moment le podcast évoque-t-il le prix exorbitant de l'IA au total?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815785275.840727,
+      "id" : "F8F65E67-2F7E-4464-BA2A-62CE413340F3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Je ne connais pas ce programme, cette application, mais est-ce que tu peux l'installer et en parallèle m'expliquer à quoi ça sert et comment ça fonctionne? Et surtout, est-ce que ça peut fonctionner avec mon projet Memory déjà en place, mais sans inventer des choses complètement fausses? Fais en sorte de commencer à setup cette application, s'il te plaît, tout en m'expliquant peu à peu comment ça fonctionne.",
+      "text" : "Je ne connais pas ce programme, cette application, mais est-ce que tu peux l'installer et en parallèle m'expliquer à quoi ça sert et comment ça fonctionne? Et surtout, est-ce que ça peut fonctionner avec mon projet Memory déjà en place, mais sans inventer des choses complètement fausses? Fais en sorte de commencer à setup cette application, s'il te plaît, tout en m'expliquant peu à peu comment ça fonctionne."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815785558.005832,
+      "id" : "2A84E2B0-8A35-4F5D-A3EB-A9C648A27D8A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Set a time for 2 minutes.",
+      "text" : "Set a time for 2 minutes."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815785666.991735,
+      "id" : "17263EB7-A2D3-4779-A8BC-B7F2B63FA869",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Avantage.",
+      "text" : "Avantage."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815785679.210127,
+      "id" : "54622E1A-78B7-4A82-94E0-5125BFE9BCA5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Avantages et inconvénients des figues sèches pour un sportif et pour la longévité. Le problème, je pense que c'est très très sucré.",
+      "text" : "Avantages et inconvénients des figues sèches pour un sportif et pour la longévité. Le problème, je pense que c'est très très sucré."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815785924.776044,
+      "id" : "B06DC711-0659-4E7D-B1AD-52602C8A3490",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Merci pour le petit repas, mon petit frère chéri.",
+      "text" : "Merci pour le petit repas, mon petit frère chéri."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815785935.529603,
+      "id" : "23206FE9-142A-4F7C-8182-D8B1EFADA67B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Merci pour le repas, mon petit frère. Vous êtes un petit génie de la cuisine en puissance. Bravo.",
+      "text" : "Merci pour le repas, mon petit frère. Vous êtes un petit génie de la cuisine en puissance. Bravo."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815787840.25012,
+      "id" : "29AAB2BF-C75A-445E-B27C-B5D95B414645",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Ok, mais avant tout, est-ce qu'il n'y a pas des concurrents à PassDev qui sont plus intéressants aujourd'hui à date? Et je comprends pas, c'est quoi le prix de PassDev en termes d'API?",
+      "text" : "Ok, mais avant tout, est-ce qu'il n'y a pas des concurrents à PassDev qui sont plus intéressants aujourd'hui à date? Et je comprends pas, c'est quoi le prix de PassDev en termes d'API?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815788429.231457,
+      "id" : "8F06FE90-2B10-44CA-AB80-FEE67E2C8DFF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "En fait, le problème de ce genre d'API ou de pass dev, etc., c'est que en fait, je peux pas savoir si ça marche aussi bien ou pire que ce qui marche déjà sur Memory. Parce que actuellement, le problème, c'est que on peut pas savoir si la recherche sémantique par rapport à un agent Claude de lui-même sur Claude Code, il va réussir. On peut pas savoir si la prochaine version de Claude Code permettra de le faire directement ou si c'est déjà possible, etc. Et c'est là où c'est un peu flou en fait le développement. C'est que je peux pas savoir avant de le tester et avant de mettre des dollars dedans si la solution va vraiment marcher, etc. Pour avoir une vraie mémoire qui se souvient de tout, etc. Surtout qu'à date, il y a déjà toute une mémoire, tu vois, qui est déjà préfaite, tu vois. Tout le dossier memory, ben, il y a déjà des dates, sauf que. Enfin, il y a déjà des dates. Il y a des dates dans les métadonnées, tu vois. C'est pas forcément marqué noir sur blanc, mais le problème, c'est que on peut pas savoir avec précision si ça va marcher, tu vois.",
+      "text" : "En fait, le problème de ce genre d'API ou de pass dev, etc., c'est que en fait, je peux pas savoir si ça marche aussi bien ou pire que ce qui marche déjà sur Memory. Parce que actuellement, le problème, c'est que on peut pas savoir si la recherche sémantique par rapport à un agent Claude de lui-même sur Claude Code, il va réussir. On peut pas savoir si la prochaine version de Claude Code permettra de le faire directement ou si c'est déjà possible, etc. Et c'est là où c'est un peu flou en fait le développement. C'est que je peux pas savoir avant de le tester et avant de mettre des dollars dedans si la solution va vraiment marcher, etc. Pour avoir une vraie mémoire qui se souvient de tout, etc. Surtout qu'à date, il y a déjà toute une mémoire, tu vois, qui est déjà préfaite, tu vois. Tout le dossier memory, ben, il y a déjà des dates, sauf que. Enfin, il y a déjà des dates. Il y a des dates dans les métadonnées, tu vois. C'est pas forcément marqué noir sur blanc, mais le problème, c'est que on peut pas savoir avec précision si ça va marcher, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815788693.904862,
+      "id" : "45C1C8E3-256F-453A-8397-40E783E19D2F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Oui, mais fais-le rapidement, ne te complique pas la tâche et va à l'essentiel. Pas besoin de construire un protocole aussi difficile pour faire des choses que de toute manière c'est moi qui vais trancher. Euh, Par contre, ne mesure pas ZenRay Knowledge. Note partout dans toutes les occurrences que ZenRay Knowledge est deprecated. En fait, il n'a jamais marché ce protocole. ZenRay Knowledge. Ce qu'on veut tester, c'est Claude Code et past.dev.",
+      "text" : "Oui, mais fais-le rapidement, ne te complique pas la tâche et va à l'essentiel. Pas besoin de construire un protocole aussi difficile pour faire des choses que de toute manière c'est moi qui vais trancher. Euh, Par contre, ne mesure pas ZenRay Knowledge. Note partout dans toutes les occurrences que ZenRay Knowledge est deprecated. En fait, il n'a jamais marché ce protocole. ZenRay Knowledge. Ce qu'on veut tester, c'est Claude Code et past.dev."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815789348.197674,
+      "id" : "86F32CAB-0C4C-416B-A709-551C965E826B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Bah oui, coupe ZenRay Knowledge. Mais par contre, où est-ce que je configure past dev pour lancer le bench?",
+      "text" : "Bah oui, coupe ZenRay Knowledge. Mais par contre, où est-ce que je configure past dev pour lancer le bench?"
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815789545.101931,
+      "id" : "611FF9F6-87CD-4504-859E-AB4E4C7ADBF5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais la fonte des épisodes en local en Adobe Clean, en changeant et en faisant un remux pour le faire rapidement, t'as juste à extraire le SRT, à en remettre un nouveau et à remuxer pour le faire rapidement. Et à delete les anciens fichiers. Donc les nouveaux fichiers ont le clean rename. Et ensuite tu les push directement sur, sur Create, et normalement le service vidéo proposera déjà soit la fonte en sérif, soit la fonte en... Comment ça s'appelle? En sans sérif.",
+      "text" : "Mais la fonte des épisodes en local en Adobe Clean, en changeant et en faisant un remux pour le faire rapidement, t'as juste à extraire le SRT, à en remettre un nouveau et à remuxer pour le faire rapidement. Et à delete les anciens fichiers. Donc les nouveaux fichiers ont le clean rename. Et ensuite tu les push directement sur, sur Create, et normalement le service vidéo proposera déjà soit la fonte en sérif, soit la fonte en... Comment ça s'appelle? En sans sérif."
     }
   ],
   "modes" : [
