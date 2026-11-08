@@ -25459,6 +25459,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Mais la fonte des épisodes en local en Adobe Clean, en changeant et en faisant un remux pour le faire rapidement, t'as juste à extraire le SRT, à en remettre un nouveau et à remuxer pour le faire rapidement. Et à delete les anciens fichiers. Donc les nouveaux fichiers ont le clean rename. Et ensuite tu les push directement sur, sur Create, et normalement le service vidéo proposera déjà soit la fonte en sérif, soit la fonte en... Comment ça s'appelle? En sans sérif.",
       "text" : "Mais la fonte des épisodes en local en Adobe Clean, en changeant et en faisant un remux pour le faire rapidement, t'as juste à extraire le SRT, à en remettre un nouveau et à remuxer pour le faire rapidement. Et à delete les anciens fichiers. Donc les nouveaux fichiers ont le clean rename. Et ensuite tu les push directement sur, sur Create, et normalement le service vidéo proposera déjà soit la fonte en sérif, soit la fonte en... Comment ça s'appelle? En sans sérif."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815857974.172741,
+      "id" : "8F445B32-B3C6-4173-88B6-3075F275ACAF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "C'est le chargeur officiel Nintendo obtenu depuis la boîte. Il est évidemment disponible avec toutes les Switch jusqu'à la Switch 2.",
+      "text" : "C'est le chargeur officiel Nintendo obtenu depuis la boîte. Il est évidemment disponible avec toutes les Switch jusqu'à la Switch 2."
     }
   ],
   "modes" : [
