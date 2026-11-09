@@ -26429,6 +26429,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Non, on avait tranché, c'était 2048 MO par push et 4096 pour un repo complet.",
       "text" : "Non, on avait tranché, c'était 2048 MO par push et 4096 pour un repo complet."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815948543.215715,
+      "id" : "775A7114-3DD1-47C1-9D63-BD2C441D3B16",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Aucune nouvelle méthode ne batte la méthode actuelle. Donc, à mon avis, on a besoin d'un vrai outil dédié qui est beaucoup plus puissant pour créer les bonnes découpes par rapport à la référence initiale.",
+      "text" : "Aucune nouvelle méthode ne batte la méthode actuelle. Donc, à mon avis, on a besoin d'un vrai outil dédié qui est beaucoup plus puissant pour créer les bonnes découpes par rapport à la référence initiale."
     }
   ],
   "modes" : [
