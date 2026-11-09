@@ -25729,6 +25729,46 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Sinon, ZenRay Night, et je sais ce que ça veut dire, tu vois. Genre, Night évoque le fait d'être un soldat qui se bat pour des bounties, et du coup, c'est un peu genre l'exécutant qui se considère comme un chevalier, tu vois. Et c'est le chevalier qui va gagner de l'argent, tu vois. Mais je sais pas si ça marche vraiment.",
       "text" : "Sinon, ZenRay Night, et je sais ce que ça veut dire, tu vois. Genre, Night évoque le fait d'être un soldat qui se bat pour des bounties, et du coup, c'est un peu genre l'exécutant qui se considère comme un chevalier, tu vois. Et c'est le chevalier qui va gagner de l'argent, tu vois. Mais je sais pas si ça marche vraiment."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815920544.701757,
+      "id" : "535DBA71-CDA1-447A-A2FA-50E85AD8DFF0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Euh, Récemment, Marine Le Pen, une candidate à la présidentielle, fait l'éloge du beau en France. Mais j'ai remarqué que elle s'inspire d'une direction artistique de Maurice, je sais plus qui. Est-ce que tu pourrais identifier à qui appartient la direction artistique d'une France belle, calme et figée dans le temps avec l'église au milieu du village? C'est peut-être aussi dans les films de Pagnol, mais je suis pas sûr. J'ai l'impression qu'elle s'inspire de quelqu'un peut-être d'extrême droite dans cette direction artistique, mais ça peut aussi être une vision artistique tirée du cinéma ou de la littérature. J'aimerais identifier précisément de qui il s'agit. Les auteurs, hein, pas les politiques.",
+      "text" : "Euh, Récemment, Marine Le Pen, une candidate à la présidentielle, fait l'éloge du beau en France. Mais j'ai remarqué que elle s'inspire d'une direction artistique de Maurice, je sais plus qui. Est-ce que tu pourrais identifier à qui appartient la direction artistique d'une France belle, calme et figée dans le temps avec l'église au milieu du village? C'est peut-être aussi dans les films de Pagnol, mais je suis pas sûr. J'ai l'impression qu'elle s'inspire de quelqu'un peut-être d'extrême droite dans cette direction artistique, mais ça peut aussi être une vision artistique tirée du cinéma ou de la littérature. J'aimerais identifier précisément de qui il s'agit. Les auteurs, hein, pas les politiques."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815920593.392528,
+      "id" : "FC67D134-26BB-4FAF-9AA7-049CDDCEB9D6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Résume notre discussion et tous les feedbacks qu'on a fait par rapport à toutes les tentatives de mots. Et comme ça, je vais expliquer ma démarche et le fait de le noter dans toute ma solution agentique Claude Code, afin qu'on se souvienne que ZenRay Night, du coup, est lié au fichier qui recense la vente, le marketing, les sales, tu vois. Comme ça, ce sera logique et lié.",
+      "text" : "Résume notre discussion et tous les feedbacks qu'on a fait par rapport à toutes les tentatives de mots. Et comme ça, je vais expliquer ma démarche et le fait de le noter dans toute ma solution agentique Claude Code, afin qu'on se souvienne que ZenRay Night, du coup, est lié au fichier qui recense la vente, le marketing, les sales, tu vois. Comme ça, ce sera logique et lié."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815920610.537616,
+      "id" : "78563AE8-721A-4879-9625-0568E5FE5B7B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Donc fais un prompt qui organise ma décision autour de ZenRay Night, K-N-I-G-H-T, par rapport à la freelance, etc.",
+      "text" : "Donc fais un prompt qui organise ma décision autour de ZenRay Night, K-N-I-G-H-T, par rapport à la freelance, etc."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815920626.858092,
+      "id" : "363E7FB4-C5D3-4D15-A6FC-3A4F898C253F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais il faut que tu fasses l'évocation et l'omission de tous les termes qu'on a déjà évoqués, et à chaque fois notre décision de pourquoi ce terme a été rejeté ou pas.",
+      "text" : "Mais il faut que tu fasses l'évocation et l'omission de tous les termes qu'on a déjà évoqués, et à chaque fois notre décision de pourquoi ce terme a été rejeté ou pas."
     }
   ],
   "modes" : [
