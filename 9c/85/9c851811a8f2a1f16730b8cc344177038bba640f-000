@@ -26209,6 +26209,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Il manque les fontes semi entre medium et bold. Donc je crois que ça s'appelle semi-bold. Et entre bold et extra bold. Mais je sais pas comment ça s'appelle. Ah non, entre bold et extra bold, c'est bon. Mais par contre, je crois qu'il y a jusqu'à 900 et ça s'appelle heavy. Et par contre, en dessous, donc sur regular, c'est complètement cassé. Donc il faut recommencer. Il y a un problème au niveau des A qui fait... Et même le texte n'est pas aligné en soi. Donc il y a un gros problème à ce niveau-là. Genre par exemple, entre le I et le M, les caractères sont pas alignés par rapport à un alignement en dessous des lettres. Donc c'est, je pense que la fonte procédurale n'a pas du tout marché. Donc il faut recommencer de regular à light.",
       "text" : "Il manque les fontes semi entre medium et bold. Donc je crois que ça s'appelle semi-bold. Et entre bold et extra bold. Mais je sais pas comment ça s'appelle. Ah non, entre bold et extra bold, c'est bon. Mais par contre, je crois qu'il y a jusqu'à 900 et ça s'appelle heavy. Et par contre, en dessous, donc sur regular, c'est complètement cassé. Donc il faut recommencer. Il y a un problème au niveau des A qui fait... Et même le texte n'est pas aligné en soi. Donc il y a un gros problème à ce niveau-là. Genre par exemple, entre le I et le M, les caractères sont pas alignés par rapport à un alignement en dessous des lettres. Donc c'est, je pense que la fonte procédurale n'a pas du tout marché. Donc il faut recommencer de regular à light."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815938041.818431,
+      "id" : "59D078D2-96CC-4936-95C6-8222D5ACB3F7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Ça fonctionne très bien désormais, par contre, et même la piste japonaise par défaut a été revérifiée et elle fonctionne bien. Donc je sais pas pourquoi elle ne fonctionnait pas tout à l'heure. Explique-le-moi techniquement. Et par contre, ce que j'aimerais faire désormais, c'est faire disparaître la Dynamic Island sur la gauche de l'écran qui reste tout le temps affichée, je sais pas pourquoi. Donc il faut faire en sorte de la faire disparaître de manière clean et propre. Et pour les nombres de la vidéo du lecteur vidéo, il faut aussi appliquer Adobe Clean directement.",
+      "text" : "Ça fonctionne très bien désormais, par contre, et même la piste japonaise par défaut a été revérifiée et elle fonctionne bien. Donc je sais pas pourquoi elle ne fonctionnait pas tout à l'heure. Explique-le-moi techniquement. Et par contre, ce que j'aimerais faire désormais, c'est faire disparaître la Dynamic Island sur la gauche de l'écran qui reste tout le temps affichée, je sais pas pourquoi. Donc il faut faire en sorte de la faire disparaître de manière clean et propre. Et pour les nombres de la vidéo du lecteur vidéo, il faut aussi appliquer Adobe Clean directement."
     }
   ],
   "modes" : [
