@@ -25619,6 +25619,46 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Je viens de lire et je pense que ton plan est le bon. J'aimerais cependant que tu penses à tout avant de te lancer et ensuite tu codes tout jusqu'à la fin de manière séquentielle et tu as carte blanche pour créer la meilleure version possible du produit mais sans jamais faire aucune erreur à chaque étape. Chaque étape doit être minutieusement faite et parfaite jusqu'à sa finition avant de passer à la prochaine étape. Je te laisse travailler. Tu peux avoir autant de temps que tu veux, prends tout le temps possible et disponible.",
       "text" : "Je viens de lire et je pense que ton plan est le bon. J'aimerais cependant que tu penses à tout avant de te lancer et ensuite tu codes tout jusqu'à la fin de manière séquentielle et tu as carte blanche pour créer la meilleure version possible du produit mais sans jamais faire aucune erreur à chaque étape. Chaque étape doit être minutieusement faite et parfaite jusqu'à sa finition avant de passer à la prochaine étape. Je te laisse travailler. Tu peux avoir autant de temps que tu veux, prends tout le temps possible et disponible."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815919112.384348,
+      "id" : "E308083F-1AFB-46E1-AAA0-BBFEE87EDF66",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "J'aime bien économie.",
+      "text" : "J'aime bien économie."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815919159.276057,
+      "id" : "C1486E0F-1FF4-4F6E-BD82-85B5DF19D936",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais j'ai peur que ça traduise un peu le fait de faire des économies. En fait, en français, le terme économie, ça signifie surtout le fait d'économiser et donc de ne pas dépenser son argent. Alors que là, le but de mon fichier business1.md, c'est surtout de recenser toutes les ventes, toute ma freelance, toutes les sales, tout le marketing, tout ce qui est lié à l'argent en règle générale, tu vois. Et du coup, j'ai peur que économie, tu vois, ça fasse pas en sorte de comprendre immédiatement les choses. Après, c'est pas, enfin, je sais pas. Honnêtement, je ne sais pas.",
+      "text" : "Mais j'ai peur que ça traduise un peu le fait de faire des économies. En fait, en français, le terme économie, ça signifie surtout le fait d'économiser et donc de ne pas dépenser son argent. Alors que là, le but de mon fichier business1.md, c'est surtout de recenser toutes les ventes, toute ma freelance, toutes les sales, tout le marketing, tout ce qui est lié à l'argent en règle générale, tu vois. Et du coup, j'ai peur que économie, tu vois, ça fasse pas en sorte de comprendre immédiatement les choses. Après, c'est pas, enfin, je sais pas. Honnêtement, je ne sais pas."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815919225.443574,
+      "id" : "179204A2-C424-43ED-BBCF-357208B0C154",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Est-ce que tu pourrais me faire un petit script sur le site Claude AI en stylus qui met tous les éléments du site Claude AI en Adobe Clean? J'ai déjà la fonte sur mon système. Essayez de faire pareil sur le site chatgpt.com, mais les scripts, ce serait bien de faire un script unique et aussi un script sur gemini.com. Mais tu dois jamais te tromper dans le script pour faire en sorte qu'il soit universel. Et si tu veux, je vais télécharger directement toutes les fontes des sites. Je vais télécharger le HTML du site pour que tu comprennes mieux à chaque fois. Mais tu dois faire vraiment aucune erreur.",
+      "text" : "Est-ce que tu pourrais me faire un petit script sur le site Claude AI en stylus qui met tous les éléments du site Claude AI en Adobe Clean? J'ai déjà la fonte sur mon système. Essayez de faire pareil sur le site chatgpt.com, mais les scripts, ce serait bien de faire un script unique et aussi un script sur gemini.com. Mais tu dois jamais te tromper dans le script pour faire en sorte qu'il soit universel. Et si tu veux, je vais télécharger directement toutes les fontes des sites. Je vais télécharger le HTML du site pour que tu comprennes mieux à chaque fois. Mais tu dois faire vraiment aucune erreur."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815919248.716852,
+      "id" : "6EF0DC72-5402-4A63-A4E6-20F86C48DAAB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Tu peux soit créer ta propre extension que j'installerai dans Chrome, soit le créer directement via le stylus. Sachant que, attention, parfois stylus ne marche pas sur certains éléments. Donc je te conseille de faire une web research d'abord.",
+      "text" : "Tu peux soit créer ta propre extension que j'installerai dans Chrome, soit le créer directement via le stylus. Sachant que, attention, parfois stylus ne marche pas sur certains éléments. Donc je te conseille de faire une web research d'abord."
     }
   ],
   "modes" : [
