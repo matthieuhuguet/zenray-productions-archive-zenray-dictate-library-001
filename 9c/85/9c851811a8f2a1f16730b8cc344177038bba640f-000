@@ -26459,6 +26459,66 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Oui, mais est-ce que tu pars de la ref initiale et pas de la ref en nuance de gris? Parce que si tu pars de la ref en ID map nuance de gris, ça sert à rien.",
       "text" : "Oui, mais est-ce que tu pars de la ref initiale et pas de la ref en nuance de gris? Parce que si tu pars de la ref en ID map nuance de gris, ça sert à rien."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815949906.887496,
+      "id" : "8F389D04-ED37-485C-A55E-82D098DBA347",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "À mon avis, tu peux faire en sorte que Sam soit beaucoup trop précis, beaucoup plus précis, notamment en lui indiquant tes propres indications. Je me demande si on remettait la voiture en couleur, est-ce que Sam aurait plus de précision? Dans ce cas-là, c'est possible. Je vais te donner une image en couleur et on va voir à quel point Sam arrive à découper tous les components de la voiture. Donc on va essayer de faire ça. Les voitures en couleur. Et le but sera pour toi de la découper parfaitement.",
+      "text" : "À mon avis, tu peux faire en sorte que Sam soit beaucoup trop précis, beaucoup plus précis, notamment en lui indiquant tes propres indications. Je me demande si on remettait la voiture en couleur, est-ce que Sam aurait plus de précision? Dans ce cas-là, c'est possible. Je vais te donner une image en couleur et on va voir à quel point Sam arrive à découper tous les components de la voiture. Donc on va essayer de faire ça. Les voitures en couleur. Et le but sera pour toi de la découper parfaitement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815949989.761402,
+      "id" : "F5729FA7-FD1E-471B-9758-D340DE14C5AD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "On va essayer de voir si Sam fonctionne mieux si je te donne une vue en couleur. Et dans ce cas-là, à l'avenir, on essaiera de séparer les components directement via des vues en couleur. Mais le problème des voitures en règle générale, c'est que c'est assez uniforme de toute manière. Donc même si on essaie de reproduire le blueprint SVG de la voiture, en la découpant components par components, j'ai peur que finalement les couleurs t'aident pas forcément. Mais bon, il faudrait diviser de toute manière individuellement, très précisément, tous les components de la voiture.",
+      "text" : "On va essayer de voir si Sam fonctionne mieux si je te donne une vue en couleur. Et dans ce cas-là, à l'avenir, on essaiera de séparer les components directement via des vues en couleur. Mais le problème des voitures en règle générale, c'est que c'est assez uniforme de toute manière. Donc même si on essaie de reproduire le blueprint SVG de la voiture, en la découpant components par components, j'ai peur que finalement les couleurs t'aident pas forcément. Mais bon, il faudrait diviser de toute manière individuellement, très précisément, tous les components de la voiture."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815950064.550499,
+      "id" : "F54E289B-2A15-4DFE-85CC-D8C2E8A1F52E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Génère une vue de profil via ChatGPT Image Generator afin de faire en sorte que cette voiture ait le même niveau d'éclairage partout. Parce qu'actuellement, le niveau d'éclairage fausse les dimensions de la voiture, donc change l'éclairage pour que la voiture soit éclairée partout de manière uniforme, mais qu'elle garde ses couleurs.",
+      "text" : "Génère une vue de profil via ChatGPT Image Generator afin de faire en sorte que cette voiture ait le même niveau d'éclairage partout. Parce qu'actuellement, le niveau d'éclairage fausse les dimensions de la voiture, donc change l'éclairage pour que la voiture soit éclairée partout de manière uniforme, mais qu'elle garde ses couleurs."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815950277.723883,
+      "id" : "597780F8-E846-433B-B2F5-A043A65F2AD6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Est-ce que tu peux essayer de revoir tout ce qu'on a déjà fait? Notamment dans le cadre... de ZenRay Meshes, et me définir un nouveau code qui résout parfaitement tout le problème de ZenRay Meshes. Parce qu'actuellement j'utilise un nouveau modèle qui est Fab 5.2 Extra, et je pense que tu as plus d'intelligence pour concrétiser mon ambition de créer tout ce qu'on veut, c'est-à-dire reproduire any meshes à partir d'une référence. Je te laisse itérer et créer tous les outils dont tu as besoin, tu as carte blanche, mais du coup, reprends toute la documentation du skill ZenRay Meshes, améliore-le sur tous les points par rapport à ta nouvelle intelligence, fais en sorte que ZenRay Meshes puisse reproduire any meshes à partir d'une image directement. Ne fais aucune concession sur tout ce que tu pourrais faire et repars de zéro. Enfin, ne repars pas de zéro, mais repars de l'existant via une lecture approfondie de tout le skill, mais que tu as déjà en mémoire, et fais en sorte d'améliorer les choses pour créer la version parfaite du coup de ZenRay Meshes. Donc vas-y, prends... Mais va quand même à l'essentiel pour ne pas non plus utiliser du compute à l'infini, et faire en sorte de finir ZenRay Meshes, et ensuite tu montres une démo avec la voiture qui sera du coup finalisée parfaitement en termes de mesh 3D.",
+      "text" : "Est-ce que tu peux essayer de revoir tout ce qu'on a déjà fait? Notamment dans le cadre... de ZenRay Meshes, et me définir un nouveau code qui résout parfaitement tout le problème de ZenRay Meshes. Parce qu'actuellement j'utilise un nouveau modèle qui est Fab 5.2 Extra, et je pense que tu as plus d'intelligence pour concrétiser mon ambition de créer tout ce qu'on veut, c'est-à-dire reproduire any meshes à partir d'une référence. Je te laisse itérer et créer tous les outils dont tu as besoin, tu as carte blanche, mais du coup, reprends toute la documentation du skill ZenRay Meshes, améliore-le sur tous les points par rapport à ta nouvelle intelligence, fais en sorte que ZenRay Meshes puisse reproduire any meshes à partir d'une image directement. Ne fais aucune concession sur tout ce que tu pourrais faire et repars de zéro. Enfin, ne repars pas de zéro, mais repars de l'existant via une lecture approfondie de tout le skill, mais que tu as déjà en mémoire, et fais en sorte d'améliorer les choses pour créer la version parfaite du coup de ZenRay Meshes. Donc vas-y, prends... Mais va quand même à l'essentiel pour ne pas non plus utiliser du compute à l'infini, et faire en sorte de finir ZenRay Meshes, et ensuite tu montres une démo avec la voiture qui sera du coup finalisée parfaitement en termes de mesh 3D."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815950283.114469,
+      "id" : "DB0D6A9E-4BC4-45EF-9078-B1CFAE941483",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "J'espère que tu as bien compris l'objectif.",
+      "text" : "J'espère que tu as bien compris l'objectif."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815950357.002963,
+      "id" : "2ED706A5-64BC-4515-A12F-AB695FEB5CBA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Cependant, tu travailles uniquement de manière séquentielle et tu essaies d'optimiser les tokens que tu vas utiliser pour recréer les méthodes afin de ne pas dépenser trop de tokens de manière inutile. Tu peux utiliser tout ce qu'on a déjà vu, mais le but est de simplifier au maximum le workflow sans non plus oublier les choses qui fonctionnent bien. Donc tout à l'heure, la partie components a bien marché, sauf que actuellement notre méthode de découpe pour découper les components sur une voiture entière, ça marche pas. Et peut-être que tu peux imaginer complètement différemment la solution pour créer une solution qui te permette de faire mieux les choses. Donc essaie d'identifier la volonté de ZenRay MHS de manière à comprendre toute mon intention à 100%, et ensuite essaie de me proposer une version finale de la voiture après avoir run un protocole. Mais à chaque itération, tu consignes évidemment dans le skill ce qui marche et ce qui marche pas, afin que tu ailles à l'essentiel et ne pas oublier certaines choses.",
+      "text" : "Cependant, tu travailles uniquement de manière séquentielle et tu essaies d'optimiser les tokens que tu vas utiliser pour recréer les méthodes afin de ne pas dépenser trop de tokens de manière inutile. Tu peux utiliser tout ce qu'on a déjà vu, mais le but est de simplifier au maximum le workflow sans non plus oublier les choses qui fonctionnent bien. Donc tout à l'heure, la partie components a bien marché, sauf que actuellement notre méthode de découpe pour découper les components sur une voiture entière, ça marche pas. Et peut-être que tu peux imaginer complètement différemment la solution pour créer une solution qui te permette de faire mieux les choses. Donc essaie d'identifier la volonté de ZenRay MHS de manière à comprendre toute mon intention à 100%, et ensuite essaie de me proposer une version finale de la voiture après avoir run un protocole. Mais à chaque itération, tu consignes évidemment dans le skill ce qui marche et ce qui marche pas, afin que tu ailles à l'essentiel et ne pas oublier certaines choses."
     }
   ],
   "modes" : [
