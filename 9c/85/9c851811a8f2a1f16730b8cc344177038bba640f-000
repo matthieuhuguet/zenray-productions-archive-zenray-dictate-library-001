@@ -25989,6 +25989,36 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Apprends-moi en une ligne de commande à convertir via Magic cette image en PNG de la manière la plus simple possible.",
       "text" : "Apprends-moi en une ligne de commande à convertir via Magic cette image en PNG de la manière la plus simple possible."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815926047.67451,
+      "id" : "1DB2D312-128E-4E05-AD90-AB1B8E94C9FD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Quelle est la fonte généralement utilisée par les jeux Nintendo ou les jeux, par exemple Final Fantasy VII? C'est une fonte en fait japonaise qui est souvent utilisée par les studios de jeux vidéo japonais pour justement les jeux qui vont se vendre à l'international. En fait, c'est l'équivalent de la fonte japonaise, mais transcrit transcrit du coup pour des caractères occidentaux. C'est une fonte, donc une police, et je la recherche. Et donne-moi trois candidats potentiels. Mais c'est une fonte vraiment connue, hein.",
+      "text" : "Quelle est la fonte généralement utilisée par les jeux Nintendo ou les jeux, par exemple Final Fantasy VII? C'est une fonte en fait japonaise qui est souvent utilisée par les studios de jeux vidéo japonais pour justement les jeux qui vont se vendre à l'international. En fait, c'est l'équivalent de la fonte japonaise, mais transcrit transcrit du coup pour des caractères occidentaux. C'est une fonte, donc une police, et je la recherche. Et donne-moi trois candidats potentiels. Mais c'est une fonte vraiment connue, hein."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815926057.226313,
+      "id" : "77207610-0309-420A-BEB3-EB8EBC599D9D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "qui n'est pas non plus un truc classique genre Roboto ou OpenSense, c'est quelque chose d'un peu plus spécifique.",
+      "text" : "qui n'est pas non plus un truc classique genre Roboto ou OpenSense, c'est quelque chose d'un peu plus spécifique."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815926120.296583,
+      "id" : "2E03AEC8-BDA5-40D8-B2D5-F83C1BBB4E9F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "C'est dans ce style, mais c'est pas exactement celle-là. Je pense d'ailleurs que tu peux retrouver sur Fontworks directement la fonte dont je parle, mais c'est pas exactement celle-là dont je parle. Celle-là, c'est vrai, elle est utilisée dans les jeux japonais, mais je parle plutôt d'une fonte qui aurait été utilisée dans Final Fantasy VII, par exemple. Et c'est aussi dans le dernier remake de Zelda Ocarina of Time, mais bon, c'est très récent, donc je pense pas que tu trouves",
+      "text" : "C'est dans ce style, mais c'est pas exactement celle-là. Je pense d'ailleurs que tu peux retrouver sur Fontworks directement la fonte dont je parle, mais c'est pas exactement celle-là dont je parle. Celle-là, c'est vrai, elle est utilisée dans les jeux japonais, mais je parle plutôt d'une fonte qui aurait été utilisée dans Final Fantasy VII, par exemple. Et c'est aussi dans le dernier remake de Zelda Ocarina of Time, mais bon, c'est très récent, donc je pense pas que tu trouves"
     }
   ],
   "modes" : [
