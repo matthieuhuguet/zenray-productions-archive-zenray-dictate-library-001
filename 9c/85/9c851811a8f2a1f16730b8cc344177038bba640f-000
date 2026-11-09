@@ -25939,6 +25939,56 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Via ZenRay Edit, d'ailleurs, crée-moi un document de synthèse où je vais pouvoir tester trois configurations, c'est-à-dire GT Ultra, plus Adobe Clean, plus Literata, ou alors qu'un seul des trois, ou alors une combinaison différente en fonction des titres, des numéros et des titres ou des éléments du UI, etc. N'hésite pas à être ultra complet et change aussi le document de synthèse une fois que tu as fini. Et ça, ce que je veux, c'est un autre document, mais ça n'a rien à voir. C'est juste un fichier typographique pour que je puisse tester. Et du coup, ce fichier typographique va directement dans les ZenRay Documents.",
       "text" : "Via ZenRay Edit, d'ailleurs, crée-moi un document de synthèse où je vais pouvoir tester trois configurations, c'est-à-dire GT Ultra, plus Adobe Clean, plus Literata, ou alors qu'un seul des trois, ou alors une combinaison différente en fonction des titres, des numéros et des titres ou des éléments du UI, etc. N'hésite pas à être ultra complet et change aussi le document de synthèse une fois que tu as fini. Et ça, ce que je veux, c'est un autre document, mais ça n'a rien à voir. C'est juste un fichier typographique pour que je puisse tester. Et du coup, ce fichier typographique va directement dans les ZenRay Documents."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815925510.392827,
+      "id" : "9053744B-2558-47F9-AAA0-25BCABBD2AD1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Bah du coup pour custom renomme-la Zelda Twilight Princess en Pascal case .iso du coup et mets-la dans le dossier Nintendo Games décompilation. En fait je sais pas si le mot décompilation est vraiment un nom parlant parce que je crois qu'on va parler de compilation et recompilation et pas forcément décompilation. Donc je pense qu'on va juste garder le nom Nintendo Games. Et enfin Final Fantasy bah mets-le dans Nintendo Games mais renomme-le proprement sans le nom de la copie non officielle. En fait c'est un bug, c'est pas une version non officielle, c'est simplement une version... Enfin je veux juste que tu la renommes bien et que tu mettes les deux archives dans le dossier Nintendo Games sans les compiler.",
+      "text" : "Bah du coup pour custom renomme-la Zelda Twilight Princess en Pascal case .iso du coup et mets-la dans le dossier Nintendo Games décompilation. En fait je sais pas si le mot décompilation est vraiment un nom parlant parce que je crois qu'on va parler de compilation et recompilation et pas forcément décompilation. Donc je pense qu'on va juste garder le nom Nintendo Games. Et enfin Final Fantasy bah mets-le dans Nintendo Games mais renomme-le proprement sans le nom de la copie non officielle. En fait c'est un bug, c'est pas une version non officielle, c'est simplement une version... Enfin je veux juste que tu la renommes bien et que tu mettes les deux archives dans le dossier Nintendo Games sans les compiler."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815925534.687929,
+      "id" : "B75E6FAF-479E-4FE2-B4DF-D3DC12FCCF9E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Je crois qu'il y avait aussi on avait créé une archive, je crois, de... Enfin, on avait créé un programme, je sais plus, enfin, justement pour jouer à Zelda Twilight Princess. Et je crois que c'était Dusklight, ou je sais plus comment il s'appelait exactement, mais il faut que tu le mettes dans Nintendo Games aussi.",
+      "text" : "Je crois qu'il y avait aussi on avait créé une archive, je crois, de... Enfin, on avait créé un programme, je sais plus, enfin, justement pour jouer à Zelda Twilight Princess. Et je crois que c'était Dusklight, ou je sais plus comment il s'appelait exactement, mais il faut que tu le mettes dans Nintendo Games aussi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815925706.543543,
+      "id" : "9E8B3C66-F144-4A27-B793-83DFC6A4F7DA",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Du coup, ce qui reste à faire, c'est le skill resume coordinator va du coup dans ZenRay past, ce happened only dans une section et appeler directement, et ensuite tu supprimes le skill. Enfin, il sera pas supprimé, c'est juste qu'il sera réindexé et remis dans le dossier de ZenRay past. C'est-à-dire que ZenRay past est un skill. Est un skill que tu n'as pas encore créé, mais qui doit avoir du coup toute la documentation et tous les appels via tout l'index mapping lié au titre du projet. Et ZenRay Resume Coordinator du coup devient deprecated, puisqu'il se happened only directement dans ZenRay Past, et ZenRay Past peut appeler toutes les fonctions de ZenRay Resume Coordinator, qui ce dernier est désormais deprecated, puisque c'est la méthode ZenRay Past qui vient prendre du coup toute la chaîne de valeur qui récupère du coup désormais le toute la logique nouvelle de la mémoire intercession entre tous les agents et tout l'écosystème ZenRay, ce qui est logique au final.",
+      "text" : "Du coup, ce qui reste à faire, c'est le skill resume coordinator va du coup dans ZenRay past, ce happened only dans une section et appeler directement, et ensuite tu supprimes le skill. Enfin, il sera pas supprimé, c'est juste qu'il sera réindexé et remis dans le dossier de ZenRay past. C'est-à-dire que ZenRay past est un skill. Est un skill que tu n'as pas encore créé, mais qui doit avoir du coup toute la documentation et tous les appels via tout l'index mapping lié au titre du projet. Et ZenRay Resume Coordinator du coup devient deprecated, puisqu'il se happened only directement dans ZenRay Past, et ZenRay Past peut appeler toutes les fonctions de ZenRay Resume Coordinator, qui ce dernier est désormais deprecated, puisque c'est la méthode ZenRay Past qui vient prendre du coup toute la chaîne de valeur qui récupère du coup désormais le toute la logique nouvelle de la mémoire intercession entre tous les agents et tout l'écosystème ZenRay, ce qui est logique au final."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815925730.133117,
+      "id" : "A4FF3B7E-7AC9-457C-AFA1-D5C72D204C1D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Donc fais bien en sorte d'ensuite de faire en sorte de non pas supprimer le skill, mais de le déplacer dans les dossiers de ZenRay Past, et ensuite d'indexer mapper par rapport au chemin des dossiers à appeler, soit dans un fichier Claude Rules, soit directement dans un sous-dossier du skill ZenRay Past.",
+      "text" : "Donc fais bien en sorte d'ensuite de faire en sorte de non pas supprimer le skill, mais de le déplacer dans les dossiers de ZenRay Past, et ensuite d'indexer mapper par rapport au chemin des dossiers à appeler, soit dans un fichier Claude Rules, soit directement dans un sous-dossier du skill ZenRay Past."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815925861.500604,
+      "id" : "20DE877B-75E8-4AB2-B808-DDFFF88D7C8D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Apprends-moi en une ligne de commande à convertir via Magic cette image en PNG de la manière la plus simple possible.",
+      "text" : "Apprends-moi en une ligne de commande à convertir via Magic cette image en PNG de la manière la plus simple possible."
     }
   ],
   "modes" : [
