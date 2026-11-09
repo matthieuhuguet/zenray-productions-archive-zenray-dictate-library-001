@@ -26569,6 +26569,46 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Donc je résume, cette méthode est à faire uniquement via des agents 5.5 en background qui vont du coup analyser frame par frame la vidéo que... Non, pas frame par frame, pardon, seconde par seconde. Donc chaque seconde de la vidéo. Donc là c'est une vidéo qui dure 48 secondes, donc ça fait 48 frames. Il n'y a pas besoin de faire plus de frames et de faire frame par frame, ce serait contre-productif. Ensuite, les 48 frames sont lus par un agent Haiku 5.5 et ensuite, toi-même, dans ce thread, tu continues le protocole. Mais en fait, tu délègues pas à une autre conversation, tu restes dans ce thread, c'est juste les agents de lecture d'images qui sont délégués pour construire un résumé de la vidéo. Mais en fait, c'est la seule chose à faire de manière déléguée, parce que toi, tu restes ici pour construire du coup la version ZenRay Meshes, mais c'est une amélioration du produit qui n'existe pas encore. Donc en fait, il te reste énormément de choses à faire avant de commencer cette tâche.",
       "text" : "Donc je résume, cette méthode est à faire uniquement via des agents 5.5 en background qui vont du coup analyser frame par frame la vidéo que... Non, pas frame par frame, pardon, seconde par seconde. Donc chaque seconde de la vidéo. Donc là c'est une vidéo qui dure 48 secondes, donc ça fait 48 frames. Il n'y a pas besoin de faire plus de frames et de faire frame par frame, ce serait contre-productif. Ensuite, les 48 frames sont lus par un agent Haiku 5.5 et ensuite, toi-même, dans ce thread, tu continues le protocole. Mais en fait, tu délègues pas à une autre conversation, tu restes dans ce thread, c'est juste les agents de lecture d'images qui sont délégués pour construire un résumé de la vidéo. Mais en fait, c'est la seule chose à faire de manière déléguée, parce que toi, tu restes ici pour construire du coup la version ZenRay Meshes, mais c'est une amélioration du produit qui n'existe pas encore. Donc en fait, il te reste énormément de choses à faire avant de commencer cette tâche."
+    },
+    {
+      "application" : "net.whatsapp.WhatsApp",
+      "date" : 815953382.025438,
+      "id" : "5815DB61-EDEA-4764-85CC-3DDF3701A20D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "C'est drôle parce que j'ai vraiment essayé de build un outil similaire pendant au moins 3 mois et là le truc le fait en prompt.",
+      "text" : "C'est drôle parce que j'ai vraiment essayé de build un outil similaire pendant au moins 3 mois et là le truc le fait en prompt."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815953506.907176,
+      "id" : "D2F6B776-7DE0-4AD2-99A5-40880E791B68",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Pourquoi tu me poses la question de brancher la republication de l'index dans Games Vault alors que ça doit être fait normalement à chaque update de commit? C'est bizarre. Et par rapport à mes photos, tu devais d'abord vérifier qu'elles soient bien toutes dans le drive et uploader celles qui n'y sont pas.",
+      "text" : "Pourquoi tu me poses la question de brancher la republication de l'index dans Games Vault alors que ça doit être fait normalement à chaque update de commit? C'est bizarre. Et par rapport à mes photos, tu devais d'abord vérifier qu'elles soient bien toutes dans le drive et uploader celles qui n'y sont pas."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815953513.224515,
+      "id" : "01819C85-4757-46CC-B250-3A32144B74EF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "soit par métadonnées, soit par nom de fichier, je sais pas.",
+      "text" : "soit par métadonnées, soit par nom de fichier, je sais pas."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815953522.12539,
+      "id" : "5C135D80-28F0-44E0-A719-3B0530C4F767",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "J'ai l'impression que tu pourrais te tromper si tu fais par nom de fichier, donc fais une méthode qui soit irréfutable.",
+      "text" : "J'ai l'impression que tu pourrais te tromper si tu fais par nom de fichier, donc fais une méthode qui soit irréfutable."
     }
   ],
   "modes" : [
