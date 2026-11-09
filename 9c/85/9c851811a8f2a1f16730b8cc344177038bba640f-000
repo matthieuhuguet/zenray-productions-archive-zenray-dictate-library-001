@@ -25499,6 +25499,26 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Et en fait, c'est organiser un prompt de deep research orienté pour Google Gemini, Argon AI, pour faire en sorte que via des sub-agents, il aille rechercher la plus grande recherche qui m'apprenne et qui crée un guide via une deep research de A à Z sur tout le sujet de la vente, de la freelance, des sales, qu'on explore en vrai de A à Z tout le sujet de la monétisation, mais sans que tu inventes des choses. Je préfère voir le sujet de manière globale plutôt que tu me dises: ah oui, mais en fait, t'as juste à contacter des studios. Non, je veux explorer le sujet de A à Z.",
       "text" : "Et en fait, c'est organiser un prompt de deep research orienté pour Google Gemini, Argon AI, pour faire en sorte que via des sub-agents, il aille rechercher la plus grande recherche qui m'apprenne et qui crée un guide via une deep research de A à Z sur tout le sujet de la vente, de la freelance, des sales, qu'on explore en vrai de A à Z tout le sujet de la monétisation, mais sans que tu inventes des choses. Je préfère voir le sujet de manière globale plutôt que tu me dises: ah oui, mais en fait, t'as juste à contacter des studios. Non, je veux explorer le sujet de A à Z."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815917307.652432,
+      "id" : "891C937E-871C-4DC4-B91A-7D0E2FCF80E1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Je pense que après le problème, c'est aussi",
+      "text" : "Je pense que après le problème, c'est aussi"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815917318.832252,
+      "id" : "A9CC286B-0BC9-4CAA-843D-CFF5F1A7C2BE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Après, je pense que le problème, c'est que Andreas,",
+      "text" : "Après, je pense que le problème, c'est que Andreas,"
     }
   ],
   "modes" : [
