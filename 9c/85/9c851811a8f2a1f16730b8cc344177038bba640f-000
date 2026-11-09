@@ -25769,6 +25769,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Mais il faut que tu fasses l'évocation et l'omission de tous les termes qu'on a déjà évoqués, et à chaque fois notre décision de pourquoi ce terme a été rejeté ou pas.",
       "text" : "Mais il faut que tu fasses l'évocation et l'omission de tous les termes qu'on a déjà évoqués, et à chaque fois notre décision de pourquoi ce terme a été rejeté ou pas."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815920969.06141,
+      "id" : "7AEB2C55-7BA7-421D-B3DE-81E3E2853A35",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "à travers les œuvres comme Redwall, Ocarina of Time, The Witcher 3 ou encore Les Chevaliers de la Table Ronde.",
+      "text" : "à travers les œuvres comme Redwall, Ocarina of Time, The Witcher 3 ou encore Les Chevaliers de la Table Ronde."
     }
   ],
   "modes" : [
