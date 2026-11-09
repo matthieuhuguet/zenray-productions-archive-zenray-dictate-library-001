@@ -26079,6 +26079,56 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Ah oui. Et du coup, par exemple, là, tu vois, dans la note du jour, j'ai mis n égale à un nombre que j'aimerais que tu détermines. Mais le truc, c'est que l'agent local doit le savoir aussi, tu vois. Donc, soit, en fait, on fait une ZenRay API, enfin, on fait une ZenRay PAST API, soit on fait un truc qui récupère les fichiers localement, mais bon, je pense que c'est pas forcément une bonne idée, étant donné que ça va prendre pas mal d'espace disque, tu vois. Bon, après, tu vois, si c'est des archives importantes, c'est bien de les télécharger aussi, mais le truc, c'est que de toute manière, on aura besoin de poser des questions à un truc qui sera cloudé, tu vois. Donc, je sais pas. De toute manière, récupère la note du 9 novembre, mets à jour ZenRay Notes pour que déjà tout soit au format Adobe Clean en termes de fonte, parce qu'actuellement, il y a encore les nombres qui sont en GT Ultra. Donc il faut corriger ça. Et ensuite, tu me dis n égale à combien une fois que tu as construit soit l'API, soit la méthode de vérification sur des informations qui sont du coup du passé, tu vois. Et aussi, il faudrait sur la note mettre un petit élément en petit en forme d'horodatage, en mode tu as noté à tel moment le truc, tu vois.",
       "text" : "Ah oui. Et du coup, par exemple, là, tu vois, dans la note du jour, j'ai mis n égale à un nombre que j'aimerais que tu détermines. Mais le truc, c'est que l'agent local doit le savoir aussi, tu vois. Donc, soit, en fait, on fait une ZenRay API, enfin, on fait une ZenRay PAST API, soit on fait un truc qui récupère les fichiers localement, mais bon, je pense que c'est pas forcément une bonne idée, étant donné que ça va prendre pas mal d'espace disque, tu vois. Bon, après, tu vois, si c'est des archives importantes, c'est bien de les télécharger aussi, mais le truc, c'est que de toute manière, on aura besoin de poser des questions à un truc qui sera cloudé, tu vois. Donc, je sais pas. De toute manière, récupère la note du 9 novembre, mets à jour ZenRay Notes pour que déjà tout soit au format Adobe Clean en termes de fonte, parce qu'actuellement, il y a encore les nombres qui sont en GT Ultra. Donc il faut corriger ça. Et ensuite, tu me dis n égale à combien une fois que tu as construit soit l'API, soit la méthode de vérification sur des informations qui sont du coup du passé, tu vois. Et aussi, il faudrait sur la note mettre un petit élément en petit en forme d'horodatage, en mode tu as noté à tel moment le truc, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815928650.262337,
+      "id" : "1A892DB9-5358-4A8D-996C-6F2B429D342B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Par contre, tous les documents doivent avoir une vue en galerie avec une image directement beaucoup plus propre. Parce que sinon ça va être compliqué de s'y retrouver. En fait, il me faut une prévisualisation de chaque document comme un quick look en fait.",
+      "text" : "Par contre, tous les documents doivent avoir une vue en galerie avec une image directement beaucoup plus propre. Parce que sinon ça va être compliqué de s'y retrouver. En fait, il me faut une prévisualisation de chaque document comme un quick look en fait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815928676.909032,
+      "id" : "283D9106-5E6B-458E-B945-2B30A68904AF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Bah non, justement, parce que je viens de te dire que les chiffres ne sont plus en GT Ultra mais en Adobe Clean.",
+      "text" : "Bah non, justement, parce que je viens de te dire que les chiffres ne sont plus en GT Ultra mais en Adobe Clean."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815928755.210961,
+      "id" : "DD0E2A3A-2DE8-4422-8261-B3410EABF024",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Et du coup, t'as créé toutes les graisses là?",
+      "text" : "Et du coup, t'as créé toutes les graisses là?"
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815928867.80269,
+      "id" : "58EB0295-5B2D-48CA-87E5-6E5AF00672A0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Faire le résultat procédural uniquement pour les caractères occidentaux, l'alphabet et les nombres, et pas pour les kanji.",
+      "text" : "Faire le résultat procédural uniquement pour les caractères occidentaux, l'alphabet et les nombres, et pas pour les kanji."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815928947.246279,
+      "id" : "3992EF18-F222-45FE-9708-2B2EFFF51594",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Continuons de faire l'inventaire de tout le disque Mac. En fait, j'ai besoin vraiment de faire de l'espace parce que là, on arrive dans une zone critique où on a de moins en moins d'espace sur mon disque dur et j'ai besoin de faire de l'espace. Et donc, identifier où sont... donc, faire un scan complet par priorité et par espace de disque pour savoir qu'est-ce qui prend le plus d'espace entre... Bah, j'ai quand même 2 Tera de disque dur d'espace disponible de base, donc tu vas me faire un inventaire complet de tout ce qui prend de la place par priorité. Et ensuite, et aussi essayer de l'identifier en termes de projet, tu vois. Et ensuite, bah, on fera le travail de savoir qu'est-ce qu'on peut cloud pour libérer de l'espace. Mais le but, ce serait de libérer au moins 1 Tera d'espace disque aujourd'hui, tu vois.",
+      "text" : "Continuons de faire l'inventaire de tout le disque Mac. En fait, j'ai besoin vraiment de faire de l'espace parce que là, on arrive dans une zone critique où on a de moins en moins d'espace sur mon disque dur et j'ai besoin de faire de l'espace. Et donc, identifier où sont... donc, faire un scan complet par priorité et par espace de disque pour savoir qu'est-ce qui prend le plus d'espace entre... Bah, j'ai quand même 2 Tera de disque dur d'espace disponible de base, donc tu vas me faire un inventaire complet de tout ce qui prend de la place par priorité. Et ensuite, et aussi essayer de l'identifier en termes de projet, tu vois. Et ensuite, bah, on fera le travail de savoir qu'est-ce qu'on peut cloud pour libérer de l'espace. Mais le but, ce serait de libérer au moins 1 Tera d'espace disque aujourd'hui, tu vois."
     }
   ],
   "modes" : [
