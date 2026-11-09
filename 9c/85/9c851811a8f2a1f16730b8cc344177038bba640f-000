@@ -26219,6 +26219,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Ça fonctionne très bien désormais, par contre, et même la piste japonaise par défaut a été revérifiée et elle fonctionne bien. Donc je sais pas pourquoi elle ne fonctionnait pas tout à l'heure. Explique-le-moi techniquement. Et par contre, ce que j'aimerais faire désormais, c'est faire disparaître la Dynamic Island sur la gauche de l'écran qui reste tout le temps affichée, je sais pas pourquoi. Donc il faut faire en sorte de la faire disparaître de manière clean et propre. Et pour les nombres de la vidéo du lecteur vidéo, il faut aussi appliquer Adobe Clean directement.",
       "text" : "Ça fonctionne très bien désormais, par contre, et même la piste japonaise par défaut a été revérifiée et elle fonctionne bien. Donc je sais pas pourquoi elle ne fonctionnait pas tout à l'heure. Explique-le-moi techniquement. Et par contre, ce que j'aimerais faire désormais, c'est faire disparaître la Dynamic Island sur la gauche de l'écran qui reste tout le temps affichée, je sais pas pourquoi. Donc il faut faire en sorte de la faire disparaître de manière clean et propre. Et pour les nombres de la vidéo du lecteur vidéo, il faut aussi appliquer Adobe Clean directement."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815938088.973249,
+      "id" : "99A5809F-DA29-4984-8BA1-513B1A333ACD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Donc il faut faire disparaître la Dynamic Island qui reste tout le temps affichée avec l'icône ZenRay. Actuellement, au moment où j'ai appuyé sur le screenshot, la capsule de la Dynamic Island n'a pas disparu, mais le logo ZenRay Progress a disparu, alors qu'il était clairement affiché avant de prendre la capture. Donc il faut aussi, à mon avis, le cacher. Mais à mon avis, si tu caches directement la Dynamic Island, une fois qu'on est en mode lecteur propre sur le grand écran, normalement ça devrait disparaître. Mais en tout cas, ça fonctionne quasi parfaitement. On a quasi toutes les fonctionnalités de manière bien. Donc il ne reste plus que les nombres et cacher la Dynamic Island. Je fais tout proprement jusqu'à la fin.",
+      "text" : "Donc il faut faire disparaître la Dynamic Island qui reste tout le temps affichée avec l'icône ZenRay. Actuellement, au moment où j'ai appuyé sur le screenshot, la capsule de la Dynamic Island n'a pas disparu, mais le logo ZenRay Progress a disparu, alors qu'il était clairement affiché avant de prendre la capture. Donc il faut aussi, à mon avis, le cacher. Mais à mon avis, si tu caches directement la Dynamic Island, une fois qu'on est en mode lecteur propre sur le grand écran, normalement ça devrait disparaître. Mais en tout cas, ça fonctionne quasi parfaitement. On a quasi toutes les fonctionnalités de manière bien. Donc il ne reste plus que les nombres et cacher la Dynamic Island. Je fais tout proprement jusqu'à la fin."
     }
   ],
   "modes" : [
