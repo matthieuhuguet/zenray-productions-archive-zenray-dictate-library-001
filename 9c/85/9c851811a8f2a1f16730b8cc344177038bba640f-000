@@ -25609,6 +25609,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Ah oui, j'ai oublié aussi de te dire de lier à assets. Il doit être lié à assets, mais j'ai vu que tu l'avais déjà fait. Mais dans la documentation, il faudra aussi pas oublier que ZenRay Past permet du coup de résoudre le problème. Mais donc, je vais regarder ce que tu",
       "text" : "Ah oui, j'ai oublié aussi de te dire de lier à assets. Il doit être lié à assets, mais j'ai vu que tu l'avais déjà fait. Mais dans la documentation, il faudra aussi pas oublier que ZenRay Past permet du coup de résoudre le problème. Mais donc, je vais regarder ce que tu"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815919013.083586,
+      "id" : "D836CD03-2D2E-4A78-9CB9-1CA4302FEDD6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Je viens de lire et je pense que ton plan est le bon. J'aimerais cependant que tu penses à tout avant de te lancer et ensuite tu codes tout jusqu'à la fin de manière séquentielle et tu as carte blanche pour créer la meilleure version possible du produit mais sans jamais faire aucune erreur à chaque étape. Chaque étape doit être minutieusement faite et parfaite jusqu'à sa finition avant de passer à la prochaine étape. Je te laisse travailler. Tu peux avoir autant de temps que tu veux, prends tout le temps possible et disponible.",
+      "text" : "Je viens de lire et je pense que ton plan est le bon. J'aimerais cependant que tu penses à tout avant de te lancer et ensuite tu codes tout jusqu'à la fin de manière séquentielle et tu as carte blanche pour créer la meilleure version possible du produit mais sans jamais faire aucune erreur à chaque étape. Chaque étape doit être minutieusement faite et parfaite jusqu'à sa finition avant de passer à la prochaine étape. Je te laisse travailler. Tu peux avoir autant de temps que tu veux, prends tout le temps possible et disponible."
     }
   ],
   "modes" : [
