@@ -26269,6 +26269,26 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Oui, mais là, tu t'écartes de ce que tu dois faire, c'est pas du tout ce qu'on t'a dit. Parce que là, tu refais le tutoriel alors que déjà, t'es censé le savoir par rapport au transcript et surtout, c'est pas du tout ce qu'on voulait faire. Parce que là, on a lu 427 sections, t'as pas besoin de recommencer encore une fois, arrête-toi et... Le but était de tester une méthode de protocole SVG, mais ça, tu l'as jamais fait. J'ai même pas pu regarder le... Comment ça s'appelle? J'ai même pas pu regarder le capot parce que tu me l'as pas mis dans une vue 4 vues pour pouvoir savoir si la topologie et si le modèle component c'était exact.",
       "text" : "Oui, mais là, tu t'écartes de ce que tu dois faire, c'est pas du tout ce qu'on t'a dit. Parce que là, tu refais le tutoriel alors que déjà, t'es censé le savoir par rapport au transcript et surtout, c'est pas du tout ce qu'on voulait faire. Parce que là, on a lu 427 sections, t'as pas besoin de recommencer encore une fois, arrête-toi et... Le but était de tester une méthode de protocole SVG, mais ça, tu l'as jamais fait. J'ai même pas pu regarder le... Comment ça s'appelle? J'ai même pas pu regarder le capot parce que tu me l'as pas mis dans une vue 4 vues pour pouvoir savoir si la topologie et si le modèle component c'était exact."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815939569.431067,
+      "id" : "535F62E9-5298-4C22-8815-06A1A68CF963",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Repars sur la voiture avec la méthode actuelle et essaie de faire un component simple qui est déjà découpé par masque.",
+      "text" : "Repars sur la voiture avec la méthode actuelle et essaie de faire un component simple qui est déjà découpé par masque."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815939722.016366,
+      "id" : "591FAB0D-73CD-4EC4-B0B6-EFF8466E2693",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Attends, arrête-toi maintenant. Dis-moi comment t'as fait pour faire un masque aussi clean. Parce que la dernière fois que je t'avais demandé de faire un masque, t'avais pas réussi à le faire. Est-ce que tu utilises la photo procédurale ou tu utilises les masques? Comment t'as fait pour faire un masque aussi clean?",
+      "text" : "Attends, arrête-toi maintenant. Dis-moi comment t'as fait pour faire un masque aussi clean. Parce que la dernière fois que je t'avais demandé de faire un masque, t'avais pas réussi à le faire. Est-ce que tu utilises la photo procédurale ou tu utilises les masques? Comment t'as fait pour faire un masque aussi clean?"
     }
   ],
   "modes" : [
