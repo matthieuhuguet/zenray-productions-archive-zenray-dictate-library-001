@@ -26159,6 +26159,36 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Cependant, il faut arriver à une version clean désormais, tu vois.",
       "text" : "Cependant, il faut arriver à une version clean désormais, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815930304.863993,
+      "id" : "D5ADE11C-00F7-48A7-AA90-EF15A58A4111",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Est-ce que l'API ZenRay Past est vraiment nécessaire étant donné que tu as trouvé n égale 35? Si c'est pas utile, dans ce cas-là, ne le fais pas. Et de toute manière, finis ZenRay Past à 100% avec tout ce qui manque. Et pense à tout pour le finir proprement.",
+      "text" : "Est-ce que l'API ZenRay Past est vraiment nécessaire étant donné que tu as trouvé n égale 35? Si c'est pas utile, dans ce cas-là, ne le fais pas. Et de toute manière, finis ZenRay Past à 100% avec tout ce qui manque. Et pense à tout pour le finir proprement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815930428.866818,
+      "id" : "F70C9533-D11A-4A97-940F-48A8EFDF4B0C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "J'aurais juste une question technique sur ZenRayPast auquel j'aimerais que tu me répondes de manière peut-être segmentée via une délégation d'agents, mais je comprends pas techniquement comment ZenRayPast interroge les souvenirs pour répondre avec précision à tout ce qu'il faut. Et d'ailleurs, est-ce que tu as vraiment scrappé toute la documentation de past.dev pour être sûr que ça fonctionnera toujours à 100%?",
+      "text" : "J'aurais juste une question technique sur ZenRayPast auquel j'aimerais que tu me répondes de manière peut-être segmentée via une délégation d'agents, mais je comprends pas techniquement comment ZenRayPast interroge les souvenirs pour répondre avec précision à tout ce qu'il faut. Et d'ailleurs, est-ce que tu as vraiment scrappé toute la documentation de past.dev pour être sûr que ça fonctionnera toujours à 100%?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815930506.978611,
+      "id" : "E77D7DB3-82A3-4169-B902-22C947EC1D25",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Et d'ailleurs, ce matin, on avait fait aussi ZenRay Night, K-N-I-G-H-T. Et du coup, ma question, c'est de savoir, est-ce que tu aurais pu améliorer le prompt Gemini par rapport aux essais que tu as fait sur ZenRay Past? Ou alors, est-ce que le prompt était déjà complet? Ma question, c'est en fait, c'est est-ce que le prompt a été généré avec des erreurs, dans le sens où la solution ZenRay Past fonctionnait pas forcément et ça faisait un rely sur Claude Code. Mais du coup, la question, c'est est-ce que désormais tu pourrais améliorer le prompt, ou est-ce que le prompt était déjà fini de toute manière? Mais j'aimerais que tu répondes à tout ça via une délégation d'agents. Enfin, un seul agent, tu vois, répond à cette question, mais dans une conversation différente. Parce que je sais pas en fait.",
+      "text" : "Et d'ailleurs, ce matin, on avait fait aussi ZenRay Night, K-N-I-G-H-T. Et du coup, ma question, c'est de savoir, est-ce que tu aurais pu améliorer le prompt Gemini par rapport aux essais que tu as fait sur ZenRay Past? Ou alors, est-ce que le prompt était déjà complet? Ma question, c'est en fait, c'est est-ce que le prompt a été généré avec des erreurs, dans le sens où la solution ZenRay Past fonctionnait pas forcément et ça faisait un rely sur Claude Code. Mais du coup, la question, c'est est-ce que désormais tu pourrais améliorer le prompt, ou est-ce que le prompt était déjà fini de toute manière? Mais j'aimerais que tu répondes à tout ça via une délégation d'agents. Enfin, un seul agent, tu vois, répond à cette question, mais dans une conversation différente. Parce que je sais pas en fait."
     }
   ],
   "modes" : [
