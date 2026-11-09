@@ -25779,6 +25779,56 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "à travers les œuvres comme Redwall, Ocarina of Time, The Witcher 3 ou encore Les Chevaliers de la Table Ronde.",
       "text" : "à travers les œuvres comme Redwall, Ocarina of Time, The Witcher 3 ou encore Les Chevaliers de la Table Ronde."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815921266.121738,
+      "id" : "6DE7D787-D7EA-4561-94E8-DF7F1FE64A85",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Compare ce script pour voir s'il est mieux en termes de fonctionnalité. Si oui, ajoute-les, sinon crée une argumentation qui explique pourquoi ton script est meilleur par rapport à cette proposition. En fait, compare les deux fichiers et détermine le meilleur, et ensuite crée une argumentation pour déterminer lequel est le meilleur. Et sinon, tu peux aussi créer un troisième fichier de synthèse pour créer une version qui englobe le meilleur des deux.",
+      "text" : "Compare ce script pour voir s'il est mieux en termes de fonctionnalité. Si oui, ajoute-les, sinon crée une argumentation qui explique pourquoi ton script est meilleur par rapport à cette proposition. En fait, compare les deux fichiers et détermine le meilleur, et ensuite crée une argumentation pour déterminer lequel est le meilleur. Et sinon, tu peux aussi créer un troisième fichier de synthèse pour créer une version qui englobe le meilleur des deux."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815921272.714258,
+      "id" : "7D1BDDDE-1A46-4D3D-9FF0-A8B78DEFCE6C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Inutile si ton fichier est déjà le meilleur.",
+      "text" : "Inutile si ton fichier est déjà le meilleur."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815921305.809636,
+      "id" : "82785A1F-E8E3-4F36-836C-9A4A338BAA02",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Est-ce que c'est publié et est-ce que je peux le tester?",
+      "text" : "Est-ce que c'est publié et est-ce que je peux le tester?"
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815921311.017467,
+      "id" : "488D3C78-7BCA-4563-B8A0-4A1592C7DA8F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Est-ce que tu as une preuve que ça fonctionne?",
+      "text" : "Est-ce que tu as une preuve que ça fonctionne?"
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815921337.433944,
+      "id" : "0D6EDB73-9D60-4829-8639-1FBD97F82569",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Normalement, tu peux, lorsque je te pose ce genre de questions, tu peux simuler une WebView iOS, notamment en plus parce que je suis sur Mac, et comme ça, tu prends une capture d'écran directement pour voir si ça fonctionne. Et à terme, tu le notes directement dans claude.md pour être sûr que tu fasses plus l'erreur, ou dans agent.md.",
+      "text" : "Normalement, tu peux, lorsque je te pose ce genre de questions, tu peux simuler une WebView iOS, notamment en plus parce que je suis sur Mac, et comme ça, tu prends une capture d'écran directement pour voir si ça fonctionne. Et à terme, tu le notes directement dans claude.md pour être sûr que tu fasses plus l'erreur, ou dans agent.md."
     }
   ],
   "modes" : [
