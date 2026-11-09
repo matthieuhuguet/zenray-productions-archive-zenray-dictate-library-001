@@ -25659,6 +25659,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Tu peux soit créer ta propre extension que j'installerai dans Chrome, soit le créer directement via le stylus. Sachant que, attention, parfois stylus ne marche pas sur certains éléments. Donc je te conseille de faire une web research d'abord.",
       "text" : "Tu peux soit créer ta propre extension que j'installerai dans Chrome, soit le créer directement via le stylus. Sachant que, attention, parfois stylus ne marche pas sur certains éléments. Donc je te conseille de faire une web research d'abord."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815919441.365093,
+      "id" : "BF172477-065B-448A-810B-07046E3735C0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais non, t'as qu'à faire un script pour les trois sites.",
+      "text" : "Mais non, t'as qu'à faire un script pour les trois sites."
     }
   ],
   "modes" : [
