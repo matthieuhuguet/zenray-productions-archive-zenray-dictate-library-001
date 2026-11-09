@@ -26609,6 +26609,26 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "J'ai l'impression que tu pourrais te tromper si tu fais par nom de fichier, donc fais une méthode qui soit irréfutable.",
       "text" : "J'ai l'impression que tu pourrais te tromper si tu fais par nom de fichier, donc fais une méthode qui soit irréfutable."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815954131.018372,
+      "id" : "0925100B-C2D0-40B6-B65D-C382E942B0DF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Redonne-moi le prompt depuis ZenRay Houdini qui permet d'obtenir directement...",
+      "text" : "Redonne-moi le prompt depuis ZenRay Houdini qui permet d'obtenir directement..."
+    },
+    {
+      "application" : "com.openai.codex",
+      "date" : 815954137.624064,
+      "id" : "9B0F1975-39AB-43B6-B335-40B0B364FEB3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Utilise la génération d'images directement automatiquement.",
+      "text" : "Utilise la génération d'images directement automatiquement."
     }
   ],
   "modes" : [
