@@ -26669,6 +26669,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Mais il y a une itération de quads à faire de toute manière. Après, on a quand même des améliorations par rapport à la version 762. C'est vraiment clean, mais il faut continuer le travail.",
       "text" : "Mais il y a une itération de quads à faire de toute manière. Après, on a quand même des améliorations par rapport à la version 762. C'est vraiment clean, mais il faut continuer le travail."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815957633.931708,
+      "id" : "7B60276C-ECEC-4989-AF3C-A557F498E274",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Surtout, j'ai l'impression que le blueprint n'a pas forcément amélioré ce qu'on avait déjà, alors que le but c'était de lisser les courbes et de rajouter des components déjà préétablis.",
+      "text" : "Surtout, j'ai l'impression que le blueprint n'a pas forcément amélioré ce qu'on avait déjà, alors que le but c'était de lisser les courbes et de rajouter des components déjà préétablis."
     }
   ],
   "modes" : [
