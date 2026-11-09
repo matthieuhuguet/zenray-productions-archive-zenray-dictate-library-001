@@ -25529,6 +25529,46 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Ok. Après, je pense qu'il faudrait harmoniser freelance 1, business 1, Andreas 1, sales 1, Mathieu 1. Enfin, pas Mathieu 1, parce que Mathieu 1, il est individuel et c'est pas la même chose. Mais il faudrait faire en sorte de lancer des agents Haiku 5.5 niveau d'effort extra, donc des sub-agents, afin de faire en sorte de lire absolument tout et de réunir autour d'un seul fichier, puis de supprimer les anciens dossiers, enfin les anciens fichiers de contexte, de mémoire, enfin ouais. Parce que actuellement ça me crée trop de dépendance mentale sur le business, tu vois. Mais je sais pas, tu vois, si on devrait garder freelance ou business ou marketing, tu vois. Enfin, peut-être que business c'est le plus parlant, mais en même temps, business, je suis pas forcément quelqu'un très business personnellement, tu vois. C'est-à-dire que je le fais parce que c'est nécessaire, mais moi, tu vois, je suis un artiste, tu vois. Donc après, on peut l'adapter à un vocabulaire d'artiste et faire en sorte de commencer à gagner de l'argent, tu vois, peu importe. Mais le but, si tu veux, c'est que moi, en fait, tu me parles et tu me convaincs et tu me séduis si tu me parles de Zelda, ou si tu me parles de jeux vidéo, ou si tu me parles d'art, ou si tu me parles de musique, tu vois. Alors que si tu me parles de business, en règle générale, je décroche un peu, tu vois. C'est comme Jamie Épicurieux, tu vois. C'est, si tu me parles de manière positive, tu vois, il y a une appréhension au fait de parler business, alors que j'en ai besoin, tu vois, pour survivre et même pour me démerder dans ma vie. Et en fait, le truc, c'est que si je suis motivé par construire des jeux, bah, je vais tout défoncer, tu vois, tandis que, positivement, hein, tandis que si tu me dis que je vais faire quelque chose d'autre, ça va pas être aussi positif, tu vois.",
       "text" : "Ok. Après, je pense qu'il faudrait harmoniser freelance 1, business 1, Andreas 1, sales 1, Mathieu 1. Enfin, pas Mathieu 1, parce que Mathieu 1, il est individuel et c'est pas la même chose. Mais il faudrait faire en sorte de lancer des agents Haiku 5.5 niveau d'effort extra, donc des sub-agents, afin de faire en sorte de lire absolument tout et de réunir autour d'un seul fichier, puis de supprimer les anciens dossiers, enfin les anciens fichiers de contexte, de mémoire, enfin ouais. Parce que actuellement ça me crée trop de dépendance mentale sur le business, tu vois. Mais je sais pas, tu vois, si on devrait garder freelance ou business ou marketing, tu vois. Enfin, peut-être que business c'est le plus parlant, mais en même temps, business, je suis pas forcément quelqu'un très business personnellement, tu vois. C'est-à-dire que je le fais parce que c'est nécessaire, mais moi, tu vois, je suis un artiste, tu vois. Donc après, on peut l'adapter à un vocabulaire d'artiste et faire en sorte de commencer à gagner de l'argent, tu vois, peu importe. Mais le but, si tu veux, c'est que moi, en fait, tu me parles et tu me convaincs et tu me séduis si tu me parles de Zelda, ou si tu me parles de jeux vidéo, ou si tu me parles d'art, ou si tu me parles de musique, tu vois. Alors que si tu me parles de business, en règle générale, je décroche un peu, tu vois. C'est comme Jamie Épicurieux, tu vois. C'est, si tu me parles de manière positive, tu vois, il y a une appréhension au fait de parler business, alors que j'en ai besoin, tu vois, pour survivre et même pour me démerder dans ma vie. Et en fait, le truc, c'est que si je suis motivé par construire des jeux, bah, je vais tout défoncer, tu vois, tandis que, positivement, hein, tandis que si tu me dis que je vais faire quelque chose d'autre, ça va pas être aussi positif, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815917486.18836,
+      "id" : "D159EBFF-8596-42AD-A2A4-9F3422E8E3FC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Donc en fait, je pense qu'il faut relire ces fichiers et harmoniser autour d'une seule source de vérité avec les métadatas et les heures, etc. Puis recréer le prompt que je t'ai demandé de faire juste avant. Et enfin, ouais, en fait, c'est tout mergé en appendedly dans un seul fichier. Et en fait, c'est l'adapter pour moi, quoi.",
+      "text" : "Donc en fait, je pense qu'il faut relire ces fichiers et harmoniser autour d'une seule source de vérité avec les métadatas et les heures, etc. Puis recréer le prompt que je t'ai demandé de faire juste avant. Et enfin, ouais, en fait, c'est tout mergé en appendedly dans un seul fichier. Et en fait, c'est l'adapter pour moi, quoi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815917494.173189,
+      "id" : "D389EC04-5101-47D9-BCEC-8990A1A7A11A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "mais autour d'un seul fichier avec un nom parlant.",
+      "text" : "mais autour d'un seul fichier avec un nom parlant."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815917556.618718,
+      "id" : "6A0FFB1A-FBDF-4375-8912-EE2988E109A7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Liberty, tu vois, c'est déjà plus intéressant.",
+      "text" : "Liberty, tu vois, c'est déjà plus intéressant."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815917701.159394,
+      "id" : "72824C6E-D916-4DEC-8C99-1A34A65146B2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Analyse à quel point past.dev est une bonne solution de mémoire pour les agents, notamment Claude Code, et si Claude Code est déjà suffisamment performant par rapport à cette solution, ou alors si past.dev est vraiment intéressant, je ne sais pas.",
+      "text" : "Analyse à quel point past.dev est une bonne solution de mémoire pour les agents, notamment Claude Code, et si Claude Code est déjà suffisamment performant par rapport à cette solution, ou alors si past.dev est vraiment intéressant, je ne sais pas."
     }
   ],
   "modes" : [
