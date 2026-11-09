@@ -25909,6 +25909,26 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Donc update les skills qui s'appellent ZenRay Edit, ZenRay Asset et ZenRay Documents et ZenRay Past aussi. Tout doit être lié dans Claude.md pour que ce soit logique.",
       "text" : "Donc update les skills qui s'appellent ZenRay Edit, ZenRay Asset et ZenRay Documents et ZenRay Past aussi. Tout doit être lié dans Claude.md pour que ce soit logique."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815925025.675529,
+      "id" : "0404DDB6-0530-4A82-B4A1-CF0A42C1EBCD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Tu peux me donner uniquement le dernier prompt, s'il te plaît? Enfin, le prompt Gemini, du coup, pour faire le podcast audio.",
+      "text" : "Tu peux me donner uniquement le dernier prompt, s'il te plaît? Enfin, le prompt Gemini, du coup, pour faire le podcast audio."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815925236.873744,
+      "id" : "90F35C87-0107-455F-9AF6-0141C057FD24",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Je vois un léger problème avec la synthèse, ensuite continue ce que tu faisais, mais je vois un problème, c'est que la fonte utilisée n'est pas celle que je décrite dans les dernières variables, donc ça pose problème, mais à mon avis c'est dans claude.md typographique, on n'a pas mis à jour les variables, mais du coup les titres c'était... comment on appelait ça? C'était... Alors, attends, je vais regarder dans le fond de book, mais c'était Adobe Clean à mon avis. À mon avis, ça suffit. Hein. Ouais, parce que bold, ça va être un peu gros quand même. Ouais, ça va simplement être Adobe Clean et pas forcément d'indication par rapport au bold ou au regular, dans le sens où tout doit être mis proprement. Donc tous les documents de synthèse devront être faits en Adobe Clean. Et la fonte serif, ça reste Literata, mais le corps c'est Adobe Clean. C'est juste si il y a une obligation de mettre une serif, bah, dans ce cas-là on met Literata, mais sinon la majorité du temps c'est Adobe Clean. Et j'ai l'impression qu'il faudrait la mettre aussi pour les numéros, parce que bien que les numéros de GT Ultra soient très beaux, ils se coordonnent pas forcément très bien avec Adobe Clean. Donc je pense qu'il faut mettre tout en Adobe Clean malheureusement. Update déjà mais un fichier typographique, et ça fera en sorte que les futurs documents de synthèse soient bien mis, et tous mes futurs travaux aussi.",
+      "text" : "Je vois un léger problème avec la synthèse, ensuite continue ce que tu faisais, mais je vois un problème, c'est que la fonte utilisée n'est pas celle que je décrite dans les dernières variables, donc ça pose problème, mais à mon avis c'est dans claude.md typographique, on n'a pas mis à jour les variables, mais du coup les titres c'était... comment on appelait ça? C'était... Alors, attends, je vais regarder dans le fond de book, mais c'était Adobe Clean à mon avis. À mon avis, ça suffit. Hein. Ouais, parce que bold, ça va être un peu gros quand même. Ouais, ça va simplement être Adobe Clean et pas forcément d'indication par rapport au bold ou au regular, dans le sens où tout doit être mis proprement. Donc tous les documents de synthèse devront être faits en Adobe Clean. Et la fonte serif, ça reste Literata, mais le corps c'est Adobe Clean. C'est juste si il y a une obligation de mettre une serif, bah, dans ce cas-là on met Literata, mais sinon la majorité du temps c'est Adobe Clean. Et j'ai l'impression qu'il faudrait la mettre aussi pour les numéros, parce que bien que les numéros de GT Ultra soient très beaux, ils se coordonnent pas forcément très bien avec Adobe Clean. Donc je pense qu'il faut mettre tout en Adobe Clean malheureusement. Update déjà mais un fichier typographique, et ça fera en sorte que les futurs documents de synthèse soient bien mis, et tous mes futurs travaux aussi."
     }
   ],
   "modes" : [
