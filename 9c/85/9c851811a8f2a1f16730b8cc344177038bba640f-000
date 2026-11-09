@@ -26019,6 +26019,56 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "C'est dans ce style, mais c'est pas exactement celle-là. Je pense d'ailleurs que tu peux retrouver sur Fontworks directement la fonte dont je parle, mais c'est pas exactement celle-là dont je parle. Celle-là, c'est vrai, elle est utilisée dans les jeux japonais, mais je parle plutôt d'une fonte qui aurait été utilisée dans Final Fantasy VII, par exemple. Et c'est aussi dans le dernier remake de Zelda Ocarina of Time, mais bon, c'est très récent, donc je pense pas que tu trouves",
       "text" : "C'est dans ce style, mais c'est pas exactement celle-là. Je pense d'ailleurs que tu peux retrouver sur Fontworks directement la fonte dont je parle, mais c'est pas exactement celle-là dont je parle. Celle-là, c'est vrai, elle est utilisée dans les jeux japonais, mais je parle plutôt d'une fonte qui aurait été utilisée dans Final Fantasy VII, par exemple. Et c'est aussi dans le dernier remake de Zelda Ocarina of Time, mais bon, c'est très récent, donc je pense pas que tu trouves"
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815926357.71494,
+      "id" : "852B6C2F-E699-49ED-9492-065AE78822BB",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Est-ce que du coup tu peux me simuler toutes les fontes?",
+      "text" : "Est-ce que du coup tu peux me simuler toutes les fontes?"
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815926422.715729,
+      "id" : "D872B736-4060-4DC9-83EA-0F0D6362BCAF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Est-ce que tu peux update par rapport à tout le travail que tu as fait, le skill, pour le renommer en ZenRay font et pour faire en sorte de reprendre la méthode qui a fait que tu as créé proprement Adobe Clean parmi une correction du calcul En fait, je veux que tu reprennes tout ton protocole que tu as fait sans aucune déformation de contour et sans calcul procédural de contour qui fait des déformations et des courbes inacceptables. Donc je veux que tu recommences à créer comment ça s'appelle, le skill de manière propre avec uniquement ce qu'il faut pour créer la vraie méthode.",
+      "text" : "Est-ce que tu peux update par rapport à tout le travail que tu as fait, le skill, pour le renommer en ZenRay font et pour faire en sorte de reprendre la méthode qui a fait que tu as créé proprement Adobe Clean parmi une correction du calcul En fait, je veux que tu reprennes tout ton protocole que tu as fait sans aucune déformation de contour et sans calcul procédural de contour qui fait des déformations et des courbes inacceptables. Donc je veux que tu recommences à créer comment ça s'appelle, le skill de manière propre avec uniquement ce qu'il faut pour créer la vraie méthode."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815926435.775686,
+      "id" : "C9451E1C-BE1D-4D39-A547-9DABF34B0D9C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Ensuite, tu supprimes l'ancien.",
+      "text" : "Ensuite, tu supprimes l'ancien."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 815926473.071897,
+      "id" : "92C0BE47-5FA3-452A-AFE7-B5A9CDF822EE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Et ensuite, ce que tu vas faire, c'est que tu vas reprendre cette nouvelle fonte et tu vas créer une nouvelle famille pour toutes les, graisses disponibles de manière ultra propre. Tu peux d'ailleurs commencer par ça et ensuite je vérifie. Il faut faire aussi une sheet de test pour que je puisse comparer visuellement toutes les fontes de manière écrite, pour que je vérifie qu'il n'y a aucune fausse information.",
+      "text" : "Et ensuite, ce que tu vas faire, c'est que tu vas reprendre cette nouvelle fonte et tu vas créer une nouvelle famille pour toutes les, graisses disponibles de manière ultra propre. Tu peux d'ailleurs commencer par ça et ensuite je vérifie. Il faut faire aussi une sheet de test pour que je puisse comparer visuellement toutes les fontes de manière écrite, pour que je vérifie qu'il n'y a aucune fausse information."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815926622.272588,
+      "id" : "BF5630B7-2CBA-409B-BD24-1BEF2DA85484",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Oui, mais du coup maintenant, enfin, il aurait fallu tester Past pour savoir s'il fonctionne mieux que il aurait fallu il aurait fallu savoir si je sais plus comment ça s'appelle, mais il aurait fallu savoir si... Comment ça s'appelle? Oui, il aurait fallu savoir si ZenRay Past, il peut répondre à n'importe quelle question du passé et comment ça fonctionne techniquement désormais. Et si ZenRay Past est fini à 100%, et si t'as rien oublié, etc. Tu vois. Donc par exemple, enfin comment est-ce qu'on peut interroger, notamment sur les notes d'aujourd'hui. Par exemple, si je crée une note, c'est ce que je vais faire d'ailleurs. Je vais créer une note là maintenant tout de suite, et je vais je mets par exemple n égale à",
+      "text" : "Oui, mais du coup maintenant, enfin, il aurait fallu tester Past pour savoir s'il fonctionne mieux que il aurait fallu il aurait fallu savoir si je sais plus comment ça s'appelle, mais il aurait fallu savoir si... Comment ça s'appelle? Oui, il aurait fallu savoir si ZenRay Past, il peut répondre à n'importe quelle question du passé et comment ça fonctionne techniquement désormais. Et si ZenRay Past est fini à 100%, et si t'as rien oublié, etc. Tu vois. Donc par exemple, enfin comment est-ce qu'on peut interroger, notamment sur les notes d'aujourd'hui. Par exemple, si je crée une note, c'est ce que je vais faire d'ailleurs. Je vais créer une note là maintenant tout de suite, et je vais je mets par exemple n égale à"
     }
   ],
   "modes" : [
