@@ -26289,6 +26289,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Attends, arrête-toi maintenant. Dis-moi comment t'as fait pour faire un masque aussi clean. Parce que la dernière fois que je t'avais demandé de faire un masque, t'avais pas réussi à le faire. Est-ce que tu utilises la photo procédurale ou tu utilises les masques? Comment t'as fait pour faire un masque aussi clean?",
       "text" : "Attends, arrête-toi maintenant. Dis-moi comment t'as fait pour faire un masque aussi clean. Parce que la dernière fois que je t'avais demandé de faire un masque, t'avais pas réussi à le faire. Est-ce que tu utilises la photo procédurale ou tu utilises les masques? Comment t'as fait pour faire un masque aussi clean?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815939895.106205,
+      "id" : "734B3CA1-436F-4EAB-895A-69A626282E83",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "D'accord, mais en soi, t'as juste besoin de... Au final, t'as juste besoin de la vue en gris, plus de la vue avec les traits découpés comme Substance Designer. De toute manière, tu l'as indexé, donc à l'avenir, je pourrais simplement te donner une... Je pourrais simplement input à partir de preview de la découpe pour obtenir des vraies découpes. Et ensuite, j'obtiens des masques clean. Et avec les masques clean, je peux run l'outil SVG. C'est un peu complexe, mais en soi, on commence à avoir la boucle. Donc fais désormais, à partir de ce masque, le component parfait à partir de la méthode SVG. Si la méthode SVG, c'est pas la bonne, bah, fais-en une autre. Mais tu as aussi ZenRay rétopologie à faire après.",
+      "text" : "D'accord, mais en soi, t'as juste besoin de... Au final, t'as juste besoin de la vue en gris, plus de la vue avec les traits découpés comme Substance Designer. De toute manière, tu l'as indexé, donc à l'avenir, je pourrais simplement te donner une... Je pourrais simplement input à partir de preview de la découpe pour obtenir des vraies découpes. Et ensuite, j'obtiens des masques clean. Et avec les masques clean, je peux run l'outil SVG. C'est un peu complexe, mais en soi, on commence à avoir la boucle. Donc fais désormais, à partir de ce masque, le component parfait à partir de la méthode SVG. Si la méthode SVG, c'est pas la bonne, bah, fais-en une autre. Mais tu as aussi ZenRay rétopologie à faire après."
     }
   ],
   "modes" : [
