@@ -26439,6 +26439,26 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Aucune nouvelle méthode ne batte la méthode actuelle. Donc, à mon avis, on a besoin d'un vrai outil dédié qui est beaucoup plus puissant pour créer les bonnes découpes par rapport à la référence initiale.",
       "text" : "Aucune nouvelle méthode ne batte la méthode actuelle. Donc, à mon avis, on a besoin d'un vrai outil dédié qui est beaucoup plus puissant pour créer les bonnes découpes par rapport à la référence initiale."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815949211.666085,
+      "id" : "35EFD47B-12F1-4705-991E-253A7E6B9800",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Oui, mais attends, je crois que je comprends le problème. Est-ce que déjà tu as indiqué à Sam qu'il devait le faire sur des components de la voiture directement? Et est-ce que tu as indiqué les vrais components? Ensuite, est-ce que tu l'as fait run sur le vrai masque de la voiture? Et enfin, est-ce que tu as appliqué un protocole de clean-up des sims, enfin des découpes, une fois que... voilà. Et en plus, tu pouvais les recaler. Donc en fait, tu peux vraiment améliorer Sam dès maintenant. Et en plus, ce que tu peux aussi faire, c'est prendre uniquement des captures d'écran divisées de la voiture, en prenant par exemple les pneus et en faisant un agrandissement, et en découpant uniquement ça, et ensuite en prenant uniquement le SVG et en le recalant sur le modèle en gros, tu vois. Donc tu as plein de méthodes à tester pour utiliser SAM de la meilleure des manières possibles.",
+      "text" : "Oui, mais attends, je crois que je comprends le problème. Est-ce que déjà tu as indiqué à Sam qu'il devait le faire sur des components de la voiture directement? Et est-ce que tu as indiqué les vrais components? Ensuite, est-ce que tu l'as fait run sur le vrai masque de la voiture? Et enfin, est-ce que tu as appliqué un protocole de clean-up des sims, enfin des découpes, une fois que... voilà. Et en plus, tu pouvais les recaler. Donc en fait, tu peux vraiment améliorer Sam dès maintenant. Et en plus, ce que tu peux aussi faire, c'est prendre uniquement des captures d'écran divisées de la voiture, en prenant par exemple les pneus et en faisant un agrandissement, et en découpant uniquement ça, et ensuite en prenant uniquement le SVG et en le recalant sur le modèle en gros, tu vois. Donc tu as plein de méthodes à tester pour utiliser SAM de la meilleure des manières possibles."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815949294.903315,
+      "id" : "34282A62-F7E9-4E95-8AE2-3FCC7441DFF6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Oui, mais est-ce que tu pars de la ref initiale et pas de la ref en nuance de gris? Parce que si tu pars de la ref en ID map nuance de gris, ça sert à rien.",
+      "text" : "Oui, mais est-ce que tu pars de la ref initiale et pas de la ref en nuance de gris? Parce que si tu pars de la ref en ID map nuance de gris, ça sert à rien."
     }
   ],
   "modes" : [
