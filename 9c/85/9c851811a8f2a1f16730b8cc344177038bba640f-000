@@ -25589,6 +25589,26 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Par contre, j'ai un problème sur mon site directement, sur la version iOS. Alors, c'est peut-être un problème du lecteur aussi, mais c'est que quand je mets en grand écran, j'ai pas les sous-titres. Est-ce que c'est résolvable actuellement? Je pense que c'est une option à rajouter. Mais j'ai le même problème sur YouTube et sur navigateur, donc c'est peut-être aussi un problème d'Apple sur les dernières versions 27.2, je crois, de iOS. Je suis sur iPhone.",
       "text" : "Par contre, j'ai un problème sur mon site directement, sur la version iOS. Alors, c'est peut-être un problème du lecteur aussi, mais c'est que quand je mets en grand écran, j'ai pas les sous-titres. Est-ce que c'est résolvable actuellement? Je pense que c'est une option à rajouter. Mais j'ai le même problème sur YouTube et sur navigateur, donc c'est peut-être aussi un problème d'Apple sur les dernières versions 27.2, je crois, de iOS. Je suis sur iPhone."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815918673.35521,
+      "id" : "7B676779-AD8A-4177-8815-18C18EC6722A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Quel terme élégant peut-on donner à un fichier business1.md qui recense toutes mes activités économiques sans forcément l'appeler business sans forcément l'appeler business? Je cherche un synonyme qui serait intéressant.",
+      "text" : "Quel terme élégant peut-on donner à un fichier business1.md qui recense toutes mes activités économiques sans forcément l'appeler business sans forcément l'appeler business? Je cherche un synonyme qui serait intéressant."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815918837.01001,
+      "id" : "906F872D-8614-46A6-91A7-1A6500270936",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Ah oui, j'ai oublié aussi de te dire de lier à assets. Il doit être lié à assets, mais j'ai vu que tu l'avais déjà fait. Mais dans la documentation, il faudra aussi pas oublier que ZenRay Past permet du coup de résoudre le problème. Mais donc, je vais regarder ce que tu",
+      "text" : "Ah oui, j'ai oublié aussi de te dire de lier à assets. Il doit être lié à assets, mais j'ai vu que tu l'avais déjà fait. Mais dans la documentation, il faudra aussi pas oublier que ZenRay Past permet du coup de résoudre le problème. Mais donc, je vais regarder ce que tu"
     }
   ],
   "modes" : [
