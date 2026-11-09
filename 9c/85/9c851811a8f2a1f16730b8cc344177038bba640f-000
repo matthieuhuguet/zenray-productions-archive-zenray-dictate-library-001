@@ -25879,6 +25879,36 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Dernière vérification, est-ce que tu as bien update tous les chemins et l'indexation mapping de claude.md pour lier du coup ZenRay Night comme nouveau fichier de business, de freelance, etc.",
       "text" : "Dernière vérification, est-ce que tu as bien update tous les chemins et l'indexation mapping de claude.md pour lier du coup ZenRay Night comme nouveau fichier de business, de freelance, etc."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815924728.935227,
+      "id" : "4EDEA79D-D4FB-4354-8830-2F0EC29BAD71",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Tu dois retenir dans le skill l'endroit de cette décompilation.",
+      "text" : "Tu dois retenir dans le skill l'endroit de cette décompilation."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815924900.633176,
+      "id" : "5E1374A9-A013-4844-90C0-4F7B7C4F6E32",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Tous les documents de ZenRay Edit seront directement édités dans Create, dans le dossier ZenRay Documents, et il y aura aussi dans la sidebar de gauche, dans la partie Create, un truc qui s'appellera Documents, et tout ça sera lié aussi à ZenRay Past et à ZenRay Assets de manière claire. Et mais en fait chaque document n'est pas un projet ZenRay Assets, c'est juste que les documents doivent être identifiés par l'agent et retrouvables très rapidement. Je pense que le plus simple c'est de le faire via un index.json à mon avis.",
+      "text" : "Tous les documents de ZenRay Edit seront directement édités dans Create, dans le dossier ZenRay Documents, et il y aura aussi dans la sidebar de gauche, dans la partie Create, un truc qui s'appellera Documents, et tout ça sera lié aussi à ZenRay Past et à ZenRay Assets de manière claire. Et mais en fait chaque document n'est pas un projet ZenRay Assets, c'est juste que les documents doivent être identifiés par l'agent et retrouvables très rapidement. Je pense que le plus simple c'est de le faire via un index.json à mon avis."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815924917.643124,
+      "id" : "C2929EEC-0AAD-4D95-B3CA-B6F5298E19E2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Donc update les skills qui s'appellent ZenRay Edit, ZenRay Asset et ZenRay Documents et ZenRay Past aussi. Tout doit être lié dans Claude.md pour que ce soit logique.",
+      "text" : "Donc update les skills qui s'appellent ZenRay Edit, ZenRay Asset et ZenRay Documents et ZenRay Past aussi. Tout doit être lié dans Claude.md pour que ce soit logique."
     }
   ],
   "modes" : [
