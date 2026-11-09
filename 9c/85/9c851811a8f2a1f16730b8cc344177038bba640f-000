@@ -26629,6 +26629,46 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Utilise la génération d'images directement automatiquement.",
       "text" : "Utilise la génération d'images directement automatiquement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815954546.255036,
+      "id" : "137F3B0B-514F-4706-A1A7-15F031AEE939",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "En fait, je me demande si on améliorait... En fait, si on lançait la méthode d'architecture maintenant, est-ce que ça nous permettrait pas de faire tout le reste de manière plus intelligente, tu vois? En mode, on définit d'abord les components, on rédige le plan blueprint parfait, et ensuite on lance la construction des panneaux en quad, tu vois, par rapport à toute la méthode existante. Le truc, c'est que j'ai pas envie que tu oublies de faire ça. Donc ce que tu vas faire, c'est que tu vas lancer la vidéo maintenant, en fait. Je vais te remettre l'ancien prompt. Et tu vas lancer le protocole de la vidéo maintenant. Tu vas mettre en pause ce que tu fais actuellement. Et ensuite, une fois que la méthode de protocole... Et fait, on va lancer la génération des plans de manière ultra rigoureuse, et on va continuer notre travail à partir de là. Donc en fait, on va simplement inverser le plan pour commencer la vidéo, la lecture maintenant, pour savoir si ça améliore notre résultat auparavant. Parce qu'en fait, le truc, c'est que là, on itère sur des quad mesh, mais on n'a pas un plan qui est solide de type industriel ou de type architecture. Donc je pense qu'on va atteindre la fin de V05, et ensuite on fait d'abord la méthode de la vidéo, et ensuite on fait tout le reste.",
+      "text" : "En fait, je me demande si on améliorait... En fait, si on lançait la méthode d'architecture maintenant, est-ce que ça nous permettrait pas de faire tout le reste de manière plus intelligente, tu vois? En mode, on définit d'abord les components, on rédige le plan blueprint parfait, et ensuite on lance la construction des panneaux en quad, tu vois, par rapport à toute la méthode existante. Le truc, c'est que j'ai pas envie que tu oublies de faire ça. Donc ce que tu vas faire, c'est que tu vas lancer la vidéo maintenant, en fait. Je vais te remettre l'ancien prompt. Et tu vas lancer le protocole de la vidéo maintenant. Tu vas mettre en pause ce que tu fais actuellement. Et ensuite, une fois que la méthode de protocole... Et fait, on va lancer la génération des plans de manière ultra rigoureuse, et on va continuer notre travail à partir de là. Donc en fait, on va simplement inverser le plan pour commencer la vidéo, la lecture maintenant, pour savoir si ça améliore notre résultat auparavant. Parce qu'en fait, le truc, c'est que là, on itère sur des quad mesh, mais on n'a pas un plan qui est solide de type industriel ou de type architecture. Donc je pense qu'on va atteindre la fin de V05, et ensuite on fait d'abord la méthode de la vidéo, et ensuite on fait tout le reste."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815954603.276631,
+      "id" : "FAA7607A-28B9-4B0F-8409-04FC37D9932C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais bon, testons cette nouvelle méthode de Claude Fable 5.2 et ensuite on verra pour la suite.",
+      "text" : "Mais bon, testons cette nouvelle méthode de Claude Fable 5.2 et ensuite on verra pour la suite."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815954639.818739,
+      "id" : "47B8EC90-9FE7-4143-93D7-8253B03083ED",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "En soi, j'ai pas envie de l'appeler ZenRay Blueprint parce qu'on pourrait confondre ça avec Unreal Engine 5, mais c'est quelque chose qui ressemble au blueprint, c'est-à-dire sur fond bleu, on dessine en blanc le plan parfait de notre voiture qu'on va ensuite dessiner en 3D, et ça peut d'ailleurs être un SVG.",
+      "text" : "En soi, j'ai pas envie de l'appeler ZenRay Blueprint parce qu'on pourrait confondre ça avec Unreal Engine 5, mais c'est quelque chose qui ressemble au blueprint, c'est-à-dire sur fond bleu, on dessine en blanc le plan parfait de notre voiture qu'on va ensuite dessiner en 3D, et ça peut d'ailleurs être un SVG."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815954670.100336,
+      "id" : "7EE162EF-8CDC-4866-874E-37D74607DBE9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais il y a une itération de quads à faire de toute manière. Après, on a quand même des améliorations par rapport à la version 762. C'est vraiment clean, mais il faut continuer le travail.",
+      "text" : "Mais il y a une itération de quads à faire de toute manière. Après, on a quand même des améliorations par rapport à la version 762. C'est vraiment clean, mais il faut continuer le travail."
     }
   ],
   "modes" : [
