@@ -26369,6 +26369,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Sinon, fais-le, ne délègue pas à des agents, mais juste continue et fais-moi trois autres tests avec trois autres components à partir du masque sur les components.",
       "text" : "Sinon, fais-le, ne délègue pas à des agents, mais juste continue et fais-moi trois autres tests avec trois autres components à partir du masque sur les components."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 815941261.669959,
+      "id" : "409F0257-A8BF-4EBC-8BCA-AEE0C3567F12",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Non, c'est probablement parce que t'as utilisé GitHub Raw. Normalement, il y a forcément une solution pour que tu puisses continuer d'upload. À moins que tu comptes le nombre de repositories que t'as fait. Et peut-être que t'en as fait trop, mais le problème c'est que tu devais les remplir. Au moins, je crois qu'on avait dit une limite, c'était 4096 par shards, enfin par repo. Vérifie que tu les as bien mis. Auquel cas, si t'as mis que 2 gigas par repo, tu peux mettre le double à chaque fois.",
+      "text" : "Non, c'est probablement parce que t'as utilisé GitHub Raw. Normalement, il y a forcément une solution pour que tu puisses continuer d'upload. À moins que tu comptes le nombre de repositories que t'as fait. Et peut-être que t'en as fait trop, mais le problème c'est que tu devais les remplir. Au moins, je crois qu'on avait dit une limite, c'était 4096 par shards, enfin par repo. Vérifie que tu les as bien mis. Auquel cas, si t'as mis que 2 gigas par repo, tu peux mettre le double à chaque fois."
     }
   ],
   "modes" : [
