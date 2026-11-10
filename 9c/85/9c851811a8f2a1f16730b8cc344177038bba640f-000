@@ -26789,6 +26789,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Je préfère te donner le moins d'instructions possible pour que tu reproduises la voiture selon ta méthode qui te semble la plus efficace à date.",
       "text" : "Je préfère te donner le moins d'instructions possible pour que tu reproduises la voiture selon ta méthode qui te semble la plus efficace à date."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816006599.934722,
+      "id" : "EE270A02-10FA-4F51-B7EC-FF8812A14152",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Continue, on manque vraiment de finition et de surface propre en fait. Il faut délimiter les contours, faire en sorte que chaque micro-component soit parfait. Les roues et la carrosserie, il y a encore énormément de bugs. L'arrière, en fait le bombage global de la voiture doit être uniforme, tu vois. Parce que sinon ça fait un peu comme si la voiture était en carton, tu vois. Donc là il faut vraiment se concentrer sur les finitions de chaque courbe pour qu'elle soit épurée, etc. Pour que tout soit parfait. Au niveau de l'avant de la première fenêtre, il y a aussi des problèmes. Et au niveau du bombage global de toute la voiture, il faut, à mon avis, créer une règle ou un outil qui fait que tout le bombage est respecté par rapport à la définition du hard surface pour une voiture.",
+      "text" : "Continue, on manque vraiment de finition et de surface propre en fait. Il faut délimiter les contours, faire en sorte que chaque micro-component soit parfait. Les roues et la carrosserie, il y a encore énormément de bugs. L'arrière, en fait le bombage global de la voiture doit être uniforme, tu vois. Parce que sinon ça fait un peu comme si la voiture était en carton, tu vois. Donc là il faut vraiment se concentrer sur les finitions de chaque courbe pour qu'elle soit épurée, etc. Pour que tout soit parfait. Au niveau de l'avant de la première fenêtre, il y a aussi des problèmes. Et au niveau du bombage global de toute la voiture, il faut, à mon avis, créer une règle ou un outil qui fait que tout le bombage est respecté par rapport à la définition du hard surface pour une voiture."
     }
   ],
   "modes" : [
