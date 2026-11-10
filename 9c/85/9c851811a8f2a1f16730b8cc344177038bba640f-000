@@ -26739,6 +26739,56 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Est-ce que tu peux simplement me donner en une ligne le pass de la SixViewRef et ensuite tu continues ce que tu fais déjà?",
       "text" : "Est-ce que tu peux simplement me donner en une ligne le pass de la SixViewRef et ensuite tu continues ce que tu fais déjà?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816002249.245729,
+      "id" : "47FCBBDA-D6BF-4C95-A500-722DBBD815C0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "J'ai juste besoin du pass de ma voiture initiale. Est-ce que tu peux me la redonner, s'il te plaît? Mais la ref initiale. Et ensuite, tu continues ce que tu fais déjà.",
+      "text" : "J'ai juste besoin du pass de ma voiture initiale. Est-ce que tu peux me la redonner, s'il te plaît? Mais la ref initiale. Et ensuite, tu continues ce que tu fais déjà."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816002291.048182,
+      "id" : "28D78E9A-97FC-42E9-B066-1A0781CD6658",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "En fait, la seule consigne, c'est modéliser cette voiture en 3D avec une topologie parfaite, tu as carte blanche.",
+      "text" : "En fait, la seule consigne, c'est modéliser cette voiture en 3D avec une topologie parfaite, tu as carte blanche."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816002303.306453,
+      "id" : "87508945-7090-4831-87E6-EE8D7D138BC4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais tu n'as pas le droit d'utiliser les méthodes de ZenRay Meshes. Tu n'as même pas le droit de le lire en soi, tu as juste besoin de commencer directement.",
+      "text" : "Mais tu n'as pas le droit d'utiliser les méthodes de ZenRay Meshes. Tu n'as même pas le droit de le lire en soi, tu as juste besoin de commencer directement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816002312.650713,
+      "id" : "3EF7CEA1-9F0D-43A9-857D-D3AFCD86574B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Tu peux utiliser Blender ou Houdini, ou même directement Python, peu importe.",
+      "text" : "Tu peux utiliser Blender ou Houdini, ou même directement Python, peu importe."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816002328.170102,
+      "id" : "4A833E8F-E958-4F88-B4CB-FB2980225800",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Je préfère te donner le moins d'instructions possible pour que tu reproduises la voiture selon ta méthode qui te semble la plus efficace à date.",
+      "text" : "Je préfère te donner le moins d'instructions possible pour que tu reproduises la voiture selon ta méthode qui te semble la plus efficace à date."
     }
   ],
   "modes" : [
