@@ -26899,9 +26899,18 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Le problème, c'est que tu hésites entre la référence et l'image blanche, et du coup, tu hésites tout le temps, donc tranche dès maintenant, soit l'un, soit l'autre, et mets une image dans deprecated, afin de ne plus faire l'erreur.",
       "text" : "Le problème, c'est que tu hésites entre la référence et l'image blanche, et du coup, tu hésites tout le temps, donc tranche dès maintenant, soit l'un, soit l'autre, et mets une image dans deprecated, afin de ne plus faire l'erreur."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816025925.998992,
+      "id" : "EC18C08D-D94D-4A8A-950E-37A7795EB749",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Toujours pas ça. Pour les deux éléments, le truc est pas bon. Donc ce que tu vas faire, c'est que tu vas créer... tu vas créer directement un meilleur outil pour faire ça. Je comprends pas pourquoi ça m'arrive pas à le faire, mais bon.",
+      "text" : "Toujours pas ça. Pour les deux éléments, le truc est pas bon. Donc ce que tu vas faire, c'est que tu vas créer... tu vas créer directement un meilleur outil pour faire ça. Je comprends pas pourquoi ça m'arrive pas à le faire, mais bon."
     }
   ],
-  "lastError" : "The transcription service returned no text. Enregistrement conservé.",
   "modes" : [
     {
       "applications" : [
