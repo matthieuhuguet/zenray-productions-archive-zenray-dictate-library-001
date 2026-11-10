@@ -26719,6 +26719,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "serait que ZenRay Meshes puisse produire à la fois une version VFX et à la fois une version HeroCar AAA.",
       "text" : "serait que ZenRay Meshes puisse produire à la fois une version VFX et à la fois une version HeroCar AAA."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816002022.091608,
+      "id" : "2801AF29-6411-44B8-9C5C-2107FF6A85A7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Depuis la ref de la voiture, tu vas créer un tout nouveau protocole en mode totalement autonome. Tu vas essayer de reproduire en 3D la voiture avec une topologie parfaite. Sauf que tu n'as pas le droit d'utiliser ZenRay Meshes et tu dois uniquement utiliser des nouvelles méthodes par toi. En parallèle, ZenRay Meshes fonctionne sur un autre thread. Et à terme, on verra qui a réussi à faire la meilleure méthode. Mais toi, tu pars d'une carte blanche. Et on créera le skill uniquement une fois que tu as validé la méthode. Donc tu reprends la ref des voitures et tu détermines une nouvelle méthodologie complètement blanche. Et tu essaies d'itérer pour reproduire le modèle parfaitement.",
+      "text" : "Depuis la ref de la voiture, tu vas créer un tout nouveau protocole en mode totalement autonome. Tu vas essayer de reproduire en 3D la voiture avec une topologie parfaite. Sauf que tu n'as pas le droit d'utiliser ZenRay Meshes et tu dois uniquement utiliser des nouvelles méthodes par toi. En parallèle, ZenRay Meshes fonctionne sur un autre thread. Et à terme, on verra qui a réussi à faire la meilleure méthode. Mais toi, tu pars d'une carte blanche. Et on créera le skill uniquement une fois que tu as validé la méthode. Donc tu reprends la ref des voitures et tu détermines une nouvelle méthodologie complètement blanche. Et tu essaies d'itérer pour reproduire le modèle parfaitement."
     }
   ],
   "modes" : [
