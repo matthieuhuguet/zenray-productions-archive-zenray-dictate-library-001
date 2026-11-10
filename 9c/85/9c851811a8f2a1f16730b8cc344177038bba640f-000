@@ -26901,6 +26901,7 @@
       "text" : "Le problème, c'est que tu hésites entre la référence et l'image blanche, et du coup, tu hésites tout le temps, donc tranche dès maintenant, soit l'un, soit l'autre, et mets une image dans deprecated, afin de ne plus faire l'erreur."
     }
   ],
+  "lastError" : "The transcription service returned no text. Enregistrement conservé.",
   "modes" : [
     {
       "applications" : [
