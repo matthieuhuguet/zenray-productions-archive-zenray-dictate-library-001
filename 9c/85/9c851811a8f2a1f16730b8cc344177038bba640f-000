@@ -26959,6 +26959,36 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Non mais d'accord, mais tu peux quand même itérer sur le fait de au moins finir la roue complète avec la jante, tous les cylindres à l'intérieur, etc.",
       "text" : "Non mais d'accord, mais tu peux quand même itérer sur le fait de au moins finir la roue complète avec la jante, tous les cylindres à l'intérieur, etc."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816044178.000316,
+      "id" : "C30034F4-706F-4982-AEF3-3B60E40A8B24",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Pas mal, sauf qu'il manque. Du coup, j'ai l'impression qu'il manque le cylindre de derrière. Il est un petit peu plus gros, le cylindre du frein. Mais sinon, on est pas mal. En soi, je pense qu'on peut passer à un autre élément. Peut-être ce qu'il y a autour de la truc. Mais en tout cas, c'est très propre. Bravo. Continuons comme ça, c'est très bien. Jusqu'ici, c'est le meilleur résultat qu'on ait eu.",
+      "text" : "Pas mal, sauf qu'il manque. Du coup, j'ai l'impression qu'il manque le cylindre de derrière. Il est un petit peu plus gros, le cylindre du frein. Mais sinon, on est pas mal. En soi, je pense qu'on peut passer à un autre élément. Peut-être ce qu'il y a autour de la truc. Mais en tout cas, c'est très propre. Bravo. Continuons comme ça, c'est très bien. Jusqu'ici, c'est le meilleur résultat qu'on ait eu."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816044196.63825,
+      "id" : "17C4E868-C8D0-47F8-936E-135EBDF97986",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "À terme, on mettra plus de détails sur le pneu, mais je préfère passer à un autre component, mais qui est à proximité de la roue. Peut-être, à mon avis, la jante, enfin, ce qui entoure le pneu.",
+      "text" : "À terme, on mettra plus de détails sur le pneu, mais je préfère passer à un autre component, mais qui est à proximité de la roue. Peut-être, à mon avis, la jante, enfin, ce qui entoure le pneu."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816044201.197912,
+      "id" : "4F80D472-FDDA-49D8-AA8A-2A6454528DC0",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "au niveau de la carrosserie du véhicule.",
+      "text" : "au niveau de la carrosserie du véhicule."
     }
   ],
   "modes" : [
