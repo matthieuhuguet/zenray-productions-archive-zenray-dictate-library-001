@@ -26909,6 +26909,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Toujours pas ça. Pour les deux éléments, le truc est pas bon. Donc ce que tu vas faire, c'est que tu vas créer... tu vas créer directement un meilleur outil pour faire ça. Je comprends pas pourquoi ça m'arrive pas à le faire, mais bon.",
       "text" : "Toujours pas ça. Pour les deux éléments, le truc est pas bon. Donc ce que tu vas faire, c'est que tu vas créer... tu vas créer directement un meilleur outil pour faire ça. Je comprends pas pourquoi ça m'arrive pas à le faire, mais bon."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 816026337.124585,
+      "id" : "B0E88B17-CE55-465C-9D13-1DA5BC065DA4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "uniquement fais abstraction du prompt et donne-moi uniquement la vue de profil.",
+      "text" : "uniquement fais abstraction du prompt et donne-moi uniquement la vue de profil."
     }
   ],
   "modes" : [
