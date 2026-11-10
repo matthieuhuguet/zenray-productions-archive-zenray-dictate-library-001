@@ -26729,6 +26729,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Depuis la ref de la voiture, tu vas créer un tout nouveau protocole en mode totalement autonome. Tu vas essayer de reproduire en 3D la voiture avec une topologie parfaite. Sauf que tu n'as pas le droit d'utiliser ZenRay Meshes et tu dois uniquement utiliser des nouvelles méthodes par toi. En parallèle, ZenRay Meshes fonctionne sur un autre thread. Et à terme, on verra qui a réussi à faire la meilleure méthode. Mais toi, tu pars d'une carte blanche. Et on créera le skill uniquement une fois que tu as validé la méthode. Donc tu reprends la ref des voitures et tu détermines une nouvelle méthodologie complètement blanche. Et tu essaies d'itérer pour reproduire le modèle parfaitement.",
       "text" : "Depuis la ref de la voiture, tu vas créer un tout nouveau protocole en mode totalement autonome. Tu vas essayer de reproduire en 3D la voiture avec une topologie parfaite. Sauf que tu n'as pas le droit d'utiliser ZenRay Meshes et tu dois uniquement utiliser des nouvelles méthodes par toi. En parallèle, ZenRay Meshes fonctionne sur un autre thread. Et à terme, on verra qui a réussi à faire la meilleure méthode. Mais toi, tu pars d'une carte blanche. Et on créera le skill uniquement une fois que tu as validé la méthode. Donc tu reprends la ref des voitures et tu détermines une nouvelle méthodologie complètement blanche. Et tu essaies d'itérer pour reproduire le modèle parfaitement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816002152.789465,
+      "id" : "6FF41AC6-A33C-49D6-A681-972A147F4F78",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Est-ce que tu peux simplement me donner en une ligne le pass de la SixViewRef et ensuite tu continues ce que tu fais déjà?",
+      "text" : "Est-ce que tu peux simplement me donner en une ligne le pass de la SixViewRef et ensuite tu continues ce que tu fais déjà?"
     }
   ],
   "modes" : [
