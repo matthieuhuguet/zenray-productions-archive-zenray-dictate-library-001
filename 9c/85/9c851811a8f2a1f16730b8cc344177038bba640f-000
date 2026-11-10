@@ -26679,6 +26679,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Surtout, j'ai l'impression que le blueprint n'a pas forcément amélioré ce qu'on avait déjà, alors que le but c'était de lisser les courbes et de rajouter des components déjà préétablis.",
       "text" : "Surtout, j'ai l'impression que le blueprint n'a pas forcément amélioré ce qu'on avait déjà, alors que le but c'était de lisser les courbes et de rajouter des components déjà préétablis."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 815999276.834915,
+      "id" : "8280D8CC-B185-468A-98FD-FD0D2044FC9A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "En règle générale, il faut combien de temps pour modéliser une voiture de ce type en 3D sur Maya, Blender ou encore Houdini? Combien de temps et combien de temps en règle générale pour créer un modèle de ce genre?",
+      "text" : "En règle générale, il faut combien de temps pour modéliser une voiture de ce type en 3D sur Maya, Blender ou encore Houdini? Combien de temps et combien de temps en règle générale pour créer un modèle de ce genre?"
     }
   ],
   "modes" : [
