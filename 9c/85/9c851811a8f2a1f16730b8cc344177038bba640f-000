@@ -26989,6 +26989,26 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "au niveau de la carrosserie du véhicule.",
       "text" : "au niveau de la carrosserie du véhicule."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816045988.950402,
+      "id" : "7A3A1DDA-47B7-4D87-8270-E8450811F054",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Ok, continuons sur au niveau de la carrosserie tout autour des roues. On va itérer sur, à mon avis, le capot avant pour commencer à placer le capot et la bouche de la voiture.",
+      "text" : "Ok, continuons sur au niveau de la carrosserie tout autour des roues. On va itérer sur, à mon avis, le capot avant pour commencer à placer le capot et la bouche de la voiture."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816045997.15999,
+      "id" : "E75309F1-0192-413F-A05F-B7342A5D234D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Évidemment, tu sous-divises tous les components dont on aura besoin dans cet exercice.",
+      "text" : "Évidemment, tu sous-divises tous les components dont on aura besoin dans cet exercice."
     }
   ],
   "modes" : [
