@@ -26849,6 +26849,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Il faut vraiment que l'algorithme ZenRay Meshes à terme comprenne comment faire des aussi beaux modèles simplement à partir d'une référence. Si tu as besoin, je peux aussi générer à partir de ces images la vue de profil, la vue de top, la vue de bottom, et la vue de front et la vue de derrière. Mais uniquement si tu en as besoin.",
       "text" : "Il faut vraiment que l'algorithme ZenRay Meshes à terme comprenne comment faire des aussi beaux modèles simplement à partir d'une référence. Si tu as besoin, je peux aussi générer à partir de ces images la vue de profil, la vue de top, la vue de bottom, et la vue de front et la vue de derrière. Mais uniquement si tu en as besoin."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816007980.781645,
+      "id" : "B6F86AB4-199D-44FE-B76B-96D8DEC9F440",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "pour itérer sur un modèle avec de très nombreux détails.",
+      "text" : "pour itérer sur un modèle avec de très nombreux détails."
     }
   ],
   "modes" : [
