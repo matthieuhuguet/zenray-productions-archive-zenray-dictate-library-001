@@ -26869,6 +26869,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "C'est vraiment du foutage de gueule à ce stade.",
       "text" : "C'est vraiment du foutage de gueule à ce stade."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816010332.791239,
+      "id" : "2B702E4C-2A83-4634-8E4F-E09AB8340B4A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "En fait, à mon avis, il faut qu'on passe d'un outil de découpe blueprint qui fait une approximation à une vérification à 0,999 pour être sûr que le dessin soit parfait. Et actuellement, on n'a pas encore une vue blueprint suffisamment proche de la réalité. Mais c'est notre meilleure piste pour créer un vrai SVG qui soit parfait. Donc créer les outils parfaits pour ça. Moi, à mon avis, tu devrais sous-diviser chaque tâche des blueprints, voire utiliser SAM pour faire les découpes. Mais en soi, actuellement, notre meilleur outil qu'on crée, c'est le fait de faire le blueprint. Et après, évidemment, il faudra faire la translation entre le blueprint à 0,999 vers la 3D. Mais puisque de toute manière notre blueprint est pas parfait, ben on peut pas créer des formes 3D parfaites. Donc il faut surtout améliorer cet outil en priorité.",
+      "text" : "En fait, à mon avis, il faut qu'on passe d'un outil de découpe blueprint qui fait une approximation à une vérification à 0,999 pour être sûr que le dessin soit parfait. Et actuellement, on n'a pas encore une vue blueprint suffisamment proche de la réalité. Mais c'est notre meilleure piste pour créer un vrai SVG qui soit parfait. Donc créer les outils parfaits pour ça. Moi, à mon avis, tu devrais sous-diviser chaque tâche des blueprints, voire utiliser SAM pour faire les découpes. Mais en soi, actuellement, notre meilleur outil qu'on crée, c'est le fait de faire le blueprint. Et après, évidemment, il faudra faire la translation entre le blueprint à 0,999 vers la 3D. Mais puisque de toute manière notre blueprint est pas parfait, ben on peut pas créer des formes 3D parfaites. Donc il faut surtout améliorer cet outil en priorité."
     }
   ],
   "modes" : [
