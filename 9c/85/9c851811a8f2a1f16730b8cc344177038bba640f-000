@@ -26859,6 +26859,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "pour itérer sur un modèle avec de très nombreux détails.",
       "text" : "pour itérer sur un modèle avec de très nombreux détails."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816009023.51148,
+      "id" : "1841527C-0731-468C-AC0E-74F767F95B39",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "C'est vraiment du foutage de gueule à ce stade.",
+      "text" : "C'est vraiment du foutage de gueule à ce stade."
     }
   ],
   "modes" : [
