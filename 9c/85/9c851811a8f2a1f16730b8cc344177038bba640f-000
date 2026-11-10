@@ -26819,6 +26819,36 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Essaie de comprendre le niveau de qualité final souhaité et essaie de comprendre pourquoi on en est toujours très loin.",
       "text" : "Essaie de comprendre le niveau de qualité final souhaité et essaie de comprendre pourquoi on en est toujours très loin."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816007093.198328,
+      "id" : "F00FEBF7-F35D-44E4-8D70-93D9D42A2335",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "J'ai trouvé la référence ultime que on pourrait essayer de reproduire dans un exercice suivant, mais surtout le niveau de topologie est parfait en fait, en termes de qualité. Donc j'ai trouvé exactement ce qu'on allait reproduire, enfin pas ce qu'on va reproduire, mais ce qu'il faut reproduire en termes de qualité, c'est exactement ça. Et c'est quelque chose qui a été fait en... c'est quelque chose qui a été fait en tant que voiture sur Maya, donc c'est exactement le niveau de qualité souhaité. Tant que tu n'atteins pas un niveau de qualité satisfaisant et similaire, et bien on continue tout le reste. Mais le modeling est parfait.",
+      "text" : "J'ai trouvé la référence ultime que on pourrait essayer de reproduire dans un exercice suivant, mais surtout le niveau de topologie est parfait en fait, en termes de qualité. Donc j'ai trouvé exactement ce qu'on allait reproduire, enfin pas ce qu'on va reproduire, mais ce qu'il faut reproduire en termes de qualité, c'est exactement ça. Et c'est quelque chose qui a été fait en... c'est quelque chose qui a été fait en tant que voiture sur Maya, donc c'est exactement le niveau de qualité souhaité. Tant que tu n'atteins pas un niveau de qualité satisfaisant et similaire, et bien on continue tout le reste. Mais le modeling est parfait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816007151.867595,
+      "id" : "12F6637F-3184-4028-8404-4504C48BB65B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Ajoute d'ailleurs ces images dans le rendu et maintenant fait une gigantesque passe jusqu'à atteindre ce niveau de qualité souhaité sur notre voiture actuellement et crée les outils pour les atteindre. Mais je souhaite que tu ne t'arrêtes pas tant que tu n'as pas atteint le niveau de qualité souhaité. Et à chaque fois que tu compares par rapport aux nouvelles références et où tu commences un nouveau modèle de voiture, si tu penses que la référence fournie l'ancienne ref de voiture n'est pas suffisante, tu passes sur la nouvelle.",
+      "text" : "Ajoute d'ailleurs ces images dans le rendu et maintenant fait une gigantesque passe jusqu'à atteindre ce niveau de qualité souhaité sur notre voiture actuellement et crée les outils pour les atteindre. Mais je souhaite que tu ne t'arrêtes pas tant que tu n'as pas atteint le niveau de qualité souhaité. Et à chaque fois que tu compares par rapport aux nouvelles références et où tu commences un nouveau modèle de voiture, si tu penses que la référence fournie l'ancienne ref de voiture n'est pas suffisante, tu passes sur la nouvelle."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816007193.497838,
+      "id" : "C8AF7A97-B0C3-4AE1-ACB8-C632ABDEE30E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Il faut vraiment que l'algorithme ZenRay Meshes à terme comprenne comment faire des aussi beaux modèles simplement à partir d'une référence. Si tu as besoin, je peux aussi générer à partir de ces images la vue de profil, la vue de top, la vue de bottom, et la vue de front et la vue de derrière. Mais uniquement si tu en as besoin.",
+      "text" : "Il faut vraiment que l'algorithme ZenRay Meshes à terme comprenne comment faire des aussi beaux modèles simplement à partir d'une référence. Si tu as besoin, je peux aussi générer à partir de ces images la vue de profil, la vue de top, la vue de bottom, et la vue de front et la vue de derrière. Mais uniquement si tu en as besoin."
     }
   ],
   "modes" : [
