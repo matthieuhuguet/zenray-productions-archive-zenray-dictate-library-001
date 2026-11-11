@@ -27009,6 +27009,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Évidemment, tu sous-divises tous les components dont on aura besoin dans cet exercice.",
       "text" : "Évidemment, tu sous-divises tous les components dont on aura besoin dans cet exercice."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816050249.024401,
+      "id" : "5B2F23EF-4255-406F-A5DA-3245C50C2080",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Par contre, au niveau de la lèvre et du contour, c'est pas propre du tout. Donc fais en sorte que ce soit propre.",
+      "text" : "Par contre, au niveau de la lèvre et du contour, c'est pas propre du tout. Donc fais en sorte que ce soit propre."
     }
   ],
   "modes" : [
