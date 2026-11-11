@@ -27139,9 +27139,68 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Quasi bien, sauf que les roues, les lignes sont pas parfaites et parfaitement uniformisées, et il manque pas mal de détails sur les lignes, etc.",
       "text" : "Quasi bien, sauf que les roues, les lignes sont pas parfaites et parfaitement uniformisées, et il manque pas mal de détails sur les lignes, etc."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816104393.928029,
+      "id" : "84EBA49C-50D4-4476-8C83-3CBFCFF66616",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Il faudrait faire en sorte de... En fait, c'est pas mal, mais je trouve qu'il y a encore quelques erreurs, notamment au niveau du tracé du pneu, surtout quand je regarde le tracé vectoriel de certains arcs. En fait, le problème que je vois surtout, c'est que il n'y a pas une logique qui fait que le tracé vectoriel comprend vraiment le tracé de l'image. Et je sais pas si, par exemple pour le pneu aussi, parfois ça suit pas exactement les mini tracés. Donc peut-être qu'il y a trop de tracés, je ne sais pas. Et surtout, on n'a toujours pas de prévisualisation blueprint. Alors, j'imagine que la prévisualisation en gris, finalement, c'est un peu notre blueprint. Donc pourquoi pas. Mais j'aurais préféré que ce soit avec un fond bleu et un tracé blanc. Et au niveau des components Houdini, il faudrait le rajouter dans la feuille des résultats. Parce que sinon, ça va être difficile de comprendre les choses.",
+      "text" : "Il faudrait faire en sorte de... En fait, c'est pas mal, mais je trouve qu'il y a encore quelques erreurs, notamment au niveau du tracé du pneu, surtout quand je regarde le tracé vectoriel de certains arcs. En fait, le problème que je vois surtout, c'est que il n'y a pas une logique qui fait que le tracé vectoriel comprend vraiment le tracé de l'image. Et je sais pas si, par exemple pour le pneu aussi, parfois ça suit pas exactement les mini tracés. Donc peut-être qu'il y a trop de tracés, je ne sais pas. Et surtout, on n'a toujours pas de prévisualisation blueprint. Alors, j'imagine que la prévisualisation en gris, finalement, c'est un peu notre blueprint. Donc pourquoi pas. Mais j'aurais préféré que ce soit avec un fond bleu et un tracé blanc. Et au niveau des components Houdini, il faudrait le rajouter dans la feuille des résultats. Parce que sinon, ça va être difficile de comprendre les choses."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816104407.444744,
+      "id" : "8ED635A7-FD0A-45D3-9272-20664CF8E575",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Bref, j'aimerais finir à 99,9% incomponents de manière parfaite, pour ensuite passer la suite.",
+      "text" : "Bref, j'aimerais finir à 99,9% incomponents de manière parfaite, pour ensuite passer la suite."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816104426.442023,
+      "id" : "2E2DA65C-CB21-4248-9A26-06DFC8DC0EDE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais vérifie que tu fais bien tout le protocole de ZenRay pour être sûr qu'on n'oublie absolument rien. Et ensuite, il faut passer à la vue Houdini, comme ça on avance.",
+      "text" : "Mais vérifie que tu fais bien tout le protocole de ZenRay pour être sûr qu'on n'oublie absolument rien. Et ensuite, il faut passer à la vue Houdini, comme ça on avance."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 816104541.580875,
+      "id" : "1A3DEC5A-B043-4BE3-A5F0-E49756B0004C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Essayer d'explorer de A à Z via un long podcast tout le sujet.",
+      "text" : "Essayer d'explorer de A à Z via un long podcast tout le sujet."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816104713.104491,
+      "id" : "DC8F5B01-5920-4316-AC02-2D0C92D79698",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Je me dis que tu pourrais aussi grep dans ZenRay Meshes des livres ou des articles de référence sur la géométrie pour savoir comment faire des géométries parfaites en 3D. Parce que le but c'est ça, c'est de vraiment comprendre fondamentalement en termes mathématiques et en termes de 3D comment créer de la géométrie. Et au-delà de la géométrie, il y a aussi l'aspect 3D. Il y a peut-être des livres, des fondamentaux qui apprennent les bases de la 3D et qui pourront permettre de faire plus ou moins n'importe quelle forme. Ainsi qu'à terme, toute la documentation d'Houdini. Mais il faut que ZenRay Meshes, comme s'il englobait ZenRay Houdini, puisse y faire appel aussi. À tout ce qu'on a déjà créé dans ZenRay Houdini et notamment ses databases. Et ce qu'on veut désormais, c'est pas forcément faire la voiture d'un coup, c'est être sûr qu'on peut réaliser un component de la voiture à 99%. À 99,9%. Parce que si on peut faire un component, eh bien ça voudrait dire qu'on peut faire tous les autres. Mais si on se concentre d'abord sur le premier, ça débloquera tout le reste. Et peu à peu, on continuera d'apprendre et de consigner tout ce qu'on apprend. On a déjà appris pas mal de choses. Mais c'est juste qu'à date, on ne sait pas forcément faire en sorte de tout finir et régler.",
+      "text" : "Je me dis que tu pourrais aussi grep dans ZenRay Meshes des livres ou des articles de référence sur la géométrie pour savoir comment faire des géométries parfaites en 3D. Parce que le but c'est ça, c'est de vraiment comprendre fondamentalement en termes mathématiques et en termes de 3D comment créer de la géométrie. Et au-delà de la géométrie, il y a aussi l'aspect 3D. Il y a peut-être des livres, des fondamentaux qui apprennent les bases de la 3D et qui pourront permettre de faire plus ou moins n'importe quelle forme. Ainsi qu'à terme, toute la documentation d'Houdini. Mais il faut que ZenRay Meshes, comme s'il englobait ZenRay Houdini, puisse y faire appel aussi. À tout ce qu'on a déjà créé dans ZenRay Houdini et notamment ses databases. Et ce qu'on veut désormais, c'est pas forcément faire la voiture d'un coup, c'est être sûr qu'on peut réaliser un component de la voiture à 99%. À 99,9%. Parce que si on peut faire un component, eh bien ça voudrait dire qu'on peut faire tous les autres. Mais si on se concentre d'abord sur le premier, ça débloquera tout le reste. Et peu à peu, on continuera d'apprendre et de consigner tout ce qu'on apprend. On a déjà appris pas mal de choses. Mais c'est juste qu'à date, on ne sait pas forcément faire en sorte de tout finir et régler."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816104853.501687,
+      "id" : "7175B4E8-AA13-4D31-98E5-6F9622FBA11F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "En fait, au final, la modélisation avancée pour créer des assets AAA, c'est vraiment notre bottleneck actuel. Mais je t'invite à lire toute la documentation ZenRay Houdini pour qu'à terme, on puisse constituer une bibliothèque de HDA qui soit vraiment très très puissante pour créer plus ou moins n'importe quelle forme, une voiture, un bateau, un avion, un train. Mais en fait, le problème, c'est que on réussira pas à le faire tant que on n'aura pas déjà ce qu'on veut, tu vois. Le problème, c'est qu'on a passé énormément de temps à commencer à faire ça. Donc peut-être qu'on commence à voir le bout, mais il faut absolument qu'on puisse finir au moins un component de manière parfaite, ce qui nous permettra à terme de pas faire uniquement des voitures, mais faire des arbres aussi. Et pour l'instant, on n'a pas du tout trouvé la technique qui nous permet de le faire actuellement. Enfin, plus ou moins on se rapproche, mais il faut être sûr d'accentuer les choses.",
+      "text" : "En fait, au final, la modélisation avancée pour créer des assets AAA, c'est vraiment notre bottleneck actuel. Mais je t'invite à lire toute la documentation ZenRay Houdini pour qu'à terme, on puisse constituer une bibliothèque de HDA qui soit vraiment très très puissante pour créer plus ou moins n'importe quelle forme, une voiture, un bateau, un avion, un train. Mais en fait, le problème, c'est que on réussira pas à le faire tant que on n'aura pas déjà ce qu'on veut, tu vois. Le problème, c'est qu'on a passé énormément de temps à commencer à faire ça. Donc peut-être qu'on commence à voir le bout, mais il faut absolument qu'on puisse finir au moins un component de manière parfaite, ce qui nous permettra à terme de pas faire uniquement des voitures, mais faire des arbres aussi. Et pour l'instant, on n'a pas du tout trouvé la technique qui nous permet de le faire actuellement. Enfin, plus ou moins on se rapproche, mais il faut être sûr d'accentuer les choses."
     }
   ],
-  "lastError" : "Password fields are excluded.",
   "modes" : [
     {
       "applications" : [
