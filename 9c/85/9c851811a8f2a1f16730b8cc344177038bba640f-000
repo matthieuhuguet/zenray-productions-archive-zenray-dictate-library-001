@@ -27201,6 +27201,7 @@
       "text" : "En fait, au final, la modélisation avancée pour créer des assets AAA, c'est vraiment notre bottleneck actuel. Mais je t'invite à lire toute la documentation ZenRay Houdini pour qu'à terme, on puisse constituer une bibliothèque de HDA qui soit vraiment très très puissante pour créer plus ou moins n'importe quelle forme, une voiture, un bateau, un avion, un train. Mais en fait, le problème, c'est que on réussira pas à le faire tant que on n'aura pas déjà ce qu'on veut, tu vois. Le problème, c'est qu'on a passé énormément de temps à commencer à faire ça. Donc peut-être qu'on commence à voir le bout, mais il faut absolument qu'on puisse finir au moins un component de manière parfaite, ce qui nous permettra à terme de pas faire uniquement des voitures, mais faire des arbres aussi. Et pour l'instant, on n'a pas du tout trouvé la technique qui nous permet de le faire actuellement. Enfin, plus ou moins on se rapproche, mais il faut être sûr d'accentuer les choses."
     }
   ],
+  "lastError" : "Password fields are excluded.",
   "modes" : [
     {
       "applications" : [
