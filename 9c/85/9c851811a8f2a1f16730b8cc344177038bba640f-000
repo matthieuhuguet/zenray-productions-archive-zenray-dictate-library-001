@@ -27199,9 +27199,28 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "En fait, au final, la modélisation avancée pour créer des assets AAA, c'est vraiment notre bottleneck actuel. Mais je t'invite à lire toute la documentation ZenRay Houdini pour qu'à terme, on puisse constituer une bibliothèque de HDA qui soit vraiment très très puissante pour créer plus ou moins n'importe quelle forme, une voiture, un bateau, un avion, un train. Mais en fait, le problème, c'est que on réussira pas à le faire tant que on n'aura pas déjà ce qu'on veut, tu vois. Le problème, c'est qu'on a passé énormément de temps à commencer à faire ça. Donc peut-être qu'on commence à voir le bout, mais il faut absolument qu'on puisse finir au moins un component de manière parfaite, ce qui nous permettra à terme de pas faire uniquement des voitures, mais faire des arbres aussi. Et pour l'instant, on n'a pas du tout trouvé la technique qui nous permet de le faire actuellement. Enfin, plus ou moins on se rapproche, mais il faut être sûr d'accentuer les choses.",
       "text" : "En fait, au final, la modélisation avancée pour créer des assets AAA, c'est vraiment notre bottleneck actuel. Mais je t'invite à lire toute la documentation ZenRay Houdini pour qu'à terme, on puisse constituer une bibliothèque de HDA qui soit vraiment très très puissante pour créer plus ou moins n'importe quelle forme, une voiture, un bateau, un avion, un train. Mais en fait, le problème, c'est que on réussira pas à le faire tant que on n'aura pas déjà ce qu'on veut, tu vois. Le problème, c'est qu'on a passé énormément de temps à commencer à faire ça. Donc peut-être qu'on commence à voir le bout, mais il faut absolument qu'on puisse finir au moins un component de manière parfaite, ce qui nous permettra à terme de pas faire uniquement des voitures, mais faire des arbres aussi. Et pour l'instant, on n'a pas du tout trouvé la technique qui nous permet de le faire actuellement. Enfin, plus ou moins on se rapproche, mais il faut être sûr d'accentuer les choses."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816117090.358985,
+      "id" : "017B8C7B-628F-4A59-B0B2-0EBA096458D4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Bravo, excellent travail. Maintenant la suite. Par contre, je vois... Ah si, c'est bon, j'ai vu ton résultat Blueprint. Bah c'est excellent. Par contre, regarde sur le résultat Blueprint. On dirait que le truc est pas parfaitement uniforme, tandis que la forme géométrique que tu as créée, elle est bonne. Donc c'est un peu bizarre. Parce qu'il y a une image qui fait que... On dirait que le cercle n'est pas totalement droit, alors que tu devrais toujours vérifier que ce soit le cas. Mais bon, de toute manière, enfin, soit tu corriges ça, soit tu passes à la suite. Mais c'est très très bien. Passe à l'intérieur de la jante, etc. Et continue de consigner.",
+      "text" : "Bravo, excellent travail. Maintenant la suite. Par contre, je vois... Ah si, c'est bon, j'ai vu ton résultat Blueprint. Bah c'est excellent. Par contre, regarde sur le résultat Blueprint. On dirait que le truc est pas parfaitement uniforme, tandis que la forme géométrique que tu as créée, elle est bonne. Donc c'est un peu bizarre. Parce qu'il y a une image qui fait que... On dirait que le cercle n'est pas totalement droit, alors que tu devrais toujours vérifier que ce soit le cas. Mais bon, de toute manière, enfin, soit tu corriges ça, soit tu passes à la suite. Mais c'est très très bien. Passe à l'intérieur de la jante, etc. Et continue de consigner."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816117114.394178,
+      "id" : "631CD399-EC4D-4CCA-8FD3-19EBB49671B5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Il faudrait qu'on finisse la roue en entier, c'est-à-dire la roue antérieure, les jantes, tous les détails, le cylindre, le frein, et qu'on finisse le component entier de la roue pour qu'on puisse passer au suivant. Toujours en continuant de consigner sur le blueprint global",
+      "text" : "Il faudrait qu'on finisse la roue en entier, c'est-à-dire la roue antérieure, les jantes, tous les détails, le cylindre, le frein, et qu'on finisse le component entier de la roue pour qu'on puisse passer au suivant. Toujours en continuant de consigner sur le blueprint global"
     }
   ],
-  "lastError" : "Password fields are excluded.",
   "modes" : [
     {
       "applications" : [
