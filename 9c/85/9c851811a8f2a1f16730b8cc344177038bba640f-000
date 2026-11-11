@@ -27129,6 +27129,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Il y a beaucoup de choses à faire, n'oublie absolument rien. Fais en sorte que tout soit parfait.",
       "text" : "Il y a beaucoup de choses à faire, n'oublie absolument rien. Fais en sorte que tout soit parfait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816099255.431776,
+      "id" : "5A224542-4651-4E7F-82C7-AAECE6DD5E31",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Quasi bien, sauf que les roues, les lignes sont pas parfaites et parfaitement uniformisées, et il manque pas mal de détails sur les lignes, etc.",
+      "text" : "Quasi bien, sauf que les roues, les lignes sont pas parfaites et parfaitement uniformisées, et il manque pas mal de détails sur les lignes, etc."
     }
   ],
   "modes" : [
