@@ -27019,6 +27019,116 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Par contre, au niveau de la lèvre et du contour, c'est pas propre du tout. Donc fais en sorte que ce soit propre.",
       "text" : "Par contre, au niveau de la lèvre et du contour, c'est pas propre du tout. Donc fais en sorte que ce soit propre."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816091201.477433,
+      "id" : "85308D48-52CC-485C-995D-52CDC1FC6A3E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Non, mais en fait, à partir de tout ZenRay et tout ce qu'on a créé, je pense que certes, il faut faire en sorte de. Déjà, il faut relancer la scène Houdini, mais en fait, maintenant, il faut être sûr de pouvoir créer des components à 99%. Et pour ça, je pense qu'on peut utiliser plusieurs méthodes et les assembler. Et en fait, le truc, c'est qu'une seule méthode, ça marche pas. Mais si on fait plusieurs méthodes de validation, de protocole, je pense que ça peut fonctionner. En fait, on a déjà la vérification par ligne vectorielle. Ensuite, on peut utiliser une image d'une référence en haute résolution. Ça, c'est vrai. Ensuite, on peut utiliser SAM 2.1 en zoomant uniquement sur les components qui nous intéressent. Ensuite, on peut utiliser le blueprint pour être sûr et avoir une validation avant de créer le component sur Houdini. Ensuite, on peut créer des components HDA qui sont évolutifs et itératifs au fil du temps afin de commencer à mettre un arbre de données. Ensuite, on peut créer des components par masque pour être sûr plus ou moins de ce qu'on fait. Donc en fait, si tu veux, il faut que tu relances un audit des agents Haiku 5.5 en effort extra pour obtenir une synthèse de tout ce qui existe déjà. Et en fait, à date, on va faire en sorte de, de créer un protocole de vérification qui passe par toutes les étapes de vérification pour créer des components parfaits en 2D en SVG. Et aussi, via ZenRay Cut, via ZenRay Lines, on va faire en sorte de pouvoir avoir une application ultra premium avec la fonte Adobe Clean qui nous permettra directement de faire en sorte d'avoir d'avoir du coup une retouche sur les lignes avec des components pré-découpés en termes de SVG et à terme pouvoir créer toutes les vues. Donc, je vais te donner les images haute référence et toi, tu vas créer tout ce chantier. Et n'oublie pas surtout de faire l'app éditable pour user. Et en fait, on commence jamais un component tant que le dessin n'est jamais parfait. Et à terme, on va réussir à créer l'application. En fait, et tu peux aussi ajouter toutes les méthodes de vérification et toutes les méthodes de validation qui feront en sorte qu'on aura notre application. Je te donne les images de référence.",
+      "text" : "Non, mais en fait, à partir de tout ZenRay et tout ce qu'on a créé, je pense que certes, il faut faire en sorte de. Déjà, il faut relancer la scène Houdini, mais en fait, maintenant, il faut être sûr de pouvoir créer des components à 99%. Et pour ça, je pense qu'on peut utiliser plusieurs méthodes et les assembler. Et en fait, le truc, c'est qu'une seule méthode, ça marche pas. Mais si on fait plusieurs méthodes de validation, de protocole, je pense que ça peut fonctionner. En fait, on a déjà la vérification par ligne vectorielle. Ensuite, on peut utiliser une image d'une référence en haute résolution. Ça, c'est vrai. Ensuite, on peut utiliser SAM 2.1 en zoomant uniquement sur les components qui nous intéressent. Ensuite, on peut utiliser le blueprint pour être sûr et avoir une validation avant de créer le component sur Houdini. Ensuite, on peut créer des components HDA qui sont évolutifs et itératifs au fil du temps afin de commencer à mettre un arbre de données. Ensuite, on peut créer des components par masque pour être sûr plus ou moins de ce qu'on fait. Donc en fait, si tu veux, il faut que tu relances un audit des agents Haiku 5.5 en effort extra pour obtenir une synthèse de tout ce qui existe déjà. Et en fait, à date, on va faire en sorte de, de créer un protocole de vérification qui passe par toutes les étapes de vérification pour créer des components parfaits en 2D en SVG. Et aussi, via ZenRay Cut, via ZenRay Lines, on va faire en sorte de pouvoir avoir une application ultra premium avec la fonte Adobe Clean qui nous permettra directement de faire en sorte d'avoir d'avoir du coup une retouche sur les lignes avec des components pré-découpés en termes de SVG et à terme pouvoir créer toutes les vues. Donc, je vais te donner les images haute référence et toi, tu vas créer tout ce chantier. Et n'oublie pas surtout de faire l'app éditable pour user. Et en fait, on commence jamais un component tant que le dessin n'est jamais parfait. Et à terme, on va réussir à créer l'application. En fait, et tu peux aussi ajouter toutes les méthodes de vérification et toutes les méthodes de validation qui feront en sorte qu'on aura notre application. Je te donne les images de référence."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 816091255.669011,
+      "id" : "580BCADA-045F-4497-96EE-9DDA7FC358C1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Redonne-moi deux images à partir de l'image de référence. Je veux la vue front, je veux la vue back et je veux la vue left. Et je veux une vue top aussi.",
+      "text" : "Redonne-moi deux images à partir de l'image de référence. Je veux la vue front, je veux la vue back et je veux la vue left. Et je veux une vue top aussi."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 816091311.190894,
+      "id" : "31524CA7-C15C-433A-96B4-554F19DEE62E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Ce premier prompt fait source de référence. On ne veut pas 6 vues, on veut une vue individuelle pour chacune des images en la résolution en pixels maximale.",
+      "text" : "Ce premier prompt fait source de référence. On ne veut pas 6 vues, on veut une vue individuelle pour chacune des images en la résolution en pixels maximale."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 816091421.771346,
+      "id" : "8F693F48-4472-476D-8F8A-9CC333751BAD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Non, je voulais 4 images individuelles.",
+      "text" : "Non, je voulais 4 images individuelles."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816091595.121659,
+      "id" : "3CC7E9DB-7A09-45C1-8873-050AF0F0F7AD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Et la source de vérité absolue, c'est que à chaque étape de ZenRay Meshes, et ça tu le mets en priorité 0, c'est qu'on fait toujours un component par un component, que ce soit le dessin ou le mesh 3D components directement dans Houdini. On fait toujours une étape à la fois. Et après dans Houdini, on créera à terme nos propres nodes ou nos propres outils qui nous permettront de créer n'importe quelle courbe 3D. Mais je pense que les nodes natifs de base sur Houdini, à la limite on pourrait utiliser du Vex, mais elles sont déjà suffisantes",
+      "text" : "Et la source de vérité absolue, c'est que à chaque étape de ZenRay Meshes, et ça tu le mets en priorité 0, c'est qu'on fait toujours un component par un component, que ce soit le dessin ou le mesh 3D components directement dans Houdini. On fait toujours une étape à la fois. Et après dans Houdini, on créera à terme nos propres nodes ou nos propres outils qui nous permettront de créer n'importe quelle courbe 3D. Mais je pense que les nodes natifs de base sur Houdini, à la limite on pourrait utiliser du Vex, mais elles sont déjà suffisantes"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816091700.520896,
+      "id" : "6951FCDC-4E95-4C05-B0EC-BB54F9A952E8",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "N'oublie pas aussi d'utiliser des tracés vectoriels, d'adoucir les courbes, bref, de faire déjà tout le travail de dessin et de le, en fait, le fait d'inventorier les components 3D se fait étape par étape, même s'il peut y avoir une pré-base existante. Mais et il y a aussi le terme de ajouter dans un document HTML à terme tous les components d'un modèle 3D. Mais en soi, il faut surtout que ce soit bien organisé dans la scène, etc.",
+      "text" : "N'oublie pas aussi d'utiliser des tracés vectoriels, d'adoucir les courbes, bref, de faire déjà tout le travail de dessin et de le, en fait, le fait d'inventorier les components 3D se fait étape par étape, même s'il peut y avoir une pré-base existante. Mais et il y a aussi le terme de ajouter dans un document HTML à terme tous les components d'un modèle 3D. Mais en soi, il faut surtout que ce soit bien organisé dans la scène, etc."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816091713.093321,
+      "id" : "89E1D06F-CBEE-46D5-A791-85A10C100436",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Donner un nom propre aux components suivant une convention Houdini ou Unreal Engine. Et",
+      "text" : "Donner un nom propre aux components suivant une convention Houdini ou Unreal Engine. Et"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816091873.951363,
+      "id" : "A360E0A1-6EE6-4B3A-9BF9-351412FB29D5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Donc ici, je t'ai mis les 5 vues importantes. Donc ce que tu vas faire, c'est que tu vas travailler proprement et tu vas créer le workflow parfait du coup.",
+      "text" : "Donc ici, je t'ai mis les 5 vues importantes. Donc ce que tu vas faire, c'est que tu vas travailler proprement et tu vas créer le workflow parfait du coup."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816091936.675195,
+      "id" : "A36C15B6-6B21-44F2-A7F5-A1309A38DBFD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Tu indexes évidemment toutes les références comme nouvelles références et sources de vérité, étant donné qu'elles sont en beaucoup plus haute résolution, ce qui fait que tu peux désormais utiliser SAM pour décomposer les composants. Mais utilise SAM la version maximale et zoom sur les parties, fais des cuts, fais des rognages de l'image, puis des zooms pour être sûr de pouvoir découper proprement les composants. Une fois qu'on obtient le dessin, on peut le poser sur le blueprint. Bref, fais tout parfaitement, réutilise l'existant et propose-moi un premier component de dessin et je te le valide ou non. Il faut évidemment que le dessin soit composé sur toutes les vues, un peu comme si c'était des NURBS directement,",
+      "text" : "Tu indexes évidemment toutes les références comme nouvelles références et sources de vérité, étant donné qu'elles sont en beaucoup plus haute résolution, ce qui fait que tu peux désormais utiliser SAM pour décomposer les composants. Mais utilise SAM la version maximale et zoom sur les parties, fais des cuts, fais des rognages de l'image, puis des zooms pour être sûr de pouvoir découper proprement les composants. Une fois qu'on obtient le dessin, on peut le poser sur le blueprint. Bref, fais tout parfaitement, réutilise l'existant et propose-moi un premier component de dessin et je te le valide ou non. Il faut évidemment que le dessin soit composé sur toutes les vues, un peu comme si c'était des NURBS directement,"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816091994.404299,
+      "id" : "6E074E3E-2BBE-40D5-90CC-28BFC5350389",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "L'application Ultra Premium dont je parle devrait du coup permettre de modifier ces courbes, ces NURBS, pouvoir les aplatir, avoir quasi tous les outils d'animation pour corriger des splines, avoir qui sont présents dans Maya et dans Unreal Engine, avoir quasi tous les outils. Donc fais un nouveau, toute cette documentation, tu la notes dans ZenRay Meshes 1.md afin que le skill puisse load ou unload la partie ou la section dont il a besoin, afin de faire comme un énorme dataset, sachant qu'il faut d'abord que tu lises tout pour être sûr de tout bien comprendre. Notre chantier sur Houdini Components actuel reste en pause, et la version de ZenRay Meshes passe à la version V5.",
+      "text" : "L'application Ultra Premium dont je parle devrait du coup permettre de modifier ces courbes, ces NURBS, pouvoir les aplatir, avoir quasi tous les outils d'animation pour corriger des splines, avoir qui sont présents dans Maya et dans Unreal Engine, avoir quasi tous les outils. Donc fais un nouveau, toute cette documentation, tu la notes dans ZenRay Meshes 1.md afin que le skill puisse load ou unload la partie ou la section dont il a besoin, afin de faire comme un énorme dataset, sachant qu'il faut d'abord que tu lises tout pour être sûr de tout bien comprendre. Notre chantier sur Houdini Components actuel reste en pause, et la version de ZenRay Meshes passe à la version V5."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816092003.658999,
+      "id" : "81CE744A-52BD-4173-B0E8-B724EA28CC4D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Il y a beaucoup de choses à faire, n'oublie absolument rien. Fais en sorte que tout soit parfait.",
+      "text" : "Il y a beaucoup de choses à faire, n'oublie absolument rien. Fais en sorte que tout soit parfait."
     }
   ],
   "modes" : [
