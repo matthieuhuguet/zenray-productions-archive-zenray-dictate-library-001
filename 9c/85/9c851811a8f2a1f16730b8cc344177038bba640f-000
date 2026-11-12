@@ -27299,6 +27299,36 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Mon but pour moi sur les autres conversations, c'est de savoir si je peux passer sur un modèle moins intelligent, Fable 5.2, pour déterminer si c'est possible de continuer à itérer sur la voiture, ou alors si j'ai besoin vraiment d'un modèle à haute intelligence.",
       "text" : "Mon but pour moi sur les autres conversations, c'est de savoir si je peux passer sur un modèle moins intelligent, Fable 5.2, pour déterminer si c'est possible de continuer à itérer sur la voiture, ou alors si j'ai besoin vraiment d'un modèle à haute intelligence."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816175229.340393,
+      "id" : "087C2654-62F4-4C74-A739-A604AB674429",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Pas mal. Bah, du coup, maintenant, on va faire le components qui est autour du components que tu viens de créer. Et évidemment, il faudra l'ajuster sur tous les profils pour être sûr que l'angle de la surface se joue. Mais en termes d'épaisseur, là, le component que tu viens de créer, c'est très bien. Bravo, continue.",
+      "text" : "Pas mal. Bah, du coup, maintenant, on va faire le components qui est autour du components que tu viens de créer. Et évidemment, il faudra l'ajuster sur tous les profils pour être sûr que l'angle de la surface se joue. Mais en termes d'épaisseur, là, le component que tu viens de créer, c'est très bien. Bravo, continue."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816175253.63586,
+      "id" : "6073F758-B83C-4AE4-AD21-93F54979DA79",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "N'oublie pas de renommer de manière simple à chaque fois les components une fois créés. Et il faut aussi que tu mettes à jour le chantier global, surtout quart 2. Mais bravo, c'est très bien, continue.",
+      "text" : "N'oublie pas de renommer de manière simple à chaque fois les components une fois créés. Et il faut aussi que tu mettes à jour le chantier global, surtout quart 2. Mais bravo, c'est très bien, continue."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816175284.618846,
+      "id" : "8B445623-54E6-4DB2-8044-7E49DF826542",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Et continue évidemment d'utiliser toutes les vues et tout. C'est très bien. J'aime beaucoup la manière que tu as de faire le blueprint. Par contre, ouais, sur certaines vues, on voit pas toujours le blueprint, mais bon, j'imagine que c'est normal. Bref, continuons.",
+      "text" : "Et continue évidemment d'utiliser toutes les vues et tout. C'est très bien. J'aime beaucoup la manière que tu as de faire le blueprint. Par contre, ouais, sur certaines vues, on voit pas toujours le blueprint, mais bon, j'imagine que c'est normal. Bref, continuons."
     }
   ],
   "modes" : [
