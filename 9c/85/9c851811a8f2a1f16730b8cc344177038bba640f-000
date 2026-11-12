@@ -27459,6 +27459,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Peut-être l'appeler directement ZenRay Blueprints 3D parce que il faudrait pas confondre avec Unreal Engine la technologie des blueprints.",
       "text" : "Peut-être l'appeler directement ZenRay Blueprints 3D parce que il faudrait pas confondre avec Unreal Engine la technologie des blueprints."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816182839.128718,
+      "id" : "06F6A64E-98CD-4010-9256-FB28FF184C31",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Bah maintenant, partie supérieure du capot pour faire un nouveau component.",
+      "text" : "Bah maintenant, partie supérieure du capot pour faire un nouveau component."
     }
   ],
   "modes" : [
