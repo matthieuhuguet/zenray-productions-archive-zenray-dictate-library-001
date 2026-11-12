@@ -27589,6 +27589,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "En fait, ce que je veux dire, c'est que les fichiers cloud, ils ont une seule source de vérité, ça sert à rien de les upload plusieurs fois.",
       "text" : "En fait, ce que je veux dire, c'est que les fichiers cloud, ils ont une seule source de vérité, ça sert à rien de les upload plusieurs fois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816185807.136859,
+      "id" : "00402FE4-7376-4E39-91F7-6805645BC09D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Je t'ai corrigé la courbure sur la vue top, donc adapte.",
+      "text" : "Je t'ai corrigé la courbure sur la vue top, donc adapte."
     }
   ],
   "modes" : [
