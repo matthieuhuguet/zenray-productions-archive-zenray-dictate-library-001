@@ -27409,6 +27409,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "dans la scène actuellement ouverte. Faut pas que tu te trompes de modèle.",
       "text" : "dans la scène actuellement ouverte. Faut pas que tu te trompes de modèle."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816182114.142448,
+      "id" : "9CC01E4B-26AE-49B3-9963-FF17DA0DB29F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Et je comprends pas pourquoi tu fais autant de components d'un coup. Genre, en fait là tu fais à la fois le door, plus le mirror, plus le seal, plus le... En fait le découpage du flanc gauche, tu devrais faire, à mon avis, d'abord la porte, puis le toit, puis le... À mon avis, le toit et la porte, c'est déjà suffisant en termes de... Et il faut que tu les sépares en deux components. Évidemment, l'image, là, elle te donne pas le contour. Mais vu que tu as la courbure du toit, tu peux continuer la tangente pour séparer les deux. Et comme ça, tu fais toit plus par",
+      "text" : "Et je comprends pas pourquoi tu fais autant de components d'un coup. Genre, en fait là tu fais à la fois le door, plus le mirror, plus le seal, plus le... En fait le découpage du flanc gauche, tu devrais faire, à mon avis, d'abord la porte, puis le toit, puis le... À mon avis, le toit et la porte, c'est déjà suffisant en termes de... Et il faut que tu les sépares en deux components. Évidemment, l'image, là, elle te donne pas le contour. Mais vu que tu as la courbure du toit, tu peux continuer la tangente pour séparer les deux. Et comme ça, tu fais toit plus par"
     }
   ],
   "modes" : [
