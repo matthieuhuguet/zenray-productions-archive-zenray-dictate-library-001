@@ -27329,6 +27329,86 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Et continue évidemment d'utiliser toutes les vues et tout. C'est très bien. J'aime beaucoup la manière que tu as de faire le blueprint. Par contre, ouais, sur certaines vues, on voit pas toujours le blueprint, mais bon, j'imagine que c'est normal. Bref, continuons.",
       "text" : "Et continue évidemment d'utiliser toutes les vues et tout. C'est très bien. J'aime beaucoup la manière que tu as de faire le blueprint. Par contre, ouais, sur certaines vues, on voit pas toujours le blueprint, mais bon, j'imagine que c'est normal. Bref, continuons."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 816176127.633248,
+      "id" : "DE5EBAF3-35A2-4B7A-B318-564223C0BB37",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Fais en sorte de lire la méthode ZenRay, mes chaises, et fais en sorte de créer un documentaire podcast qui explore toutes les mathématiques liées à la méthode ZenRay Meshes afin de faire une analyse approfondie sur l'apprentissage des dépendances mathématiques que l'utilisateur Mathieu devrait savoir pour mieux comprendre toutes les techniques qu'il utilise afin d'avoir une vraie maîtrise sur tout le sujet.",
+      "text" : "Fais en sorte de lire la méthode ZenRay, mes chaises, et fais en sorte de créer un documentaire podcast qui explore toutes les mathématiques liées à la méthode ZenRay Meshes afin de faire une analyse approfondie sur l'apprentissage des dépendances mathématiques que l'utilisateur Mathieu devrait savoir pour mieux comprendre toutes les techniques qu'il utilise afin d'avoir une vraie maîtrise sur tout le sujet."
+    },
+    {
+      "application" : "com.google.Chrome",
+      "date" : 816176134.436351,
+      "id" : "2AD8B726-F32B-4F6B-AA16-526A006ACB1C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "de A à Z en couvrant 99,9% du skill.",
+      "text" : "de A à Z en couvrant 99,9% du skill."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 816176274.367281,
+      "id" : "8DBD2CEB-36F0-431E-8105-E1A20C382DEF",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Fais en sorte de prendre plusieurs captures haute résolution via Karma CPU directement sur Houdini. Je veux 4 captures. Non, je veux 5 captures de la vue. Du coup, top, bottom, left, back et front en résolution en format 1.1, résolution 2048 x 2048. Plus un post via ZenRay Edit directement.",
+      "text" : "Fais en sorte de prendre plusieurs captures haute résolution via Karma CPU directement sur Houdini. Je veux 4 captures. Non, je veux 5 captures de la vue. Du coup, top, bottom, left, back et front en résolution en format 1.1, résolution 2048 x 2048. Plus un post via ZenRay Edit directement."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 816176305.593908,
+      "id" : "4C056137-9CE2-460F-9BD4-248222C9E561",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Je veux un post court et très très parlant.",
+      "text" : "Je veux un post court et très très parlant."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 816176313.860488,
+      "id" : "C83839D2-B87F-48BE-9D09-9904C7D2E535",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "euh, parle de modélisation procédurale directement sur Houdini.",
+      "text" : "euh, parle de modélisation procédurale directement sur Houdini."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 816176334.063569,
+      "id" : "E0C1C7E9-CA84-47FD-A286-11D1F958298B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Un autre agent travaille sur le chantier, donc essaie de faire des copies directement sur le projet afin de ne pas déranger l'agent qui travaille.",
+      "text" : "Un autre agent travaille sur le chantier, donc essaie de faire des copies directement sur le projet afin de ne pas déranger l'agent qui travaille."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 816176363.704557,
+      "id" : "A7C8D177-EADF-4905-9667-9F300DCA9710",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Je veux que ce soit sur la roue qui est modélisée, mais sans les guides. Je te donne une photo de la roue. Hop.",
+      "text" : "Je veux que ce soit sur la roue qui est modélisée, mais sans les guides. Je te donne une photo de la roue. Hop."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 816176369.613106,
+      "id" : "8D47DC58-313A-428D-8F78-E16DFDC76F05",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "dans la scène actuellement ouverte. Faut pas que tu te trompes de modèle.",
+      "text" : "dans la scène actuellement ouverte. Faut pas que tu te trompes de modèle."
     }
   ],
   "modes" : [
