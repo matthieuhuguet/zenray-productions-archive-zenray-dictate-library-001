@@ -28259,6 +28259,76 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Et-",
       "text" : "Et-"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816212530.064734,
+      "id" : "A6A1AA36-6CBF-4B22-B1B6-C6E3C11CCE12",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Donc tu compares ce qui existe dans le skill et ce qui n'existe pas, et tu fais en sorte de, euh, de créer des outils, ou alors de contrôler le son pour toutes les parties qui ne fonctionnent pas actuellement, notamment dans le cadre de components complexes à créer en 3D.",
+      "text" : "Donc tu compares ce qui existe dans le skill et ce qui n'existe pas, et tu fais en sorte de, euh, de créer des outils, ou alors de contrôler le son pour toutes les parties qui ne fonctionnent pas actuellement, notamment dans le cadre de components complexes à créer en 3D."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816212544.550064,
+      "id" : "E5DF7C16-36CC-40B7-8692-C6C1758BEF41",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "D'où le fait de lire intégralement la typerie",
+      "text" : "D'où le fait de lire intégralement la typerie"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816212595.973767,
+      "id" : "F78EE228-F7B0-4F2E-B66C-570B1F103A99",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "pour que ça devienne des documents de référence.",
+      "text" : "pour que ça devienne des documents de référence."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816212651.989577,
+      "id" : "5BF103CC-59DA-4764-9014-BCFC414F3182",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Par exemple, certaines images, certains components permettent directement de résoudre, enfin de créer directement les components en 3D sur Houdini qu'on n'aurait pas réussi à faire proprement.",
+      "text" : "Par exemple, certaines images, certains components permettent directement de résoudre, enfin de créer directement les components en 3D sur Houdini qu'on n'aurait pas réussi à faire proprement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816212722.2939,
+      "id" : "84EA17C9-EC37-4036-89C9-FF40548553B5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Donc, une fois que tu as intégré tout le knowledge, tu recommences le components que du coup tu n'as pas réussi et tous les components secondaires. Il y a aussi le redécoupage à faire qui n'est pas correct. Tout ce qui est tagué comme cela",
+      "text" : "Donc, une fois que tu as intégré tout le knowledge, tu recommences le components que du coup tu n'as pas réussi et tous les components secondaires. Il y a aussi le redécoupage à faire qui n'est pas correct. Tout ce qui est tagué comme cela"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816213396.056982,
+      "id" : "A1700F94-AE00-4F71-9817-C246D5503D46",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "De quoi, t'as rien fait de ce que je t'ai demandé. T'as pas du tout lu séquentiellement tout, c'est pas possible. C'est un niveau de résultat merdique. Et surtout, il y a une régression dans le découpage du SVG pour aucune raison. C'est toujours pas parfait alors que ça fait 14 fois que je te fais réviser à chaque fois les parties qu'il faudra diviser. T'as toujours pas compris que ça crée un effet de renfoncement et ou d'effet bombé, et en plus t'utilises pas les 5 vues. Les effets, tu n'utilises pas ce que je viens de te dire avec le j'ai oublié d'ailleurs. Tu n'utilises pas les control loops. Tu n'utilises pas le guide mesh pour que les réflexions soient parfaites. Tu n'utilises pas la topologie parfaite. Tu n'utilises pas la rotation ramp twist. Tu n'utilises pas la rotation ramp. Tu n'utilises pas le guide curve deformation pour chaque composant individuellement. Tu n'utilises pas la méthodologie curved thunder louvers. Enfin, je sais pas, pourquoi tu le fais pas? Je ne comprends pas. Et en plus, on a déjà fait tout à l'heure le découpage et t'avais juste à continuer de l'affiner. Là, t'en as fait un nouveau pour aucune raison. Donc, si t'arrives pas à faire le découpage, tu utilises. Tu utilises. Comment ça s'appelle? Tu utilises Sam 2.1, enfin genre arrête d'être con, genre utilise le skill.",
+      "text" : "De quoi, t'as rien fait de ce que je t'ai demandé. T'as pas du tout lu séquentiellement tout, c'est pas possible. C'est un niveau de résultat merdique. Et surtout, il y a une régression dans le découpage du SVG pour aucune raison. C'est toujours pas parfait alors que ça fait 14 fois que je te fais réviser à chaque fois les parties qu'il faudra diviser. T'as toujours pas compris que ça crée un effet de renfoncement et ou d'effet bombé, et en plus t'utilises pas les 5 vues. Les effets, tu n'utilises pas ce que je viens de te dire avec le j'ai oublié d'ailleurs. Tu n'utilises pas les control loops. Tu n'utilises pas le guide mesh pour que les réflexions soient parfaites. Tu n'utilises pas la topologie parfaite. Tu n'utilises pas la rotation ramp twist. Tu n'utilises pas la rotation ramp. Tu n'utilises pas le guide curve deformation pour chaque composant individuellement. Tu n'utilises pas la méthodologie curved thunder louvers. Enfin, je sais pas, pourquoi tu le fais pas? Je ne comprends pas. Et en plus, on a déjà fait tout à l'heure le découpage et t'avais juste à continuer de l'affiner. Là, t'en as fait un nouveau pour aucune raison. Donc, si t'arrives pas à faire le découpage, tu utilises. Tu utilises. Comment ça s'appelle? Tu utilises Sam 2.1, enfin genre arrête d'être con, genre utilise le skill."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816213435.522809,
+      "id" : "A95DA377-6E59-4FF2-878F-5F8C6CC380B6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Euh, Mais n'oublie jamais de faire toutes les guides de chaque composant à chaque fois. Il faut aussi que je valide les 5 vues de tous les blueprints à chaque fois. Puisque t'as pas les vues, bah, il faut que tu les affines. Là, tu m'as même pas redonné le blueprint, donc il n'y a rien qui va dans le protocole. Respecte le protocole à 100%.",
+      "text" : "Euh, Mais n'oublie jamais de faire toutes les guides de chaque composant à chaque fois. Il faut aussi que je valide les 5 vues de tous les blueprints à chaque fois. Puisque t'as pas les vues, bah, il faut que tu les affines. Là, tu m'as même pas redonné le blueprint, donc il n'y a rien qui va dans le protocole. Respecte le protocole à 100%."
     }
   ],
   "modes" : [
