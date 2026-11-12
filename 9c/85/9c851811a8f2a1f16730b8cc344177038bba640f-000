@@ -27259,6 +27259,46 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "À mon avis, il faut modéliser à la fois le renforcement du coffre et ensuite la grille de modélisation. Même si la grille de modélisation, en vrai, il n'y a pas forcément besoin de la modéliser parce qu'on passera sans doute par une texture. Mais dans ce cas-là, il faut faire en sorte que le mesh soit semi-transparent ou alors juste tu laisses la grille vide pour l'instant.",
       "text" : "À mon avis, il faut modéliser à la fois le renforcement du coffre et ensuite la grille de modélisation. Même si la grille de modélisation, en vrai, il n'y a pas forcément besoin de la modéliser parce qu'on passera sans doute par une texture. Mais dans ce cas-là, il faut faire en sorte que le mesh soit semi-transparent ou alors juste tu laisses la grille vide pour l'instant."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816174182.922306,
+      "id" : "06AE4004-78AF-49CF-A07A-51A377E6BEE4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Organise deux autres conversations euh, qui sont dans des agents Opus 5.5 extra, niveau d'effort extra, et on fera en sorte qu'au niveau de ces agents, on puisse faire par rapport au component de l'avant et un autre component qui passera sur la carrosserie du profil, tandis que toi, tu vas gérer la carrosserie arrière. Comme ça, on peut avancer en parallèle sur trois chantiers en même temps, et je peux corriger les chantiers. Et tu utilises le protocole actuel le plus à jour afin de commencer à mettre en place ces chantiers.",
+      "text" : "Organise deux autres conversations euh, qui sont dans des agents Opus 5.5 extra, niveau d'effort extra, et on fera en sorte qu'au niveau de ces agents, on puisse faire par rapport au component de l'avant et un autre component qui passera sur la carrosserie du profil, tandis que toi, tu vas gérer la carrosserie arrière. Comme ça, on peut avancer en parallèle sur trois chantiers en même temps, et je peux corriger les chantiers. Et tu utilises le protocole actuel le plus à jour afin de commencer à mettre en place ces chantiers."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816174234.279704,
+      "id" : "8FA098BF-BB9A-4571-B6A3-AD3485CB3F05",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "qui vient avec le contexte de la scène Houdini, le fait de faire components par components en y allant petites étapes par petites étapes, le fait d'utiliser tout le protocole Blueprint, le fait d'utiliser surtout ZenRay Meshes comme un algorithme complet, et le fait de ne jamais oublier de fournir des blueprints ultra complets. Il faut que à chaque étape, les blueprints et les 5 vues, pardon. C'est-à-dire la vue left, la vue top, la vue bottom, la vue front et la vue back.",
+      "text" : "qui vient avec le contexte de la scène Houdini, le fait de faire components par components en y allant petites étapes par petites étapes, le fait d'utiliser tout le protocole Blueprint, le fait d'utiliser surtout ZenRay Meshes comme un algorithme complet, et le fait de ne jamais oublier de fournir des blueprints ultra complets. Il faut que à chaque étape, les blueprints et les 5 vues, pardon. C'est-à-dire la vue left, la vue top, la vue bottom, la vue front et la vue back."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816174247.319702,
+      "id" : "177677C0-AD65-4D72-96F2-E259FB76340B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Ainsi, on pourra avancer sur trois chantiers en même temps, c'est-à-dire l'avant de la voiture, le profil gauche et la voiture arrière.",
+      "text" : "Ainsi, on pourra avancer sur trois chantiers en même temps, c'est-à-dire l'avant de la voiture, le profil gauche et la voiture arrière."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816174267.138988,
+      "id" : "3DCB3D5A-3482-42FC-8B57-8EC2053E4C01",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mon but pour moi sur les autres conversations, c'est de savoir si je peux passer sur un modèle moins intelligent, Fable 5.2, pour déterminer si c'est possible de continuer à itérer sur la voiture, ou alors si j'ai besoin vraiment d'un modèle à haute intelligence.",
+      "text" : "Mon but pour moi sur les autres conversations, c'est de savoir si je peux passer sur un modèle moins intelligent, Fable 5.2, pour déterminer si c'est possible de continuer à itérer sur la voiture, ou alors si j'ai besoin vraiment d'un modèle à haute intelligence."
     }
   ],
   "modes" : [
