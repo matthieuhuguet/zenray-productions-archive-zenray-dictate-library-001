@@ -29039,6 +29039,36 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Mais c'est pas le prompt qu'on avait pour la voiture. En plus, il y a une erreur sur la vue. Il y a surtout une erreur sur la vue. Il y a une erreur sur celui du bas. Mais j'ai l'impression que c'était pas notre. J'ai l'impression que c'était pas notre. J'ai l'impression surtout que c'était pas notre prompt qu'on avait fait pour la voiture. C'est pas le même.",
       "text" : "Mais c'est pas le prompt qu'on avait pour la voiture. En plus, il y a une erreur sur la vue. Il y a surtout une erreur sur la vue. Il y a une erreur sur celui du bas. Mais j'ai l'impression que c'était pas notre. J'ai l'impression que c'était pas notre. J'ai l'impression surtout que c'était pas notre prompt qu'on avait fait pour la voiture. C'est pas le même."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816290528.410091,
+      "id" : "4DF9CACF-E6B9-49CE-8186-53AFA1C199A6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Il me semble qu'il y avait un prompt où il y avait la vue. Ouais, bon, c'est n'importe quoi. Mais il me semble qu'il y avait un prompt avec la vue avec et sans la topologie. Retrouve le prompt de la vue sans la topologie, c'est-à-dire sans le FF en rouge, tu vois. Et on retrouve cette version. Mais en fait, on l'a forcément utilisée puisqu'on a fait la génération de la voiture. Attends, je vais retrouver le prompt qu'on avait utilisé.",
+      "text" : "Il me semble qu'il y avait un prompt où il y avait la vue. Ouais, bon, c'est n'importe quoi. Mais il me semble qu'il y avait un prompt avec la vue avec et sans la topologie. Retrouve le prompt de la vue sans la topologie, c'est-à-dire sans le FF en rouge, tu vois. Et on retrouve cette version. Mais en fait, on l'a forcément utilisée puisqu'on a fait la génération de la voiture. Attends, je vais retrouver le prompt qu'on avait utilisé."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816290604.563867,
+      "id" : "C5FB72C0-C7A2-4621-A8CC-3CFE2337BCBD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Euh, Ok, c'était ce prompt. Essaie de voir à quelle date il avait été fait et teste-le ensuite.",
+      "text" : "Euh, Ok, c'était ce prompt. Essaie de voir à quelle date il avait été fait et teste-le ensuite."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816290630.288835,
+      "id" : "67A50DE9-9315-4B21-AE61-38D248509DB9",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Je veux savoir à quelle date je l'ai modifié parce que, en fait, ce prompt, il me permet d'override pour avoir une seule vue. Mais je suis sûr qu'on l'a consigné dans ZenRay Mesh as à un moment, il faut juste que tu retrouves la date. Il faut que tu comprennes pourquoi tu l'as pas retrouvée quand je te l'ai demandé.",
+      "text" : "Je veux savoir à quelle date je l'ai modifié parce que, en fait, ce prompt, il me permet d'override pour avoir une seule vue. Mais je suis sûr qu'on l'a consigné dans ZenRay Mesh as à un moment, il faut juste que tu retrouves la date. Il faut que tu comprennes pourquoi tu l'as pas retrouvée quand je te l'ai demandé."
     }
   ],
   "modes" : [
