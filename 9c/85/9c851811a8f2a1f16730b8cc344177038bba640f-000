@@ -28329,6 +28329,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Euh, Mais n'oublie jamais de faire toutes les guides de chaque composant à chaque fois. Il faut aussi que je valide les 5 vues de tous les blueprints à chaque fois. Puisque t'as pas les vues, bah, il faut que tu les affines. Là, tu m'as même pas redonné le blueprint, donc il n'y a rien qui va dans le protocole. Respecte le protocole à 100%.",
       "text" : "Euh, Mais n'oublie jamais de faire toutes les guides de chaque composant à chaque fois. Il faut aussi que je valide les 5 vues de tous les blueprints à chaque fois. Puisque t'as pas les vues, bah, il faut que tu les affines. Là, tu m'as même pas redonné le blueprint, donc il n'y a rien qui va dans le protocole. Respecte le protocole à 100%."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816246807.336817,
+      "id" : "AD8A8EEF-7AB1-4AC7-AF0A-F79BF53E6089",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais ça fera une découverte. Enfin, je me pose la question par rapport à l'effet bug.",
+      "text" : "Mais ça fera une découverte. Enfin, je me pose la question par rapport à l'effet bug."
     }
   ],
   "modes" : [
