@@ -28429,6 +28429,36 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "sur le retour de plume en rouge.",
       "text" : "sur le retour de plume en rouge."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816254598.261524,
+      "id" : "018FF337-56E4-49ED-80CF-5664AC1575D2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "En fait, le problème, c'est que le découpage est toujours pas parfait. En fait, depuis quand aurait dû améliorer l'algorithme de SAM 2.1, surtout par rapport à, surtout par rapport à des edges plus ou moins bien, dans le sens où merde. Surtout dans le sens où on voulait quelque chose de plus ou moins enfin là par exemple tu vois, tu fais l'épaisseur avec deux bords rouges, mais en soi tu vois, puisque c'est une espèce de manche, une espèce d'armure, l'épaisseur tu vois des traits, logiquement et algorithmiquement, ben, c'est la même en fait. Enfin, oui, c'est ça. C'est ce que je veux dire, c'est que en fait, ce qui me manque là à chaque fois, c'est l'intention des modèles. Parce que l'intention du modèle, elle donne très souvent la forme souhaitée, tu vois. Parce que si tu as l'intention du modèle, tu comprends que là c'est une espèce d'armure, et du coup le contour, tu fais pas un mauvais contour, tu fais en sorte que, les contours soient plus ou moins logiques par rapport à l'existant, ce qui n'est actuellement pas le cas malheureusement. Actuellement, on dirait que tu comprends pas le modèle et que tu fausses toujours les contours rouges, tu vois.",
+      "text" : "En fait, le problème, c'est que le découpage est toujours pas parfait. En fait, depuis quand aurait dû améliorer l'algorithme de SAM 2.1, surtout par rapport à, surtout par rapport à des edges plus ou moins bien, dans le sens où merde. Surtout dans le sens où on voulait quelque chose de plus ou moins enfin là par exemple tu vois, tu fais l'épaisseur avec deux bords rouges, mais en soi tu vois, puisque c'est une espèce de manche, une espèce d'armure, l'épaisseur tu vois des traits, logiquement et algorithmiquement, ben, c'est la même en fait. Enfin, oui, c'est ça. C'est ce que je veux dire, c'est que en fait, ce qui me manque là à chaque fois, c'est l'intention des modèles. Parce que l'intention du modèle, elle donne très souvent la forme souhaitée, tu vois. Parce que si tu as l'intention du modèle, tu comprends que là c'est une espèce d'armure, et du coup le contour, tu fais pas un mauvais contour, tu fais en sorte que, les contours soient plus ou moins logiques par rapport à l'existant, ce qui n'est actuellement pas le cas malheureusement. Actuellement, on dirait que tu comprends pas le modèle et que tu fausses toujours les contours rouges, tu vois."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816254608.094498,
+      "id" : "4D5D1F54-938E-4697-9598-73AFFF16CD52",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Et les contournements, ils doivent être parfaits, tu vois, en termes de courbe et en termes du fait d'épouser la courbe.",
+      "text" : "Et les contournements, ils doivent être parfaits, tu vois, en termes de courbe et en termes du fait d'épouser la courbe."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816254633.105353,
+      "id" : "B8D79E45-78C3-4D80-A89A-6015EE2250B6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Et évidemment, il faut consigner ça dans le modèle, tu vois. Faut consigner ça dans le modèle en mode consigné, en fait.",
+      "text" : "Et évidemment, il faut consigner ça dans le modèle, tu vois. Faut consigner ça dans le modèle en mode consigné, en fait."
     }
   ],
   "modes" : [
