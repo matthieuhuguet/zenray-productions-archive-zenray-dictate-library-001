@@ -28929,6 +28929,46 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Il n'y a pas moyen de pas utiliser Computer Use parce que c'est un peu lent, parce que tu dois taper le texte, etc. Essaie de l'utiliser un peu plus rapidement, Computer Use, quand tu l'utilises.",
       "text" : "Il n'y a pas moyen de pas utiliser Computer Use parce que c'est un peu lent, parce que tu dois taper le texte, etc. Essaie de l'utiliser un peu plus rapidement, Computer Use, quand tu l'utilises."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816286395.550737,
+      "id" : "1ECDD604-D060-4DCA-9AE7-353D3E2F921F",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Bah, du coup, fais-le pour tous les autres, étant donné que ça donne directement la crown et ça donne aussi la crown et enfin, ça les donne toutes, ça donne toutes les vues et ça permet de la préciser. Donc, rajoute-le en input avec le découpage directement. Je pense que ça peut aider le modèle à faire mieux.",
+      "text" : "Bah, du coup, fais-le pour tous les autres, étant donné que ça donne directement la crown et ça donne aussi la crown et enfin, ça les donne toutes, ça donne toutes les vues et ça permet de la préciser. Donc, rajoute-le en input avec le découpage directement. Je pense que ça peut aider le modèle à faire mieux."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816286473.234379,
+      "id" : "B78C7488-1DEF-48B7-8469-5F605735C85E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Du coup, tu as un clive plus un clive avec le découpage de Sam avec les contours rouges sur ce clive, met en gris semi-transparent et laisse en rouge l'intérieur. Enfin, tu fais les contours rouges et l'intérieur, tu laisses la couleur. Comme ça, le modèle, il comprend mieux le component qui doit découper. Mais tu fais qu'une seule image. Enfin, tu fais clive de gauche totalement normal, clive de droite avec les components qui sont détourés en rouge, qui ont une couleur à l'intérieur, et tout le reste de l'image est grisé avec un filtre semi-opaque gris. Et tu le rajoutes dans toutes les conversations actuelles. De toute manière, à terme, on a toujours dans ZenRay Blueprints la validation pour dire quel truc on attend ou pas.",
+      "text" : "Du coup, tu as un clive plus un clive avec le découpage de Sam avec les contours rouges sur ce clive, met en gris semi-transparent et laisse en rouge l'intérieur. Enfin, tu fais les contours rouges et l'intérieur, tu laisses la couleur. Comme ça, le modèle, il comprend mieux le component qui doit découper. Mais tu fais qu'une seule image. Enfin, tu fais clive de gauche totalement normal, clive de droite avec les components qui sont détourés en rouge, qui ont une couleur à l'intérieur, et tout le reste de l'image est grisé avec un filtre semi-opaque gris. Et tu le rajoutes dans toutes les conversations actuelles. De toute manière, à terme, on a toujours dans ZenRay Blueprints la validation pour dire quel truc on attend ou pas."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816286577.94842,
+      "id" : "7EA7D371-2D64-4DDC-A669-21CA3AF4184A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Sur tous les SAM, je valide pas du tout, c'est pas encore ça, c'est pas assez précis du tout. À la limite, donne-moi directement dans ZenRay Blueprints le clive dans le projet du coup ARM, et comme ça je te copie les valeurs pour. Mais en fait, le truc c'est qu'à chaque fois que tu utilises SAM 2.1, je t'ai déjà dit de lisser les courbes via les tangentes, etc. Donc comme ça, je peux edit directement via le tool edit depuis ZenRay Blueprints 3.",
+      "text" : "Sur tous les SAM, je valide pas du tout, c'est pas encore ça, c'est pas assez précis du tout. À la limite, donne-moi directement dans ZenRay Blueprints le clive dans le projet du coup ARM, et comme ça je te copie les valeurs pour. Mais en fait, le truc c'est qu'à chaque fois que tu utilises SAM 2.1, je t'ai déjà dit de lisser les courbes via les tangentes, etc. Donc comme ça, je peux edit directement via le tool edit depuis ZenRay Blueprints 3."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816286624.423917,
+      "id" : "D806F025-520C-4A89-B6B5-DA3A47279C5E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "À terme, en fait, consigne dans ce protocole. En fait, tu me donnes un SAM où tu fais en sorte de faire le maximum de précision sur la première passe. Ensuite, tu me donnes le relais via l'edit. Et ensuite, tu fais encore une passe pour encore améliorer les contours. Par rapport à l'input que je vais te donner, ce sera pas forcément précis. Et tu me permets dans Edit de créer un point de tangente en plus pour pouvoir modifier des courbes et ou faire soit un angle smooth, soit un angle pas smooth du coup. Un angle crisp peut-être, je sais pas. Mais tu consignes tout ça.",
+      "text" : "À terme, en fait, consigne dans ce protocole. En fait, tu me donnes un SAM où tu fais en sorte de faire le maximum de précision sur la première passe. Ensuite, tu me donnes le relais via l'edit. Et ensuite, tu fais encore une passe pour encore améliorer les contours. Par rapport à l'input que je vais te donner, ce sera pas forcément précis. Et tu me permets dans Edit de créer un point de tangente en plus pour pouvoir modifier des courbes et ou faire soit un angle smooth, soit un angle pas smooth du coup. Un angle crisp peut-être, je sais pas. Mais tu consignes tout ça."
     }
   ],
   "modes" : [
