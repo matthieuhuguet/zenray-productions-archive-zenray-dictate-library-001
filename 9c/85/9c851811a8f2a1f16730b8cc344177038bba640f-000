@@ -28879,6 +28879,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Pourquoi tout ce que je te demande, c'est refusé à chaque fois? Je t'accorde l'accès",
       "text" : "Pourquoi tout ce que je te demande, c'est refusé à chaque fois? Je t'accorde l'accès"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816284945.30907,
+      "id" : "29E37776-366B-4805-A855-9D0B049B500D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Refait en thread, un thread reste en argon. Non, pardon, hydrogène extra. Extra, c'est. Oui, c'est niveau extra, EXTRA. Et fait les 5 premières vues directement. Et comme ça, je vérifie. En fait, il n'arrive jamais là. Celle du milieu, en fait. Mais il faut isoler les vues proprement.",
+      "text" : "Refait en thread, un thread reste en argon. Non, pardon, hydrogène extra. Extra, c'est. Oui, c'est niveau extra, EXTRA. Et fait les 5 premières vues directement. Et comme ça, je vérifie. En fait, il n'arrive jamais là. Celle du milieu, en fait. Mais il faut isoler les vues proprement."
     }
   ],
   "modes" : [
