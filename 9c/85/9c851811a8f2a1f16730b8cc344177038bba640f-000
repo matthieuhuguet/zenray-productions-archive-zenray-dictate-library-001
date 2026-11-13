@@ -28869,6 +28869,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Les images générées ne semblent pas correctes. Essaie de tout recommencer cette fois-ci avec mon application Anti-Gravity qui possède du coup un générateur d'images. Tu as juste à faire une nouvelle conversation et à utiliser du coup Orchestrateur Argon.",
       "text" : "Les images générées ne semblent pas correctes. Essaie de tout recommencer cette fois-ci avec mon application Anti-Gravity qui possède du coup un générateur d'images. Tu as juste à faire une nouvelle conversation et à utiliser du coup Orchestrateur Argon."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816283902.092691,
+      "id" : "D16400C7-2533-4B14-A4EB-72F7BCA7ED34",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Pourquoi tout ce que je te demande, c'est refusé à chaque fois? Je t'accorde l'accès",
+      "text" : "Pourquoi tout ce que je te demande, c'est refusé à chaque fois? Je t'accorde l'accès"
     }
   ],
   "modes" : [
