@@ -29099,6 +29099,46 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Mais ton prompt en soi était bizarre. Euh, Bon, le résultat obtenu est beaucoup mieux, genre vraiment, vraiment beaucoup mieux, mais c'est bizarre ce que t'as demandé en fait. Je comprends pas. Parce qu'en fait, t'as quand même demandé une vue si vue, alors que ça consistait surtout à faire une grille 4 par 4. Essaie de simplifier le prompt pour mettre uniquement les informations importantes. Genre les 4 vues individuelles sur une seule image qui respectent du coup les 4 vues de manière orthographique. Et lance 3 générations d'images en même temps avec ce prompt simplifié, mais simplifie pas en fait ce qu'il y a dans le texte et qui sert quand même, mais on peut pas savoir s'il sert ou pas, tu vois. C'est juste que je veux supprimer les trucs qui sont des instructions contre-productives. Testons une nouvelle version de ce prompt.",
       "text" : "Mais ton prompt en soi était bizarre. Euh, Bon, le résultat obtenu est beaucoup mieux, genre vraiment, vraiment beaucoup mieux, mais c'est bizarre ce que t'as demandé en fait. Je comprends pas. Parce qu'en fait, t'as quand même demandé une vue si vue, alors que ça consistait surtout à faire une grille 4 par 4. Essaie de simplifier le prompt pour mettre uniquement les informations importantes. Genre les 4 vues individuelles sur une seule image qui respectent du coup les 4 vues de manière orthographique. Et lance 3 générations d'images en même temps avec ce prompt simplifié, mais simplifie pas en fait ce qu'il y a dans le texte et qui sert quand même, mais on peut pas savoir s'il sert ou pas, tu vois. C'est juste que je veux supprimer les trucs qui sont des instructions contre-productives. Testons une nouvelle version de ce prompt."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816291731.044188,
+      "id" : "42D6B424-2B8D-42F8-87B7-1D306F5F526D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "C'est bizarre parce que 2 résultats sur 3, il n'y a pas. C'est bizarre parce que 2 résultats sur 3, il manque. Il manque l'aspect symétrique de la pièce. Mais après, toutes les pièces ne sont pas symétriques. Donc j'aimerais que tu rajoutes dans le prompt, si c'est possible, un aspect des courbes adoucies, etc., les tangentes, les courbes lissées. euh, Et fais juste un test avec un seul thread. Mais sinon, conserve la version actuelle du dernier prompt en tant que meilleur prompt actuellement, tu vois. Et consigne aussi la méthode grille 2 x 2 pour avoir une cohérence du modèle sans faire la vue de dessous. Et il faut que tu le notes dans les priorités 0, ça. Parce que j'ai vraiment pas envie que tu l'oublies.",
+      "text" : "C'est bizarre parce que 2 résultats sur 3, il n'y a pas. C'est bizarre parce que 2 résultats sur 3, il manque. Il manque l'aspect symétrique de la pièce. Mais après, toutes les pièces ne sont pas symétriques. Donc j'aimerais que tu rajoutes dans le prompt, si c'est possible, un aspect des courbes adoucies, etc., les tangentes, les courbes lissées. euh, Et fais juste un test avec un seul thread. Mais sinon, conserve la version actuelle du dernier prompt en tant que meilleur prompt actuellement, tu vois. Et consigne aussi la méthode grille 2 x 2 pour avoir une cohérence du modèle sans faire la vue de dessous. Et il faut que tu le notes dans les priorités 0, ça. Parce que j'ai vraiment pas envie que tu l'oublies."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816291785.509808,
+      "id" : "F4818EB2-F2E9-4484-B331-2BCBD939D9F4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Et il faut que tu notes le prompt d'aujourd'hui qu'on a fait du coup pour obtenir les cas de vue et la cohérence du modèle. Mais j'aimerais juste tester la version avec l'aspect symétrique du component. Ou l'aspect asymétrique, mais l'aspect lissé, le fait d'avoir une épaisseur cohérente, avec un effet un peu, je sais pas comment expliquer, mais un effet un peu ZBrush Square Enix, et ou un effet ZBrush, et ou un effet Hard Surface, tu vois. Un effet clean, tu vois, mais sans que ce soit trop obtus, tu vois. Parce que ça dépend, des fois on a des angles qui donnent plus ou moins un angle, mais je sais pas. J'ai. Je sais pas comment faire ça.",
+      "text" : "Et il faut que tu notes le prompt d'aujourd'hui qu'on a fait du coup pour obtenir les cas de vue et la cohérence du modèle. Mais j'aimerais juste tester la version avec l'aspect symétrique du component. Ou l'aspect asymétrique, mais l'aspect lissé, le fait d'avoir une épaisseur cohérente, avec un effet un peu, je sais pas comment expliquer, mais un effet un peu ZBrush Square Enix, et ou un effet ZBrush, et ou un effet Hard Surface, tu vois. Un effet clean, tu vois, mais sans que ce soit trop obtus, tu vois. Parce que ça dépend, des fois on a des angles qui donnent plus ou moins un angle, mais je sais pas. J'ai. Je sais pas comment faire ça."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816291800.654931,
+      "id" : "02C4CD99-29F1-432D-AB5D-504800B91509",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Fais simplement une seule ligne avec une instruction assez généraliste par rapport à tout ce qu'on a fait sur ZenRay Meshes pour expliquer un peu l'effet que je recherche dans la génération des components pour la découpe.",
+      "text" : "Fais simplement une seule ligne avec une instruction assez généraliste par rapport à tout ce qu'on a fait sur ZenRay Meshes pour expliquer un peu l'effet que je recherche dans la génération des components pour la découpe."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816291872.833063,
+      "id" : "C19144C9-5EA0-434A-B38C-E4273D4148F3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Tu gardes. J'ai mis deux chats qui s'appellent non, un autre qui s'appelle non et un autre qui s'appelle oui mais, et tu sauvegardes uniquement le résultat via computer use de celui qui s'appelle oui mais, et tu passes à un nouveau fil.",
+      "text" : "Tu gardes. J'ai mis deux chats qui s'appellent non, un autre qui s'appelle non et un autre qui s'appelle oui mais, et tu sauvegardes uniquement le résultat via computer use de celui qui s'appelle oui mais, et tu passes à un nouveau fil."
     }
   ],
   "modes" : [
