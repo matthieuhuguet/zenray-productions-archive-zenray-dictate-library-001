@@ -28679,6 +28679,26 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "N'importe quoi, au final, enfin, l'application ZenRay Blueprint 3D, c'est juste, enfin, c'est juste des images fixes, enfin, ça n'a aucun sens. Genre, je t'ai demandé de faire une vraie application et genre, c'est franchement, tu me déprimes, genre, t'es trop con, genre. Moi, je vais tester avec un autre modèle, hein, parce que toi, t'es vraiment trop con. Euh, Donc, le problème actuel, c'est que enfin, ça n'a plus aucun sens. Enfin, t'étais censé copier la symétrie de au moins un bord, comprendre parfaitement, et là, t'as fait n'importe quoi. Et même sur la topologie, tu vois, on voit directement le problème sur la topologie. Euh, Sans même parler du wireframe. En plus, au lieu de marquer shading et fil de fer, t'as marqué ombré et fil de fer. Enfin, franchement, la gueule de qui? Et ensuite, quand je fais éditer les tracés maintenant, je reprends avec un schéma deprecated. Donc, enfin, c'est n'importe quoi. Genre, enfin, essaie de penser à tout et de me donner l'application finie et parfaite afin que je puisse éditer les tracés sur un component, mais que ce soit bon, tu vois. Et d'ailleurs, quand je fais éditer les tracés, il faut que je vois mes 5 vues en même temps, tu vois, en mode blueprint, tu vois. Parce que sinon, ça n'a pas de sens. Il faut que l'application soit fluide et utile à utiliser, tu vois. Enfin, sinon, c'est compliqué. Il faut que je puisse avoir le bouton du copy. Il faut que je puisse avoir lui que j'avais tout à l'heure par rapport à contour plus guide plus arrête que je t'avais demandé en mode comment dire en mode parfait. Mais tout à l'heure, quand tu m'as donné simplement le document que tu avais fait via ZenRay Edit, bah, les deux, le A et le B étaient parfaits. Donc je voulais juste les deux et pas un mix des deux. Donc je voulais vraiment les deux, tu vois. Donc, enfin, vraiment, s'il te plaît, quoi, fais un effort.",
       "text" : "N'importe quoi, au final, enfin, l'application ZenRay Blueprint 3D, c'est juste, enfin, c'est juste des images fixes, enfin, ça n'a aucun sens. Genre, je t'ai demandé de faire une vraie application et genre, c'est franchement, tu me déprimes, genre, t'es trop con, genre. Moi, je vais tester avec un autre modèle, hein, parce que toi, t'es vraiment trop con. Euh, Donc, le problème actuel, c'est que enfin, ça n'a plus aucun sens. Enfin, t'étais censé copier la symétrie de au moins un bord, comprendre parfaitement, et là, t'as fait n'importe quoi. Et même sur la topologie, tu vois, on voit directement le problème sur la topologie. Euh, Sans même parler du wireframe. En plus, au lieu de marquer shading et fil de fer, t'as marqué ombré et fil de fer. Enfin, franchement, la gueule de qui? Et ensuite, quand je fais éditer les tracés maintenant, je reprends avec un schéma deprecated. Donc, enfin, c'est n'importe quoi. Genre, enfin, essaie de penser à tout et de me donner l'application finie et parfaite afin que je puisse éditer les tracés sur un component, mais que ce soit bon, tu vois. Et d'ailleurs, quand je fais éditer les tracés, il faut que je vois mes 5 vues en même temps, tu vois, en mode blueprint, tu vois. Parce que sinon, ça n'a pas de sens. Il faut que l'application soit fluide et utile à utiliser, tu vois. Enfin, sinon, c'est compliqué. Il faut que je puisse avoir le bouton du copy. Il faut que je puisse avoir lui que j'avais tout à l'heure par rapport à contour plus guide plus arrête que je t'avais demandé en mode comment dire en mode parfait. Mais tout à l'heure, quand tu m'as donné simplement le document que tu avais fait via ZenRay Edit, bah, les deux, le A et le B étaient parfaits. Donc je voulais juste les deux et pas un mix des deux. Donc je voulais vraiment les deux, tu vois. Donc, enfin, vraiment, s'il te plaît, quoi, fais un effort."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816272049.883652,
+      "id" : "2A4D2E30-1ABA-405F-908D-43903AC0FAFC",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Parfait. Une fois que tu as fini, passe à l'autre component du bras en dessous de la maquette.",
+      "text" : "Parfait. Une fois que tu as fini, passe à l'autre component du bras en dessous de la maquette."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816272069.670751,
+      "id" : "1DB0DA72-442D-4DD7-B98F-0AFF3CDE5D0E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Et donne un nom parlant au fait de mettre des contrôles à tous les components. Parce que soit on le met par défaut, soit on le met",
+      "text" : "Et donne un nom parlant au fait de mettre des contrôles à tous les components. Parce que soit on le met par défaut, soit on le met"
     }
   ],
   "modes" : [
