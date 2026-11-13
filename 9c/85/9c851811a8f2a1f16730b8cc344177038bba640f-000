@@ -28899,6 +28899,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Pour Night Elbow, tu peux préciser que ça fait partie de cette armure, mais indique bien le component qu'on découpe.",
       "text" : "Pour Night Elbow, tu peux préciser que ça fait partie de cette armure, mais indique bien le component qu'on découpe."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816285758.892139,
+      "id" : "BA106577-6218-482A-B9F5-48B2CFCEBD4A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Parfait, continue. Tu peux lancer les trois. Tu peux lancer trois fils du coup. Donc un pour Shoulder Crown, un pour Night Elbow et un pour Night, le dernier des Night. Et comme ça, on génère en séquentiel sur ces trois threads, donc une image à la fois, mais du coup ça fait trois images en même temps. Du coup, tu passes juste pour Shoulder Crown à l'étape supérieure.",
+      "text" : "Parfait, continue. Tu peux lancer les trois. Tu peux lancer trois fils du coup. Donc un pour Shoulder Crown, un pour Night Elbow et un pour Night, le dernier des Night. Et comme ça, on génère en séquentiel sur ces trois threads, donc une image à la fois, mais du coup ça fait trois images en même temps. Du coup, tu passes juste pour Shoulder Crown à l'étape supérieure."
     }
   ],
   "modes" : [
