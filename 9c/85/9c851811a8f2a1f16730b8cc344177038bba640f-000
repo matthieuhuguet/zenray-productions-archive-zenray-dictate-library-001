@@ -28609,6 +28609,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "mais on peut toujours continuer d'améliorer les choses.",
       "text" : "mais on peut toujours continuer d'améliorer les choses."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816260658.434422,
+      "id" : "3B99C937-DCB2-479A-B5D0-C9816400441B",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Ok. Ah ok, globalement, je pense qu'il manquait un arc global sur la vue du contrôle. En fait, au final, ce qui manquait, c'est un arc global qui aurait fait la périphérie par rapport au bord, s'il se rapproche ou pas. Donc, ça aurait fait plus ou moins le contour du globe en mode les bords se rapprochent tandis que ça forme un cercle, tu vois. C'est en fait, je vais te noter à peu près ce que je veux. Je vais te montrer, je vais te faire un schéma. Et en fait, le truc, c'est ça aurait dû faire ça comme ça. Peut-être avec un truc en vert, mais en fait, pour rapprocher.",
+      "text" : "Ok. Ah ok, globalement, je pense qu'il manquait un arc global sur la vue du contrôle. En fait, au final, ce qui manquait, c'est un arc global qui aurait fait la périphérie par rapport au bord, s'il se rapproche ou pas. Donc, ça aurait fait plus ou moins le contour du globe en mode les bords se rapprochent tandis que ça forme un cercle, tu vois. C'est en fait, je vais te noter à peu près ce que je veux. Je vais te montrer, je vais te faire un schéma. Et en fait, le truc, c'est ça aurait dû faire ça comme ça. Peut-être avec un truc en vert, mais en fait, pour rapprocher."
     }
   ],
   "modes" : [
