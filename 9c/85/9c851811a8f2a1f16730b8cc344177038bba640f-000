@@ -28889,6 +28889,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Refait en thread, un thread reste en argon. Non, pardon, hydrogène extra. Extra, c'est. Oui, c'est niveau extra, EXTRA. Et fait les 5 premières vues directement. Et comme ça, je vérifie. En fait, il n'arrive jamais là. Celle du milieu, en fait. Mais il faut isoler les vues proprement.",
       "text" : "Refait en thread, un thread reste en argon. Non, pardon, hydrogène extra. Extra, c'est. Oui, c'est niveau extra, EXTRA. Et fait les 5 premières vues directement. Et comme ça, je vérifie. En fait, il n'arrive jamais là. Celle du milieu, en fait. Mais il faut isoler les vues proprement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816285196.491675,
+      "id" : "65BED3D2-851B-464D-B33F-7A4C6216F42A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Pour Night Elbow, tu peux préciser que ça fait partie de cette armure, mais indique bien le component qu'on découpe.",
+      "text" : "Pour Night Elbow, tu peux préciser que ça fait partie de cette armure, mais indique bien le component qu'on découpe."
     }
   ],
   "modes" : [
