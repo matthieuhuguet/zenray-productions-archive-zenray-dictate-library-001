@@ -28549,6 +28549,66 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "En fait, il faut que les contrôles dans le mode edit ils soient ultra simplifiés pour le faire proprement. Propose-moi trois designs différents pour que je puisse choisir.",
       "text" : "En fait, il faut que les contrôles dans le mode edit ils soient ultra simplifiés pour le faire proprement. Propose-moi trois designs différents pour que je puisse choisir."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816260126.158602,
+      "id" : "1C175C26-9A2B-4827-988C-D8A778E400AD",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Fais un mix entre A et B et permets-moi de déploie-le directement dans, dans ZenRay, comment ça s'appelle? Oui, dans ZenRay Blueprints 3D et adapte-le pour tous les composants et passe maintenant au bras. Passe maintenant au bras et on va faire la même chose et très très bien. Franchement, on a enfin réussi à créer quelque chose de très bien, donc bravo. Mais il faut que les contrôles soient plus permissifs, parce que par exemple donc fais un mix entre A et B mais code le directement. Et par exemple entre, tu vois, la largeur, je peux pas descendre en dessous de 0.70 alors que j'aurais vraiment voulu pouvoir contrôler jusqu'au bout. Donc fais-le proprement. Mais c'est très bien parce que du coup on a la tension, du coup c'est symétrique et du coup on peut rajouter des détails sur chaque micro-component. Donc c'est vraiment très cool. Donc bravo. Si tu veux tu peux continuer d'améliorer un petit peu le mode édition, mais c'est très bien actuellement. Donc bravo.",
+      "text" : "Fais un mix entre A et B et permets-moi de déploie-le directement dans, dans ZenRay, comment ça s'appelle? Oui, dans ZenRay Blueprints 3D et adapte-le pour tous les composants et passe maintenant au bras. Passe maintenant au bras et on va faire la même chose et très très bien. Franchement, on a enfin réussi à créer quelque chose de très bien, donc bravo. Mais il faut que les contrôles soient plus permissifs, parce que par exemple donc fais un mix entre A et B mais code le directement. Et par exemple entre, tu vois, la largeur, je peux pas descendre en dessous de 0.70 alors que j'aurais vraiment voulu pouvoir contrôler jusqu'au bout. Donc fais-le proprement. Mais c'est très bien parce que du coup on a la tension, du coup c'est symétrique et du coup on peut rajouter des détails sur chaque micro-component. Donc c'est vraiment très cool. Donc bravo. Si tu veux tu peux continuer d'améliorer un petit peu le mode édition, mais c'est très bien actuellement. Donc bravo."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816260215.458639,
+      "id" : "E3ED75AB-2EAE-4CBF-A839-DB9F9C44837A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Peut-être le mode épaisseur donne peut-être pas assez de feedback visuel, peut-être qu'un petit contour gris entre le modèle pour savoir d'où part le shading pourrait être utile. Parce qu'actuellement on a juste une bande grise. Mais sinon c'est pas mal. C'est pas mal du tout. Donc, bravo. Et adapte aussi par rapport au modèle que je te donne directement le mesh 3D. Mais pour le coup j'aurais voulu changer encore un peu. Mais en tout cas c'est quand même très bien déjà. Et il faudrait aussi dans les pixels que je puisse éditer directement la valeur avec mon clavier. Mais après ça c'est secondaire. Donc je te copie les valeurs et tu continues.",
+      "text" : "Peut-être le mode épaisseur donne peut-être pas assez de feedback visuel, peut-être qu'un petit contour gris entre le modèle pour savoir d'où part le shading pourrait être utile. Parce qu'actuellement on a juste une bande grise. Mais sinon c'est pas mal. C'est pas mal du tout. Donc, bravo. Et adapte aussi par rapport au modèle que je te donne directement le mesh 3D. Mais pour le coup j'aurais voulu changer encore un peu. Mais en tout cas c'est quand même très bien déjà. Et il faudrait aussi dans les pixels que je puisse éditer directement la valeur avec mon clavier. Mais après ça c'est secondaire. Donc je te copie les valeurs et tu continues."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816260251.531399,
+      "id" : "0F81CDF6-4B6A-4DCC-A4D0-10DC34A8E5A3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "et tu passes à un autre component, tu vas passer au component suivant qui est ah oui, et dans ZenRay Blueprints 3D, je peux toujours pas changer directement sur mon application qui est en local, je peux toujours pas changer de projet. Je suis toujours bloqué sur car 2. Donc il faut absolument que tu changes ça, pour que je puisse interagir avec FF16, ARM, Clive. Ce serait vraiment mieux, quoi.",
+      "text" : "et tu passes à un autre component, tu vas passer au component suivant qui est ah oui, et dans ZenRay Blueprints 3D, je peux toujours pas changer directement sur mon application qui est en local, je peux toujours pas changer de projet. Je suis toujours bloqué sur car 2. Donc il faut absolument que tu changes ça, pour que je puisse interagir avec FF16, ARM, Clive. Ce serait vraiment mieux, quoi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816260268.188279,
+      "id" : "4E1EA0DC-8E0A-4D17-8913-5B82C729C847",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Pour pouvoir changer d'un projet à l'autre, sachant qu'on a déjà fait pas mal de choses sur le bras, qu'il y avait déjà beaucoup de références à noter en termes de components et micro-components, plus hiérarchie tree.",
+      "text" : "Pour pouvoir changer d'un projet à l'autre, sachant qu'on a déjà fait pas mal de choses sur le bras, qu'il y avait déjà beaucoup de références à noter en termes de components et micro-components, plus hiérarchie tree."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816260377.961514,
+      "id" : "BE2677E2-84F0-45A2-9A7D-D849258FD2A3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Passe du coup au module juste en dessous. Je vais te l'enregistrer en vert pour que tu comprennes bien quel module dont je parle. Je te l'ai entouré en vert. Et du coup, pareil, symétrie, le fait de bien découper, le fait de comprendre les micro-components, le fait de comprendre le contour, les ouvertures, les épaisseurs, les micro-components superposés sur d'autres. Bref, j'espère que tout est consigné dans le skills parce qu'à l'avenir, il faudra qu'on puisse réutiliser cette méthode directement sur la voiture, sur les components de la voiture, notamment les plus difficiles à faire. Donc, go.",
+      "text" : "Passe du coup au module juste en dessous. Je vais te l'enregistrer en vert pour que tu comprennes bien quel module dont je parle. Je te l'ai entouré en vert. Et du coup, pareil, symétrie, le fait de bien découper, le fait de comprendre les micro-components, le fait de comprendre le contour, les ouvertures, les épaisseurs, les micro-components superposés sur d'autres. Bref, j'espère que tout est consigné dans le skills parce qu'à l'avenir, il faudra qu'on puisse réutiliser cette méthode directement sur la voiture, sur les components de la voiture, notamment les plus difficiles à faire. Donc, go."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816260397.324293,
+      "id" : "F96850CC-EDD2-4A88-88F6-49121D49D4D2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "mais on peut toujours continuer d'améliorer les choses.",
+      "text" : "mais on peut toujours continuer d'améliorer les choses."
     }
   ],
   "modes" : [
