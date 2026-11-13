@@ -28459,6 +28459,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Et évidemment, il faut consigner ça dans le modèle, tu vois. Faut consigner ça dans le modèle en mode consigné, en fait.",
       "text" : "Et évidemment, il faut consigner ça dans le modèle, tu vois. Faut consigner ça dans le modèle en mode consigné, en fait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816255955.27537,
+      "id" : "C0901200-B694-45A4-8CCB-D58CD6C2998A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Ok, visuellement, c'est pas trop mal, mais le problème, c'est que une fois qu'on est dans...",
+      "text" : "Ok, visuellement, c'est pas trop mal, mais le problème, c'est que une fois qu'on est dans..."
     }
   ],
   "modes" : [
