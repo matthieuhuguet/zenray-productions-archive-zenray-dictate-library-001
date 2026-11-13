@@ -28369,6 +28369,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "pour avoir la règle parfaite comment dire, des arcs à faire. Mais il faut toujours que les arcs, donc les arcs turquoise, soient adoucis avec l'adoucissement des tangentes, etc. Tu vois. Genre toutes les règles qu'on a déjà consignées dans ZenRay Meshes.",
       "text" : "pour avoir la règle parfaite comment dire, des arcs à faire. Mais il faut toujours que les arcs, donc les arcs turquoise, soient adoucis avec l'adoucissement des tangentes, etc. Tu vois. Genre toutes les règles qu'on a déjà consignées dans ZenRay Meshes."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816252064.14738,
+      "id" : "9D6E9A48-51F0-443B-B213-82783A1E79EE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "C'était dans l'autre sens les norms que j'attendais. Après, pourquoi pas garder un double sens, mais bon, c'était dans l'autre sens.",
+      "text" : "C'était dans l'autre sens les norms que j'attendais. Après, pourquoi pas garder un double sens, mais bon, c'était dans l'autre sens."
     }
   ],
   "modes" : [
