@@ -28339,6 +28339,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Mais ça fera une découverte. Enfin, je me pose la question par rapport à l'effet bug.",
       "text" : "Mais ça fera une découverte. Enfin, je me pose la question par rapport à l'effet bug."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816248946.395272,
+      "id" : "CC5F49A3-1EF3-4565-A5D4-EDBB850933F2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais non, mais arrête tes conneries. Tu vas pas faire un recalage de pixels à chaque fois que je t'en mets un. Il faut que tu crées un outil totalement dédié. Et d'ailleurs, je pense que Sam, sur des contours, tu peux créer un contour directement via Sam 2.1, puis soustraire certains contours que tu aurais créés. Puisque, en fait, c'est une bump dont les effets vont toujours être plus ou moins les mêmes, et c'est les mêmes propriétés que ce qu'on a déjà construit, c'est-à-dire que les tangentes sont lissées, les courbes sont lissées, il n'y a pas forcément énormément de points non plus, c'est juste reprendre l'edge d'une surface afin de pouvoir la recréer en 3D. Enfin, il n'y a rien de sorcier, hein. On a déjà plus ou moins déjà construit tout le stack dont on a besoin, mais ça me semble absurde que tu refasses euh, la structure via un nouveau coding. Et en plus, t'es hyper lent là actuellement, je comprends pas trop.",
+      "text" : "Mais non, mais arrête tes conneries. Tu vas pas faire un recalage de pixels à chaque fois que je t'en mets un. Il faut que tu crées un outil totalement dédié. Et d'ailleurs, je pense que Sam, sur des contours, tu peux créer un contour directement via Sam 2.1, puis soustraire certains contours que tu aurais créés. Puisque, en fait, c'est une bump dont les effets vont toujours être plus ou moins les mêmes, et c'est les mêmes propriétés que ce qu'on a déjà construit, c'est-à-dire que les tangentes sont lissées, les courbes sont lissées, il n'y a pas forcément énormément de points non plus, c'est juste reprendre l'edge d'une surface afin de pouvoir la recréer en 3D. Enfin, il n'y a rien de sorcier, hein. On a déjà plus ou moins déjà construit tout le stack dont on a besoin, mais ça me semble absurde que tu refasses euh, la structure via un nouveau coding. Et en plus, t'es hyper lent là actuellement, je comprends pas trop."
     }
   ],
   "modes" : [
