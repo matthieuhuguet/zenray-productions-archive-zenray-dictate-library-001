@@ -28759,6 +28759,66 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Quel système fait que ça refuse le contrôle de la fenêtre d'application Claude?",
       "text" : "Quel système fait que ça refuse le contrôle de la fenêtre d'application Claude?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816280226.646412,
+      "id" : "00074A1A-B2AB-493D-8287-8D15A11422B3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais en fait, je comprends pas pourquoi tu récupères pas. À mon avis, tu devrais récupérer le credentials et lancer un Chrome for testing. Mais du coup, je te note mes identifiants et tu les sauvegarderas directement. Je sais que tu vas me dire que la session machin truc, mais note-le directement dans Credentials et me redemande plus à l'avenir et note-le dans Claude.md et fais tout le protocole pour générer maintenant les 15 emails.",
+      "text" : "Mais en fait, je comprends pas pourquoi tu récupères pas. À mon avis, tu devrais récupérer le credentials et lancer un Chrome for testing. Mais du coup, je te note mes identifiants et tu les sauvegarderas directement. Je sais que tu vas me dire que la session machin truc, mais note-le directement dans Credentials et me redemande plus à l'avenir et note-le dans Claude.md et fais tout le protocole pour générer maintenant les 15 emails."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816280240.423603,
+      "id" : "CEEA955F-BB4F-4A29-9250-23F6687D9D51",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Et tu notes dans Claude.md qu'à l'avenir, pour n'importe quelle génération d'images, tu passeras par ça.",
+      "text" : "Et tu notes dans Claude.md qu'à l'avenir, pour n'importe quelle génération d'images, tu passeras par ça."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816280290.143797,
+      "id" : "B0FCE738-D774-4D5C-978D-DCD85019E7B7",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais en fait, si, parce que sinon, je vais devoir me log à chaque fois, ou alors il faut trouver une solution. Mais c'est trop chiant si je dois te demander à chaque fois de mes identifiants, etc., et que je dois me loguer, etc. Enfin, c'est trop chiant, il faut trouver une solution, une vraie solution.",
+      "text" : "Mais en fait, si, parce que sinon, je vais devoir me log à chaque fois, ou alors il faut trouver une solution. Mais c'est trop chiant si je dois te demander à chaque fois de mes identifiants, etc., et que je dois me loguer, etc. Enfin, c'est trop chiant, il faut trouver une solution, une vraie solution."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816280345.681533,
+      "id" : "CD153CD9-C974-4DC8-94E2-1C91856ADE0A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Bah alors dans ce cas-là, tu pouvais déjà transporter tous mes cookies de Google Chrome personnel vers celui de ZenRay Gemini. Tu te fous de ma gueule.",
+      "text" : "Bah alors dans ce cas-là, tu pouvais déjà transporter tous mes cookies de Google Chrome personnel vers celui de ZenRay Gemini. Tu te fous de ma gueule."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816280444.097989,
+      "id" : "88895977-945A-4AA6-8BC7-166B6B87E7AE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "En fait, t'es capable de rien faire, hein, c'est hyper chiant.",
+      "text" : "En fait, t'es capable de rien faire, hein, c'est hyper chiant."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816280485.684507,
+      "id" : "4724F35F-2443-4BDF-A2BC-ACE1C7C248D3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Je suis connecté.",
+      "text" : "Je suis connecté."
     }
   ],
   "modes" : [
