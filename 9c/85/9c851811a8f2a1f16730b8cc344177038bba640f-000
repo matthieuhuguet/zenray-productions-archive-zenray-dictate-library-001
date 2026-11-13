@@ -28749,6 +28749,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Mais non, mais t'es abusément con. Genre, il faut juste que tu mettes des images dans Gemini sans via computer use. Computer use, c'est directement une méthode que tu peux appeler via tool de Claude Code.",
       "text" : "Mais non, mais t'es abusément con. Genre, il faut juste que tu mettes des images dans Gemini sans via computer use. Computer use, c'est directement une méthode que tu peux appeler via tool de Claude Code."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816279351.387394,
+      "id" : "EE6F8FA1-0EC1-47B3-9575-B89D345D735D",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Quel système fait que ça refuse le contrôle de la fenêtre d'application Claude?",
+      "text" : "Quel système fait que ça refuse le contrôle de la fenêtre d'application Claude?"
     }
   ],
   "modes" : [
