@@ -28819,6 +28819,56 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Je suis connecté.",
       "text" : "Je suis connecté."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816281841.139392,
+      "id" : "ED223D6F-DA92-4DF5-8C6E-CF6CBA70B838",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Je juge d'abord, mais en temp dans l'application Blueprint, les images générées, comme ça je peux valider ou non les images qui ont été générées.",
+      "text" : "Je juge d'abord, mais en temp dans l'application Blueprint, les images générées, comme ça je peux valider ou non les images qui ont été générées."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 816281930.662372,
+      "id" : "E6B7DDB3-F56F-4E7C-AC67-67A967C3E0E3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Est-ce que je peux générer des images ici?",
+      "text" : "Est-ce que je peux générer des images ici?"
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 816281991.97426,
+      "id" : "4A70A4EC-FDD3-4593-835D-344A692138D2",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Ok, et est-ce que tu peux être sûr que euh, l'outil utilise Nano Banana 2.1? Dans ton code, il faudrait savoir l'identifier pour image generator.",
+      "text" : "Ok, et est-ce que tu peux être sûr que euh, l'outil utilise Nano Banana 2.1? Dans ton code, il faudrait savoir l'identifier pour image generator."
+    },
+    {
+      "application" : "com.google.antigravity",
+      "date" : 816282080.697817,
+      "id" : "AD82EEF7-6754-46A9-96F3-A205558F2538",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Comment tu peux être sûr que c'est pas nano banana? Et est-ce que, en fonction du modèle, on peut changer? Parce que là, c'est bizarre parce que t'es passé par un spécialiste, genre un sub-agent, pour générer une image. Donc c'est chelou. Pourquoi t'es pas resté dans ce thread principal pour générer? Attends, je vais changer. Je vais te mettre en argon orchestrator et tu vas essayer de réessayer et de call l'outil de nano banana direct.",
+      "text" : "Comment tu peux être sûr que c'est pas nano banana? Et est-ce que, en fonction du modèle, on peut changer? Parce que là, c'est bizarre parce que t'es passé par un spécialiste, genre un sub-agent, pour générer une image. Donc c'est chelou. Pourquoi t'es pas resté dans ce thread principal pour générer? Attends, je vais changer. Je vais te mettre en argon orchestrator et tu vas essayer de réessayer et de call l'outil de nano banana direct."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816282247.474892,
+      "id" : "7549AD0B-CB07-4410-A63B-52427D4F20B6",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Les images générées ne semblent pas correctes. Essaie de tout recommencer cette fois-ci avec mon application Anti-Gravity qui possède du coup un générateur d'images. Tu as juste à faire une nouvelle conversation et à utiliser du coup Orchestrateur Argon.",
+      "text" : "Les images générées ne semblent pas correctes. Essaie de tout recommencer cette fois-ci avec mon application Anti-Gravity qui possède du coup un générateur d'images. Tu as juste à faire une nouvelle conversation et à utiliser du coup Orchestrateur Argon."
     }
   ],
   "modes" : [
