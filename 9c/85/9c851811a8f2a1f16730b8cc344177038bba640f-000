@@ -28409,6 +28409,26 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Mais non, mais c'est simple en fait, c'est bord rouge pour contour extérieur de prendre la bordure, c'est un autre component, plus bord jaune, enfin centre jaune pour avoir l'edge, et enfin NURBS qui prennent le contour. Alors, je pourrais te le dessiner, mais je pense qu'il vaut mieux que tu le comprennes de toi-même.",
       "text" : "Mais non, mais c'est simple en fait, c'est bord rouge pour contour extérieur de prendre la bordure, c'est un autre component, plus bord jaune, enfin centre jaune pour avoir l'edge, et enfin NURBS qui prennent le contour. Alors, je pourrais te le dessiner, mais je pense qu'il vaut mieux que tu le comprennes de toi-même."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816253574.346118,
+      "id" : "FDCD88F6-94C4-4936-9E66-A949D87A176C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Je pense qu'il manque aussi lissage des courbes, le fait de pas utiliser la plume pour faire des retours bizarres. Parce que là, par exemple, il y a pas mal de bugs sur le contour rouge et c'est pas normal. Bon, je vais dessiner du coup le contour rouge qui manque. Le contour rouge qui manque, je l'imaginais comme ça. Et ça, c'est pour l'épaisseur. Et du coup, en vert, je te mets le jaune qui manquait. Et enfin, en bleu, bah, du coup, c'est la continuité logique des NURBS. Je te dessine pas toutes les courbes, enfin, pas toutes les lignes. Mais en soi, c'est juste pour que tu comprennes. Euh, Et en fait, à partir de l'input jaune, tu vois, tu peux déterminer mathématiquement le reste de la courbe pour créer du volume. Et ainsi, tu peux créer n'importe quel type de continuité, d'edge flow, tu vois. Mais en soi, ça commence à être pas mal. Et en fonction des reflets de la lumière sur un objet géométrique, tu peux aussi déterminer la courbe des edge flows. Mais vu que je te vois toujours pas le faire, ça m'inquiète un peu. Donc, et surtout, ce qui est absolument, je vais te mettre aussi une croix en blanc pour absolument interdit, c'est le retour des, compare les deux images, c'est le retour d'effet de plume qui crée des petits cercles. Ça, c'est absolument interdit en fait, hein. Donc je te les save. Mais attention à consigner évidemment et à pas les",
+      "text" : "Je pense qu'il manque aussi lissage des courbes, le fait de pas utiliser la plume pour faire des retours bizarres. Parce que là, par exemple, il y a pas mal de bugs sur le contour rouge et c'est pas normal. Bon, je vais dessiner du coup le contour rouge qui manque. Le contour rouge qui manque, je l'imaginais comme ça. Et ça, c'est pour l'épaisseur. Et du coup, en vert, je te mets le jaune qui manquait. Et enfin, en bleu, bah, du coup, c'est la continuité logique des NURBS. Je te dessine pas toutes les courbes, enfin, pas toutes les lignes. Mais en soi, c'est juste pour que tu comprennes. Euh, Et en fait, à partir de l'input jaune, tu vois, tu peux déterminer mathématiquement le reste de la courbe pour créer du volume. Et ainsi, tu peux créer n'importe quel type de continuité, d'edge flow, tu vois. Mais en soi, ça commence à être pas mal. Et en fonction des reflets de la lumière sur un objet géométrique, tu peux aussi déterminer la courbe des edge flows. Mais vu que je te vois toujours pas le faire, ça m'inquiète un peu. Donc, et surtout, ce qui est absolument, je vais te mettre aussi une croix en blanc pour absolument interdit, c'est le retour des, compare les deux images, c'est le retour d'effet de plume qui crée des petits cercles. Ça, c'est absolument interdit en fait, hein. Donc je te les save. Mais attention à consigner évidemment et à pas les"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816253588.417694,
+      "id" : "660D4B87-2AFD-4DB1-BCFD-D6408B585180",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "sur le retour de plume en rouge.",
+      "text" : "sur le retour de plume en rouge."
     }
   ],
   "modes" : [
