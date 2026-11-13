@@ -28729,6 +28729,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Et d'ailleurs, en fait, tu me diras à l'avenir que il vaut mieux ne pas faire les découpes avant qu'on ait vraiment obtenu, notre truc. Ça a rien, j'ai rien dit, pardon. Euh, On ne, qu'est-ce que je voulais dire? Oui, on ne crée pas de, qu'est-ce que je voulais dire? Oui, on ne crée pas de contours et de NURBS et de contours magenta et d'épaisseur tant que on n'a pas les 5 vues à l'avenir. Et tu me le diras. Tout comme tu me le dis de créer un prompt quand tu n'arrives pas à créer un component, tu vois. À mon avis, il faut créer une section en mode automation workflow ou les rappels de session en mode les trucs que tu dois me dire au lieu que je galère à le faire, tu vois. Enfin, au lieu qu'on fasse plusieurs passes, bah tu le fais directement, tu vois. Enfin, je pense que tu as compris ce que je veux dire.",
       "text" : "Et d'ailleurs, en fait, tu me diras à l'avenir que il vaut mieux ne pas faire les découpes avant qu'on ait vraiment obtenu, notre truc. Ça a rien, j'ai rien dit, pardon. Euh, On ne, qu'est-ce que je voulais dire? Oui, on ne crée pas de, qu'est-ce que je voulais dire? Oui, on ne crée pas de contours et de NURBS et de contours magenta et d'épaisseur tant que on n'a pas les 5 vues à l'avenir. Et tu me le diras. Tout comme tu me le dis de créer un prompt quand tu n'arrives pas à créer un component, tu vois. À mon avis, il faut créer une section en mode automation workflow ou les rappels de session en mode les trucs que tu dois me dire au lieu que je galère à le faire, tu vois. Enfin, au lieu qu'on fasse plusieurs passes, bah tu le fais directement, tu vois. Enfin, je pense que tu as compris ce que je veux dire."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816276384.131711,
+      "id" : "4BD6B3EC-D83A-4BA9-898A-6715FAC4BE0E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Je comprends pas pourquoi tu peux pas te log via Chrome, via Claude Browser, lancer 15 browsers, 15 onglets plutôt, et finir la tâche en fait directement.",
+      "text" : "Je comprends pas pourquoi tu peux pas te log via Chrome, via Claude Browser, lancer 15 browsers, 15 onglets plutôt, et finir la tâche en fait directement."
     }
   ],
   "modes" : [
