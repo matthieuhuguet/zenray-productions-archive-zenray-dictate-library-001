@@ -29139,6 +29139,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Tu gardes. J'ai mis deux chats qui s'appellent non, un autre qui s'appelle non et un autre qui s'appelle oui mais, et tu sauvegardes uniquement le résultat via computer use de celui qui s'appelle oui mais, et tu passes à un nouveau fil.",
       "text" : "Tu gardes. J'ai mis deux chats qui s'appellent non, un autre qui s'appelle non et un autre qui s'appelle oui mais, et tu sauvegardes uniquement le résultat via computer use de celui qui s'appelle oui mais, et tu passes à un nouveau fil."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816293627.060869,
+      "id" : "5E115CED-D206-4929-85D1-352A2A7F26DE",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "J'ai peut-être l'impression que ça marche pas parce que on lui décrit pas exactement ce que c'est et du coup il devine un peu à l'aveugle. Il essaie de comprendre. Peut-être si on lui disait des préindications de ce que c'est en mode c'est une manchette de d'armure Heroic Fantasy, Square Enix, Clive, Final Fantasy XVI, etc. Peut-être qu'il comprendrait et qu'il interpréterait mieux la définition du modèle. Essayons directement.",
+      "text" : "J'ai peut-être l'impression que ça marche pas parce que on lui décrit pas exactement ce que c'est et du coup il devine un peu à l'aveugle. Il essaie de comprendre. Peut-être si on lui disait des préindications de ce que c'est en mode c'est une manchette de d'armure Heroic Fantasy, Square Enix, Clive, Final Fantasy XVI, etc. Peut-être qu'il comprendrait et qu'il interpréterait mieux la définition du modèle. Essayons directement."
     }
   ],
   "modes" : [
