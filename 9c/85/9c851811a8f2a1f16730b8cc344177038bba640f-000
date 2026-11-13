@@ -28659,6 +28659,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Et surtout, je t'ai demandé énormément de feedback sur le fait d'avoir l'éditeur directement sur le ARM et tout. Enfin, tu dois tout mettre à jour dans Blueprints à chaque fois. Je comprends pas ce que tu fous.",
       "text" : "Et surtout, je t'ai demandé énormément de feedback sur le fait d'avoir l'éditeur directement sur le ARM et tout. Enfin, tu dois tout mettre à jour dans Blueprints à chaque fois. Je comprends pas ce que tu fous."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816270160.696406,
+      "id" : "FD59E613-5BF1-450D-86CD-98B5540C4D2A",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Ok, mais on a une énorme régression actuellement. Genre tout à l'heure, on avait bien toutes nos courbes bleues de tension bien mises, plus on avait la courbe magenta, plus on avait la courbe jaune, plus on avait la courbe rouge qui faisait l'extérieur, plus on avait le léger shading de gris qui mettait l'épaisseur. C'était quasi parfait. Et depuis, on a une énorme régression dans l'application où on n'a plus rien du tout. Je comprends pas du tout.",
+      "text" : "Ok, mais on a une énorme régression actuellement. Genre tout à l'heure, on avait bien toutes nos courbes bleues de tension bien mises, plus on avait la courbe magenta, plus on avait la courbe jaune, plus on avait la courbe rouge qui faisait l'extérieur, plus on avait le léger shading de gris qui mettait l'épaisseur. C'était quasi parfait. Et depuis, on a une énorme régression dans l'application où on n'a plus rien du tout. Je comprends pas du tout."
     }
   ],
   "modes" : [
