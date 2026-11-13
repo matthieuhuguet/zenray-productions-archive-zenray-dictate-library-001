@@ -28389,6 +28389,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "En fait, la question c'est est-ce qu'il y a un intérêt à garder les deux ou est-ce qu'il faut simplement faire l'inverse de ce que. Enfin, là tu vois, tu as créé l'inverse de ce que je voulais. Mais la question c'est de savoir est-ce que ça a un réel intérêt de garder les deux? Parce que ça peut être intéressant de garder les deux courbes. Moi je pense que ça peut être intéressant de garder les deux courbes. Mais je sais pas.",
       "text" : "En fait, la question c'est est-ce qu'il y a un intérêt à garder les deux ou est-ce qu'il faut simplement faire l'inverse de ce que. Enfin, là tu vois, tu as créé l'inverse de ce que je voulais. Mais la question c'est de savoir est-ce que ça a un réel intérêt de garder les deux? Parce que ça peut être intéressant de garder les deux courbes. Moi je pense que ça peut être intéressant de garder les deux courbes. Mais je sais pas."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816252591.807904,
+      "id" : "40829D1C-D192-4E94-89FF-CA4EC2FF6EF1",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "C'est pas mal en soi, mais il manque du coup l'épaisseur qui doit être calculée par rapport à un autre bord.",
+      "text" : "C'est pas mal en soi, mais il manque du coup l'épaisseur qui doit être calculée par rapport à un autre bord."
     }
   ],
   "modes" : [
