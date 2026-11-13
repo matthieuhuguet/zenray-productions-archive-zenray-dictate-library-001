@@ -29159,6 +29159,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Ok, ça marche enfin parce que en fait, le fait de dire symétrique si la référence l'est, ça le perturbait complètement. Donc en fait, il faut dire que c'est forcément symétrique. Et là, dans ce cas, ça va marcher. Du coup, essayer de réunir un peu tout ce qu'on a dit jusqu'ici, c'est-à-dire prompt minimaliste, les deux images, euh, le fait que ce soit absolument symétrique, et testons une image génération directement. Et ne jamais mettre, consigner évidemment, de ne jamais poser la question à un modèle pour qu'il se base sur une probabilité en mode la phrase qu'on avait mis, c'était la pire truc, il faut essayer d'avoir le prompt le plus déterministe possible. Et voilà, go.",
       "text" : "Ok, ça marche enfin parce que en fait, le fait de dire symétrique si la référence l'est, ça le perturbait complètement. Donc en fait, il faut dire que c'est forcément symétrique. Et là, dans ce cas, ça va marcher. Du coup, essayer de réunir un peu tout ce qu'on a dit jusqu'ici, c'est-à-dire prompt minimaliste, les deux images, euh, le fait que ce soit absolument symétrique, et testons une image génération directement. Et ne jamais mettre, consigner évidemment, de ne jamais poser la question à un modèle pour qu'il se base sur une probabilité en mode la phrase qu'on avait mis, c'était la pire truc, il faut essayer d'avoir le prompt le plus déterministe possible. Et voilà, go."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816294094.833939,
+      "id" : "BE3E991E-7A58-4010-A505-16F287EE5B2C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Il faut que la prochaine fois que je te demande, même depuis une conversation vierge, ce soit archivé et consigné de manière parfaite, notamment sur celle VS5 pour la génération d'images, avec tous les feedbacks que je t'ai dit, et un prompt template. Et du coup, ce qu'on va faire, c'est que on va lancer du coup 3 threads. Donc la prochaine génération sera du coup pour l'agrandissement de la vue front. En soi, tu peux juste dire vue front, par exemple, résolution maximale. Et en même temps, tu lances les autres threads. Du coup, c'est sur le... c'est sur les deux autres components.",
+      "text" : "Il faut que la prochaine fois que je te demande, même depuis une conversation vierge, ce soit archivé et consigné de manière parfaite, notamment sur celle VS5 pour la génération d'images, avec tous les feedbacks que je t'ai dit, et un prompt template. Et du coup, ce qu'on va faire, c'est que on va lancer du coup 3 threads. Donc la prochaine génération sera du coup pour l'agrandissement de la vue front. En soi, tu peux juste dire vue front, par exemple, résolution maximale. Et en même temps, tu lances les autres threads. Du coup, c'est sur le... c'est sur les deux autres components."
     }
   ],
   "modes" : [
