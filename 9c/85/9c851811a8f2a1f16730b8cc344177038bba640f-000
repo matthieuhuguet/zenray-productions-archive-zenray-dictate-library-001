@@ -29069,6 +29069,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Je veux savoir à quelle date je l'ai modifié parce que, en fait, ce prompt, il me permet d'override pour avoir une seule vue. Mais je suis sûr qu'on l'a consigné dans ZenRay Mesh as à un moment, il faut juste que tu retrouves la date. Il faut que tu comprennes pourquoi tu l'as pas retrouvée quand je te l'ai demandé.",
       "text" : "Je veux savoir à quelle date je l'ai modifié parce que, en fait, ce prompt, il me permet d'override pour avoir une seule vue. Mais je suis sûr qu'on l'a consigné dans ZenRay Mesh as à un moment, il faut juste que tu retrouves la date. Il faut que tu comprennes pourquoi tu l'as pas retrouvée quand je te l'ai demandé."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816290883.394603,
+      "id" : "5CED6FC4-1F15-43EA-B059-299873957E87",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Bon, c'est pas grave, au pire, teste-le maintenant. Teste-le maintenant, sauf que... Front, back, left, top... Ah oui, en fait, j'avais tout fait, sauf la vue de... Sauf la vue du dessous. Intéressant. Bah, pourquoi pas. Bon, c'est pas grave si tu retrouves pas... Ouais, c'est ça. En fait, on fait 4 vues, ouais, mais c'est le meilleur truc. C'est le meilleur truc. Est-ce qu'il va demander 4 vues? Non, mais...",
+      "text" : "Bon, c'est pas grave, au pire, teste-le maintenant. Teste-le maintenant, sauf que... Front, back, left, top... Ah oui, en fait, j'avais tout fait, sauf la vue de... Sauf la vue du dessous. Intéressant. Bah, pourquoi pas. Bon, c'est pas grave si tu retrouves pas... Ouais, c'est ça. En fait, on fait 4 vues, ouais, mais c'est le meilleur truc. C'est le meilleur truc. Est-ce qu'il va demander 4 vues? Non, mais..."
     }
   ],
   "modes" : [
