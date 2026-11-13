@@ -28349,6 +28349,26 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Mais non, mais arrête tes conneries. Tu vas pas faire un recalage de pixels à chaque fois que je t'en mets un. Il faut que tu crées un outil totalement dédié. Et d'ailleurs, je pense que Sam, sur des contours, tu peux créer un contour directement via Sam 2.1, puis soustraire certains contours que tu aurais créés. Puisque, en fait, c'est une bump dont les effets vont toujours être plus ou moins les mêmes, et c'est les mêmes propriétés que ce qu'on a déjà construit, c'est-à-dire que les tangentes sont lissées, les courbes sont lissées, il n'y a pas forcément énormément de points non plus, c'est juste reprendre l'edge d'une surface afin de pouvoir la recréer en 3D. Enfin, il n'y a rien de sorcier, hein. On a déjà plus ou moins déjà construit tout le stack dont on a besoin, mais ça me semble absurde que tu refasses euh, la structure via un nouveau coding. Et en plus, t'es hyper lent là actuellement, je comprends pas trop.",
       "text" : "Mais non, mais arrête tes conneries. Tu vas pas faire un recalage de pixels à chaque fois que je t'en mets un. Il faut que tu crées un outil totalement dédié. Et d'ailleurs, je pense que Sam, sur des contours, tu peux créer un contour directement via Sam 2.1, puis soustraire certains contours que tu aurais créés. Puisque, en fait, c'est une bump dont les effets vont toujours être plus ou moins les mêmes, et c'est les mêmes propriétés que ce qu'on a déjà construit, c'est-à-dire que les tangentes sont lissées, les courbes sont lissées, il n'y a pas forcément énormément de points non plus, c'est juste reprendre l'edge d'une surface afin de pouvoir la recréer en 3D. Enfin, il n'y a rien de sorcier, hein. On a déjà plus ou moins déjà construit tout le stack dont on a besoin, mais ça me semble absurde que tu refasses euh, la structure via un nouveau coding. Et en plus, t'es hyper lent là actuellement, je comprends pas trop."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816251366.617501,
+      "id" : "682CFF78-3872-4BDD-AE29-962ACE88AA1C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Et en fait, étant donné la courbe, de, étant donné la courbe de jaune, à partir de la courbe jaune et des contours, je pense que mathématiquement, on peut dessiner directement les NURBS qui sont les arcs de support qui prennent la courbe. Mais d'ailleurs, si tu regardais bien les polygones, les contours des polygones donnaient quasi les bons NURBS de la courbe actuelle de la forme du polygone, tu vois. Et en fait, chaque rangée de NURBS, enfin, chaque rangée de polygones aurait pu donner une rangée de polygones. En fait, la l'edge flow, voilà, c'est ça. C'est l'edge flow de... l'edge flow des polygones qui sont déjà tracés nous donne en fait le bon NURBS, les bons NURBS, mais c'est uniquement des lignes, tu vois. C'est uniquement des lignes pour tracer le modèle. Et on s'occupe uniquement du modèle du haut, là, du component du haut. Et je pense que mathématiquement, tu vas pouvoir trouver, ou algorithmiquement, tu vas pouvoir trouver comment dessiner ce genre de courbe en 3D directement.",
+      "text" : "Et en fait, étant donné la courbe, de, étant donné la courbe de jaune, à partir de la courbe jaune et des contours, je pense que mathématiquement, on peut dessiner directement les NURBS qui sont les arcs de support qui prennent la courbe. Mais d'ailleurs, si tu regardais bien les polygones, les contours des polygones donnaient quasi les bons NURBS de la courbe actuelle de la forme du polygone, tu vois. Et en fait, chaque rangée de NURBS, enfin, chaque rangée de polygones aurait pu donner une rangée de polygones. En fait, la l'edge flow, voilà, c'est ça. C'est l'edge flow de... l'edge flow des polygones qui sont déjà tracés nous donne en fait le bon NURBS, les bons NURBS, mais c'est uniquement des lignes, tu vois. C'est uniquement des lignes pour tracer le modèle. Et on s'occupe uniquement du modèle du haut, là, du component du haut. Et je pense que mathématiquement, tu vas pouvoir trouver, ou algorithmiquement, tu vas pouvoir trouver comment dessiner ce genre de courbe en 3D directement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816251400.926384,
+      "id" : "95406892-7635-4D85-94F2-812B13B5E19C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "pour avoir la règle parfaite comment dire, des arcs à faire. Mais il faut toujours que les arcs, donc les arcs turquoise, soient adoucis avec l'adoucissement des tangentes, etc. Tu vois. Genre toutes les règles qu'on a déjà consignées dans ZenRay Meshes.",
+      "text" : "pour avoir la règle parfaite comment dire, des arcs à faire. Mais il faut toujours que les arcs, donc les arcs turquoise, soient adoucis avec l'adoucissement des tangentes, etc. Tu vois. Genre toutes les règles qu'on a déjà consignées dans ZenRay Meshes."
     }
   ],
   "modes" : [
