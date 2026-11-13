@@ -29169,6 +29169,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Il faut que la prochaine fois que je te demande, même depuis une conversation vierge, ce soit archivé et consigné de manière parfaite, notamment sur celle VS5 pour la génération d'images, avec tous les feedbacks que je t'ai dit, et un prompt template. Et du coup, ce qu'on va faire, c'est que on va lancer du coup 3 threads. Donc la prochaine génération sera du coup pour l'agrandissement de la vue front. En soi, tu peux juste dire vue front, par exemple, résolution maximale. Et en même temps, tu lances les autres threads. Du coup, c'est sur le... c'est sur les deux autres components.",
       "text" : "Il faut que la prochaine fois que je te demande, même depuis une conversation vierge, ce soit archivé et consigné de manière parfaite, notamment sur celle VS5 pour la génération d'images, avec tous les feedbacks que je t'ai dit, et un prompt template. Et du coup, ce qu'on va faire, c'est que on va lancer du coup 3 threads. Donc la prochaine génération sera du coup pour l'agrandissement de la vue front. En soi, tu peux juste dire vue front, par exemple, résolution maximale. Et en même temps, tu lances les autres threads. Du coup, c'est sur le... c'est sur les deux autres components."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816294571.880432,
+      "id" : "28CB21A8-EB7C-43C7-908C-564C1FA80345",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Du coup, tu peux récupérer toutes les crowns et les mettre dans ZenRay Blueprints parce que j'ai généré toutes les autres. Et donc, tu peux aussi les passer en validé. Et ensuite, tu peux lancer le protocole pour crown pour essayer de faire le profil directement. Du coup, le profil jaune, le profil turquoise et le profil rouge. Et lancer du coup SAM 2.1 et lancer tout le protocole jusqu'à la fin. Comme ça, j'obtiens le shading. Et ensuite, on peut voir dans Houdini la scène directement. Donc enregistre directement et on verra si on a besoin du coup des autres, mais tu peux récupérer depuis ChatGPT les images.",
+      "text" : "Du coup, tu peux récupérer toutes les crowns et les mettre dans ZenRay Blueprints parce que j'ai généré toutes les autres. Et donc, tu peux aussi les passer en validé. Et ensuite, tu peux lancer le protocole pour crown pour essayer de faire le profil directement. Du coup, le profil jaune, le profil turquoise et le profil rouge. Et lancer du coup SAM 2.1 et lancer tout le protocole jusqu'à la fin. Comme ça, j'obtiens le shading. Et ensuite, on peut voir dans Houdini la scène directement. Donc enregistre directement et on verra si on a besoin du coup des autres, mais tu peux récupérer depuis ChatGPT les images."
     }
   ],
   "modes" : [
