@@ -28379,6 +28379,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "C'était dans l'autre sens les norms que j'attendais. Après, pourquoi pas garder un double sens, mais bon, c'était dans l'autre sens.",
       "text" : "C'était dans l'autre sens les norms que j'attendais. Après, pourquoi pas garder un double sens, mais bon, c'était dans l'autre sens."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816252268.014817,
+      "id" : "882B7F40-30B3-4476-A49B-5FB7C9283F94",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "En fait, la question c'est est-ce qu'il y a un intérêt à garder les deux ou est-ce qu'il faut simplement faire l'inverse de ce que. Enfin, là tu vois, tu as créé l'inverse de ce que je voulais. Mais la question c'est de savoir est-ce que ça a un réel intérêt de garder les deux? Parce que ça peut être intéressant de garder les deux courbes. Moi je pense que ça peut être intéressant de garder les deux courbes. Mais je sais pas.",
+      "text" : "En fait, la question c'est est-ce qu'il y a un intérêt à garder les deux ou est-ce qu'il faut simplement faire l'inverse de ce que. Enfin, là tu vois, tu as créé l'inverse de ce que je voulais. Mais la question c'est de savoir est-ce que ça a un réel intérêt de garder les deux? Parce que ça peut être intéressant de garder les deux courbes. Moi je pense que ça peut être intéressant de garder les deux courbes. Mais je sais pas."
     }
   ],
   "modes" : [
