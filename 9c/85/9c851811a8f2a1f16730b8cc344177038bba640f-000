@@ -29179,6 +29179,26 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Du coup, tu peux récupérer toutes les crowns et les mettre dans ZenRay Blueprints parce que j'ai généré toutes les autres. Et donc, tu peux aussi les passer en validé. Et ensuite, tu peux lancer le protocole pour crown pour essayer de faire le profil directement. Du coup, le profil jaune, le profil turquoise et le profil rouge. Et lancer du coup SAM 2.1 et lancer tout le protocole jusqu'à la fin. Comme ça, j'obtiens le shading. Et ensuite, on peut voir dans Houdini la scène directement. Donc enregistre directement et on verra si on a besoin du coup des autres, mais tu peux récupérer depuis ChatGPT les images.",
       "text" : "Du coup, tu peux récupérer toutes les crowns et les mettre dans ZenRay Blueprints parce que j'ai généré toutes les autres. Et donc, tu peux aussi les passer en validé. Et ensuite, tu peux lancer le protocole pour crown pour essayer de faire le profil directement. Du coup, le profil jaune, le profil turquoise et le profil rouge. Et lancer du coup SAM 2.1 et lancer tout le protocole jusqu'à la fin. Comme ça, j'obtiens le shading. Et ensuite, on peut voir dans Houdini la scène directement. Donc enregistre directement et on verra si on a besoin du coup des autres, mais tu peux récupérer depuis ChatGPT les images."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816301352.203206,
+      "id" : "E8D8C1A9-AFC5-44DD-B673-5C197E239092",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais je comprends pas pourquoi, si Sam a réussi à faire des découpes parfaites, je comprends pas pourquoi alors le modèle n'a pas réussi. Et d'ailleurs, tu fais toujours la même erreur que tout à l'heure, c'est-à-dire que tu découpes pas l'arête. En fait, tu découpes pas l'arête jaune. Enfin, si l'arête jaune, si tu veux, elle est bien mise, mais c'est surtout qu'il y avait une autre arête jaune arrondie au milieu. Et du coup, c'était pas une turquoise parce qu'en fait, il n'y a jamais des turquoises qui superposent et qui coupent les lignes d'autres turquoises. Parce que les turquoises, en fait, c'est juste des guides pour les endroits du truc. Donc c'est très bizarre ce que tu as placé et d'où le fait que le shading gris, c'est n'importe quoi là.",
+      "text" : "Mais je comprends pas pourquoi, si Sam a réussi à faire des découpes parfaites, je comprends pas pourquoi alors le modèle n'a pas réussi. Et d'ailleurs, tu fais toujours la même erreur que tout à l'heure, c'est-à-dire que tu découpes pas l'arête. En fait, tu découpes pas l'arête jaune. Enfin, si l'arête jaune, si tu veux, elle est bien mise, mais c'est surtout qu'il y avait une autre arête jaune arrondie au milieu. Et du coup, c'était pas une turquoise parce qu'en fait, il n'y a jamais des turquoises qui superposent et qui coupent les lignes d'autres turquoises. Parce que les turquoises, en fait, c'est juste des guides pour les endroits du truc. Donc c'est très bizarre ce que tu as placé et d'où le fait que le shading gris, c'est n'importe quoi là."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816301470.117941,
+      "id" : "E3D01344-B1E7-41DC-82D4-E3BF78887831",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Et puis surtout, est-ce qu'il y a toujours l'éditeur de valeur qui me permet, comme un HDA, de modifier directement mon tracé à partir de valeurs précalculées? Parce que il doit y avoir les deux du coup. Il doit y avoir à la fois la plume qui permet de changer sur toutes les vues via un blueprint et via la référence, mais il doit aussi y avoir des valeurs précalculées qui permettent de faire les modifications. Et ça doit déjà être dans le skill directement.",
+      "text" : "Et puis surtout, est-ce qu'il y a toujours l'éditeur de valeur qui me permet, comme un HDA, de modifier directement mon tracé à partir de valeurs précalculées? Parce que il doit y avoir les deux du coup. Il doit y avoir à la fois la plume qui permet de changer sur toutes les vues via un blueprint et via la référence, mais il doit aussi y avoir des valeurs précalculées qui permettent de faire les modifications. Et ça doit déjà être dans le skill directement."
     }
   ],
   "modes" : [
