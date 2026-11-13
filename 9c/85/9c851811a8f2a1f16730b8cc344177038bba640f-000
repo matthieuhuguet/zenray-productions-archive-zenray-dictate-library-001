@@ -28909,6 +28909,26 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Parfait, continue. Tu peux lancer les trois. Tu peux lancer trois fils du coup. Donc un pour Shoulder Crown, un pour Night Elbow et un pour Night, le dernier des Night. Et comme ça, on génère en séquentiel sur ces trois threads, donc une image à la fois, mais du coup ça fait trois images en même temps. Du coup, tu passes juste pour Shoulder Crown à l'étape supérieure.",
       "text" : "Parfait, continue. Tu peux lancer les trois. Tu peux lancer trois fils du coup. Donc un pour Shoulder Crown, un pour Night Elbow et un pour Night, le dernier des Night. Et comme ça, on génère en séquentiel sur ces trois threads, donc une image à la fois, mais du coup ça fait trois images en même temps. Du coup, tu passes juste pour Shoulder Crown à l'étape supérieure."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816286146.414368,
+      "id" : "40B89D76-5C84-4DC8-8761-9A7FBB6DC0E4",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "J'ai l'impression que ton prompt était trop complexe et aussi la pièce est asymétrique, donc c'est difficile pour lui de l'entourer bien. Hmm, Je sais pas trop comment on aurait pu faire. Hmm, À la limite avec Sam, ouais c'est ça qu'on aurait pu faire. Avec Sam, on aurait pu entourer les deux du personnage de Clive. Donc vraiment juste la pièce d'armure directement sur Sam, puis lui donner en input.",
+      "text" : "J'ai l'impression que ton prompt était trop complexe et aussi la pièce est asymétrique, donc c'est difficile pour lui de l'entourer bien. Hmm, Je sais pas trop comment on aurait pu faire. Hmm, À la limite avec Sam, ouais c'est ça qu'on aurait pu faire. Avec Sam, on aurait pu entourer les deux du personnage de Clive. Donc vraiment juste la pièce d'armure directement sur Sam, puis lui donner en input."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816286170.48906,
+      "id" : "2CD1D616-8524-4864-B14B-AC5C1E69DA3E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Il n'y a pas moyen de pas utiliser Computer Use parce que c'est un peu lent, parce que tu dois taper le texte, etc. Essaie de l'utiliser un peu plus rapidement, Computer Use, quand tu l'utilises.",
+      "text" : "Il n'y a pas moyen de pas utiliser Computer Use parce que c'est un peu lent, parce que tu dois taper le texte, etc. Essaie de l'utiliser un peu plus rapidement, Computer Use, quand tu l'utilises."
     }
   ],
   "modes" : [
