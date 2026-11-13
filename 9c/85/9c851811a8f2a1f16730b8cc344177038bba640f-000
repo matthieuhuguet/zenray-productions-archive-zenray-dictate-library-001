@@ -28619,6 +28619,46 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Ok. Ah ok, globalement, je pense qu'il manquait un arc global sur la vue du contrôle. En fait, au final, ce qui manquait, c'est un arc global qui aurait fait la périphérie par rapport au bord, s'il se rapproche ou pas. Donc, ça aurait fait plus ou moins le contour du globe en mode les bords se rapprochent tandis que ça forme un cercle, tu vois. C'est en fait, je vais te noter à peu près ce que je veux. Je vais te montrer, je vais te faire un schéma. Et en fait, le truc, c'est ça aurait dû faire ça comme ça. Peut-être avec un truc en vert, mais en fait, pour rapprocher.",
       "text" : "Ok. Ah ok, globalement, je pense qu'il manquait un arc global sur la vue du contrôle. En fait, au final, ce qui manquait, c'est un arc global qui aurait fait la périphérie par rapport au bord, s'il se rapproche ou pas. Donc, ça aurait fait plus ou moins le contour du globe en mode les bords se rapprochent tandis que ça forme un cercle, tu vois. C'est en fait, je vais te noter à peu près ce que je veux. Je vais te montrer, je vais te faire un schéma. Et en fait, le truc, c'est ça aurait dû faire ça comme ça. Peut-être avec un truc en vert, mais en fait, pour rapprocher."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816269094.054535,
+      "id" : "2D196E3E-68E6-4084-85E9-17B561437577",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais pourquoi on peut toujours pas changer dans l'application de projet et pourquoi je suis toujours sur quart 2?",
+      "text" : "Mais pourquoi on peut toujours pas changer dans l'application de projet et pourquoi je suis toujours sur quart 2?"
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816269175.697944,
+      "id" : "490F7B90-A656-403B-A321-E5821EE6AD40",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais ça a aucun sens, ça devrait être en haut à gauche, le gestionnaire de projet.",
+      "text" : "Mais ça a aucun sens, ça devrait être en haut à gauche, le gestionnaire de projet."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816269331.452903,
+      "id" : "67EBFF5E-B6EC-4C73-8678-C669773F2198",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Ça n'a aucun sens, applique-toi. Pourquoi c'est genre un toggle alors que ça devrait être un gestionnaire avec un menu déroulant? Pourquoi tu l'as mis en haut à gauche n'importe comment, en plus ça crop sur le reste des panneaux? Pourquoi quand je clique ça se met en dark mode? Pourquoi ça respecte pas lui qui était dans quart 2? Pourquoi, euh, pourquoi j'ai pas mon truc actuel avec mon éditeur? Pourquoi c'est comme ça en fait, enfin, c'est n'importe quoi. Lui de Armclimb FF16, c'est n'importe quoi, tu as fait n'importe quoi.",
+      "text" : "Ça n'a aucun sens, applique-toi. Pourquoi c'est genre un toggle alors que ça devrait être un gestionnaire avec un menu déroulant? Pourquoi tu l'as mis en haut à gauche n'importe comment, en plus ça crop sur le reste des panneaux? Pourquoi quand je clique ça se met en dark mode? Pourquoi ça respecte pas lui qui était dans quart 2? Pourquoi, euh, pourquoi j'ai pas mon truc actuel avec mon éditeur? Pourquoi c'est comme ça en fait, enfin, c'est n'importe quoi. Lui de Armclimb FF16, c'est n'importe quoi, tu as fait n'importe quoi."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816269344.783763,
+      "id" : "4A180821-03F2-4DD6-8F0D-573E630902F5",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Et surtout, je t'ai demandé énormément de feedback sur le fait d'avoir l'éditeur directement sur le ARM et tout. Enfin, tu dois tout mettre à jour dans Blueprints à chaque fois. Je comprends pas ce que tu fous.",
+      "text" : "Et surtout, je t'ai demandé énormément de feedback sur le fait d'avoir l'éditeur directement sur le ARM et tout. Enfin, tu dois tout mettre à jour dans Blueprints à chaque fois. Je comprends pas ce que tu fous."
     }
   ],
   "modes" : [
