@@ -29329,6 +29329,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Je t'ai déjà expliqué ce qu'il faut faire, c'est il faut réduire le nombre de topologies pour avoir la topologie minimum par rapport au design qu'on veut faire. Il faut garder les tangentes, il faut garder les contours, et ensuite il faut faire en sorte que la couture de la symétrie, elle soit parfaite. Un peu comme si on faisait un booléan et qu'on coupait au milieu, tu vois. Mais mets beaucoup moins de topologie parce qu'actuellement t'en as beaucoup trop. Et c'est même pas ce que tu affiches.",
       "text" : "Je t'ai déjà expliqué ce qu'il faut faire, c'est il faut réduire le nombre de topologies pour avoir la topologie minimum par rapport au design qu'on veut faire. Il faut garder les tangentes, il faut garder les contours, et ensuite il faut faire en sorte que la couture de la symétrie, elle soit parfaite. Un peu comme si on faisait un booléan et qu'on coupait au milieu, tu vois. Mais mets beaucoup moins de topologie parce qu'actuellement t'en as beaucoup trop. Et c'est même pas ce que tu affiches."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816354713.177293,
+      "id" : "7EF25D22-9FF8-41CC-B38F-1EA5B6027E91",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Mais c'est pire qu'avant, enfin tu te fous de ma gueule, tu vas pas me dire que tu sais pas modéliser un truc aussi simple dans Blender. Fais proprement et ensuite consigne, fais une topologie.",
+      "text" : "Mais c'est pire qu'avant, enfin tu te fous de ma gueule, tu vas pas me dire que tu sais pas modéliser un truc aussi simple dans Blender. Fais proprement et ensuite consigne, fais une topologie."
     }
   ],
   "modes" : [
