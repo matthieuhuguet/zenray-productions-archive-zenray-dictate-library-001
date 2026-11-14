@@ -29299,6 +29299,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "dans le cadre sport et longévité.",
       "text" : "dans le cadre sport et longévité."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816353802.409963,
+      "id" : "B02B7D50-98EE-4B32-850F-4BC3FFD52743",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "En fait, le problème, c'est que du coup, les bords partagés par rapport à une tangente, du coup, jaune, sur un crisp edge ou même sur un soft edge, en fait, puisqu'ils se partagent, ils doivent être parfaits, tu vois. Et dans une topologie quad perfecte, c'est un peu l'image que je t'avais envoyée avec le casque, mais je pense pas que je vais la retrouver maintenant. C'est que, en fait, si tu veux, sur cet endroit, ça doit lier le modèle et cette ligne de polygone, crisp edge, elle doit jamais changer, tu vois. Alors que là, le problème, c'est que si je regarde à l'intersection du modèle, ben, il y a des trous, tu vois. Alors que en fait, ça devrait simplement être parfait. Donc il faut s'appliquer sur là où le modèle applique sa symétrie pour que la ligne déjà soit un crisp edge, c'est-à-dire un angle tranchant, et que ce soit parfait en termes de design.",
+      "text" : "En fait, le problème, c'est que du coup, les bords partagés par rapport à une tangente, du coup, jaune, sur un crisp edge ou même sur un soft edge, en fait, puisqu'ils se partagent, ils doivent être parfaits, tu vois. Et dans une topologie quad perfecte, c'est un peu l'image que je t'avais envoyée avec le casque, mais je pense pas que je vais la retrouver maintenant. C'est que, en fait, si tu veux, sur cet endroit, ça doit lier le modèle et cette ligne de polygone, crisp edge, elle doit jamais changer, tu vois. Alors que là, le problème, c'est que si je regarde à l'intersection du modèle, ben, il y a des trous, tu vois. Alors que en fait, ça devrait simplement être parfait. Donc il faut s'appliquer sur là où le modèle applique sa symétrie pour que la ligne déjà soit un crisp edge, c'est-à-dire un angle tranchant, et que ce soit parfait en termes de design."
     }
   ],
   "modes" : [
