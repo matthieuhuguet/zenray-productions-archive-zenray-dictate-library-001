@@ -29199,6 +29199,26 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Et puis surtout, est-ce qu'il y a toujours l'éditeur de valeur qui me permet, comme un HDA, de modifier directement mon tracé à partir de valeurs précalculées? Parce que il doit y avoir les deux du coup. Il doit y avoir à la fois la plume qui permet de changer sur toutes les vues via un blueprint et via la référence, mais il doit aussi y avoir des valeurs précalculées qui permettent de faire les modifications. Et ça doit déjà être dans le skill directement.",
       "text" : "Et puis surtout, est-ce qu'il y a toujours l'éditeur de valeur qui me permet, comme un HDA, de modifier directement mon tracé à partir de valeurs précalculées? Parce que il doit y avoir les deux du coup. Il doit y avoir à la fois la plume qui permet de changer sur toutes les vues via un blueprint et via la référence, mais il doit aussi y avoir des valeurs précalculées qui permettent de faire les modifications. Et ça doit déjà être dans le skill directement."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816348831.484841,
+      "id" : "A2009418-8616-4CF5-A11B-F11B81994A5E",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "C'est pas si mal, mais je comprends pas pourquoi tu fais pas une découpe parfaite via directement via directement SAM. Tu reprends le contour depuis la ref qu'on utilise. Et ensuite, tu fais un arc, enfin, tu fais simplement la symétrie que je peux contrôler via un paramètre euh, et un paramètre global d'arc calé sur la tangente qu'on peut voir au milieu. Je vais te faire un dessin sur la tangente, mais sur la tangente, du coup, je te le mets en vert. Ce qui suit la tangente, bah, du coup, il faut faire un mouvement d'arc que je peux piloter via le contrôleur Magenta.",
+      "text" : "C'est pas si mal, mais je comprends pas pourquoi tu fais pas une découpe parfaite via directement via directement SAM. Tu reprends le contour depuis la ref qu'on utilise. Et ensuite, tu fais un arc, enfin, tu fais simplement la symétrie que je peux contrôler via un paramètre euh, et un paramètre global d'arc calé sur la tangente qu'on peut voir au milieu. Je vais te faire un dessin sur la tangente, mais sur la tangente, du coup, je te le mets en vert. Ce qui suit la tangente, bah, du coup, il faut faire un mouvement d'arc que je peux piloter via le contrôleur Magenta."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816348861.76641,
+      "id" : "AEE90371-E3D6-45A2-937A-03DE21CA077C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Actuellement, on voit que tu fais pas proprement la découpe magenta. Mais en soi, c'est beaucoup mieux de passer par Blender, je trouve, que de passer par un truc custom qui marcherait pas. Surtout pour les components qui sont un peu sculptés.",
+      "text" : "Actuellement, on voit que tu fais pas proprement la découpe magenta. Mais en soi, c'est beaucoup mieux de passer par Blender, je trouve, que de passer par un truc custom qui marcherait pas. Surtout pour les components qui sont un peu sculptés."
     }
   ],
   "modes" : [
