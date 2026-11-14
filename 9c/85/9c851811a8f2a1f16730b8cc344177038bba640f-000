@@ -29219,6 +29219,16 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "Actuellement, on voit que tu fais pas proprement la découpe magenta. Mais en soi, c'est beaucoup mieux de passer par Blender, je trouve, que de passer par un truc custom qui marcherait pas. Surtout pour les components qui sont un peu sculptés.",
       "text" : "Actuellement, on voit que tu fais pas proprement la découpe magenta. Mais en soi, c'est beaucoup mieux de passer par Blender, je trouve, que de passer par un truc custom qui marcherait pas. Surtout pour les components qui sont un peu sculptés."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816349795.394293,
+      "id" : "77F410DF-D754-4153-94E1-2608D3781661",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Parfait, mais sur le preview, j'ai l'impression que tu as oublié de lisser les courbes. Euh, C'est un peu bizarre. Et puis, en fait, c'est fermé au début.",
+      "text" : "Parfait, mais sur le preview, j'ai l'impression que tu as oublié de lisser les courbes. Euh, C'est un peu bizarre. Et puis, en fait, c'est fermé au début."
     }
   ],
   "modes" : [
