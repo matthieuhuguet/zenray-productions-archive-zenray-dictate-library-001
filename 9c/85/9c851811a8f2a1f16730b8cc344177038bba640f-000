@@ -29249,6 +29249,26 @@
       "provider" : "Claude harmonic-asr-9",
       "rawText" : "En fait, si tu veux, l'asset, il est symétrique par rapport à la face référence qu'on a. Donc, par exemple, ce qu'il faudrait faire, c'est depuis une vue front, donc je te donne une vue front, c'est que tu fasses parfaitement la symétrie, mais par rapport à la ref initiale, tu vois. Donc la ref, je vais la trouver. La ref, de toute manière, c'est celle que tu as utilisée, mais c'est quasi parfait en fait.",
       "text" : "En fait, si tu veux, l'asset, il est symétrique par rapport à la face référence qu'on a. Donc, par exemple, ce qu'il faudrait faire, c'est depuis une vue front, donc je te donne une vue front, c'est que tu fasses parfaitement la symétrie, mais par rapport à la ref initiale, tu vois. Donc la ref, je vais la trouver. La ref, de toute manière, c'est celle que tu as utilisée, mais c'est quasi parfait en fait."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816350904.854924,
+      "id" : "3D6C72A6-6701-4BAA-A25E-EFC3607ED4D3",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "C'est quasi ça, bravo, mais où est-ce que je peux avoir quelque chose de procédural pour mesurer, enfin pour avoir les rendus du magenta pour pouvoir plus ou moins ouvrir ou fermer la forme? Je sens que j'aimerais bien un résultat procédural qui fait que je peux ouvrir complètement la tangente. Enfin, pas la tangente, mais le truc magenta. Euh, Mais c'est excellent, bravo. D'ailleurs, explique-moi ton stack technique pour créer cette pièce en 3D.",
+      "text" : "C'est quasi ça, bravo, mais où est-ce que je peux avoir quelque chose de procédural pour mesurer, enfin pour avoir les rendus du magenta pour pouvoir plus ou moins ouvrir ou fermer la forme? Je sens que j'aimerais bien un résultat procédural qui fait que je peux ouvrir complètement la tangente. Enfin, pas la tangente, mais le truc magenta. Euh, Mais c'est excellent, bravo. D'ailleurs, explique-moi ton stack technique pour créer cette pièce en 3D."
+    },
+    {
+      "application" : "com.anthropic.claudefordesktop",
+      "date" : 816350913.795372,
+      "id" : "15B17DA0-1526-4E09-8247-E1495495E85C",
+      "inserted" : false,
+      "modeID" : "verbatim",
+      "provider" : "Claude harmonic-asr-9",
+      "rawText" : "Et n'hésite pas à consigner dans le skill ZenRay Blender.",
+      "text" : "Et n'hésite pas à consigner dans le skill ZenRay Blender."
     }
   ],
   "modes" : [
